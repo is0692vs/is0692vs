@@ -13,22 +13,19 @@
 
 <!-- commit-reflection:start -->
 直近3日間の活動サマリー:
-皆さん、お疲れ様です！🎉 直近3日間で119件のコミットがありました。README自動更新では、コミット振り返り機能をGemini APIと統合しました🤖。VSCode拡張機能では、評価表示を改善し、統計履歴の保存とグラフ生成も実現しました📈。素晴らしい進捗ですね！引き続き、最高の結果を目指して頑張りましょう🚀！
+直近3日間で120件のコミット、お疲れ様です！🎉 コミット振り返り機能のGemini API統合や、VSCode拡張機能の評価表示改善など、素晴らしい進捗ですね✨ 特に未評価時の表示を分かりやすくしたのはGoodです👍 今週もこの勢いで頑張りましょう！🚀
 
 <!-- commit-reflection:end -->
 
 <!-- active-projects:start -->
-## 🔨 Active Projects (Last 7 Days)
+## 🔨 Active Projects (Last 3 Days)
 
-_Total: 318 commits across 6 projects_
+_Total: 102 commits across 3 projects_
 
 | 🚀 Project | 📊 Commits | ⏱️ Last Push | 💻 Language | ⭐ Stars |
 |:-----------|:-----------|:-------------|:------------|:--------:|
-| **[settlemate](https://github.com/is0692vs/settlemate)** | **145** (45.6%) | 2d ago | 🔷 TypeScript | 0 |
-| **[jules-extension](https://github.com/is0692vs/jules-extension)** | **125** (39.3%) | 2h ago | 🔷 TypeScript | 1 |
-| **[pr-cannon](https://github.com/is0692vs/pr-cannon)** | **39** (12.3%) | 1d ago | 🔷 TypeScript | 0 |
-| **[otodoki2](https://github.com/is0692vs/otodoki2)** | **5** (1.6%) | 5d ago | 🔷 TypeScript | 0 |
-| **[Audicle](https://github.com/is0692vs/Audicle)** | **2** (0.6%) | 5d ago | 🟨 JavaScript | 0 |
-| **[ChronoClip](https://github.com/is0692vs/ChronoClip)** | **2** (0.6%) | 6d ago | 🟨 JavaScript | 0 |
+| **[settlemate](https://github.com/is0692vs/settlemate)** | **52** (51.0%) | 2d ago | 🔷 TypeScript | 0 |
+| **[pr-cannon](https://github.com/is0692vs/pr-cannon)** | **39** (38.2%) | 1d ago | 🔷 TypeScript | 0 |
+| **[jules-extension](https://github.com/is0692vs/jules-extension)** | **11** (10.8%) | 2h ago | 🔷 TypeScript | 1 |
 
 <!-- active-projects:end -->

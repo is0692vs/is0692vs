@@ -1,4 +1,5 @@
 import { githubUsername } from "../config/github";
+import { DAYS_RANGE } from "../config/days-range";
 
 interface Repository {
   name: string;
@@ -69,11 +70,11 @@ async function getCommitCount(
   }
 }
 
-function isActiveInLastWeek(pushedAt: string): boolean {
+function isActiveInLastDays(pushedAt: string): boolean {
   const lastPush = new Date(pushedAt);
-  const sevenDaysAgo = new Date();
-  sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
-  return lastPush >= sevenDaysAgo;
+  const nDaysAgo = new Date();
+  nDaysAgo.setDate(nDaysAgo.getDate() - DAYS_RANGE);
+  return lastPush >= nDaysAgo;
 }
 
 function getRelativeTime(dateString: string): string {
@@ -174,17 +175,17 @@ export async function activeProjects(): Promise<string> {
   try {
     const repos = await fetchUserRepos();
 
-    const sevenDaysAgo = new Date();
-    sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
-    const since = sevenDaysAgo.toISOString();
+    const nDaysAgo = new Date();
+    nDaysAgo.setDate(nDaysAgo.getDate() - DAYS_RANGE);
+    const since = nDaysAgo.toISOString();
 
     const activeRepos = repos
-      .filter((repo) => isActiveInLastWeek(repo.pushed_at))
+      .filter((repo) => isActiveInLastDays(repo.pushed_at))
       .filter((repo) => repo.name !== githubUsername)
       .slice(0, 10);
 
     if (activeRepos.length === 0) {
-      return "## 🔨 Active Projects\n\n_No active projects in the last 7 days_";
+      return `## 🔨 Active Projects (Last ${DAYS_RANGE} Days)\n\n_No active projects in the last ${DAYS_RANGE} days_`;
     }
 
     // 各リポジトリのコミット数を並行取得
@@ -209,7 +210,7 @@ export async function activeProjects(): Promise<string> {
     const totalCommits = projectStats.reduce((sum, p) => sum + p.commits, 0);
 
     // テーブルヘッダー
-    let table = "## 🔨 Active Projects (Last 7 Days)\n\n";
+    let table = `## 🔨 Active Projects (Last ${DAYS_RANGE} Days)\n\n`;
     table += `_Total: ${totalCommits} commits across ${projectStats.length} projects_\n\n`;
     table +=
       "| 🚀 Project | 📊 Commits | ⏱️ Last Push | 💻 Language | ⭐ Stars |\n";

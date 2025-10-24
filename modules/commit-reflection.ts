@@ -1,8 +1,6 @@
 import { githubUsername } from "../config/github";
 import { geminiApiKey, geminiModel } from "../config/gemini";
-
-// 直近何日間のコミットを対象とするかの設定
-const DAYS_RANGE = 3;
+import { DAYS_RANGE } from "../config/days-range";
 
 interface Commit {
   commit: {
