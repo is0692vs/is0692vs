@@ -1,6 +1,9 @@
 import { githubUsername } from "../config/github";
 import { geminiApiKey, geminiModel } from "../config/gemini";
 
+// 直近何日間のコミットを対象とするかの設定
+const DAYS_RANGE = 3;
+
 interface Commit {
   commit: {
     message: string;
@@ -40,12 +43,12 @@ async function getRepositories(): Promise<string[]> {
   return repos.map((r) => r.name);
 }
 
-async function getLast7DaysCommits(): Promise<Commit[]> {
-  const sevenDaysAgo = new Date();
-  sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
-  sevenDaysAgo.setHours(0, 0, 0, 0);
+async function getLastNDaysCommits(): Promise<Commit[]> {
+  const nDaysAgo = new Date();
+  nDaysAgo.setDate(nDaysAgo.getDate() - DAYS_RANGE);
+  nDaysAgo.setHours(0, 0, 0, 0);
 
-  const since = sevenDaysAgo.toISOString();
+  const since = nDaysAgo.toISOString();
 
   try {
     // リポジトリ一覧を取得
@@ -95,14 +98,14 @@ async function generateReflection(commits: Commit[]): Promise<string> {
   }
 
   if (commits.length === 0) {
-    return "🤖 Last 7 Days Summary:\n直近7日間、開発は行われていないようです。次の開発に向けて準備を整えましょう！�";
+    return `直近${DAYS_RANGE}日間の活動サマリー:\n直近${DAYS_RANGE}日間、開発は行われていないようです。次の開発に向けて準備を整えましょう！🚀`;
   }
 
-  // 直近7日間のコミットを分析
+  // 直近N日間のコミットを分析
   const commitMessages = commits.map((c) => `- ${c.commit.message}`).join("\n");
 
   const prompt = `あなたは開発者の週報を作成するアシスタントです。
-以下の直近7日間のコミット情報を分析し、簡潔で親しみやすい活動サマリーを生成してください。
+以下の直近${DAYS_RANGE}日間のコミット情報を分析し、簡潔で親しみやすい活動サマリーを生成してください。
 
 コミット数: ${commits.length}
 コミット情報（最初の20件）:
@@ -164,16 +167,16 @@ ${commitMessages.split("\n").slice(0, 20).join("\n")}
     data.candidates?.[0]?.content?.parts?.[0]?.text ||
     "コメント生成に失敗しました";
 
-  return `🤖 Last 7 Days Summary:\n${generatedText}`;
+  return `直近${DAYS_RANGE}日間の活動サマリー:\n${generatedText}`;
 }
 
 export async function commitReflection(): Promise<CommitReflectionResult> {
   try {
-    const commits = await getLast7DaysCommits();
+    const commits = await getLastNDaysCommits();
 
     if (commits.length === 0) {
       return {
-        text: "🤖 Last 7 Days Summary:\n直近7日間、開発は行われていないようです。次の開発に向けて準備を整えましょう！�",
+        text: `直近${DAYS_RANGE}日間の活動サマリー:\n直近${DAYS_RANGE}日間、開発は行われていないようです。次の開発に向けて準備を整えましょう！🚀`,
         commitCount: 0,
       };
     }
@@ -187,7 +190,7 @@ export async function commitReflection(): Promise<CommitReflectionResult> {
   } catch (error) {
     console.error("Error in commitReflection:", error);
     return {
-      text: "🤖 Last 7 Days Summary:\nコミット情報の取得に失敗しました",
+      text: `直近${DAYS_RANGE}日間の活動サマリー:\nコミット情報の取得に失敗しました`,
       commitCount: 0,
     };
   }
