@@ -2,6 +2,7 @@ import { readFileSync, writeFileSync, existsSync } from "fs";
 import { npmStats } from "./modules/npm-stats";
 import { generateChartUrl } from "./modules/chart";
 import { activeProjects } from "./modules/active-projects";
+import { vscodeStats } from "./modules/vscode-stats";
 
 interface StatsHistory {
   date: string;
@@ -50,6 +51,10 @@ async function main() {
     console.log("🔨 Fetching active projects...");
     const activeProjectsContent = await activeProjects();
 
+    // VSCode統計の処理
+    console.log("🚀 Fetching VSCode extension statistics...");
+    const { text: vscodeStatsText } = await vscodeStats();
+
     // READMEを更新
     console.log("📄 Reading README.md...");
     let readme = readFileSync("README.md", "utf-8");
@@ -68,10 +73,18 @@ async function main() {
       `<!-- active-projects:start -->\n${activeProjectsContent}\n<!-- active-projects:end -->`
     );
 
+    // vscode-stats部分を更新
+    readme = readme.replace(
+      /<!-- vscode-stats:start -->[\s\S]*<!-- vscode-stats:end -->/,
+      `<!-- vscode-stats:start -->\n${vscodeStatsText}\n<!-- vscode-stats:end -->`
+    );
+
     writeFileSync("README.md", readme);
     console.log("✅ README.md updated successfully!");
     console.log("\nUpdated stats:");
     console.log(statsContent);
+    console.log("\nUpdated VSCode stats:");
+    console.log(vscodeStatsText);
     console.log("\nUpdated active projects:");
     console.log(activeProjectsContent);
   } catch (error) {
