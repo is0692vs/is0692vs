@@ -4,6 +4,7 @@ import { generateChartUrl } from "./modules/chart";
 import { activeProjects } from "./modules/active-projects";
 import { vscodeStats } from "./modules/vscode-stats";
 import { generateVscodeChartUrl } from "./modules/vscode-chart";
+import { commitReflection } from "./modules/commit-reflection";
 
 interface StatsHistory {
   date: string;
@@ -56,6 +57,10 @@ async function main() {
     // アクティブプロジェクトの処理（新規）
     console.log("🔨 Fetching active projects...");
     const activeProjectsContent = await activeProjects();
+
+    // コミット振り返りの処理
+    console.log("🤖 Generating commit reflection...");
+    const reflectionContent = await commitReflection();
 
     // VSCode統計の処理
     console.log("🚀 Fetching VSCode extension statistics...");
@@ -124,12 +129,20 @@ async function main() {
       `<!-- vscode-stats:start -->\n${vscodeContent}\n<!-- vscode-stats:end -->`
     );
 
+    // commit-reflection部分を更新
+    readme = readme.replace(
+      /<!-- commit-reflection:start -->[\s\S]*<!-- commit-reflection:end -->/,
+      `<!-- commit-reflection:start -->\n${reflectionContent.text}\n<!-- commit-reflection:end -->`
+    );
+
     writeFileSync("README.md", readme);
     console.log("✅ README.md updated successfully!");
     console.log("\nUpdated stats:");
     console.log(statsContent);
     console.log("\nUpdated VSCode stats:");
     console.log(vscodeContent);
+    console.log("\nUpdated commit reflection:");
+    console.log(reflectionContent.text);
     console.log("\nUpdated active projects:");
     console.log(activeProjectsContent);
   } catch (error) {
