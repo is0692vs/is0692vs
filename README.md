@@ -11,6 +11,12 @@
 ![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
+<!-- commit-reflection:start -->
+🤖 Last 7 Days Summary:
+皆さん、お疲れ様です！🚀 この1週間で251件ものコミットがありました！VSCode拡張機能の評価表示改善✨、統計履歴の保存とグラフ生成📊、READMEへの統計追加と自動更新など、機能強化が目白押しです。素晴らしい進捗ですね！🎉 今週もこの勢いで頑張りましょう！💪
+
+<!-- commit-reflection:end -->
+
 <!-- active-projects:start -->
 ## 🔨 Active Projects (Last 7 Days)
 
@@ -19,7 +25,7 @@ _Total: 318 commits across 6 projects_
 | 🚀 Project | 📊 Commits | ⏱️ Last Push | 💻 Language | ⭐ Stars |
 |:-----------|:-----------|:-------------|:------------|:--------:|
 | **[settlemate](https://github.com/is0692vs/settlemate)** | **145** (45.6%) | 2d ago | 🔷 TypeScript | 0 |
-| **[jules-extension](https://github.com/is0692vs/jules-extension)** | **125** (39.3%) | 1h ago | 🔷 TypeScript | 1 |
+| **[jules-extension](https://github.com/is0692vs/jules-extension)** | **125** (39.3%) | 2h ago | 🔷 TypeScript | 1 |
 | **[pr-cannon](https://github.com/is0692vs/pr-cannon)** | **39** (12.3%) | 1d ago | 🔷 TypeScript | 0 |
 | **[otodoki2](https://github.com/is0692vs/otodoki2)** | **5** (1.6%) | 5d ago | 🔷 TypeScript | 0 |
 | **[Audicle](https://github.com/is0692vs/Audicle)** | **2** (0.6%) | 5d ago | 🟨 JavaScript | 0 |
