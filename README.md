@@ -18,9 +18,4 @@ _Total: 318 commits across 6 projects_
 | **[Audicle](https://github.com/is0692vs/Audicle)** | **2** (0.6%) | 5d ago | 🟨 JavaScript | 0 |
 | **[ChronoClip](https://github.com/is0692vs/ChronoClip)** | **2** (0.6%) | 5d ago | 🟨 JavaScript | 0 |
 
-### 📊 Commit Distribution
-
-![Commit Distribution](https://quickchart.io/chart?c=%7B%22type%22%3A%22outlabeledPie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22settlemate%22%2C%22jules-extension%22%2C%22pr-cannon%22%2C%22otodoki2%22%2C%22Audicle%22%2C%22ChronoClip%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B145%2C125%2C39%2C5%2C2%2C2%5D%2C%22backgroundColor%22%3A%5B%22%23FF6384%22%2C%22%2336A2EB%22%2C%22%23FFCE56%22%2C%22%234BC0C0%22%2C%22%239966FF%22%2C%22%23FF9F40%22%5D%2C%22borderWidth%22%3A2%2C%22borderColor%22%3A%22%23ffffff%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22outlabels%22%3A%7B%22text%22%3A%22%22%2C%22color%22%3A%22white%22%2C%22stretch%22%3A25%2C%22font%22%3A%7B%22resizable%22%3Atrue%2C%22minSize%22%3A12%2C%22maxSize%22%3A18%7D%7D%7D%7D%7D&width=600&height=400)
-
-
 <!-- active-projects:end -->
