@@ -228,63 +228,6 @@ export async function activeProjects(): Promise<string> {
       table += `| **[${project.name}](${project.url})** | **${project.commits}** (${percentage}%) | ${relativeTime} | ${langEmoji} ${project.language} | ${project.stars} |\n`;
     }
 
-    // コミット数の円グラフをテーブルの下に追加
-    table += "\n### 📊 Commit Distribution\n\n";
-
-    // 円グラフ用のデータを準備
-    const labels = projectStats.map((p) => p.name);
-    const data = projectStats.map((p) => p.commits);
-    const colors = [
-      "#FF6384",
-      "#36A2EB",
-      "#FFCE56",
-      "#4BC0C0",
-      "#9966FF",
-      "#FF9F40",
-      "#FF6384",
-      "#C9CBCF",
-      "#4BC0C0",
-      "#FF9F40",
-    ];
-
-    // QuickChart用の円グラフ設定
-    const chartConfig = {
-      type: "outlabeledPie",
-      data: {
-        labels: labels,
-        datasets: [
-          {
-            data: data,
-            backgroundColor: colors.slice(0, projectStats.length),
-            borderWidth: 2,
-            borderColor: "#ffffff",
-          },
-        ],
-      },
-      options: {
-        plugins: {
-          legend: { display: false },
-          outlabels: {
-            text: "",
-            color: "white",
-            stretch: 25,
-            font: {
-              resizable: true,
-              minSize: 12,
-              maxSize: 18,
-            },
-          },
-        },
-      },
-    };
-
-    const chartJson = JSON.stringify(chartConfig);
-    const chartUrl = `https://quickchart.io/chart?c=${encodeURIComponent(
-      chartJson
-    )}&width=600&height=400`;
-
-    table += `![Commit Distribution](${chartUrl})\n\n`;
-
     return table;
   } catch (error) {
     console.error("Error fetching active projects:", error);
