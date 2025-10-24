@@ -8,6 +8,11 @@ interface ExtensionStats {
   version: string;
 }
 
+interface ExtensionData {
+  extension: string;
+  installs: number;
+}
+
 async function fetchExtensionStats(
   extensionId: string
 ): Promise<ExtensionStats> {
@@ -76,7 +81,7 @@ async function fetchExtensionStats(
 
 export async function vscodeStats(): Promise<{
   text: string;
-  data: ExtensionStats[];
+  data: ExtensionData[];
 }> {
   // 拡張機能リストが空の場合
   if (vscodeExtensions.length === 0) {
@@ -101,5 +106,10 @@ export async function vscodeStats(): Promise<{
       )
       .join("\n");
 
-  return { text, data: stats };
+  const data = stats.map((s) => ({
+    extension: s.name,
+    installs: s.installs,
+  }));
+
+  return { text, data };
 }
