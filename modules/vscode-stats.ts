@@ -4,7 +4,7 @@ interface ExtensionStats {
   id: string;
   name: string;
   installs: number;
-  rating: number;
+  rating: string;
   version: string;
 }
 
@@ -65,16 +65,26 @@ async function fetchExtensionStats(
   const installs =
     stats.find((s: { statisticName: string }) => s.statisticName === "install")
       ?.value || 0;
-  const rating =
+  const ratingCount =
+    stats.find(
+      (s: { statisticName: string }) => s.statisticName === "ratingcount"
+    )?.value || 0;
+  const weightedRating =
     stats.find(
       (s: { statisticName: string }) => s.statisticName === "weightedRating"
     )?.value || 0;
+
+  // 評価テキストの生成
+  const ratingText =
+    ratingCount > 0
+      ? `⭐ ${parseFloat(weightedRating).toFixed(1)}/5 (${ratingCount} ratings)`
+      : "⭐ No ratings yet";
 
   return {
     id: extensionId,
     name: extension.displayName || extension.extensionName,
     installs,
-    rating: parseFloat(parseFloat(rating).toFixed(1)),
+    rating: ratingText,
     version: extension.versions[0]?.version || "0.0.0",
   };
 }
@@ -100,9 +110,9 @@ export async function vscodeStats(): Promise<{
     stats
       .map(
         (s) =>
-          `- **${s.name}**: ${s.installs.toLocaleString()} installs | ⭐ ${
+          `- **${s.name}**: ${s.installs.toLocaleString()} installs | ${
             s.rating
-          }/5 | v${s.version}`
+          } | v${s.version}`
       )
       .join("\n");
 
