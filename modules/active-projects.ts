@@ -43,12 +43,27 @@ async function getCommitCount(
   repoName: string,
   since: string
 ): Promise<number> {
-  const url = `https://api.github.com/repos/${githubUsername}/${repoName}/commits?since=${since}&per_page=100`;
   try {
-    const response = await fetch(url, { headers: getHeaders() });
-    if (!response.ok) return 0;
-    const commits = await response.json();
-    return commits.length;
+    let totalCommits = 0;
+    let page = 1;
+    const perPage = 100;
+
+    while (true) {
+      const url = `https://api.github.com/repos/${githubUsername}/${repoName}/commits?since=${since}&per_page=${perPage}&page=${page}`;
+      const response = await fetch(url, { headers: getHeaders() });
+      if (!response.ok) break;
+
+      const commits = await response.json();
+      if (commits.length === 0) break;
+
+      totalCommits += commits.length;
+
+      // 100件未満なら最後のページ
+      if (commits.length < perPage) break;
+      page++;
+    }
+
+    return totalCommits;
   } catch {
     return 0;
   }
@@ -197,25 +212,78 @@ export async function activeProjects(): Promise<string> {
     let table = "## 🔨 Active Projects (Last 7 Days)\n\n";
     table += `_Total: ${totalCommits} commits across ${projectStats.length} projects_\n\n`;
     table +=
-      "| 🚀 Project | 📊 Commits (%) | ⏱️ Last Push | 💻 Language | ⭐ Stars |\n";
+      "| 🚀 Project | 📊 Commits | ⏱️ Last Push | 💻 Language | ⭐ Stars |\n";
     table +=
-      "|:-----------|:---------------|:-------------|:------------|:--------:|\n";
+      "|:-----------|:-----------|:-------------|:------------|:--------:|\n";
 
     // テーブル行
     for (const project of projectStats) {
-      const circleChart = generateAnimatedCircleChart(
-        project.commits,
-        totalCommits
-      );
       const relativeTime = getRelativeTime(project.lastPush);
       const langEmoji = getLanguageEmoji(project.language);
+      const percentage =
+        totalCommits > 0
+          ? ((project.commits / totalCommits) * 100).toFixed(1)
+          : "0.0";
 
-      // SVGを基地64エンコードしてData URLに変換
-      const svgBase64 = Buffer.from(circleChart).toString("base64");
-      const dataUrl = `data:image/svg+xml;base64,${svgBase64}`;
-
-      table += `| **[${project.name}](${project.url})** | ![${project.commits} commits](${dataUrl}) | ${relativeTime} | ${langEmoji} ${project.language} | ${project.stars} |\n`;
+      table += `| **[${project.name}](${project.url})** | **${project.commits}** (${percentage}%) | ${relativeTime} | ${langEmoji} ${project.language} | ${project.stars} |\n`;
     }
+
+    // コミット数の円グラフをテーブルの下に追加
+    table += "\n### 📊 Commit Distribution\n\n";
+
+    // 円グラフ用のデータを準備
+    const labels = projectStats.map((p) => p.name);
+    const data = projectStats.map((p) => p.commits);
+    const colors = [
+      "#FF6384",
+      "#36A2EB",
+      "#FFCE56",
+      "#4BC0C0",
+      "#9966FF",
+      "#FF9F40",
+      "#FF6384",
+      "#C9CBCF",
+      "#4BC0C0",
+      "#FF9F40",
+    ];
+
+    // QuickChart用の円グラフ設定
+    const chartConfig = {
+      type: "outlabeledPie",
+      data: {
+        labels: labels,
+        datasets: [
+          {
+            data: data,
+            backgroundColor: colors.slice(0, projectStats.length),
+            borderWidth: 2,
+            borderColor: "#ffffff",
+          },
+        ],
+      },
+      options: {
+        plugins: {
+          legend: { display: false },
+          outlabels: {
+            text: "",
+            color: "white",
+            stretch: 25,
+            font: {
+              resizable: true,
+              minSize: 12,
+              maxSize: 18,
+            },
+          },
+        },
+      },
+    };
+
+    const chartJson = JSON.stringify(chartConfig);
+    const chartUrl = `https://quickchart.io/chart?c=${encodeURIComponent(
+      chartJson
+    )}&width=600&height=400`;
+
+    table += `![Commit Distribution](${chartUrl})\n\n`;
 
     return table;
   } catch (error) {
