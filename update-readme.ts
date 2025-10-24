@@ -1,6 +1,7 @@
 import { readFileSync, writeFileSync, existsSync } from "fs";
 import { npmStats } from "./modules/npm-stats";
 import { generateChartUrl } from "./modules/chart";
+import { activeProjects } from "./modules/active-projects";
 
 interface StatsHistory {
   date: string;
@@ -43,22 +44,36 @@ async function main() {
 
     // グラフURL生成
     const chartUrl = generateChartUrl(history);
+    const statsContent = `${text}\n\n![Download Stats](${chartUrl})`;
+
+    // アクティブプロジェクトの処理（新規）
+    console.log("🔨 Fetching active projects...");
+    const activeProjectsContent = await activeProjects();
 
     // READMEを更新
     console.log("📄 Reading README.md...");
-    const readme = readFileSync("README.md", "utf-8");
+    let readme = readFileSync("README.md", "utf-8");
 
     console.log("✏️ Updating README.md...");
-    const content = `${text}\n\n![Download Stats](${chartUrl})`;
-    const updated = readme.replace(
+
+    // stats部分を更新
+    readme = readme.replace(
       /<!-- stats:start -->[\s\S]*<!-- stats:end -->/,
-      `<!-- stats:start -->\n${content}\n<!-- stats:end -->`
+      `<!-- stats:start -->\n${statsContent}\n<!-- stats:end -->`
     );
 
-    writeFileSync("README.md", updated);
+    // active-projects部分を更新
+    readme = readme.replace(
+      /<!-- active-projects:start -->[\s\S]*<!-- active-projects:end -->/,
+      `<!-- active-projects:start -->\n${activeProjectsContent}\n<!-- active-projects:end -->`
+    );
+
+    writeFileSync("README.md", readme);
     console.log("✅ README.md updated successfully!");
-    console.log("\nUpdated content:");
-    console.log(content);
+    console.log("\nUpdated stats:");
+    console.log(statsContent);
+    console.log("\nUpdated active projects:");
+    console.log(activeProjectsContent);
   } catch (error) {
     console.error("❌ Error updating README:", error);
     process.exit(1);

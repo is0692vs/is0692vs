@@ -1,38 +1,40 @@
 name: Update Profile README
 
 on:
-    schedule:
-        - cron: "0 0 * * *"
-    workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
-    update:
-        runs-on: ubuntu-latest
+  update:
+    runs-on: ubuntu-latest
 
-        steps:
-            - name: Checkout repository
-              uses: actions/checkout@v4
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-            - name: Setup Node.js
-              uses: actions/setup-node@v4
-              with:
-                  node-version: "20"
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
 
-            - name: Install dependencies
-              run: npm install
+      - name: Install dependencies
+        run: npm install
 
-            - name: Create data directory
-              run: mkdir -p data
+      - name: Create data directory
+        run: mkdir -p data
 
-            - name: Update README
-              run: npm run update
+      - name: Update README
+        run: npm run update
+        env:
+          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
 
-            - name: Commit and push if changed
-              run: |
-                  git config user.name "github-actions[bot]"
-                  git config user.email "github-actions[bot]@users.noreply.github.com"
-                  git add README.md data/stats-history.json
-                  git diff --quiet && git diff --staged --quiet || (
-                    git commit -m "🤖 Update npm stats"
-                    git push
-                  )
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md data/stats-history.json
+          git diff --quiet && git diff --staged --quiet || (
+            git commit -m "🤖 Update npm stats"
+            git push
+          )
