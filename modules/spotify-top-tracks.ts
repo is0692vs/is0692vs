@@ -103,71 +103,37 @@ export async function getTopTracks(): Promise<string> {
 
         // Markdown形式に整形
         if (!data.items || data.items.length === 0) {
-            return `🎵 Recently played (Last ${DAYS_RANGE} Days):\n\n_No tracks found_`;
+            return `🎵 Recently played on Spotify (Last ${DAYS_RANGE} Days):\n\n_No tracks found_`;
         }
 
         // ヘッダー
-        let markdown = `## 🎵 Recently played (Last ${DAYS_RANGE} Days)\n\n`;
+        let markdown = `## 🎵 Recently played on Spotify (Last ${DAYS_RANGE} Days)\n\n`;
 
-        // HTMLテーブルでSpotify Embedを使った楽曲カードを生成
+        // 横並びレイアウト - 1行のテーブルで実装
         markdown += '<table>\n';
+        markdown += '  <tr>\n';
 
         data.items.forEach((track, index) => {
-            const trackId = track.id;
             const trackName = track.name;
             const artistName = track.artists.map(a => a.name).join(", ");
-            const albumName = track.album.name;
             const albumArt = track.album.images[0]?.url || "";
             const spotifyUrl = track.external_urls.spotify;
 
-            // 2列レイアウト（トップは1列、残り4曲は2列x2行）
-            if (index === 0) {
-                // 1位は大きく表示
-                markdown += '  <tr>\n';
-                markdown += '    <td align="center" colspan="2">\n';
-                markdown += `      <h3>🏆 #1 Most Played</h3>\n`;
-                markdown += `      <a href="${spotifyUrl}" target="_blank">\n`;
-                markdown += `        <img src="${albumArt}" alt="${trackName}" width="200" />\n`;
-                markdown += `      </a>\n`;
-                markdown += `      <br />\n`;
-                markdown += `      <strong>${trackName}</strong>\n`;
-                markdown += `      <br />\n`;
-                markdown += `      ${artistName}\n`;
-                markdown += `      <br />\n`;
-                markdown += `      <sub>${albumName}</sub>\n`;
-                markdown += '    </td>\n';
-                markdown += '  </tr>\n';
-            } else if (index % 2 === 1) {
-                // 2位以降は2列レイアウト（奇数インデックスで新しい行を開始）
-                markdown += '  <tr>\n';
-                markdown += '    <td align="center" width="50%">\n';
-                markdown += `      <strong>#${index + 1}</strong>\n`;
-                markdown += `      <br />\n`;
-                markdown += `      <a href="${spotifyUrl}" target="_blank">\n`;
-                markdown += `        <img src="${albumArt}" alt="${trackName}" width="150" />\n`;
-                markdown += `      </a>\n`;
-                markdown += `      <br />\n`;
-                markdown += `      <strong>${trackName}</strong>\n`;
-                markdown += `      <br />\n`;
-                markdown += `      ${artistName}\n`;
-                markdown += '    </td>\n';
-            } else {
-                // 偶数インデックスで行を閉じる
-                markdown += '    <td align="center" width="50%">\n';
-                markdown += `      <strong>#${index + 1}</strong>\n`;
-                markdown += `      <br />\n`;
-                markdown += `      <a href="${spotifyUrl}" target="_blank">\n`;
-                markdown += `        <img src="${albumArt}" alt="${trackName}" width="150" />\n`;
-                markdown += `      </a>\n`;
-                markdown += `      <br />\n`;
-                markdown += `      <strong>${trackName}</strong>\n`;
-                markdown += `      <br />\n`;
-                markdown += `      ${artistName}\n`;
-                markdown += '    </td>\n';
-                markdown += '  </tr>\n';
-            }
+            // 各曲を横並びに配置
+            markdown += '    <td align="center">\n';
+            markdown += `      <a href="${spotifyUrl}" target="_blank">\n`;
+            markdown += `        <img src="${albumArt}" alt="${trackName}" width="120" />\n`;
+            markdown += `      </a>\n`;
+            markdown += `      <br />\n`;
+            markdown += `      <sub><strong>#${index + 1}</strong></sub>\n`;
+            markdown += `      <br />\n`;
+            markdown += `      <sub>${trackName}</sub>\n`;
+            markdown += `      <br />\n`;
+            markdown += `      <sub>${artistName}</sub>\n`;
+            markdown += '    </td>\n';
         });
 
+        markdown += '  </tr>\n';
         markdown += '</table>\n';
 
         return markdown.trim();
@@ -177,16 +143,16 @@ export async function getTopTracks(): Promise<string> {
         // エラーメッセージを返す
         if (error instanceof Error) {
             if (error.message.includes("credentials are not configured")) {
-                return `🎵 Recently played (Last ${DAYS_RANGE} Days):\n\n_Spotify credentials not configured_`;
+                return `🎵 Recently played on Spotify (Last ${DAYS_RANGE} Days):\n\n_Spotify credentials not configured_`;
             }
             if (error.message.includes("401")) {
-                return `🎵 Recently played (Last ${DAYS_RANGE} Days):\n\n_Authentication error: Please check Spotify credentials_`;
+                return `🎵 Recently played on Spotify (Last ${DAYS_RANGE} Days):\n\n_Authentication error: Please check Spotify credentials_`;
             }
             if (error.message.includes("429")) {
-                return `🎵 Recently played (Last ${DAYS_RANGE} Days):\n\n_API rate limit exceeded. Please try again later._`;
+                return `🎵 Recently played on Spotify (Last ${DAYS_RANGE} Days):\n\n_API rate limit exceeded. Please try again later._`;
             }
         }
 
-        return `🎵 Recently played (Last ${DAYS_RANGE} Days):\n\n_Error fetching tracks. Please try again later._`;
+        return `🎵 Recently played on Spotify (Last ${DAYS_RANGE} Days):\n\n_Error fetching tracks. Please try again later._`;
     }
 }
