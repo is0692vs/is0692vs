@@ -1,42 +1,32 @@
 <!-- weather-greeting:start -->
-
-# 🌍 Hello! Cloudy skies today☁️
-
-📍 New York: 10°C
-
+# 🌍 안녕하세요! 오늘은 흐린 날씨네요☁️
+📍 Seoul: 8°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
-
 📦 pr-cannon: 589 downloads/week
 
 ![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Weekly%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
-
 <!-- stats:end -->
 
 <!-- vscode-stats:start -->
-
 🚀 VSCode Extensions:
-
 - **Jules Extension**: 108 installs | ⭐ No ratings yet | v1.0.4
-- **Code Mantra**: 3 installs | ⭐ No ratings yet | v1.0.6
+- **Code Mantra**: 5 installs | ⭐ No ratings yet | v1.1.1
 
 ![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
-
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
-
 ## 🔨 Active Projects (Last 3 Days)
 
-### 🤖 gemini2.5flash による直近 3 日の活動サマリー
+### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
-直近 3 日間の活動サマリー:
-直近 3 日間で、**154 件**もの素晴らしいコミットを達成されましたね!👏
-プロジェクトの初期セットアップやリポジトリ構造の整理といった基盤固めから、フォルダ送信機能の追加、時間ベースの通知機能、天気挨拶、アクティブプロジェクト表示、複数ファイル・フォルダの一括指定など、魅力的な新機能開発が目白押しです。✨
-また、テストスイートの拡充や README の自動更新・ドキュメント整理も進み、質と量の両面で大きく前進されていますね。この活発な活動、本当に素晴らしいです!今後の展開も楽しみにしています!🚀
+直近3日間の活動サマリー:
+直近3日間で173件ものコミット、素晴らしい集中力と生産性ですね！👏
+プロジェクトの初期セットアップや基盤構築を堅実に進めつつ、**「フォルダ送信機能」**や**「時間ベースの通知機能」**、**「トリガー管理UI」**といった主要な新機能を続々と実装されました。また、READMEの自動更新ワークフローの追加やドキュメントの整理、リポジトリ構造の改善にも注力され、プロジェクト全体の品質と使いやすさが大きく向上しています。今後のさらなる発展が非常に楽しみです！✨
 
-_Total: 78 commits across 3 projects_
+_Total: 94 commits across 3 projects_
 
 <table>
   <tr>
@@ -47,7 +37,7 @@ _Total: 78 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 48 commits (61.5%)</sub>
+      <sub>📊 64 commits (68.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,7 +48,7 @@ _Total: 78 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/pr-cannon" target="_blank">pr-cannon</a></strong></sub>
       <br />
-      <sub>📊 22 commits (28.2%)</sub>
+      <sub>📊 22 commits (23.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -69,7 +59,7 @@ _Total: 78 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 8 commits (10.3%)</sub>
+      <sub>📊 8 commits (8.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -79,7 +69,6 @@ _Total: 78 commits across 3 projects_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
-
 ## 🎵 Recently played on Spotify (Last 3 Days)
 
 <table>
