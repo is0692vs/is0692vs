@@ -23,9 +23,11 @@
 ### 🤖 Geminiによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で133件ものコミット、お疲れ様です！素晴らしい成果ですね👏 主にSpotifyの再生履歴表示機能追加とその表示レイアウトの整理・簡素化（カード化）が進みました。また、アクティブプロジェクトもカード表示になり、READMEのレイアウト調整やGeminiモデルの更新も行われました。これまでの積極的な開発が着実に形になっています✨ 引き続きの活躍を応援しています！
+直近3日間で134件もの素晴らしいコミット、お疲れ様です！🎉
 
-_Total: 77 commits across 3 projects_
+主な活動として、READMEのコンテンツをVSCode統計やGemini振り返りテキストで充実させ、レイアウトも整理されましたね。🎵 Spotify再生履歴の表示機能を追加し、アクティブプロジェクトと共にカード形式でより見やすく改善された点も素晴らしいです。継続的な改善への情熱が感じられ、今後の進化も楽しみです！✨
+
+_Total: 75 commits across 3 projects_
 
 <table>
   <tr>
@@ -36,7 +38,7 @@ _Total: 77 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 38 commits (49.4%)</sub>
+      <sub>📊 38 commits (50.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -47,7 +49,7 @@ _Total: 77 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/pr-cannon" target="_blank">pr-cannon</a></strong></sub>
       <br />
-      <sub>📊 31 commits (40.3%)</sub>
+      <sub>📊 29 commits (38.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,7 +60,7 @@ _Total: 77 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 8 commits (10.4%)</sub>
+      <sub>📊 8 commits (10.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
