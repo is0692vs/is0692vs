@@ -56,13 +56,13 @@ async function main() {
     const chartUrl = generateChartUrl(history);
     const statsContent = `${text}\n\n![Download Stats](${chartUrl})`;
 
-    // アクティブプロジェクトの処理（新規）
-    console.log("🔨 Fetching active projects...");
-    const activeProjectsContent = await activeProjects();
-
     // コミット振り返りの処理
     console.log("🤖 Generating commit reflection...");
     const reflectionContent = await commitReflection();
+
+    // アクティブプロジェクトの処理（新規）
+    console.log("🔨 Fetching active projects...");
+    const activeProjectsContent = await activeProjects(reflectionContent.text);
 
     // Spotify TOP曲の処理
     console.log("🎵 Fetching Spotify top tracks...");
@@ -123,22 +123,16 @@ async function main() {
       `<!-- stats:start -->\n${statsContent}\n<!-- stats:end -->`
     );
 
-    // active-projects部分を更新
-    readme = readme.replace(
-      /<!-- active-projects:start -->[\s\S]*<!-- active-projects:end -->/,
-      `<!-- active-projects:start -->\n${activeProjectsContent}\n<!-- active-projects:end -->`
-    );
-
     // vscode-stats部分を更新
     readme = readme.replace(
       /<!-- vscode-stats:start -->[\s\S]*<!-- vscode-stats:end -->/,
       `<!-- vscode-stats:start -->\n${vscodeContent}\n<!-- vscode-stats:end -->`
     );
 
-    // commit-reflection部分を更新
+    // active-projects部分を更新（reflectionを含む）
     readme = readme.replace(
-      /<!-- commit-reflection:start -->[\s\S]*<!-- commit-reflection:end -->/,
-      `<!-- commit-reflection:start -->\n${reflectionContent.text}\n<!-- commit-reflection:end -->`
+      /<!-- active-projects:start -->[\s\S]*<!-- active-projects:end -->/,
+      `<!-- active-projects:start -->\n${activeProjectsContent}\n<!-- active-projects:end -->`
     );
 
     // spotify部分を更新

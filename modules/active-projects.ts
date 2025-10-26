@@ -100,7 +100,7 @@ function getLanguageEmoji(language: string | null): string {
   return emojiMap[language || ""] || "📄";
 }
 
-export async function activeProjects(): Promise<string> {
+export async function activeProjects(reflectionText?: string): Promise<string> {
   try {
     const repos = await fetchUserRepos();
 
@@ -140,6 +140,13 @@ export async function activeProjects(): Promise<string> {
 
     // ヘッダー
     let markdown = `## 🔨 Active Projects (Last ${DAYS_RANGE} Days)\n\n`;
+
+    // Geminiのサマリーを追加
+    if (reflectionText) {
+      markdown += `### 🤖 Geminiによる直近${DAYS_RANGE}日の活動サマリー\n\n`;
+      markdown += `${reflectionText}\n\n`;
+    }
+
     markdown += `_Total: ${totalCommits} commits across ${projectStats.length} projects_\n\n`;
 
     // カードレイアウト（Spotifyスタイル）
