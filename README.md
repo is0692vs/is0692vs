@@ -1,65 +1,30 @@
 <!-- stats:start -->
+
 📦 pr-cannon: 589 downloads/week
 
 ![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Weekly%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+
 <!-- stats:end -->
 
 <!-- vscode-stats:start -->
+
 🚀 VSCode Extensions:
+
 - **Jules Extension**: 101 installs | ⭐ No ratings yet | v1.0.4
 
 ![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C101%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+
 <!-- vscode-stats:end -->
 
 <!-- commit-reflection:start -->
-直近3日間の活動サマリー:
-お疲れ様です！🎉 直近3日間で130件のコミット、素晴らしいですね！✨ Spotify API連携機能の開発が進み、READMEへの再生履歴表示機能が追加されました。設定UIの拡張やドキュメントの整備も行われ、ますます使いやすくなっています。着々と進化していて感動です！引き続き、わくわくする開発を応援しています！🚀
+
+直近 3 日間の活動サマリー:
+お疲れ様です！🎉 直近 3 日間で 130 件のコミット、素晴らしいですね！✨ Spotify API 連携機能の開発が進み、README への再生履歴表示機能が追加されました。設定 UI の拡張やドキュメントの整備も行われ、ますます使いやすくなっています。着々と進化していて感動です！引き続き、わくわくする開発を応援しています！🚀
 
 <!-- commit-reflection:end -->
 
-<!-- spotify:start -->
-## 🎵 Recently played on Spotify (Last 3 Days)
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://open.spotify.com/track/1Z8JOVjvZNhwOdwOVqZPpI" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273fc5e4067581a0bf29e65afbb" alt="Good" width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>Good</sub>
-      <br />
-      <sub>CHANMINA</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/3SS77BL8QoIWyoK0u7pDGQ" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273ae516ba0de5909fc9613a81b" alt="Like a Flower" width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>Like a Flower</sub>
-      <br />
-      <sub>LANA</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2733d342336e7841b9beef14e1d" alt="ROSE" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>ROSE</sub>
-      <br />
-      <sub>HANA</sub>
-    </td>
-  </tr>
-</table>
-<!-- spotify:end -->
-
 <!-- active-projects:start -->
+
 ## 🔨 Active Projects (Last 3 Days)
 
 _Total: 82 commits across 3 projects_
@@ -103,3 +68,46 @@ _Total: 82 commits across 3 projects_
 </table>
 
 <!-- active-projects:end -->
+
+<!-- spotify:start -->
+
+## 🎵 Recently played on Spotify (Last 3 Days)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1Z8JOVjvZNhwOdwOVqZPpI" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273fc5e4067581a0bf29e65afbb" alt="Good" width="120" />
+      </a>
+      <br />
+      <sub><strong>#1</strong></sub>
+      <br />
+      <sub>Good</sub>
+      <br />
+      <sub>CHANMINA</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/3SS77BL8QoIWyoK0u7pDGQ" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273ae516ba0de5909fc9613a81b" alt="Like a Flower" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>Like a Flower</sub>
+      <br />
+      <sub>LANA</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2733d342336e7841b9beef14e1d" alt="ROSE" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>ROSE</sub>
+      <br />
+      <sub>HANA</sub>
+    </td>
+  </tr>
+</table>
+<!-- spotify:end -->
