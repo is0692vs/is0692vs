@@ -1,30 +1,23 @@
 <!-- stats:start -->
-
 📦 pr-cannon: 589 downloads/week
 
 ![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Weekly%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
-
 <!-- stats:end -->
 
 <!-- vscode-stats:start -->
-
 🚀 VSCode Extensions:
+- **Jules Extension**: 104 installs | ⭐ No ratings yet | v1.0.4
 
-- **Jules Extension**: 101 installs | ⭐ No ratings yet | v1.0.4
-
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C101%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
-
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C104%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- commit-reflection:start -->
-
-直近 3 日間の活動サマリー:
-お疲れ様です！🎉 直近 3 日間で 130 件のコミット、素晴らしいですね！✨ Spotify API 連携機能の開発が進み、README への再生履歴表示機能が追加されました。設定 UI の拡張やドキュメントの整備も行われ、ますます使いやすくなっています。着々と進化していて感動です！引き続き、わくわくする開発を応援しています！🚀
-
+直近3日間の活動サマリー:
+この3日間で、なんと133件ものコミットを重ねられましたね！素晴らしい活動量です！🚀
+主な作業としては、Spotifyの再生履歴表示機能をREADMEに追加し、表示をカード形式でより見やすく整理・簡素化されました。✨ また、README全体のレイアウト調整や、Geminiモデルを最新版にアップデートされるなど、プロジェクトが着実に進化していますね。この勢いで、次のステップも楽しみです！応援しています！😊
 <!-- commit-reflection:end -->
 
 <!-- active-projects:start -->
-
 ## 🔨 Active Projects (Last 3 Days)
 
 _Total: 82 commits across 3 projects_
@@ -70,7 +63,6 @@ _Total: 82 commits across 3 projects_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
-
 ## 🎵 Recently played on Spotify (Last 3 Days)
 
 <table>
@@ -105,6 +97,28 @@ _Total: 82 commits across 3 projects_
       <sub><strong>#3</strong></sub>
       <br />
       <sub>ROSE</sub>
+      <br />
+      <sub>HANA</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2739c7d4a442342da6cc2b7f8f4" alt="BAD LOVE" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>BAD LOVE</sub>
+      <br />
+      <sub>HANA</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273fd30f0feb5e182d5c85210c7" alt="Blue Jeans" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>Blue Jeans</sub>
       <br />
       <sub>HANA</sub>
     </td>
