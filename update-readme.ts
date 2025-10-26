@@ -1,3 +1,4 @@
+import "dotenv/config";
 import { readFileSync, writeFileSync, existsSync } from "fs";
 import { npmStats } from "./modules/npm-stats";
 import { generateChartUrl } from "./modules/chart";
@@ -5,6 +6,7 @@ import { activeProjects } from "./modules/active-projects";
 import { vscodeStats } from "./modules/vscode-stats";
 import { generateVscodeChartUrl } from "./modules/vscode-chart";
 import { commitReflection } from "./modules/commit-reflection";
+import { getTopTracks } from "./modules/spotify-top-tracks";
 
 interface StatsHistory {
   date: string;
@@ -61,6 +63,10 @@ async function main() {
     // コミット振り返りの処理
     console.log("🤖 Generating commit reflection...");
     const reflectionContent = await commitReflection();
+
+    // Spotify TOP曲の処理
+    console.log("🎵 Fetching Spotify top tracks...");
+    const spotifyContent = await getTopTracks();
 
     // VSCode統計の処理
     console.log("🚀 Fetching VSCode extension statistics...");
@@ -135,6 +141,12 @@ async function main() {
       `<!-- commit-reflection:start -->\n${reflectionContent.text}\n<!-- commit-reflection:end -->`
     );
 
+    // spotify部分を更新
+    readme = readme.replace(
+      /<!-- spotify:start -->[\s\S]*<!-- spotify:end -->/,
+      `<!-- spotify:start -->\n${spotifyContent}\n<!-- spotify:end -->`
+    );
+
     writeFileSync("README.md", readme);
     console.log("✅ README.md updated successfully!");
     console.log("\nUpdated stats:");
@@ -143,6 +155,8 @@ async function main() {
     console.log(vscodeContent);
     console.log("\nUpdated commit reflection:");
     console.log(reflectionContent.text);
+    console.log("\nUpdated Spotify top tracks:");
+    console.log(spotifyContent);
     console.log("\nUpdated active projects:");
     console.log(activeProjectsContent);
   } catch (error) {
