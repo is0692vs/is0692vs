@@ -7,6 +7,7 @@ import { vscodeStats } from "./modules/vscode-stats";
 import { generateVscodeChartUrl } from "./modules/vscode-chart";
 import { commitReflection } from "./modules/commit-reflection";
 import { getTopTracks } from "./modules/spotify-top-tracks";
+import { weatherGreeting } from "./modules/weather-greeting";
 
 interface StatsHistory {
   date: string;
@@ -20,6 +21,9 @@ interface VscodeStatsHistory {
 
 async function main() {
   try {
+    console.log("🌍 Fetching weather greeting...");
+    const weatherGreetingContent = await weatherGreeting();
+
     console.log("📊 Fetching npm statistics...");
     const { text, data } = await npmStats();
 
@@ -117,6 +121,12 @@ async function main() {
 
     console.log("✏️ Updating README.md...");
 
+    // weather-greeting部分を更新（最上部）
+    readme = readme.replace(
+      /<!-- weather-greeting:start -->[\s\S]*<!-- weather-greeting:end -->/,
+      `<!-- weather-greeting:start -->\n${weatherGreetingContent}\n<!-- weather-greeting:end -->`
+    );
+
     // stats部分を更新
     readme = readme.replace(
       /<!-- stats:start -->[\s\S]*<!-- stats:end -->/,
@@ -143,6 +153,8 @@ async function main() {
 
     writeFileSync("README.md", readme);
     console.log("✅ README.md updated successfully!");
+    console.log("\nUpdated weather greeting:");
+    console.log(weatherGreetingContent);
     console.log("\nUpdated stats:");
     console.log(statsContent);
     console.log("\nUpdated VSCode stats:");
