@@ -9,7 +9,12 @@ export function generateVscodeChartUrl(history: VscodeStatsHistory[]): string {
   }
 
   const labels = history.map((h) => h.date);
-  const extensionNames = Object.keys(history[0]?.extensions || {});
+  // Collect all unique extension names from all history entries
+  const extensionNamesSet = new Set<string>();
+  history.forEach((h) => {
+    Object.keys(h.extensions).forEach((ext) => extensionNamesSet.add(ext));
+  });
+  const extensionNames = Array.from(extensionNamesSet);
 
   const datasets = extensionNames.map((ext, index) => {
     const colors = ["#9966FF", "#FF9F40", "#FF6384", "#36A2EB"];

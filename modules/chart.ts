@@ -9,7 +9,12 @@ export function generateChartUrl(history: StatsHistory[]): string {
   }
 
   const labels = history.map((h) => h.date);
-  const packageNames = Object.keys(history[0]?.packages || {});
+  // Collect all unique package names from all history entries
+  const packageNamesSet = new Set<string>();
+  history.forEach((h) => {
+    Object.keys(h.packages).forEach((pkg) => packageNamesSet.add(pkg));
+  });
+  const packageNames = Array.from(packageNamesSet);
 
   const datasets = packageNames.map((pkg, index) => {
     const colors = ["#FF6384", "#36A2EB", "#FFCE56", "#4BC0C0"];
