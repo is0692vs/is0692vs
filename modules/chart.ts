@@ -12,7 +12,9 @@ export function generateChartUrl(history: StatsHistory[]): string {
   // Collect all unique package names from all history entries
   const packageNamesSet = new Set<string>();
   history.forEach((h) => {
-    Object.keys(h.packages).forEach((pkg) => packageNamesSet.add(pkg));
+    if (h.packages) {
+      Object.keys(h.packages).forEach((pkg) => packageNamesSet.add(pkg));
+    }
   });
   const packageNames = Array.from(packageNamesSet);
 

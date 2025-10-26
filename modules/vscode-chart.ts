@@ -12,7 +12,9 @@ export function generateVscodeChartUrl(history: VscodeStatsHistory[]): string {
   // Collect all unique extension names from all history entries
   const extensionNamesSet = new Set<string>();
   history.forEach((h) => {
-    Object.keys(h.extensions).forEach((ext) => extensionNamesSet.add(ext));
+    if (h.extensions) {
+      Object.keys(h.extensions).forEach((ext) => extensionNamesSet.add(ext));
+    }
   });
   const extensionNames = Array.from(extensionNamesSet);
 
