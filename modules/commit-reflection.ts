@@ -77,7 +77,7 @@ async function getLastNDaysCommits(): Promise<Commit[]> {
 
         if (response.ok) {
           const commits = (await response.json()) as Commit[];
-          
+
           // 各コミットの詳細情報を取得（変更数を含む）
           for (const commit of commits) {
             try {
@@ -121,11 +121,11 @@ async function getLastNDaysCommits(): Promise<Commit[]> {
       // 変更行数 = additions + deletions (実際のコード変更量を反映)
       const aLineChanges = (a.stats?.additions || 0) + (a.stats?.deletions || 0);
       const bLineChanges = (b.stats?.additions || 0) + (b.stats?.deletions || 0);
-      
+
       if (bLineChanges !== aLineChanges) {
         return bLineChanges - aLineChanges; // 変更行数が多い順
       }
-      
+
       // 同じ変更行数の場合は時系列でソート
       return (
         new Date(b.commit.author.date).getTime() -

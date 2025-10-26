@@ -14,7 +14,11 @@
   {
     "date": "2025-10-26",
     "extensions": {
+<<<<<<< HEAD
       "Jules Extension": 107
+=======
+      "Jules Extension": 106
+>>>>>>> origin/main
     }
   }
 ]
