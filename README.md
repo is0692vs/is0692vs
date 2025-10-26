@@ -1,53 +1,100 @@
 <!-- stats:start -->
-
 📦 pr-cannon: 589 downloads/week
 
 ![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Weekly%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
-
 <!-- stats:end -->
 
 <!-- vscode-stats:start -->
-
 🚀 VSCode Extensions:
+- **Jules Extension**: 104 installs | ⭐ No ratings yet | v1.0.4
 
-- **Jules Extension**: 108 installs | ⭐ No ratings yet | v1.0.4
-
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
-
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C104%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- commit-reflection:start -->
-
-直近 3 日間の活動サマリー:
-直近 3 日間で 127 件のコミット、お疲れ様です！🎉
-
-README の日本語化 🇯🇵 や設定 UI の拡張、複数トリガーのサポートなど、機能改善と使いやすさの向上に大きく貢献されました。ドキュメント整備も進み、バージョンも 1.0.2 になりましたね！👏
-
-素晴らしい進捗です！この勢いで、次も頑張っていきましょう！🚀
+直近3日間の活動サマリー:
+直近3日間で127件のコミット、お疲れ様です！🎉 READMEの充実（日本語化🇯🇵や設定手順の詳述）、複数トリガー対応、UI拡張など、機能改善と使いやすさ向上に大きく貢献されましたね。素晴らしい進捗です！✨ この勢いで、更なる高みを目指しましょう！🚀
 
 <!-- commit-reflection:end -->
 
 <!-- spotify:start -->
+## 🎵 Recently played (Last 3 Days)
 
-🎵 Recently played (Last 4 weeks):
-
-1. 🎧 [Good - CHANMINA](https://open.spotify.com/track/1Z8JOVjvZNhwOdwOVqZPpI)
-2. 🎧 [Like a Flower - LANA](https://open.spotify.com/track/3SS77BL8QoIWyoK0u7pDGQ)
-3. 🎧 [ROSE - HANA](https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0)
-4. 🎧 [BAD LOVE - HANA](https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN)
-5. 🎧 [Blue Jeans - HANA](https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL)
+<table>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🏆 #1 Most Played</h3>
+      <a href="https://open.spotify.com/track/1Z8JOVjvZNhwOdwOVqZPpI" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273fc5e4067581a0bf29e65afbb" alt="Good" width="200" />
+      </a>
+      <br />
+      <strong>Good</strong>
+      <br />
+      CHANMINA
+      <br />
+      <sub>Naked</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>#2</strong>
+      <br />
+      <a href="https://open.spotify.com/track/3SS77BL8QoIWyoK0u7pDGQ" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273ae516ba0de5909fc9613a81b" alt="Like a Flower" width="150" />
+      </a>
+      <br />
+      <strong>Like a Flower</strong>
+      <br />
+      LANA
+    </td>
+    <td align="center" width="50%">
+      <strong>#3</strong>
+      <br />
+      <a href="https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2733d342336e7841b9beef14e1d" alt="ROSE" width="150" />
+      </a>
+      <br />
+      <strong>ROSE</strong>
+      <br />
+      HANA
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>#4</strong>
+      <br />
+      <a href="https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2739c7d4a442342da6cc2b7f8f4" alt="BAD LOVE" width="150" />
+      </a>
+      <br />
+      <strong>BAD LOVE</strong>
+      <br />
+      HANA
+    </td>
+    <td align="center" width="50%">
+      <strong>#5</strong>
+      <br />
+      <a href="https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273fd30f0feb5e182d5c85210c7" alt="Blue Jeans" width="150" />
+      </a>
+      <br />
+      <strong>Blue Jeans</strong>
+      <br />
+      HANA
+    </td>
+  </tr>
+</table>
 <!-- spotify:end -->
 
 <!-- active-projects:start -->
-
 ## 🔨 Active Projects (Last 3 Days)
 
 _Total: 84 commits across 3 projects_
 
-| 🚀 Project                                                         | 📊 Commits     | ⏱️ Last Push | 💻 Language   | ⭐ Stars |
-| :----------------------------------------------------------------- | :------------- | :----------- | :------------ | :------: |
-| **[code-mantra](https://github.com/is0692vs/code-mantra)**         | **38** (45.2%) | 1h ago       | 🔷 TypeScript |    0     |
-| **[pr-cannon](https://github.com/is0692vs/pr-cannon)**             | **38** (45.2%) | 17h ago      | 🔷 TypeScript |    0     |
-| **[jules-extension](https://github.com/is0692vs/jules-extension)** | **8** (9.5%)   | 1d ago       | 🔷 TypeScript |    1     |
+| 🚀 Project | 📊 Commits | ⏱️ Last Push | 💻 Language | ⭐ Stars |
+|:-----------|:-----------|:-------------|:------------|:--------:|
+| **[code-mantra](https://github.com/is0692vs/code-mantra)** | **38** (45.2%) | 1h ago | 🔷 TypeScript | 0 |
+| **[pr-cannon](https://github.com/is0692vs/pr-cannon)** | **38** (45.2%) | 18h ago | 🔷 TypeScript | 0 |
+| **[jules-extension](https://github.com/is0692vs/jules-extension)** | **8** (9.5%) | 1d ago | 🔷 TypeScript | 1 |
 
 <!-- active-projects:end -->
