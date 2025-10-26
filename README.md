@@ -6,9 +6,9 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **Jules Extension**: 101 installs | ⭐ No ratings yet | v1.0.4
+- **Jules Extension**: 108 installs | ⭐ No ratings yet | v1.0.4
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C101%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -17,13 +17,9 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計138件ものコミット、大変お疲れ様でした！✨
+直近3日間で、なんと139件ものコミットがありました！🚀 プロジェクトの初期セットアップや基盤整備を精力的に進められましたね。特に、フォルダ送信機能や複数ファイル・フォルダの一括指定、READMEの自動更新ワークフロー、アクティブプロジェクト表示など、多くの新機能開発とドキュメント強化に尽力されました。テストも充実しており、素晴らしいペースです！この勢いで次のステップも楽しみですね。お疲れ様でした！✨
 
-プロジェクトの初期セットアップや基盤構築が大きく進みましたね。npmダウンロード統計の自動更新、フォルダ送信や複数ファイル指定機能の実装、Spotify再生履歴やアクティブプロジェクト表示の追加・改善など、多岐にわたる新機能開発に尽力されました。
-
-READMEの整理やテストスイートの拡充も着実に行われ、素晴らしいです。これからもこの調子で、開発を楽しんでいきましょう！🚀
-
-_Total: 69 commits across 3 projects_
+_Total: 68 commits across 3 projects_
 
 <table>
   <tr>
@@ -34,7 +30,7 @@ _Total: 69 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 38 commits (55.1%)</sub>
+      <sub>📊 38 commits (55.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -45,7 +41,7 @@ _Total: 69 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/pr-cannon" target="_blank">pr-cannon</a></strong></sub>
       <br />
-      <sub>📊 23 commits (33.3%)</sub>
+      <sub>📊 22 commits (32.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +52,7 @@ _Total: 69 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 8 commits (11.6%)</sub>
+      <sub>📊 8 commits (11.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
