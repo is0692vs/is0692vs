@@ -1,10 +1,16 @@
 import { weatherCities, type CityConfig } from "../config/weather-cities";
 import { openWeatherConfig } from "../config/openweather";
 
-interface WeatherData {
-    weather: Array<{ main: string; description: string }>;
+interface ForecastItem {
+    dt: number;
     main: { temp: number };
-    name: string;
+    weather: Array<{ main: string; description: string }>;
+    dt_txt: string;
+}
+
+interface ForecastData {
+    list: ForecastItem[];
+    city: { name: string };
 }
 
 // ランダムに都市を選択
@@ -13,11 +19,11 @@ function getRandomCity(): CityConfig {
     return weatherCities[randomIndex];
 }
 
-// OpenWeather APIから天気情報を取得
+// OpenWeather APIから天気予報を取得（昼間の予報を優先）
 async function fetchWeather(
     city: string,
     country: string
-): Promise<WeatherData | null> {
+): Promise<ForecastItem | null> {
     const { apiKey, baseUrl } = openWeatherConfig;
 
     if (!apiKey) {
@@ -44,8 +50,28 @@ async function fetchWeather(
             return null;
         }
 
-        const data = (await response.json()) as WeatherData;
-        return data;
+        const data = (await response.json()) as ForecastData;
+
+        // 今日の昼間（12:00-15:00）の予報を探す
+        const now = new Date();
+        const today = now.toISOString().split("T")[0]; // YYYY-MM-DD
+
+        // 昼間の予報を優先的に探す（12:00-15:00）
+        const daytimeForecast = data.list.find((item) => {
+            const forecastDate = item.dt_txt.split(" ")[0];
+            const forecastTime = item.dt_txt.split(" ")[1];
+            const hour = parseInt(forecastTime.split(":")[0]);
+
+            return forecastDate === today && hour >= 12 && hour <= 15;
+        });
+
+        // 昼間の予報がなければ、今日の最初の予報を使う
+        const selectedForecast =
+            daytimeForecast ||
+            data.list.find((item) => item.dt_txt.startsWith(today)) ||
+            data.list[0];
+
+        return selectedForecast;
     } catch (error) {
         if (error instanceof Error) {
             if (error.name === "AbortError") {
@@ -88,28 +114,28 @@ export async function weatherGreeting(): Promise<string> {
         // ランダムに都市を選択
         const selectedCity = getRandomCity();
 
-        // 天気情報を取得
-        const weatherData = await fetchWeather(
+        // 天気予報を取得
+        const forecastData = await fetchWeather(
             selectedCity.city,
             selectedCity.country
         );
 
         // 天気情報が取得できなかった場合のフォールバック
-        if (!weatherData) {
+        if (!forecastData) {
             return `# 🌍 ${selectedCity.greetings.default}\n📍 ${selectedCity.city}`;
         }
 
         // 天気に応じた挨拶を生成
         const greeting = getGreetingByWeather(
-            weatherData.weather[0].main,
+            forecastData.weather[0].main,
             selectedCity
         );
 
         // 気温を整数に丸める
-        const temperature = Math.round(weatherData.main.temp);
+        const temperature = Math.round(forecastData.main.temp);
 
         // マークダウン形式で返す
-        return `# 🌍 ${greeting}\n📍 ${weatherData.name}: ${temperature}°C`;
+        return `# 🌍 ${greeting}\n📍 ${selectedCity.city}: ${temperature}°C`;
     } catch (error) {
         console.error("Error in weatherGreeting:", error);
 
