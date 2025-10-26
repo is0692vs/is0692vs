@@ -12,6 +12,15 @@ interface Commit {
   author?: {
     login: string;
   };
+  files?: Array<{
+    filename: string;
+    changes: number;
+  }>;
+  stats?: {
+    total: number;
+    additions: number;
+    deletions: number;
+  };
 }
 
 interface CommitReflectionResult {
@@ -68,6 +77,37 @@ async function getLastNDaysCommits(): Promise<Commit[]> {
 
         if (response.ok) {
           const commits = (await response.json()) as Commit[];
+          
+          // 各コミットの詳細情報を取得（変更数を含む）
+          for (const commit of commits) {
+            try {
+              // コミットのSHAはcommit.sha、またはcommit.commit.treeを使用
+              // GitHubコミット一覧APIの結果にはshaフィールドがある
+              const commitSha = (commit as any).sha;
+              if (!commitSha) continue;
+
+              const detailUrl = `https://api.github.com/repos/${githubUsername}/${repo}/commits/${commitSha}`;
+              const detailResponse = await fetch(detailUrl, {
+                headers: {
+                  Authorization: `token ${process.env.GH_PAT}`,
+                  Accept: "application/vnd.github.v3+json",
+                },
+              });
+
+              if (detailResponse.ok) {
+                const detailData = (await detailResponse.json()) as any;
+                commit.stats = detailData.stats || { total: 0, additions: 0, deletions: 0 };
+                commit.files = detailData.files || [];
+              }
+            } catch (error) {
+              console.debug(`Failed to fetch commit details for ${repo}`);
+              // 詳細取得失敗時はデフォルト値を設定
+              if (!commit.stats) {
+                commit.stats = { total: 0, additions: 0, deletions: 0 };
+              }
+            }
+          }
+
           allCommits.push(...commits);
         }
       } catch (error) {
@@ -76,18 +116,48 @@ async function getLastNDaysCommits(): Promise<Commit[]> {
       }
     }
 
-    // コミットを時系列でソート
-    allCommits.sort(
-      (a, b) =>
+    // 変更行数（additions + deletions）が多い順でソート、同じ行数の場合は時系列（新しい順）
+    allCommits.sort((a, b) => {
+      // 変更行数 = additions + deletions (実際のコード変更量を反映)
+      const aLineChanges = (a.stats?.additions || 0) + (a.stats?.deletions || 0);
+      const bLineChanges = (b.stats?.additions || 0) + (b.stats?.deletions || 0);
+      
+      if (bLineChanges !== aLineChanges) {
+        return bLineChanges - aLineChanges; // 変更行数が多い順
+      }
+      
+      // 同じ変更行数の場合は時系列でソート
+      return (
         new Date(b.commit.author.date).getTime() -
         new Date(a.commit.author.date).getTime()
-    );
+      );
+    });
 
     return allCommits;
   } catch (error) {
     console.error("Error fetching commits:", error);
     return [];
   }
+}
+
+// Geminiがエラーで応答できない場合のフォールバック
+function generateFallbackSummary(topCommits: Commit[], totalCommitCount: number): string {
+  if (topCommits.length === 0) {
+    return `直近${DAYS_RANGE}日間の活動サマリー:\n直近${DAYS_RANGE}日間、開発は行われていないようです。次の開発に向けて準備を整えましょう！🚀`;
+  }
+
+  // コミットメッセージから主な作業を抽出
+  const mainActivities = topCommits
+    .slice(0, 3)
+    .map((c) => c.commit.message.split("\n")[0])
+    .join("、");
+
+  // 総変更行数を計算
+  const totalLineChanges = topCommits.reduce((sum, c) => {
+    return sum + (c.stats?.additions || 0) + (c.stats?.deletions || 0);
+  }, 0);
+
+  return `直近${DAYS_RANGE}日間の活動サマリー:\n直近${DAYS_RANGE}日間で${totalCommitCount}件ものコミット、お疲れ様です！👏 ${mainActivities}など、多くの作業を進められました。合計${totalLineChanges}行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨`;
 }
 
 async function generateReflection(commits: Commit[]): Promise<string> {
@@ -99,15 +169,23 @@ async function generateReflection(commits: Commit[]): Promise<string> {
     return `直近${DAYS_RANGE}日間の活動サマリー:\n直近${DAYS_RANGE}日間、開発は行われていないようです。次の開発に向けて準備を整えましょう！🚀`;
   }
 
-  // 直近N日間のコミットを分析
-  const commitMessages = commits.map((c) => `- ${c.commit.message}`).join("\n");
+  // 変更行数が多い上位20件のコミットを取得
+  const topCommits = commits.slice(0, 20);
+  const commitMessages = topCommits
+    .map((c) => {
+      const additions = c.stats?.additions || 0;
+      const deletions = c.stats?.deletions || 0;
+      const lineChanges = additions + deletions;
+      return `- ${c.commit.message} (+${additions}/-${deletions})`;
+    })
+    .join("\n");
 
   const prompt = `あなたは開発者の週報を作成するアシスタントです。
 以下の直近${DAYS_RANGE}日間のコミット情報を分析し、簡潔で親しみやすい活動サマリーを生成してください。
 
 コミット数: ${commits.length}
-コミット情報（最初の20件）:
-${commitMessages.split("\n").slice(0, 20).join("\n")}
+コミット情報（変更行数が多い上位20件。形式: +追加行数/-削除行数）:
+${commitMessages}
 
 要件:
 - 日本語で300文字以内
@@ -144,11 +222,9 @@ ${commitMessages.split("\n").slice(0, 20).join("\n")}
 
   if (!response.ok) {
     const errorData = await response.json();
-    throw new Error(
-      `Failed to generate reflection: ${response.statusText} - ${JSON.stringify(
-        errorData
-      )}`
-    );
+    console.warn(`Gemini API error: ${response.statusText}`, errorData);
+    // HTTPエラー時はフォールバックサマリーを返す
+    return generateFallbackSummary(topCommits, commits.length);
   }
 
   const data = (await response.json()) as {
@@ -159,11 +235,26 @@ ${commitMessages.split("\n").slice(0, 20).join("\n")}
         }>;
       };
     }>;
+    error?: {
+      message?: string;
+      code?: number;
+    };
   };
 
-  const generatedText =
-    data.candidates?.[0]?.content?.parts?.[0]?.text ||
-    "コメント生成に失敗しました";
+  // Geminiレスポンスエラーをチェック
+  if (data.error) {
+    console.warn(`Gemini API error: ${data.error.message}`, data.error);
+    // エラー応答時はフォールバックサマリーを返す
+    return generateFallbackSummary(topCommits, commits.length);
+  }
+
+  const generatedText = data.candidates?.[0]?.content?.parts?.[0]?.text;
+
+  // テキストが返されなかった場合（レート制限など）
+  if (!generatedText) {
+    console.warn("Gemini API returned empty response");
+    return generateFallbackSummary(topCommits, commits.length);
+  }
 
   return `直近${DAYS_RANGE}日間の活動サマリー:\n${generatedText}`;
 }
