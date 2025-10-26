@@ -1,33 +1,35 @@
 <!-- stats:start -->
+
 📦 pr-cannon: 589 downloads/week
 
 ![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Weekly%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+
 <!-- stats:end -->
 
 <!-- vscode-stats:start -->
+
 🚀 VSCode Extensions:
+
 - **Jules Extension**: 108 installs | ⭐ No ratings yet | v1.0.4
 
 ![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+
 <!-- vscode-stats:end -->
 
-<!-- commit-reflection:start -->
-直近3日間の活動サマリー:
-この3日間で、なんと133件ものコミットを重ねられましたね！素晴らしい活動量です！🚀
-主な作業としては、Spotifyの再生履歴表示機能をREADMEに追加し、表示をカード形式でより見やすく整理・簡素化されました。✨ また、README全体のレイアウト調整や、Geminiモデルを最新版にアップデートされるなど、プロジェクトが着実に進化していますね。この勢いで、次のステップも楽しみです！応援しています！😊
-<!-- commit-reflection:end -->
-
 <!-- active-projects:start -->
+
 ## 🔨 Active Projects (Last 3 Days)
 
-### 🤖 Geminiによる直近3日の活動サマリー
+### 🤖 gemini2.5flash による直近 3 日の活動サマリー
 
-直近3日間の活動サマリー:
-直近3日間で134件もの素晴らしいコミット、お疲れ様です！🎉
+直近 3 日間の活動サマリー:
+直近 3 日間で 134 件ものコミット、大変お疲れ様でした！👏
 
-主な活動として、READMEのコンテンツをVSCode統計やGemini振り返りテキストで充実させ、レイアウトも整理されましたね。🎵 Spotify再生履歴の表示機能を追加し、アクティブプロジェクトと共にカード形式でより見やすく改善された点も素晴らしいです。継続的な改善への情熱が感じられ、今後の進化も楽しみです！✨
+特に、README のレイアウトを整理し、VSCode 統計データや最新の Gemini 連携（モデル更新含む）を反映させるなど、情報の鮮度と見やすさ向上に精力的に取り組まれましたね。🔧 さらに、Spotify の再生履歴やアクティブプロジェクトの表示をカード形式に一新し、より魅力的で洗練されたユーザーインターフェースへと改善されたのは素晴らしいです 🎵
 
-_Total: 75 commits across 3 projects_
+多岐にわたる精力的な改善、素晴らしい成果です！これからも応援しています！✨
+
+_Total: 72 commits across 3 projects_
 
 <table>
   <tr>
@@ -38,7 +40,7 @@ _Total: 75 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 38 commits (50.7%)</sub>
+      <sub>📊 38 commits (52.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -49,7 +51,7 @@ _Total: 75 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/pr-cannon" target="_blank">pr-cannon</a></strong></sub>
       <br />
-      <sub>📊 29 commits (38.7%)</sub>
+      <sub>📊 26 commits (36.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -60,7 +62,7 @@ _Total: 75 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 8 commits (10.7%)</sub>
+      <sub>📊 8 commits (11.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -70,6 +72,7 @@ _Total: 75 commits across 3 projects_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
+
 ## 🎵 Recently played on Spotify (Last 3 Days)
 
 <table>

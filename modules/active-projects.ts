@@ -1,5 +1,6 @@
 import { githubUsername } from "../config/github";
 import { DAYS_RANGE } from "../config/days-range";
+import { geminiModel } from "../config/gemini";
 
 interface Repository {
   name: string;
@@ -100,6 +101,12 @@ function getLanguageEmoji(language: string | null): string {
   return emojiMap[language || ""] || "📄";
 }
 
+function getModelDisplayName(model: string): string {
+  // gemini-2.5-flash -> gemini25flash
+  // gemini-2.0-pro-exp-02-05 -> gemini20proexp0205
+  return model.replace(/-/g, "");
+}
+
 export async function activeProjects(reflectionText?: string): Promise<string> {
   try {
     const repos = await fetchUserRepos();
@@ -143,7 +150,8 @@ export async function activeProjects(reflectionText?: string): Promise<string> {
 
     // Geminiのサマリーを追加
     if (reflectionText) {
-      markdown += `### 🤖 Geminiによる直近${DAYS_RANGE}日の活動サマリー\n\n`;
+      const modelName = getModelDisplayName(geminiModel);
+      markdown += `### 🤖 ${modelName}による直近${DAYS_RANGE}日の活動サマリー\n\n`;
       markdown += `${reflectionText}\n\n`;
     }
 
