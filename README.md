@@ -1,23 +1,41 @@
+<!-- weather-greeting:start -->
+
+# 🌍 Hallo! Ein wunderschöner sonniger Tag☀️
+
+📍 Berlin: 6°C
+
+<!-- weather-greeting:end -->
+
 <!-- stats:start -->
+
 📦 pr-cannon: 589 downloads/week
 
 ![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Weekly%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+
 <!-- stats:end -->
 
 <!-- vscode-stats:start -->
-🚀 VSCode Extensions:
-- **Jules Extension**: 108 installs | ⭐ No ratings yet | v1.0.4
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+🚀 VSCode Extensions:
+
+- **Jules Extension**: 105 installs | ⭐ No ratings yet | v1.0.4
+
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C105%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
+
 ## 🔨 Active Projects (Last 3 Days)
 
-### 🤖 gemini2.5flashによる直近3日の活動サマリー
+### 🤖 gemini2.5flash による直近 3 日の活動サマリー
 
-直近3日間の活動サマリー:
-直近3日間で、なんと139件ものコミットがありました！🚀 プロジェクトの初期セットアップや基盤整備を精力的に進められましたね。特に、フォルダ送信機能や複数ファイル・フォルダの一括指定、READMEの自動更新ワークフロー、アクティブプロジェクト表示など、多くの新機能開発とドキュメント強化に尽力されました。テストも充実しており、素晴らしいペースです！この勢いで次のステップも楽しみですね。お疲れ様でした！✨
+直近 3 日間の活動サマリー:
+直近 3 日間で 139 件ものコミット、素晴らしい成果ですね！🎉
+
+プロジェクトの初期セットアップと基盤整備を進めつつ、「フォルダ送信機能」や「複数ファイル/フォルダ一括指定」といった重要な新機能の開発に尽力されました。また、README の自動更新ワークフロー導入や GitHub アクティブプロジェクトの表示、Spotify 連携機能の UI 改善など、情報表示の強化にも大きく貢献されています。
+
+テスト環境の整備やリポジトリ構造の最適化も着実に進められ、今後の開発がさらに加速すること間違いなしです。この勢いで、引き続き素晴らしい活躍を期待しています！🚀
 
 _Total: 68 commits across 3 projects_
 
@@ -62,6 +80,7 @@ _Total: 68 commits across 3 projects_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
+
 ## 🎵 Recently played on Spotify (Last 3 Days)
 
 <table>
