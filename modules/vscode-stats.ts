@@ -115,9 +115,8 @@ export async function vscodeStats(): Promise<{
         const extensionName = s.repositoryUrl
           ? `[${s.name}](${s.repositoryUrl})`
           : s.name;
-        return `- **${extensionName}**: ${s.installs.toLocaleString()} installs | ${
-          s.rating
-        } | v${s.version}`;
+        return `- **${extensionName}**: ${s.installs.toLocaleString()} installs | ${s.rating
+          } | v${s.version}`;
       })
       .join("\n");
 
