@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 你好！晴天真美☀️
-📍 Beijing: 4°C
+# 🌍 Hello! Partly cloudy today☁️
+📍 Miami: 30°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -23,9 +23,23 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で195件ものコミット、お疲れ様です！👏 fix: パイプライン用に package-lock.json を追跡、Merge pull request #4 from is0692vs:moodleダッシュボード表示してから時間割が出るまでのラグ修正、Merge pull request #2 from is0692vs/1-phase-1-mvp実装基本機能など、多くの作業を進められました。合計19098行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近3日間で計195件ものコミット、本当にお疲れ様でした！素晴らしい活動量ですね！✨
 
-_Total: 124 commits across 5 projects_
+主な活動は以下の通りです。
+
+**moodle-to-manaba-R** では、時間割表示の遅延を大幅に改善し、MVPの基本機能をしっかりと実装されました。設定UIにカラーカスタマイズやプリセットを追加してユーザー体験を向上させたり、個人情報保護対応、Chrome拡張の初期構造構築、そしてローカルデモ環境まで整備され、まさに飛躍的な進捗です！🚀
+
+**code-mantra** では、時間ベースの通知機能やトリガー管理UI（TreeView・ダイアログ）の追加、さらにトリガー処理の分離と設定拡張といった機能強化が目覚ましいです。パイプライン用のpackage-lock.json追跡やコード整形も抜かりなく、丁寧な開発姿勢が光りますね！💡
+
+**is0692vs** では、npmダウンロード統計のREADME自動更新ワークフローやSpotify再生履歴の表示機能を追加し、情報の自動化と可視化を進められました。技術的にも挑戦的な取り組み、お見事です！📈
+
+**link-canvas** では、VS Code拡張の雛形、ビルド/開発設定、ドキュメント追加といったプロジェクト初期セットアップを迅速に完了されました。新しいプロジェクトの土台がしっかりと築かれ、これからの開発が楽しみです！🛠️
+
+**jules-extension** では、READMEと各言語版ドキュメントの整理・表現統一が行われ、プロジェクトのドキュメント品質が向上しました。
+
+多岐にわたるリポジトリで、新機能開発からパフォーマンス改善、ドキュメント整備まで、本当に精力的に活動されていますね。これからも応援しています！🎉
+
+_Total: 114 commits across 5 projects_
 
 <table>
   <tr>
@@ -36,18 +50,7 @@ _Total: 124 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 79 commits (63.7%)</sub>
-      <br />
-      <sub>🔷 TypeScript </sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/pr-cannon" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/pr-cannon" alt="pr-cannon" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/is0692vs/pr-cannon" target="_blank">pr-cannon</a></strong></sub>
-      <br />
-      <sub>📊 22 commits (17.7%)</sub>
+      <sub>📊 79 commits (69.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,9 +61,20 @@ _Total: 124 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 13 commits (10.5%)</sub>
+      <sub>📊 13 commits (11.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/is0692vs/pr-cannon" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/pr-cannon" alt="pr-cannon" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/is0692vs/pr-cannon" target="_blank">pr-cannon</a></strong></sub>
+      <br />
+      <sub>📊 12 commits (10.5%)</sub>
+      <br />
+      <sub>🔷 TypeScript </sub>
     </td>
   </tr>
 </table>
@@ -117,15 +131,15 @@ _Total: 124 commits across 5 projects_
       <sub>HANA</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273fd30f0feb5e182d5c85210c7" alt="Blue Jeans" width="120" />
+      <a href="https://open.spotify.com/track/79z4gwvetIY6Du3qx9fyPF" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27323614eec2d80bb91cd38dbe3" alt="グラデーション" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>Blue Jeans</sub>
+      <sub>グラデーション</sub>
       <br />
-      <sub>HANA</sub>
+      <sub>SUPER BEAVER</sub>
     </td>
   </tr>
 </table>
