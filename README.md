@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Beautiful sunny day☀️
-📍 New York: 9°C
+# 🌍 你好！晴天真美☀️
+📍 Beijing: 4°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -23,17 +23,9 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと195件ものコミット、お疲れ様です！素晴らしい生産性ですね！🎉
+直近3日間で195件ものコミット、お疲れ様です！👏 fix: パイプライン用に package-lock.json を追跡、Merge pull request #4 from is0692vs:moodleダッシュボード表示してから時間割が出るまでのラグ修正、Merge pull request #2 from is0692vs/1-phase-1-mvp実装基本機能など、多くの作業を進められました。合計19098行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-特に、**code-mantra**では時間ベースの通知機能や、TreeViewを利用したトリガー管理UIといった新機能を次々と実装し、CI/CD関連の修正やコード整形も精力的に進められました。🚀
-**moodle-to-manaba-R**では、MVP基本機能の実装から始まり、時間割表示の性能を大幅に改善。設定UIの追加でカラーカスタマイズを可能にするなど、ユーザー体験向上にこだわり、プライバシー保護やローカルデモ環境の整備も抜かりありませんね！🎨✨
-**is0692vs**リポジトリでは、npmダウンロード統計のREADME自動更新ワークフローを追加したり、Spotify再生履歴の表示機能を追加したりと、情報発信と自己管理の仕組みを強化しています。📈
-また、**link-canvas**のプロジェクト初期セットアップを完了させ、VS Code拡張機能開発の新たな一歩を踏み出しました。🌟
-さらに、**jules-extension**ではREADMEや多言語版ドキュメントの整理・統一を行い、情報の品質向上に貢献しています。🌍
-
-これだけ多くのプロジェクトで、新機能開発から性能改善、ドキュメント整備まで多岐にわたる貢献をされており、本当に素晴らしいです！この調子で頑張ってください！👍
-
-_Total: 125 commits across 5 projects_
+_Total: 124 commits across 5 projects_
 
 <table>
   <tr>
@@ -44,7 +36,7 @@ _Total: 125 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 79 commits (63.2%)</sub>
+      <sub>📊 79 commits (63.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -55,7 +47,7 @@ _Total: 125 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/pr-cannon" target="_blank">pr-cannon</a></strong></sub>
       <br />
-      <sub>📊 22 commits (17.6%)</sub>
+      <sub>📊 22 commits (17.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -66,7 +58,7 @@ _Total: 125 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 14 commits (11.2%)</sub>
+      <sub>📊 13 commits (10.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
