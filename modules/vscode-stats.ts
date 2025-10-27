@@ -1,4 +1,4 @@
-import { vscodeExtensions } from "../config/extensions";
+import { vscodeExtensions, type VscodeExtensionConfig } from "../config/extensions";
 
 interface ExtensionStats {
   id: string;
@@ -6,6 +6,7 @@ interface ExtensionStats {
   installs: number;
   rating: string;
   version: string;
+  repositoryUrl?: string;
 }
 
 interface ExtensionData {
@@ -14,8 +15,9 @@ interface ExtensionData {
 }
 
 async function fetchExtensionStats(
-  extensionId: string
+  config: VscodeExtensionConfig
 ): Promise<ExtensionStats> {
+  const extensionId = config.id;
   const url =
     "https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery";
 
@@ -86,6 +88,7 @@ async function fetchExtensionStats(
     installs,
     rating: ratingText,
     version: extension.versions[0]?.version || "0.0.0",
+    repositoryUrl: config.repositoryUrl,
   };
 }
 
@@ -108,12 +111,14 @@ export async function vscodeStats(): Promise<{
   const text =
     "🚀 VSCode Extensions:\n" +
     stats
-      .map(
-        (s) =>
-          `- **${s.name}**: ${s.installs.toLocaleString()} installs | ${
-            s.rating
-          } | v${s.version}`
-      )
+      .map((s) => {
+        const extensionName = s.repositoryUrl
+          ? `[${s.name}](${s.repositoryUrl})`
+          : s.name;
+        return `- **${extensionName}**: ${s.installs.toLocaleString()} installs | ${
+          s.rating
+        } | v${s.version}`;
+      })
       .join("\n");
 
   const data = stats.map((s) => ({
