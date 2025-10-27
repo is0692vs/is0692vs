@@ -6,7 +6,7 @@ interface ExtensionStats {
   installs: number;
   rating: string;
   version: string;
-  repositoryUrl?: string;
+  relatedUrl?: string;
 }
 
 interface ExtensionData {
@@ -88,7 +88,7 @@ async function fetchExtensionStats(
     installs,
     rating: ratingText,
     version: extension.versions[0]?.version || "0.0.0",
-    repositoryUrl: config.repositoryUrl,
+    relatedUrl: config.relatedUrl,
   };
 }
 
@@ -112,8 +112,8 @@ export async function vscodeStats(): Promise<{
     "🚀 VSCode Extensions:\n" +
     stats
       .map((s) => {
-        const extensionName = s.repositoryUrl
-          ? `[${s.name}](${s.repositoryUrl})`
+        const extensionName = s.relatedUrl
+          ? `[${s.name}](${s.relatedUrl})`
           : s.name;
         return `- **${extensionName}**: ${s.installs.toLocaleString()} installs | ${s.rating
           } | v${s.version}`;

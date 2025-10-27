@@ -3,7 +3,7 @@ import { npmPackages, type NpmPackageConfig } from "../config/packages";
 interface NpmStats {
   package: string;
   downloads: number;
-  repositoryUrl?: string;
+  relatedUrl?: string;
 }
 
 async function fetchNpmStats(config: NpmPackageConfig): Promise<NpmStats> {
@@ -19,7 +19,7 @@ async function fetchNpmStats(config: NpmPackageConfig): Promise<NpmStats> {
   return {
     package: config.name,
     downloads: data.downloads,
-    repositoryUrl: config.repositoryUrl,
+    relatedUrl: config.relatedUrl,
   };
 }
 
@@ -28,8 +28,8 @@ export async function npmStats(): Promise<{ text: string; data: NpmStats[] }> {
 
   const text = stats
     .map((s) => {
-      const packageName = s.repositoryUrl
-        ? `[${s.package}](${s.repositoryUrl})`
+      const packageName = s.relatedUrl
+        ? `[${s.package}](${s.relatedUrl})`
         : s.package;
       return `📦 **${packageName}**: ${s.downloads.toLocaleString()} downloads/week`;
     })
