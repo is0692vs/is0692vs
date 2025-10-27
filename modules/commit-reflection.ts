@@ -180,7 +180,7 @@ async function generateReflection(commits: Commit[]): Promise<string> {
     })
     .join("\n");
 
-  const prompt = `あなたは開発者の週報を作成するアシスタントです。
+  const prompt = `あなたは開発者の日報を作成するアシスタントです。
 以下の直近${DAYS_RANGE}日間のコミット情報を分析し、簡潔で親しみやすい活動サマリーを生成してください。
 
 コミット数: ${commits.length}
@@ -188,13 +188,11 @@ async function generateReflection(commits: Commit[]): Promise<string> {
 ${commitMessages}
 
 要件:
-- 日本語で300文字以内
+- 日本語で500文字以内
 - コミット数と主な作業内容を簡潔に述べる
 - ポジティブで励ましの言葉を含める
-- コミットについて言及するときはリポジトリ名を含める([リポジトリ名]では~~~)
-- 絵文字を適度に使用
-- 「です・ます」調
-- 敬体で応答する
+- コミットについて言及するときはそのコミットが行われたリポジトリ名を含める
+- 絵文字を適度に使う
 - 余計な説明や前置きは不要
 - 直接本文から始める`;
 
