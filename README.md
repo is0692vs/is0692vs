@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy weather today☁️
-📍 Los Angeles: 15°C
+# 🌍 Hello! Foggy and cloudy☁️
+📍 San Francisco: 13°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -23,11 +23,11 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計185件ものコミット、お疲れ様でした！✨
+直近3日間で、なんと185件ものコミットがありました！素晴らしいですね👏
 
-MVP機能の実装をはじめ、時間割表示のパフォーマンスを大幅に改善されましたね。設定UIやカラープリセットの追加でUI/UXも大きく向上し、時間ベースの通知機能も加わり、ユーザー体験がぐっと豊かになります。テスト環境の整備やCI/CDの改善で、開発効率向上にも貢献。ドキュメント整理やプライバシー配慮も素晴らしいです。この調子で次なる成果も楽しみにしています！🚀
+主な活動として、時間割表示のパフォーマンスを大幅に改善し、ユーザー体験が向上しました。設定UIの追加によりカスタマイズ性が増し、プリセットカラーで見た目の調整も可能に。さらに、時間ベースの通知機能やトリガー管理UIが実装され、機能面も大きく進化しています。コードの品質向上やプライバシー保護にも配慮されており、今後の発展がとても楽しみです！🚀
 
-_Total: 144 commits across 4 projects_
+_Total: 141 commits across 4 projects_
 
 <table>
   <tr>
@@ -38,7 +38,7 @@ _Total: 144 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 74 commits (51.4%)</sub>
+      <sub>📊 74 commits (52.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -49,7 +49,7 @@ _Total: 144 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/moodle-to-manaba-R" target="_blank">moodle-to-manaba-R</a></strong></sub>
       <br />
-      <sub>📊 27 commits (18.8%)</sub>
+      <sub>📊 24 commits (17.0%)</sub>
       <br />
       <sub>🟨 JavaScript </sub>
     </td>
@@ -60,7 +60,7 @@ _Total: 144 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/pr-cannon" target="_blank">pr-cannon</a></strong></sub>
       <br />
-      <sub>📊 22 commits (15.3%)</sub>
+      <sub>📊 22 commits (15.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
