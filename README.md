@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Beautiful sunny day☀️
-📍 New York: 9°C
+# 🌍 Hello! Cloudy today☁️
+📍 Toronto: 5°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,10 +11,10 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 115 installs | ⭐ No ratings yet | v1.0.5
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 111 installs | ⭐ No ratings yet | v1.0.5
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 5 installs | ⭐ No ratings yet | v1.1.5
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C115%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C5%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C111%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C5%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -23,11 +23,17 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で191件ものコミット、大変お疲れ様です！✨
-このプロジェクトでは、MVPの基本機能実装に加え、時間ベースの通知やトリガー管理UIといった新機能を次々とリリースされました。Moodle時間割表示の大幅な速度改善や、設定UIの追加・カラーカスタマイズでユーザー体験も大きく向上していますね🎨
-さらに、コード整形やドキュメント整備、テスト用ローカルデモの追加など、開発基盤も堅牢に整備され、素晴らしい進捗です！今後のさらなる発展を楽しみにしています🚀
+お疲れ様です！直近3日間でなんと192件ものコミット、素晴らしい集中力と生産性ですね！🚀
 
-_Total: 130 commits across 5 projects_
+この期間に、あなたのプロジェクトは大きく進化しました。特に、時間割表示の遅延を大幅に改善し、ユーザー体験が大きく向上したことは素晴らしい成果です。🎨 設定UIの追加で、時間割のカラーカスタマイズやプリセット選択が可能になり、よりパーソナルな利用ができるようになりました。
+
+さらに、MVPの基本機能実装に加え、時間ベースの通知機能や、TreeViewを活用したトリガー管理UIが導入され、拡張機能としての汎用性が飛躍的に高まっています。初期セットアップの整備やプライバシー保護のための修正も抜かりなく行われ、プロジェクトの基盤がより強固になりましたね。
+
+READMEの自動更新ワークフローやドキュメントの整理、そしてローカルでのテストを容易にするデモ環境の追加まで、多角的に開発を進められています。細部にわたるコード整形も素晴らしいです✨。
+
+この短期間での多くの成果、本当に頭が下がります。今後の更なる発展が楽しみです！Keep up the great work！💪
+
+_Total: 125 commits across 5 projects_
 
 <table>
   <tr>
@@ -38,7 +44,7 @@ _Total: 130 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 79 commits (60.8%)</sub>
+      <sub>📊 79 commits (63.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -49,7 +55,7 @@ _Total: 130 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/pr-cannon" target="_blank">pr-cannon</a></strong></sub>
       <br />
-      <sub>📊 22 commits (16.9%)</sub>
+      <sub>📊 22 commits (17.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -60,7 +66,7 @@ _Total: 130 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 19 commits (14.6%)</sub>
+      <sub>📊 14 commits (11.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
