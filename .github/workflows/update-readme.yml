@@ -2,7 +2,7 @@ name: Update Profile README
 
 on:
   schedule:
-    - cron: "0 */2 * * *"  # 2時間ごとに実行 (00:00, 02:00, 04:00, ...)
+    - cron: "0 */2 * * *" # 2時間ごとに実行 (00:00, 02:00, 04:00, ...)
   workflow_dispatch:
 
 jobs:
