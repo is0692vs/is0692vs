@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rather cloudy today☁️
-📍 London: 12°C
+# 🌍 Hello! Cloudy today☁️
+📍 Toronto: 5°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -23,13 +23,10 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、151件もの活発なコミット、誠にお疲れ様でした！👏
+直近3日間で180件ものコミット、大変素晴らしいですね！👏
+Moodle時間割の表示遅延を大幅に改善し、ユーザー体験が大きく向上しました。🚀 また、設定UIの追加やカラープリセットの導入で、カスタマイズ性が格段にアップしています。時間ベースの通知機能やトリガー管理UIなど、新機能も精力的に開発されており、幅広い改善が見られます。コード品質の向上やドキュメント整備、プライバシー保護にも配慮されており、多岐にわたる活動に感服いたします。この調子で、これからも素晴らしい開発を続けてください！✨
 
-主な進捗として、時間ベースの通知機能やトリガー管理UI、天気挨拶やアクティブプロジェクト表示など、ユーザー体験を向上させる新機能の実装が多数完了しました。
-
-さらに、READMEの自動更新やドキュメント整理、リポジトリ構造の改善、コード整形といった基盤強化も精力的に行われ、プロジェクト全体が大きく前進しています。多岐にわたる素晴らしい成果、感銘を受けました！この調子で、今後のさらなる発展を期待しています！✨
-
-_Total: 114 commits across 3 projects_
+_Total: 143 commits across 4 projects_
 
 <table>
   <tr>
@@ -40,9 +37,20 @@ _Total: 114 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 72 commits (63.2%)</sub>
+      <sub>📊 74 commits (51.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/is0692vs/moodle-to-manaba-R" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/moodle-to-manaba-R" alt="moodle-to-manaba-R" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/is0692vs/moodle-to-manaba-R" target="_blank">moodle-to-manaba-R</a></strong></sub>
+      <br />
+      <sub>📊 27 commits (18.9%)</sub>
+      <br />
+      <sub>🟨 JavaScript </sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/is0692vs/pr-cannon" target="_blank">
@@ -51,20 +59,9 @@ _Total: 114 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/pr-cannon" target="_blank">pr-cannon</a></strong></sub>
       <br />
-      <sub>📊 22 commits (19.3%)</sub>
+      <sub>📊 22 commits (15.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/jules-extension" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/jules-extension" alt="jules-extension" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
-      <br />
-      <sub>📊 20 commits (17.5%)</sub>
-      <br />
-      <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
   </tr>
 </table>
