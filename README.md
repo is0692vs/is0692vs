@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Il pleut aujourd'hui☔
-📍 Lyon: 14°C
+# 🌍 Hello! Rather cloudy today☁️
+📍 London: 13°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -23,22 +23,33 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計144件ものコミット、素晴らしい集中力ですね！🚀
+直近3日間で合計144件ものコミット、お疲れ様です！素晴らしい活躍ですね！🎉
 
-**link-canvas** では、VS Code拡張機能の初期セットアップから、ファイル依存関係をWebviewとCanvasで可視化する主要機能の実装に着手しました。エディタパネル、ビュー、UI、解析、メッセージングといった基盤の導入、そして視覚設定のリファクタリングと、プロジェクトの核となる部分が大きく前進していますね！✨
+**code-mantra** では、時間ベースの通知機能とトリガー管理UIを実装し、大幅な機能強化を遂げましたね。加えて、パイプライン追跡のためのファイル修正やリポジトリ構造の整理、コード整形といった基盤固めも着実に進められました。
 
-**code-mantra** では、時間ベースの通知機能（TimerManager、設定スキーマ、テスト）や、トリガー管理UI（TreeView、ダイアログ）とロジック（TriggerManager、設定拡張）の実装を進めました。さらに、リポジトリ構造の修正やパイプライン関連の改善も行い、機能と品質の両面で充実しています！💡
+**link-canvas** では、ファイル依存関係を可視化するWebviewとCanvasの基盤を構築！プロジェクトの初期セットアップから、エディタパネル・ビュー・解析ロジックの大幅な追加・再構成、視覚設定のリファクタリングまで、野心的なプロジェクトの根幹を力強く築きました。今後の展開が楽しみです！🚀
 
-**moodle-to-manaba-R** では、時間割表示のパフォーマンスが劇的に改善されましたね！遅延修正、キャッシュ機構、早期レンダリング、そしてON/OFF切り替えの実装によってユーザー体験が向上しました。設定UIの追加（カラーカスタマイズ、プリセット、キャッシュクリア）も素晴らしいです！🎨
+**moodle-to-manaba-R** では、時間割表示の遅延を大幅に改善し、キャッシュ機構と早期レンダリングでユーザー体験を向上させました。さらに、設定UIでのカラーカスタマイズやプリセット追加、ON/OFF切り替えなど、きめ細やかな改善を重ね、より使いやすいツールになりましたね！✨
 
-**is0692vs** リポジトリでは、READMEの更新に注力し、Spotify再生履歴や天気挨拶機能を追加するなど、ご自身の活動やプロジェクトをより魅力的にアピールする工夫が見られます。素晴らしい取り組みですね！🌟
+ご自身の個人リポジトリである **is0692vs** でも、READMEにSpotifyの再生履歴や天気挨拶機能を追加し、情報発信の自動化を構築しました。💡
 
-この短期間での多岐にわたる成果、本当に見事です！これからもこの勢いを保って頑張ってください！🚀
+多岐にわたるプロジェクトで、機能開発からパフォーマンス改善、基盤整備まで、目覚ましい進捗を見せています。この勢いで、来週も素晴らしい開発を期待しています！応援しています！🙌
 
-_Total: 119 commits across 5 projects_
+_Total: 257 commits across 6 projects_
 
 <table>
   <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/is0692vs/vscode-canvas" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/vscode-canvas" alt="vscode-canvas" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/is0692vs/vscode-canvas" target="_blank">vscode-canvas</a></strong></sub>
+      <br />
+      <sub>📊 138 commits (53.7%)</sub>
+      <br />
+      <sub>📄 Unknown </sub>
+    </td>
     <td align="center" width="33%">
       <a href="https://github.com/is0692vs/code-mantra" target="_blank">
         <img src="https://opengraph.githubassets.com/1/is0692vs/code-mantra" alt="code-mantra" width="100%" />
@@ -46,7 +57,7 @@ _Total: 119 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 79 commits (66.4%)</sub>
+      <sub>📊 79 commits (30.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -57,20 +68,9 @@ _Total: 119 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 13 commits (10.9%)</sub>
+      <sub>📊 13 commits (5.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/pr-cannon" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/pr-cannon" alt="pr-cannon" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/is0692vs/pr-cannon" target="_blank">pr-cannon</a></strong></sub>
-      <br />
-      <sub>📊 12 commits (10.1%)</sub>
-      <br />
-      <sub>🔷 TypeScript </sub>
     </td>
   </tr>
 </table>
