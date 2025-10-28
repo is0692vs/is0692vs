@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rather cloudy today☁️
-📍 London: 13°C
+# 🌍 G'day! Rainy weather☔
+📍 Sydney: 13°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -23,33 +23,20 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計144件ものコミット、お疲れ様です！素晴らしい活躍ですね！🎉
+直近3日間で合計138件ものコミット、お疲れ様です！素晴らしい活動量ですね！✨
 
-**code-mantra** では、時間ベースの通知機能とトリガー管理UIを実装し、大幅な機能強化を遂げましたね。加えて、パイプライン追跡のためのファイル修正やリポジトリ構造の整理、コード整形といった基盤固めも着実に進められました。
+**code-mantra** では、時間ベースの通知機能や、トリガーを管理するUI（TreeViewやダイアログ）を精力的に実装されましたね。トリガー処理の分離や設定拡張、CI/CD改善も進められ、機能性も拡張性も大きく向上しています！🚀
 
-**link-canvas** では、ファイル依存関係を可視化するWebviewとCanvasの基盤を構築！プロジェクトの初期セットアップから、エディタパネル・ビュー・解析ロジックの大幅な追加・再構成、視覚設定のリファクタリングまで、野心的なプロジェクトの根幹を力強く築きました。今後の展開が楽しみです！🚀
+**moodle-to-manaba-R** では、時間割表示の遅延を大幅に改善し、ユーザー体験を劇的に向上させました。キャッシュ機構の実装や設定UIの追加・改善（カラーカスタマイズ、プリセット）も行われ、使いやすさが格段にアップしていますね！⚡
 
-**moodle-to-manaba-R** では、時間割表示の遅延を大幅に改善し、キャッシュ機構と早期レンダリングでユーザー体験を向上させました。さらに、設定UIでのカラーカスタマイズやプリセット追加、ON/OFF切り替えなど、きめ細やかな改善を重ね、より使いやすいツールになりましたね！✨
+**is0692vs** リポジトリでは、Spotifyの再生履歴や天気挨拶機能を追加し、READMEをさらに充実させました。アクティブプロジェクトの表示もカード化され、見た目も情報もより分かりやすくなっています🎵🌤️
 
-ご自身の個人リポジトリである **is0692vs** でも、READMEにSpotifyの再生履歴や天気挨拶機能を追加し、情報発信の自動化を構築しました。💡
+多岐にわたるプロジェクトで、新機能開発からパフォーマンス改善、UI/UX向上、ドキュメント整備まで、本当に素晴らしい貢献です！この勢いで次の開発も楽しみですね！🎉
 
-多岐にわたるプロジェクトで、機能開発からパフォーマンス改善、基盤整備まで、目覚ましい進捗を見せています。この勢いで、来週も素晴らしい開発を期待しています！応援しています！🙌
-
-_Total: 257 commits across 6 projects_
+_Total: 113 commits across 5 projects_
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/vscode-canvas" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/vscode-canvas" alt="vscode-canvas" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/is0692vs/vscode-canvas" target="_blank">vscode-canvas</a></strong></sub>
-      <br />
-      <sub>📊 138 commits (53.7%)</sub>
-      <br />
-      <sub>📄 Unknown </sub>
-    </td>
     <td align="center" width="33%">
       <a href="https://github.com/is0692vs/code-mantra" target="_blank">
         <img src="https://opengraph.githubassets.com/1/is0692vs/code-mantra" alt="code-mantra" width="100%" />
@@ -57,7 +44,7 @@ _Total: 257 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 79 commits (30.7%)</sub>
+      <sub>📊 79 commits (69.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -68,9 +55,20 @@ _Total: 257 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 13 commits (5.1%)</sub>
+      <sub>📊 13 commits (11.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/is0692vs/pr-cannon" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/pr-cannon" alt="pr-cannon" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/is0692vs/pr-cannon" target="_blank">pr-cannon</a></strong></sub>
+      <br />
+      <sub>📊 12 commits (10.6%)</sub>
+      <br />
+      <sub>🔷 TypeScript </sub>
     </td>
   </tr>
 </table>
@@ -116,26 +114,26 @@ _Total: 257 commits across 6 projects_
       <sub>HANA</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2739c7d4a442342da6cc2b7f8f4" alt="BAD LOVE" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>BAD LOVE</sub>
-      <br />
-      <sub>HANA</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/79z4gwvetIY6Du3qx9fyPF" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b27323614eec2d80bb91cd38dbe3" alt="グラデーション" width="120" />
       </a>
       <br />
-      <sub><strong>#5</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>グラデーション</sub>
       <br />
       <sub>SUPER BEAVER</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2739c7d4a442342da6cc2b7f8f4" alt="BAD LOVE" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>BAD LOVE</sub>
+      <br />
+      <sub>HANA</sub>
     </td>
   </tr>
 </table>
