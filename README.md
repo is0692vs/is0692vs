@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Rainy weather☔
-📍 Sydney: 14°C
+# 🌍 ¡Hola! Día soleado☀️
+📍 Barcelona: 19°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,10 +11,10 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 119 installs | ⭐ No ratings yet | v1.0.5
-- **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 5 installs | ⭐ No ratings yet | v1.1.5
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 124 installs | ⭐ No ratings yet | v1.0.5
+- **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 7 installs | ⭐ No ratings yet | v1.1.5
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C119%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C5%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C124%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -23,19 +23,19 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと139件もの素晴らしいコミットを積み重ねましたね！🚀
+直近3日間で合計144件ものコミット、お疲れ様です！素晴らしい活動量ですね！🚀
 
-特に、**code-mantra** では、時間ベースの通知機能やトリガー管理のUIを追加し、リファクタリングやリポジトリ構造の整理、初期セットアップと、機能と基盤の両面を強化しました。
+**`code-mantra`** では、時間ベースの通知機能やトリガー管理UIの実装、トリガー処理の分離、パイプライン対応、そしてリポジトリ構造の修正やコード整形など、機能強化と基盤整備に大きく貢献しましたね！✨
 
-**moodle-to-manaba-R** では、時間割表示の遅延を大幅に改善し、設定UIの追加やカラープリセット、キャッシュ機構による早期レンダリングなど、ユーザー体験を大きく向上させましたね！🌈
+新規プロジェクトの **`link-canvas`** では、WebviewとCanvasを使ったファイル依存関係可視化の主要機能を精力的に実装し、初期セットアップから設定の分離まで、プロジェクトの基盤を力強く築き上げていますね！💪
 
-また、**link-canvas** プロジェクトの初期セットアップを完璧に完了させ、VS Code拡張の新しい基盤を築きました。
+**`moodle-to-manaba-R`** では、時間割表示の遅延を大幅に改善し、キャッシュ機構の導入や設定UIの強化（カラープリセット、ON/OFF切り替えなど）で、ユーザー体験とパフォーマンスを大きく向上させましたね！🌟
 
-個人リポジトリの**is0692vs** では、READMEにSpotifyの再生履歴や天気挨拶機能を追加・整理し、アクティブプロジェクトの表示もカード化するなど、プロフィールをより魅力的にアップデートしました！✨
+ご自身の **`is0692vs`** リポジトリでは、READMEにSpotify再生履歴表示や天気挨拶機能を追加するなど、ユニークな情報自動更新の仕組みを導入し、プロフィールを充実させていますね！🌍
 
-これだけ多岐にわたるプロジェクトで、機能強化からパフォーマンス改善、UI/UX向上、そして新規立ち上げまで、目覚ましい成果です！素晴らしい集中力と生産性に脱帽です。お疲れ様でした！👏
+多岐にわたるプロジェクトで、機能開発、パフォーマンス改善、UI強化、そして基盤整備と、目覚ましい成果です！この調子で頑張ってください！🎉
 
-_Total: 114 commits across 5 projects_
+_Total: 119 commits across 5 projects_
 
 <table>
   <tr>
@@ -46,7 +46,7 @@ _Total: 114 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 79 commits (69.3%)</sub>
+      <sub>📊 79 commits (66.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -57,7 +57,7 @@ _Total: 114 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 13 commits (11.4%)</sub>
+      <sub>📊 13 commits (10.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -68,7 +68,7 @@ _Total: 114 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/pr-cannon" target="_blank">pr-cannon</a></strong></sub>
       <br />
-      <sub>📊 12 commits (10.5%)</sub>
+      <sub>📊 12 commits (10.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
