@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hallo! Es regnet☔
-📍 Berlin: 9°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Madrid: 17°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -23,19 +23,19 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと139件ものコミット、お疲れ様でした！素晴らしい活動量ですね👏
+直近3日間で139ものコミット、素晴らしい集中力ですね！🚀✨
 
-**code-mantra** では、時間ベースの通知機能や、トリガー管理UIの追加という主要な新機能実装を進めましたね。さらに、リポジトリ構造の整理や基盤の初期構築、コード整形、日本語READMEの追加とフォーマット統一にも力を入れ、プロジェクトの骨格がしっかり固まってきました！🚀
+まず、**link-canvas** では、VS Code拡張の初期セットアップを完了させ、Webview UIやビルド構成など、プロジェクトの土台を一気に築き上げました。新しい挑戦、応援しています！🌟
 
-**link-canvas** では、VSCode拡張としての壮大な初期セットアップが完了しましたね！ReactとReact Flowを使ったWebview UIの導入など、これからの開発が非常に楽しみです✨
+**code-mantra** では、時間ベースの通知機能とトリガー管理UIを実装し、操作性を大幅に向上させました。TimerManagerでの柔軟なタイマー管理やリファクタリングも進め、機能強化と改善が目覚ましいですね！💡
 
-**moodle-to-manaba-R** では、ユーザー体験の改善に大きく貢献されました。時間割表示の遅延を大幅に改善し、設定UIやカラープリセット、キャッシュ機構の実装で、使いやすさとパフォーマンスが格段に向上しましたね。ユーザーもきっと喜ぶはずです🎨⚡
+**moodle-to-manaba-R** では、時間割表示の遅延を大幅に改善し、設定UIにカラープリセットやON/OFFトグルを追加。特にキャッシュ機構の実装は、パフォーマンスとユーザー体験を劇的に向上させました。素晴らしい成果です！🎨⚡
 
-ご自身の**is0692vs** リポジトリでも、READMEにSpotify再生履歴や天気挨拶機能を追加し、情報表示を分かりやすく整理するなど、日々の活動を楽しく可視化する工夫が光っていますね！💡
+そして、**is0692vs** リポジトリでは、Spotify再生履歴や天気挨拶機能でREADMEをさらに魅力的に。アクティブプロジェクト表示もカード形式に整理し、情報を分かりやすく伝える工夫が光りますね！🌈
 
-どのプロジェクトでも着実に、そして意欲的に前進している様子が伺えます。この調子でこれからも頑張ってください！応援しています！🎉
+多岐にわたる活動、素晴らしいの一言です！この勢いで、これからも素敵な開発を続けていきましょう！応援しています！💪
 
-_Total: 106 commits across 5 projects_
+_Total: 100 commits across 4 projects_
 
 <table>
   <tr>
@@ -46,7 +46,7 @@ _Total: 106 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 79 commits (74.5%)</sub>
+      <sub>📊 77 commits (77.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -57,7 +57,7 @@ _Total: 106 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 13 commits (12.3%)</sub>
+      <sub>📊 13 commits (13.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -68,7 +68,7 @@ _Total: 106 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/moodle-to-manaba-R" target="_blank">moodle-to-manaba-R</a></strong></sub>
       <br />
-      <sub>📊 8 commits (7.5%)</sub>
+      <sub>📊 8 commits (8.0%)</sub>
       <br />
       <sub>🟨 JavaScript </sub>
     </td>
