@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy today☁️
-📍 Toronto: 9°C
+# 🌍 안녕하세요! 오늘은 흐린 날씨네요☁️
+📍 Seoul: 10°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -25,7 +25,7 @@
 直近3日間の活動サマリー:
 直近3日間で139件ものコミット、お疲れ様です！👏 fix: パイプライン用に package-lock.json を追跡、初期セットアップ: Link Canvas VSCode拡張の基本構成を追加、Merge pull request #4 from is0692vs:moodleダッシュボード表示してから時間割が出るまでのラグ修正など、多くの作業を進められました。合計16630行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-_Total: 75 commits across 4 projects_
+_Total: 70 commits across 4 projects_
 
 <table>
   <tr>
@@ -36,7 +36,7 @@ _Total: 75 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 52 commits (69.3%)</sub>
+      <sub>📊 47 commits (67.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -47,7 +47,7 @@ _Total: 75 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 13 commits (17.3%)</sub>
+      <sub>📊 13 commits (18.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -58,7 +58,7 @@ _Total: 75 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/moodle-to-manaba-R" target="_blank">moodle-to-manaba-R</a></strong></sub>
       <br />
-      <sub>📊 8 commits (10.7%)</sub>
+      <sub>📊 8 commits (11.4%)</sub>
       <br />
       <sub>🟨 JavaScript </sub>
     </td>
