@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Rainy weather☔
-📍 Sydney: 13°C
+# 🌍 Hallo! Es regnet☔
+📍 Berlin: 9°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -23,17 +23,19 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計138件ものコミット、お疲れ様です！素晴らしい活動量ですね！✨
+直近3日間で、なんと139件ものコミット、お疲れ様でした！素晴らしい活動量ですね👏
 
-**code-mantra** では、時間ベースの通知機能や、トリガーを管理するUI（TreeViewやダイアログ）を精力的に実装されましたね。トリガー処理の分離や設定拡張、CI/CD改善も進められ、機能性も拡張性も大きく向上しています！🚀
+**code-mantra** では、時間ベースの通知機能や、トリガー管理UIの追加という主要な新機能実装を進めましたね。さらに、リポジトリ構造の整理や基盤の初期構築、コード整形、日本語READMEの追加とフォーマット統一にも力を入れ、プロジェクトの骨格がしっかり固まってきました！🚀
 
-**moodle-to-manaba-R** では、時間割表示の遅延を大幅に改善し、ユーザー体験を劇的に向上させました。キャッシュ機構の実装や設定UIの追加・改善（カラーカスタマイズ、プリセット）も行われ、使いやすさが格段にアップしていますね！⚡
+**link-canvas** では、VSCode拡張としての壮大な初期セットアップが完了しましたね！ReactとReact Flowを使ったWebview UIの導入など、これからの開発が非常に楽しみです✨
 
-**is0692vs** リポジトリでは、Spotifyの再生履歴や天気挨拶機能を追加し、READMEをさらに充実させました。アクティブプロジェクトの表示もカード化され、見た目も情報もより分かりやすくなっています🎵🌤️
+**moodle-to-manaba-R** では、ユーザー体験の改善に大きく貢献されました。時間割表示の遅延を大幅に改善し、設定UIやカラープリセット、キャッシュ機構の実装で、使いやすさとパフォーマンスが格段に向上しましたね。ユーザーもきっと喜ぶはずです🎨⚡
 
-多岐にわたるプロジェクトで、新機能開発からパフォーマンス改善、UI/UX向上、ドキュメント整備まで、本当に素晴らしい貢献です！この勢いで次の開発も楽しみですね！🎉
+ご自身の**is0692vs** リポジトリでも、READMEにSpotify再生履歴や天気挨拶機能を追加し、情報表示を分かりやすく整理するなど、日々の活動を楽しく可視化する工夫が光っていますね！💡
 
-_Total: 113 commits across 5 projects_
+どのプロジェクトでも着実に、そして意欲的に前進している様子が伺えます。この調子でこれからも頑張ってください！応援しています！🎉
+
+_Total: 106 commits across 5 projects_
 
 <table>
   <tr>
@@ -44,7 +46,7 @@ _Total: 113 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 79 commits (69.9%)</sub>
+      <sub>📊 79 commits (74.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -55,20 +57,20 @@ _Total: 113 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 13 commits (11.5%)</sub>
+      <sub>📊 13 commits (12.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/pr-cannon" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/pr-cannon" alt="pr-cannon" width="100%" />
+      <a href="https://github.com/is0692vs/moodle-to-manaba-R" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/moodle-to-manaba-R" alt="moodle-to-manaba-R" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/is0692vs/pr-cannon" target="_blank">pr-cannon</a></strong></sub>
+      <sub><strong><a href="https://github.com/is0692vs/moodle-to-manaba-R" target="_blank">moodle-to-manaba-R</a></strong></sub>
       <br />
-      <sub>📊 12 commits (10.6%)</sub>
+      <sub>📊 8 commits (7.5%)</sub>
       <br />
-      <sub>🔷 TypeScript </sub>
+      <sub>🟨 JavaScript </sub>
     </td>
   </tr>
 </table>
