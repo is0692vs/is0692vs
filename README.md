@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 안녕하세요! 오늘은 흐린 날씨네요☁️
-📍 Seoul: 10°C
+# 🌍 おはよう！いい天気だね☀️
+📍 Hiroshima: 8°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -23,9 +23,21 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で139件ものコミット、お疲れ様です！👏 fix: パイプライン用に package-lock.json を追跡、初期セットアップ: Link Canvas VSCode拡張の基本構成を追加、Merge pull request #4 from is0692vs:moodleダッシュボード表示してから時間割が出るまでのラグ修正など、多くの作業を進められました。合計16630行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+お疲れ様です！直近3日間で合計139件ものコミット、素晴らしいですね！🚀✨ さっそく活動サマリーをお届けします。
 
-_Total: 70 commits across 4 projects_
+この3日間は、複数のプロジェクトで大規模な機能開発や改善に精力的に取り組まれました。
+
+まず、VS Code拡張機能の**code-mantra**では、時間ベースの通知機能（タイマー管理）と、トリガー管理UI（TreeViewやダイアログ）を新たに実装されましたね！初期セットアップからリファクタリング、READMEの日本語化まで、拡張機能の基盤と機能の両面で大きな進捗がありました。
+
+同じくVS Code拡張機能の**link-canvas**では、拡張本体、Webview UI、ビルド設定、ドキュメントなど、プロジェクトの基本構成を大規模に追加し、華々しいスタートを切られました！🛠️
+
+Chrome拡張機能の**moodle-to-manaba-R**では、時間割表示の遅延を大幅に改善するパフォーマンスチューニングを行い、キャッシュ機構による即時レンダリングも実現されました。さらに、設定UIにカラープリセットやON/OFFトグル、キャッシュクリア機能を追加し、ユーザー体験が大きく向上しましたね！🎨
+
+そして、ご自身の活動をまとめる**is0692vs**リポジトリでは、READMEにSpotifyの再生履歴表示や天気挨拶機能を追加し、情報表示をさらにパーソナライズされました。プロジェクトのカード化など、見せ方の工夫も素晴らしいです！📊
+
+多岐にわたる開発、本当に頭が下がります！この勢いで、次の目標も達成していきましょう！💪
+
+_Total: 68 commits across 4 projects_
 
 <table>
   <tr>
@@ -36,7 +48,7 @@ _Total: 70 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 47 commits (67.1%)</sub>
+      <sub>📊 45 commits (66.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -47,7 +59,7 @@ _Total: 70 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 13 commits (18.6%)</sub>
+      <sub>📊 13 commits (19.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -58,7 +70,7 @@ _Total: 70 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/moodle-to-manaba-R" target="_blank">moodle-to-manaba-R</a></strong></sub>
       <br />
-      <sub>📊 8 commits (11.4%)</sub>
+      <sub>📊 8 commits (11.8%)</sub>
       <br />
       <sub>🟨 JavaScript </sub>
     </td>
