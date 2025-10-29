@@ -1,20 +1,20 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Mexico City: 9°C
+# 🌍 你好！今天多云☁️
+📍 Beijing: 14°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
-📦 **[pr-cannon](https://github.com/is0692vs/pr-cannon)**: 613 downloads/week
+📦 **[pr-cannon](https://github.com/is0692vs/pr-cannon)**: 634 downloads/week
 
-![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%2C601%2C613%2C613%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Weekly%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%2C601%2C613%2C634%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Weekly%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- stats:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 145 installs | ⭐ No ratings yet | v1.0.5
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 135 installs | ⭐ No ratings yet | v1.0.5
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 8 installs | ⭐ No ratings yet | v1.1.5
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C145%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C135%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -23,19 +23,21 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-お疲れ様です！直近3日間で、なんと110件ものコミットをこなし、多岐にわたるプロジェクトで素晴らしい進捗を見せていますね！🚀
+直近3日間で合計110件ものコミット、お疲れ様でした！素晴らしいペースですね！👏✨
 
-特に**link-canvas**では、VSCode拡張のキャンバスUI基盤を大々的に整備しました。ズーム、リサイズ、Monacoエディタの統合から始まり、React Flow依存を除去したネイティブなInfiniteCanvasへの移行、さらにはMonaco上でのリサイズハンドルのイベント到達性改善まで、技術的に挑戦的な課題を次々とクリアしていますね！🎨✨
+各プロジェクトの進捗を振り返ってみましょう。
 
-**moodle-to-manaba-R**では、時間割表示のパフォーマンスが劇的に向上しました。遅延の修正、カラフルな設定UIの追加、そしてキャッシュ機構による爆速レンダリングで、ユーザー体験が大きく改善されたことでしょう。ドキュメント整備も完璧です！📚💨
+**[link-canvas]** では、WebviewベースのキャンバスUI開発が大きく前進しましたね！🚀 初期セットアップから始まり、Monacoエディタとの統合、ズーム・リサイズ機能の基盤整備、さらにはReact Flowへの依存を解消し、独自の「InfiniteCanvas」を実装。Monaco上でのリサイズハンドル操作のデバッグ・改修まで、ユーザー体験を追求した基盤構築が着々と進んでいます！
 
-**code-mantra**では、生産性向上に貢献する新機能が多数実装されましたね！タイマーベースの通知機能（ポモドーロなど）に加え、そのトリガーを直感的に管理できるTreeViewやダイアログUIも追加され、より柔軟な作業管理が可能になりました。素晴らしい！⏰💡
+**[moodle-to-manaba-R]** では、ユーザー体験とパフォーマンスが大幅に向上しました。時間割表示のラグ修正に加え、設定UIの追加でカラーカスタマイズが可能に🎨。さらに、キャッシュ機構と早期レンダリングの実装で、初期表示の遅延をゼロにする改善も！ドキュメント整備も完璧ですね。
 
-また、**is0692vs**リポジトリでは、READMEの自動更新機能が進化。天気挨拶の追加やSpotify、アクティブプロジェクトの表示を整理・簡素化し、プロフィールを魅力的に見せる工夫も凝らされていますね！🌦️🎵
+**[code-mantra]** では、時間ベースの通知機能が見事に実装されましたね！⏱️ これにより、作業時間の管理がより柔軟に。さらに、トリガーを直感的に操作できる管理UI（TreeViewやダイアログ）も追加され、使いやすさが格段にアップしました。
 
-どれもユーザーに喜ばれる、価値ある機能追加や改善ばかりです。この調子でこれからも頑張ってください！💪😊
+**[is0692vs]** のリポジトリでは、READMEのコンテンツ自動生成が進化しましたね！🌤️ 天気挨拶機能やSpotify再生履歴、アクティブプロジェクトをより見やすく整理し、VSCode統計も更新。情報が常に新鮮に保たれるのは素晴らしいです！
 
-_Total: 84 commits across 4 projects_
+どのプロジェクトでも、機能追加、パフォーマンス改善、UI/UX向上、そしてコード品質の維持に精力的に取り組んでいますね。この調子で、これからも素晴らしい開発を続けてください！応援しています！😊
+
+_Total: 82 commits across 4 projects_
 
 <table>
   <tr>
@@ -46,7 +48,7 @@ _Total: 84 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 41 commits (48.8%)</sub>
+      <sub>📊 39 commits (47.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -57,7 +59,7 @@ _Total: 84 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/link-canvas" target="_blank">link-canvas</a></strong></sub>
       <br />
-      <sub>📊 22 commits (26.2%)</sub>
+      <sub>📊 22 commits (26.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -68,7 +70,7 @@ _Total: 84 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 13 commits (15.5%)</sub>
+      <sub>📊 13 commits (15.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -105,11 +107,22 @@ _Total: 84 commits across 4 projects_
       <sub>LANA</sub>
     </td>
     <td align="center">
+      <a href="https://open.spotify.com/track/61Yl4bWKSUeNxe6jPgKq5c" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27342f80e91cb2fa0f4a7570d8f" alt="プロミスザスター" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>プロミスザスター</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
       <a href="https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2733d342336e7841b9beef14e1d" alt="ROSE" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>ROSE</sub>
       <br />
@@ -120,22 +133,11 @@ _Total: 84 commits across 4 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b27323614eec2d80bb91cd38dbe3" alt="グラデーション" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#5</strong></sub>
       <br />
       <sub>グラデーション</sub>
       <br />
       <sub>SUPER BEAVER</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2739c7d4a442342da6cc2b7f8f4" alt="BAD LOVE" width="120" />
-      </a>
-      <br />
-      <sub><strong>#5</strong></sub>
-      <br />
-      <sub>BAD LOVE</sub>
-      <br />
-      <sub>HANA</sub>
     </td>
   </tr>
 </table>
