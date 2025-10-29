@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！今日は曇り空ですね☁️
-📍 Tokyo: 13°C
+# 🌍 Olá! Dia chuvoso☔
+📍 São Paulo: 26°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -23,33 +23,12 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で110コミット、素晴らしい集中力ですね！🚀
+直近3日間で110件ものコミット、お疲れ様です！👏 Webview: キャンバスUI大幅追加・ズーム/リサイズ/Monaco統合を実装、初期セットアップ: Link Canvas VSCode拡張の基本構成を追加、Merge pull request #4 from is0692vs:moodleダッシュボード表示してから時間割が出るまでのラグ修正など、多くの作業を進められました。合計13853行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-**[link-canvas]** では、WebviewベースのキャンバスUIを開発し、初期セットアップからズーム、リサイズ、Monacoエディタ統合といった基本操作性を大幅に強化しました。特にReact FlowからネイティブなInfiniteCanvasへの移行や、Monaco上でのリサイズハンドル問題を解決し、基盤の安定性向上に大きく貢献しています！
-
-**[moodle-to-manaba-R]** では、時間割表示のパフォーマンスを劇的に改善。キャッシュ機構や早期レンダリングで初期遅延をゼロに近づけました。設定UIの拡充により、カラーカスタマイズやプリセット追加でユーザー体験も大きく向上しましたね！🎨✨
-
-**[code-mantra]** では、時間ベースの通知機能を実装し、TimerManagerや詳細な設定スキーマを導入。トリガー管理のためのTreeViewやダイアログUIも追加され、機能と操作性の両面で大きく改善されました。コード整形やREADMEの日本語化も進み、プロジェクト全体が洗練されました！⏱️⚙️
-
-**[is0692vs]** では、READMEにSpotifyの再生履歴やOpenWeather連携による天気挨拶機能を追加し、視覚的な整理も進められました。アクティブプロジェクトをカード形式にするなど、プロフィール関連の充実が図られています！🌈🎤
-
-どのプロジェクトも着実に進化しており、素晴らしい進捗です！この調子で頑張ってください！💪
-
-_Total: 67 commits across 4 projects_
+_Total: 63 commits across 4 projects_
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/code-mantra" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/code-mantra" alt="code-mantra" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
-      <br />
-      <sub>📊 24 commits (35.8%)</sub>
-      <br />
-      <sub>🔷 TypeScript </sub>
-    </td>
     <td align="center" width="33%">
       <a href="https://github.com/is0692vs/link-canvas" target="_blank">
         <img src="https://opengraph.githubassets.com/1/is0692vs/link-canvas" alt="link-canvas" width="100%" />
@@ -57,7 +36,18 @@ _Total: 67 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/link-canvas" target="_blank">link-canvas</a></strong></sub>
       <br />
-      <sub>📊 22 commits (32.8%)</sub>
+      <sub>📊 22 commits (34.9%)</sub>
+      <br />
+      <sub>🔷 TypeScript </sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/is0692vs/code-mantra" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/code-mantra" alt="code-mantra" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
+      <br />
+      <sub>📊 20 commits (31.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -68,7 +58,7 @@ _Total: 67 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 13 commits (19.4%)</sub>
+      <sub>📊 13 commits (20.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
