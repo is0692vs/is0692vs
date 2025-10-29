@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Está lloviendo☔
-📍 Madrid: 14°C
+# 🌍 こんにちは！今日は曇り空ですね☁️
+📍 Tokyo: 13°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,10 +11,10 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 140 installs | ⭐ No ratings yet | v1.0.5
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 146 installs | ⭐ No ratings yet | v1.0.5
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 8 installs | ⭐ No ratings yet | v1.1.5
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C140%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C146%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -23,17 +23,17 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-お疲れ様です！直近3日間で合計110件ものコミット、素晴らしい集中力ですね！🚀
+直近3日間で110コミット、素晴らしい集中力ですね！🚀
 
-**[link-canvas]** では、WebviewベースのキャンバスUIの基盤を精力的に整備しました。ズーム、リサイズ、Monaco統合を実現し、さらにReact FlowからネイティブなInfiniteCanvasへの移行で、より軽量で安定した操作性を確立。Monaco上でのリサイズハンドルの問題もポータル化で解決するなど、細部までこだわりを感じます！✨
+**[link-canvas]** では、WebviewベースのキャンバスUIを開発し、初期セットアップからズーム、リサイズ、Monacoエディタ統合といった基本操作性を大幅に強化しました。特にReact FlowからネイティブなInfiniteCanvasへの移行や、Monaco上でのリサイズハンドル問題を解決し、基盤の安定性向上に大きく貢献しています！
 
-**[moodle-to-manaba-R]** では、時間割表示の遅延を大幅に改善し、キャッシュ機構で爆速レンダリングを実現しましたね！🎉 また、設定UIの追加やカラーカスタマイズ、プリセット導入で使い勝手がぐんと向上。ドキュメント整備もバッチリです！
+**[moodle-to-manaba-R]** では、時間割表示のパフォーマンスを劇的に改善。キャッシュ機構や早期レンダリングで初期遅延をゼロに近づけました。設定UIの拡充により、カラーカスタマイズやプリセット追加でユーザー体験も大きく向上しましたね！🎨✨
 
-**[code-mantra]** では、時間ベースの通知機能やトリガー管理UIの実装を進めました。TreeViewやダイアログで操作性を高め、コード整形にも力を入れ、品質と機能の両面で大きく前進しました！👍
+**[code-mantra]** では、時間ベースの通知機能を実装し、TimerManagerや詳細な設定スキーマを導入。トリガー管理のためのTreeViewやダイアログUIも追加され、機能と操作性の両面で大きく改善されました。コード整形やREADMEの日本語化も進み、プロジェクト全体が洗練されました！⏱️⚙️
 
-**[is0692vs]** では、READMEにSpotifyの再生履歴や天気挨拶機能を統合し、情報をさらに充実させましたね！📊
+**[is0692vs]** では、READMEにSpotifyの再生履歴やOpenWeather連携による天気挨拶機能を追加し、視覚的な整理も進められました。アクティブプロジェクトをカード形式にするなど、プロフィール関連の充実が図られています！🌈🎤
 
-複数のプロジェクトで多岐にわたる開発、本当にお見事です！この勢いで、これからも素晴らしい成果を楽しみにしています！💪
+どのプロジェクトも着実に進化しており、素晴らしい進捗です！この調子で頑張ってください！💪
 
 _Total: 67 commits across 4 projects_
 
