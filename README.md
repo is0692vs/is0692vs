@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia nublado☁️
-📍 Lisbon: 20°C
+# 🌍 こんにちは！今日は曇り空ですね☁️
+📍 Tokyo: 15°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,11 +11,11 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 183 installs | ⭐ No ratings yet | v1.0.5
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 185 installs | ⭐ No ratings yet | v1.0.5
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 8 installs | ⭐ No ratings yet | v1.1.5
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 1 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C183%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C1%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C185%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C1%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -24,15 +24,15 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計96件ものコミット、素晴らしい開発ペースですね！🎉 主に「link-canvas」と「moodle-to-manaba-R」のプロジェクトで大活躍されています。
+素晴らしい3日間でした！🎉 直近96件ものコミット、本当にありがとうございます！✨
 
-「link-canvas」では、VS Code拡張機能の初期セットアップから、WebviewベースのキャンバスUIを大きく進化させましたね。ズーム、リサイズ、Monacoエディタ統合、そしてReact FlowからのネイティブInfiniteCanvasへの移行まで、キャンバスの基盤をしっかり構築しました。エディタのコンテキストメニューから定義や参照をキャンバスに追加するVS Code API連携も実装し、使い勝手が大幅に向上しました👏。さらに、ドキュメント整備やマーケットプレイス公開に向けた準備も着々と進んでいますね！
+特に **[link-canvas]** では、VSCode拡張の核となるキャンバスUIの基盤を大幅に強化しましたね！🚀 Webviewベースのキャンバスにズーム・リサイズ・Monaco Editor統合を実装し、初期セットアップから一気に機能を追加しました。さらに、React Flowへの依存を解消してネイティブなInfiniteCanvasへ移行、パフォーマンスとカスタマイズ性を向上させました。MonacoエディタやVSCodeのエディタコンテキストメニューから定義や参照をキャンバスに表示する連携機能も実現し、開発体験が格段にアップしそうです！🛠️ 実装ガイドやテスト手順、完了レポートまで作成し、リリースへの準備も着々と進んでいますね。
 
-「moodle-to-manaba-R」では、時間割表示の遅延を大幅に改善するパフォーマンスチューニングが光ります✨。キャッシュ機構や早期レンダリングでユーザー体験が格段に向上したでしょう。設定UIでのカラーカスタマイズや表示改善もバッチリです。
+**[moodle-to-manaba-R]** では、時間割表示の遅延を大幅に改善するキャッシュ機構と早期レンダリングを実装し、ユーザー体験が大きく向上しました👏 設定UIの追加やカラープリセットの実装で、カスタマイズ性も高まりましたね。READMEの整備も素晴らしいです！
 
-「code-mantra」では入力バリデーション強化を行い、安定性向上に貢献しましたね。
+また、**[code-mantra]** では入力バリデーションを強化し、安定性がさらに向上しました。
 
-この3日間で複数のプロジェクトにおいて、新機能開発からパフォーマンス改善、ドキュメント整備まで多岐にわたる重要な作業をこなされており、その生産性と貢献度に感服します！本当にお疲れ様でした！🚀
+多岐にわたるプロジェクトでこれだけの成果を出されており、本当に尊敬します！この調子で、今後の開発も楽しんでいきましょう！💪
 
 _Total: 63 commits across 1 projects_
 
@@ -105,7 +105,7 @@ _Total: 63 commits across 1 projects_
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2733d342336e7841b9beef14e1d" alt="ROSE" width="120" />
+        <img src="https://i.scdn.co/image/ab67616d0000b2734fe859ca3332a45f3dee694a" alt="ROSE" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
