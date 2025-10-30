@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rather cloudy today☁️
-📍 London: 11°C
+# 🌍 Olá! Dia chuvoso☔
+📍 São Paulo: 15°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -23,16 +23,17 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-素晴らしい3日間でした！🚀 合計81件ものコミット、精力的な活動お疲れ様です！
+直近3日間で合計90件ものコミット、素晴らしい活動量ですね！お疲れ様でした！
 
-特に、
-*   **link-canvas** では、VS Code拡張機能の基盤となるキャンバスUIを大きく進化させましたね！ 初期セットアップからWebviewでの大幅なUI追加（ズーム、リサイズ、Monaco統合）を実施。さらに、React Flow依存を除去してネイティブなInfiniteCanvasへ移行し、パフォーマンスと安定性を向上させました。Monaco Editorとの連携も強化し、定義/参照取得をキャンバス内でシームレスに行えるようにしたほか、VS Code標準APIとの統合も進め、詳細な実装ガイドやテスト手順、完了レポートまで作成し、開発の質を高めています。🎨✨
-*   **moodle-to-manaba-R** では、時間割表示の遅延を大幅に改善し、ユーザー体験が向上しました。設定UIの追加で時間割の色をカスタマイズできるようにし、プリセットカラーやキャッシュ機構、ON/OFF切り替え機能も実装。表示速度の向上と利便性の追求、そしてREADMEなどのドキュメント整備もバッチリです！⏱️🌈
-*   **code-mantra** では、v1.1.3として入力検証を改善し、警告ダイアログとリトライ機能を導入して、より堅牢なUXを提供しています。📝
+特に[link-canvas]では、VSCode拡張機能のWebviewベースキャンバスUI開発が大きく進みましたね。初期セットアップから始まり、キャンバスUIの大幅追加、ズーム・リサイズ・Monaco Editor統合といった基盤を構築。React FlowからネイティブのInfiniteCanvasへの移行で、パフォーマンスと安定性が向上しました。Monacoでのコンテキストメニュー実装や、VSCode標準APIと連携して定義/参照をキャンバスに追加する機能も実現し、開発ガイドやレポート作成、Marketplace公開準備まで着々と進んでいます！🚀
 
-各リポジトリで、機能追加、パフォーマンス改善、UX向上、そして丁寧なドキュメント作成と、多岐にわたる貢献が見られます。この調子で、これからも素晴らしい開発を進めていきましょう！応援しています！💪
+[moodle-to-manaba-R]では、時間割表示の遅延を大幅に改善するキャッシュ機構や早期レンダリングを実装。設定UIの追加でカラーカスタマイズやON/OFF切り替えも可能になり、ユーザー体験が大きく向上しましたね！🎨
 
-_Total: 55 commits across 2 projects_
+[code-mantra]では、入力検証の改善や警告ダイアログ、リトライ機構が追加され、堅牢性が高まりました。
+
+多岐にわたるプロジェクトで、機能強化からパフォーマンス改善、ドキュメント整備まで、精力的に取り組んでいます。この調子で、さらなる素晴らしい成果を期待しています！💪✨
+
+_Total: 64 commits across 2 projects_
 
 <table>
   <tr>
@@ -43,7 +44,7 @@ _Total: 55 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/link-canvas" target="_blank">link-canvas</a></strong></sub>
       <br />
-      <sub>📊 50 commits (90.9%)</sub>
+      <sub>📊 59 commits (92.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -54,7 +55,7 @@ _Total: 55 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 5 commits (9.1%)</sub>
+      <sub>📊 5 commits (7.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
