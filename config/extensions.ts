@@ -14,4 +14,9 @@ export const vscodeExtensions: VscodeExtensionConfig[] = [
         id: "hirokimukai.code-mantra",
         relatedUrl: "https://github.com/is0692vs/code-mantra",
     },
+    {
+        id: "hirokimukai.link-canvas",
+        relatedUrl: "https://github.com/is0692vs/link-canvas",
+    },
+
 ];
