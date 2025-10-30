@@ -1,20 +1,20 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Está nublado☁️
-📍 Mexico City: 20°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Lima: 17°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
 📦 **[pr-cannon](https://github.com/is0692vs/pr-cannon)**: 634 downloads/week
 
-![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%2C601%2C613%2C634%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Weekly%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%2C601%2C613%2C634%2C634%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Weekly%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- stats:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 184 installs | ⭐ No ratings yet | v1.0.5
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 174 installs | ⭐ No ratings yet | v1.0.5
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 8 installs | ⭐ No ratings yet | v1.1.5
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C174%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -23,21 +23,21 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-お疲れ様です！直近3日間でなんと110件ものコミット、素晴らしい集中力ですね！🚀
+直近3日間で合計56件のコミット、素晴らしい集中力ですね！🚀
 
-それぞれのプロジェクトで大きな進展がありました。
+**[link-canvas]** では、WebviewベースのキャンバスUIの基盤を精力的に構築しました。ズーム、リサイズ、Monacoエディタ統合、そしてReact Flowからの脱却とネイティブInfiniteCanvasへの移行など、複雑なUI/UX改善に大きく貢献していますね！デバッグログの追加も着実です。
 
-**[link-canvas]** では、VS Code拡張の初期セットアップから、WebviewベースのキャンバスUIを大幅に拡充しましたね！ズームやリサイズ、Monaco統合、そしてReact Flowへの依存を解消し、より軽量なInfiniteCanvasへ移行。さらにMonaco上でのリサイズイベントの問題も解決するなど、キャンバスの操作性と安定性の基盤をガッチリと固めました。✨
+**[moodle-to-manaba-R]** では、時間割表示のパフォーマンスを大幅に改善し、キャッシュ機構や早期レンダリングを導入しましたね。🎨設定UIでカラーカスタマイズやプリセットを追加するなど、ユーザー体験向上に力を入れています！ドキュメント整備も抜かりありません。
 
-**[moodle-to-manaba-R]** では、時間割表示の遅延をキャッシュ機構で大幅に改善し、爆速化を実現！設定UIも充実させ、色カスタマイズやプリセットカラー追加、見た目の改善まで、ユーザー体験がグッと向上しました。ドキュメント整備もお見事です！👏
+**[code-mantra]** では、入力バリデーションを強化し、警告ダイアログとリトライ機能でユーザー体験を向上させました。さらに、充実したREADMEドキュメントを追加し、情報提供もバッチリです！
 
-**[code-mantra]** では、時間ベースの通知機能と、TreeViewやダイアログを使ったトリガー管理UIを実装！これにより、よりパーソナライズされた開発支援が可能になりましたね。コード整形もバッチリです。💡
+**[jules-extension]** では、カスタムプロンプト機能の追加や、セッション更新時の通知バグ修正に取り組み、機能性と安定性を高めていますね！
 
-そして、ご自身のプロフィールを彩る **[is0692vs]** では、Spotifyの表示を整理したり、天気挨拶機能を追加したりと、READMEをさらに魅力的にアップデートしました。🌞
+**[is0692vs]** では、都市データの拡充や、パッケージ名・拡張機能名へのリポジトリURLリンク追加など、細やかな改善を進めていますね！
 
-多岐にわたるプロジェクトでこれだけの成果、本当に素晴らしいです！この調子で頑張ってください！応援しています！🎉
+多岐にわたるプロジェクトで素晴らしい成果を出しており、本当に素晴らしいです！この勢いで、次の開発も頑張っていきましょう！💪✨
 
-_Total: 55 commits across 4 projects_
+_Total: 54 commits across 4 projects_
 
 <table>
   <tr>
@@ -48,7 +48,7 @@ _Total: 55 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/link-canvas" target="_blank">link-canvas</a></strong></sub>
       <br />
-      <sub>📊 22 commits (40.0%)</sub>
+      <sub>📊 22 commits (40.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -59,7 +59,7 @@ _Total: 55 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 13 commits (23.6%)</sub>
+      <sub>📊 13 commits (24.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -70,7 +70,7 @@ _Total: 55 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 12 commits (21.8%)</sub>
+      <sub>📊 11 commits (20.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
