@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Lima: 17°C
+# 🌍 おはようございます！曇り空のようですね☁️
+📍 Kyoto: 15°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,10 +11,10 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 174 installs | ⭐ No ratings yet | v1.0.5
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 183 installs | ⭐ No ratings yet | v1.0.5
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 8 installs | ⭐ No ratings yet | v1.1.5
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C174%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C183%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -23,21 +23,21 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計56件のコミット、素晴らしい集中力ですね！🚀
+直近3日間で合計56件ものコミット、大変お疲れ様でした！👏 複数のリポジトリで活発な開発が進んでいますね。
 
-**[link-canvas]** では、WebviewベースのキャンバスUIの基盤を精力的に構築しました。ズーム、リサイズ、Monacoエディタ統合、そしてReact Flowからの脱却とネイティブInfiniteCanvasへの移行など、複雑なUI/UX改善に大きく貢献していますね！デバッグログの追加も着実です。
+特に「link-canvas」では、VS Code拡張機能の基盤構築と機能強化に大きく貢献されましたね！🎨 WebviewベースのキャンバスUI実装から始まり、ズーム、リサイズ、Monaco統合といった操作性の土台を固めました。React FlowからのネイティブInfiniteCanvasへの移行や、リサイズハンドルのイベント処理改善は、安定性と軽量化に大きく貢献しています！✨
 
-**[moodle-to-manaba-R]** では、時間割表示のパフォーマンスを大幅に改善し、キャッシュ機構や早期レンダリングを導入しましたね。🎨設定UIでカラーカスタマイズやプリセットを追加するなど、ユーザー体験向上に力を入れています！ドキュメント整備も抜かりありません。
+「moodle-to-manaba-R」では、時間割表示のパフォーマンスが大幅に向上しました🚀 キャッシュ機構や早期レンダリングでユーザー体験が格段にアップ。設定UIやカラープリセットの追加で、カスタマイズ性も高まり、ドキュメント整備やリリースワークフロー追加も素晴らしいです！
 
-**[code-mantra]** では、入力バリデーションを強化し、警告ダイアログとリトライ機能でユーザー体験を向上させました。さらに、充実したREADMEドキュメントを追加し、情報提供もバッチリです！
+「code-mantra」では、入力バリデーションが強化され、警告ダイアログとリトライ機能でユーザー体験が向上しました📚 また、詳細なREADMEの追加で、機能の理解やトラブルシューティングがよりスムーズになりますね！
 
-**[jules-extension]** では、カスタムプロンプト機能の追加や、セッション更新時の通知バグ修正に取り組み、機能性と安定性を高めていますね！
+「jules-extension」では、カスタムプロンプト機能が追加され、通知機能も安定性が増したようです。新機能と安定化の両立、お見事です！💡
 
-**[is0692vs]** では、都市データの拡充や、パッケージ名・拡張機能名へのリポジトリURLリンク追加など、細やかな改善を進めていますね！
+そして「is0692vs」リポジトリでは、都市データの追加や多言語対応、さらにコミットリフレクションの強化に取り組まれましたね。🌐 パッケージ情報の改善も素晴らしいです！
 
-多岐にわたるプロジェクトで素晴らしい成果を出しており、本当に素晴らしいです！この勢いで、次の開発も頑張っていきましょう！💪✨
+この数日間の多岐にわたる精力的な活動、本当に素晴らしい成果です！今後の進展も楽しみにしています！
 
-_Total: 54 commits across 4 projects_
+_Total: 34 commits across 4 projects_
 
 <table>
   <tr>
@@ -48,20 +48,9 @@ _Total: 54 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/link-canvas" target="_blank">link-canvas</a></strong></sub>
       <br />
-      <sub>📊 22 commits (40.7%)</sub>
+      <sub>📊 22 commits (64.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/jules-extension" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/jules-extension" alt="jules-extension" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
-      <br />
-      <sub>📊 13 commits (24.1%)</sub>
-      <br />
-      <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/is0692vs/code-mantra" target="_blank">
@@ -70,9 +59,20 @@ _Total: 54 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 11 commits (20.4%)</sub>
+      <sub>📊 7 commits (20.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/is0692vs/moodle-to-manaba-R" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/moodle-to-manaba-R" alt="moodle-to-manaba-R" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/is0692vs/moodle-to-manaba-R" target="_blank">moodle-to-manaba-R</a></strong></sub>
+      <br />
+      <sub>📊 4 commits (11.8%)</sub>
+      <br />
+      <sub>🟨 JavaScript </sub>
     </td>
   </tr>
 </table>
@@ -85,26 +85,26 @@ _Total: 54 commits across 4 projects_
 <table>
   <tr>
     <td align="center">
-      <a href="https://open.spotify.com/track/1Z8JOVjvZNhwOdwOVqZPpI" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273fc5e4067581a0bf29e65afbb" alt="Good" width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>Good</sub>
-      <br />
-      <sub>CHANMINA</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/79z4gwvetIY6Du3qx9fyPF" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b27323614eec2d80bb91cd38dbe3" alt="グラデーション" width="120" />
       </a>
       <br />
-      <sub><strong>#2</strong></sub>
+      <sub><strong>#1</strong></sub>
       <br />
       <sub>グラデーション</sub>
       <br />
       <sub>SUPER BEAVER</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1Z8JOVjvZNhwOdwOVqZPpI" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273fc5e4067581a0bf29e65afbb" alt="Good" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>Good</sub>
+      <br />
+      <sub>CHANMINA</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/61Yl4bWKSUeNxe6jPgKq5c" target="_blank">
