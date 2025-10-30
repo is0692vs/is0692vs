@@ -21,6 +21,7 @@ interface Commit {
     additions: number;
     deletions: number;
   };
+  repository?: string; // リポジトリ名を追加
 }
 
 interface CommitReflectionResult {
@@ -98,6 +99,7 @@ async function getLastNDaysCommits(): Promise<Commit[]> {
                 const detailData = (await detailResponse.json()) as any;
                 commit.stats = detailData.stats || { total: 0, additions: 0, deletions: 0 };
                 commit.files = detailData.files || [];
+                commit.repository = repo; // リポジトリ名を設定
               }
             } catch (error) {
               console.debug(`Failed to fetch commit details for ${repo}`);
@@ -105,6 +107,7 @@ async function getLastNDaysCommits(): Promise<Commit[]> {
               if (!commit.stats) {
                 commit.stats = { total: 0, additions: 0, deletions: 0 };
               }
+              commit.repository = repo; // リポジトリ名を設定
             }
           }
 
@@ -176,25 +179,25 @@ async function generateReflection(commits: Commit[]): Promise<string> {
       const additions = c.stats?.additions || 0;
       const deletions = c.stats?.deletions || 0;
       const lineChanges = additions + deletions;
-      return `- ${c.commit.message} (+${additions}/-${deletions})`;
+      const repoName = c.repository || "unknown";
+      return `- [${repoName}] ${c.commit.message} (+${additions}/-${deletions})`;
     })
     .join("\n");
 
-  const prompt = `あなたは開発者の週報を作成するアシスタントです。
+  const prompt = `あなたは開発者の日報を作成するアシスタントです。
 以下の直近${DAYS_RANGE}日間のコミット情報を分析し、簡潔で親しみやすい活動サマリーを生成してください。
 
 コミット数: ${commits.length}
-コミット情報（変更行数が多い上位20件。形式: +追加行数/-削除行数）:
+コミット情報(変更行数が多い上位20件。形式: [リポジトリ名] コミットメッセージ +追加行数/-削除行数):
 ${commitMessages}
 
 要件:
-- 日本語で300文字以内
+- 日本語で500文字以内
 - コミット数と主な作業内容を簡潔に述べる
+- 各コミットについて言及する際は、必ずそのリポジトリ名を明記する(例:「jules-extensionでは新機能の開発を行いましたね!」)
+- リポジトリごとに主な作業内容をまとめて説明する
 - ポジティブで励ましの言葉を含める
-- コミットについて言及するときはリポジトリ名を含める([リポジトリ名]では~~~)
-- 絵文字を適度に使用
-- 「です・ます」調
-- 敬体で応答する
+- 絵文字を適度に使う
 - 余計な説明や前置きは不要
 - 直接本文から始める`;
 
