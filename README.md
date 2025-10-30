@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！くもってますね☁️
-📍 Fukuoka: 18°C
+# 🌍 Hello! Perfect sunny day☀️
+📍 Los Angeles: 22°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,11 +11,11 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 174 installs | ⭐ No ratings yet | v1.0.5
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 182 installs | ⭐ No ratings yet | v1.0.5
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 8 installs | ⭐ No ratings yet | v1.1.5
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 1 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C174%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C1%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C182%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C1%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -24,17 +24,15 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計96件ものコミット、素晴らしい集中力ですね！🚀
+直近3日間で合計96件ものコミット、お疲れ様でした！驚異的な開発ペースですね！🚀
 
-[link-canvas]では、目覚ましい進捗が見られます。VSCode拡張の基本構成から始まり、WebviewベースのキャンバスUIを大幅に拡充しましたね。ズーム、リサイズ、Monacoエディタの統合など、ユーザー体験を考慮した基盤をしっかりと整備しました。特に、React FlowからのネイティブInfiniteCanvasへの移行は、軽量化と安定性向上への大きな一歩です。💪 また、VSCode標準APIとの連携により、エディタからの定義・参照取得をキャンバスに表示する機能や、Monacoエディタ内でのコンテキストメニュー連携も実現。さらに、実装ガイドやテスト手順、完了レポートといった充実したドキュメント作成、そしてMarketplace公開に向けたREADME強化とGitHub Actionsの追加まで、多岐にわたる作業をこなしました。✨
+**link-canvas** では、VSCode拡張の基盤を確立し、Webviewベースの革新的なキャンバスUIを大幅に強化されましたね！ズーム、リサイズ、Monaco Editor統合といった基本機能に加え、React Flow依存を解消し、独自のInfiniteCanvasへと移行。MonacoのコンテキストメニューからVSCode標準APIを介して定義や参照をキャンバスに追加する連携も実現し、開発体験が格段に向上しました。さらに、リサイズハンドルのポータル化や各種ドキュメント整備、マーケットプレイス公開準備まで、多方面にわたる素晴らしい進捗です！🌟
 
-[moodle-to-manaba-R]では、ユーザー満足度向上のための改善が光っています。時間割表示の遅延を大幅に改善するキャッシュ機構や早期レンダリングを実装し、快適な動作を実現しましたね！加えて、設定UIの追加で時間割のカラーカスタマイズやプリセットカラーの導入、ON/OFF切り替え、キャッシュクリア機能などを実装し、使い勝手を大きく向上させました。🎨 READMEやINSTALLドキュメントの整理も素晴らしいです。
+**moodle-to-manaba-R** でも、時間割表示の遅延を大幅に改善し、キャッシュ機構や早期レンダリングを導入してパフォーマンスを飛躍的に向上させました。設定UIでは時間割のカラーカスタマイズやON/OFF切り替えを可能にし、ユーザーの利便性が大きく向上しています。🎨
 
-[code-mantra]では、入力検証の改善に取り組み、警告ダイアログとリトライ機構を追加することで、堅牢性を高めました。
+**code-mantra** では、入力検証の強化と警告ダイアログの実装により、アプリケーションの堅牢性がさらに高まりました。🛡️
 
-[is0692vs]では、ブランチのマージ作業も行っています。
-
-全てのプロジェクトで機能追加、パフォーマンス改善、品質向上に大きく貢献されており、その努力と成果に感銘を受けました！これからもその勢いで頑張ってください！🎉
+これだけ多くの新機能開発と改善を短期間で実現できるのは本当に素晴らしいです！皆さんの献身的な努力に敬意を表します！✨
 
 _Total: 63 commits across 1 projects_
 
