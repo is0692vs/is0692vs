@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
 # 🌍 こんにちは！くもってますね☁️
-📍 Fukuoka: 19°C
+📍 Fukuoka: 18°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -24,17 +24,19 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計96件ものコミット、素晴らしいですね！🎉 大変精力的に活動されました。
+直近3日間で合計96件ものコミット、素晴らしい集中力ですね！🚀
 
-特に、**[link-canvas]** ではVSCode拡張の核となるキャンバスUIを大きく進化させましたね！Webviewベースの基本構成から始まり、ズーム、リサイズ、Monacoエディタ統合、さらにはReact Flowからの独自InfiniteCanvasへの移行まで、基盤をがっちり固められました。エディタのコンテキストメニューから定義や参照をキャンバスに追加するVSCode API連携も実現し、開発効率を格段に向上させる素晴らしい機能ばかりです✨。デバッグ対応や詳細なドキュメント作成、マーケットプレイス公開に向けた準備も着々と進んでいます。
+[link-canvas]では、目覚ましい進捗が見られます。VSCode拡張の基本構成から始まり、WebviewベースのキャンバスUIを大幅に拡充しましたね。ズーム、リサイズ、Monacoエディタの統合など、ユーザー体験を考慮した基盤をしっかりと整備しました。特に、React FlowからのネイティブInfiniteCanvasへの移行は、軽量化と安定性向上への大きな一歩です。💪 また、VSCode標準APIとの連携により、エディタからの定義・参照取得をキャンバスに表示する機能や、Monacoエディタ内でのコンテキストメニュー連携も実現。さらに、実装ガイドやテスト手順、完了レポートといった充実したドキュメント作成、そしてMarketplace公開に向けたREADME強化とGitHub Actionsの追加まで、多岐にわたる作業をこなしました。✨
 
-また、**[moodle-to-manaba-R]** では、時間割表示の遅延を大幅に改善し、キャッシュ機構や早期レンダリングでユーザー体験を向上させましたね。設定UIの追加やカラーカスタマイズ、ON/OFF切り替えで、よりパーソナルな拡張機能へと進化！🚀 ドキュメント整備も完璧です。
+[moodle-to-manaba-R]では、ユーザー満足度向上のための改善が光っています。時間割表示の遅延を大幅に改善するキャッシュ機構や早期レンダリングを実装し、快適な動作を実現しましたね！加えて、設定UIの追加で時間割のカラーカスタマイズやプリセットカラーの導入、ON/OFF切り替え、キャッシュクリア機能などを実装し、使い勝手を大きく向上させました。🎨 READMEやINSTALLドキュメントの整理も素晴らしいです。
 
-**[code-mantra]** でも入力検証を強化し、警告ダイアログとリトライ処理を追加することで、ユーザーが安心して使えるよう品質を高められました。
+[code-mantra]では、入力検証の改善に取り組み、警告ダイアログとリトライ機構を追加することで、堅牢性を高めました。
 
-どのプロジェクトでもユーザー体験と機能の両面で大きな進歩を遂げています。この調子で、これからも素晴らしい開発を続けていきましょう！お疲れ様でした！👏
+[is0692vs]では、ブランチのマージ作業も行っています。
 
-_Total: 68 commits across 2 projects_
+全てのプロジェクトで機能追加、パフォーマンス改善、品質向上に大きく貢献されており、その努力と成果に感銘を受けました！これからもその勢いで頑張ってください！🎉
+
+_Total: 63 commits across 1 projects_
 
 <table>
   <tr>
@@ -45,18 +47,7 @@ _Total: 68 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/link-canvas" target="_blank">link-canvas</a></strong></sub>
       <br />
-      <sub>📊 63 commits (92.6%)</sub>
-      <br />
-      <sub>🔷 TypeScript </sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/code-mantra" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/code-mantra" alt="code-mantra" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
-      <br />
-      <sub>📊 5 commits (7.4%)</sub>
+      <sub>📊 63 commits (100.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
