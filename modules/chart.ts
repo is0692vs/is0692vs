@@ -38,7 +38,7 @@ export function generateChartUrl(history: StatsHistory[]): string {
     options: {
       title: {
         display: true,
-        text: "npm Weekly Downloads",
+        text: "npm Downloads",
       },
       scales: {
         yAxes: [
