@@ -1,12 +1,12 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！雨ですね☔
-📍 Hiroshima: 14°C
+# 🌍 Olá! Dia chuvoso☔
+📍 São Paulo: 19°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
 📦 **[pr-cannon](https://github.com/is0692vs/pr-cannon)**: 641 total downloads
 
-![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%2C601%2C613%2C634%2C636%2C641%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Weekly%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%2C601%2C613%2C634%2C636%2C641%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- stats:end -->
 
 <!-- vscode-stats:start -->
@@ -24,13 +24,13 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと77件ものコミットがありましたね！素晴らしい活動量です👏
+直近3日間で、なんと合計80件ものコミットがありましたね！素晴らしい集中力です！💪✨
 
-特に**`link-canvas`**リポジトリでは、WebviewベースのキャンバスUIが大きく進化しました！ズームやリサイズ、Monacoエディタの統合、さらにはReact Flowから独自のInfiniteCanvasへの移行など、機能の根幹部分を精力的に開発・改善されましたね。VSCodeのコンテキストメニューから定義や参照をキャンバスに表示する機能も実装され、実装ガイドやテスト手順の作成、マーケットプレイス公開に向けた準備まで着手されているのは驚きです🚀
+特に**link-canvas**リポジトリでは、WebviewベースのキャンバスUIが大きく進化しました。ズームやリサイズ、Monaco Editorとの統合の基盤を構築し、React FlowからネイティブのInfiniteCanvasへの移行でパフォーマンスも向上させました。VSCode標準APIとの連携により、エディタやMonaco Editorのコンテキストメニューから定義や参照を直接キャンバスへ表示できるようになったのは大きな進歩です！📝✨ また、Marketplace公開に向けたドキュメント整備やGitHub Actionsの追加もバッチリですね。
 
-一方、**`code-mantra`**リポジリトでは、アイドル状態検知や大量削除、ファイルサイズ超過といった新しいトリガーと通知機能を実装し、開発体験向上に貢献されましたね。IdleManagerのデバウンス処理改善やテスト強化もバッチリです👍
+一方、**code-mantra**リポジトリでは、開発者の作業をサポートする新機能が続々登場！ユーザーのアイドル状態を検知して通知する機能や、大量削除・ファイルサイズ超過を知らせるトリガーが追加され、より賢くプロジェクトを監視できるようになりましたね。👏
 
-これらの活発な開発は、プロジェクトの大きな前進に繋がっていますね！この調子で頑張ってください！✨
+多岐にわたる重要な開発、お疲れ様でした！この調子でこれからも頑張ってください！🚀
 
 _Total: 81 commits across 3 projects_
 
