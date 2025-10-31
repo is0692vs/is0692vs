@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia chuvoso☔
-📍 São Paulo: 19°C
+# 🌍 Hello! Sunny and warm☀️
+📍 Miami: 19°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -24,15 +24,15 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと合計80件ものコミットがありましたね！素晴らしい集中力です！💪✨
+直近3日間で合計82件もの素晴らしいコミット、お疲れ様でした！✨
 
-特に**link-canvas**リポジトリでは、WebviewベースのキャンバスUIが大きく進化しました。ズームやリサイズ、Monaco Editorとの統合の基盤を構築し、React FlowからネイティブのInfiniteCanvasへの移行でパフォーマンスも向上させました。VSCode標準APIとの連携により、エディタやMonaco Editorのコンテキストメニューから定義や参照を直接キャンバスへ表示できるようになったのは大きな進歩です！📝✨ また、Marketplace公開に向けたドキュメント整備やGitHub Actionsの追加もバッチリですね。
+**link-canvas** では、WebviewベースのキャンバスUIが大きく進化しましたね！ズームやリサイズ、Monacoエディタ統合の基盤を整備し、さらにReact Flowから独自のInfiniteCanvasへの移行で見事なパフォーマンス改善を実現しました。VSCodeやMonacoエディタとのコンテキストメニュー連携も強化され、定義や参照をキャンバスに表示できるようになったのは画期的な機能です👏。ドキュメント整備やMarketplace公開準備も着々と進められ、本当に素晴らしいです！
 
-一方、**code-mantra**リポジトリでは、開発者の作業をサポートする新機能が続々登場！ユーザーのアイドル状態を検知して通知する機能や、大量削除・ファイルサイズ超過を知らせるトリガーが追加され、より賢くプロジェクトを監視できるようになりましたね。👏
+一方、**code-mantra** では、開発効率をサポートする新機能が追加されました。アイドル状態検知機能の実装と改善、そして大量削除やファイルサイズ超過を検知して通知するトリガー機能も搭載され、開発体験がさらに向上しましたね💡。
 
-多岐にわたる重要な開発、お疲れ様でした！この調子でこれからも頑張ってください！🚀
+両リポジトリで重要な機能開発、基盤改善、そしてドキュメント作成と多岐にわたる活躍、本当に素晴らしいです！引き続きの貢献を楽しみにしています！🚀
 
-_Total: 81 commits across 3 projects_
+_Total: 83 commits across 3 projects_
 
 <table>
   <tr>
@@ -43,7 +43,7 @@ _Total: 81 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/link-canvas" target="_blank">link-canvas</a></strong></sub>
       <br />
-      <sub>📊 63 commits (77.8%)</sub>
+      <sub>📊 63 commits (75.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -54,7 +54,7 @@ _Total: 81 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 17 commits (21.0%)</sub>
+      <sub>📊 19 commits (22.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
