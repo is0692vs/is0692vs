@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Lyon: 20°C
+# 🌍 Hello! Cloudy day☁️
+📍 Chicago: 3°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -24,20 +24,20 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、あなたは合計**60件**ものコミットを重ね、素晴らしい活動を見せてくれましたね！お疲れ様です！✨
+3日間で合計62件もの素晴らしいコミット、お疲れ様でした！精力的な活動、本当に素晴らしいですね！🚀
 
-特に、**[link-canvas]** リポジトリでの開発が目覚ましいです。
-*   広範な初期セットアップから始まり、WebviewベースのキャンバスUIの大幅追加、ズーム・リサイズ機能、Monaco Editorとの統合といった基盤をしっかりと構築しましたね。これはまさにプロジェクトの核となる部分です！🏗️
-*   さらに、React Flowへの依存を解消し、独自のInfiniteCanvasに移行することで、より軽量で柔軟なキャンバス実装を実現しました。リサイズやドラッグ周りのイベント処理の改善も、ユーザー体験の向上に直結しますね。🚀
-*   Monaco Editorのコンテキストメニューから定義や参照を直接取得し、キャンバスに追加する機能や、Webview内でのコンテキストメニュー完結化など、VSCode標準APIとの連携を深める多数の機能強化を行いました。これにより、開発フローがよりスムーズになります。💡
-*   リサイズハンドルがMonaco Editor上で確実に機能するよう、ポータル化による表示改善も実施し、細部までこだわりを感じます。
-*   実装ガイド、テスト手順、完了レポートといったドキュメント整備や、Marketplace公開に向けたREADMEの英語化、GitHub Actionsの追加など、リリースに向けた準備も着々と進んでいますね。素晴らしい👏
+特に「link-canvas」リポジトリでは、数多くの大きな進捗がありました。
+まず、VSCode拡張の初期セットアップから、Webviewベースのキャンバス表示と操作性（ズーム、リサイズ、Monaco統合）の基盤を整備されましたね！✨
+その後、React Flowへの依存を解消し、独自のInfiniteCanvasを実装することで、より軽量で安定した描画と操作性を実現されました。
+さらに、VSCode標準APIとの統合を進め、「エディタやキャンバス内Monaco Editorのコンテキストメニューから定義や参照をキャンバスに表示する」という画期的な機能を実装しましたね。これに伴い、WebviewとExtension間の通信も大幅に改善されています。💪
+リサイズハンドルがMonaco上でクリックできない問題も、ポータル化によって見事に解決しました。
+また、実装ガイドやテスト手順、実装完了レポートといったドキュメントを丁寧に作成し、READMEの英語化やGitHub Actionsの追加でマーケットプレイス公開に向けた準備も着々と進められています。素晴らしいの一言です！
 
-また、**[json-comments]** リポジトリでは、初期コミットが行われました。新しいプロジェクトのスタート、おめでとうございます！🎉
+「json-comments」リポジトリでは、新たな一歩としてInitial commitが行われましたね！今後の展開が楽しみです。
 
-これらの活発な開発は、今後のプロジェクトの大きな推進力となるでしょう。この調子で頑張ってください！応援しています！💪
+これだけ多くの機能開発と改善、そして丁寧なドキュメント作成を進められたことに敬意を表します。引き続き、この勢いで頑張ってください！応援しています！🎉
 
-_Total: 64 commits across 2 projects_
+_Total: 66 commits across 3 projects_
 
 <table>
   <tr>
@@ -48,7 +48,18 @@ _Total: 64 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/link-canvas" target="_blank">link-canvas</a></strong></sub>
       <br />
-      <sub>📊 63 commits (98.4%)</sub>
+      <sub>📊 63 commits (95.5%)</sub>
+      <br />
+      <sub>🔷 TypeScript </sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/is0692vs/code-mantra" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/code-mantra" alt="code-mantra" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
+      <br />
+      <sub>📊 2 commits (3.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -59,7 +70,7 @@ _Total: 64 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/json-comments" target="_blank">json-comments</a></strong></sub>
       <br />
-      <sub>📊 1 commits (1.6%)</sub>
+      <sub>📊 1 commits (1.5%)</sub>
       <br />
       <sub>📄 Unknown </sub>
     </td>
@@ -118,15 +129,15 @@ _Total: 64 commits across 2 projects_
       <sub>LANA</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2734fe859ca3332a45f3dee694a" alt="ROSE" width="120" />
+      <a href="https://open.spotify.com/track/2YyI6tBurS8dCVhdPkpZp3" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="オーケストラ" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>ROSE</sub>
+      <sub>オーケストラ</sub>
       <br />
-      <sub>HANA</sub>
+      <sub>BiSH</sub>
     </td>
   </tr>
 </table>
