@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Belle journée ensoleillée☀️
-📍 Paris: 16°C
+# 🌍 Olá! Dia chuvoso☔
+📍 São Paulo: 21°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,11 +11,11 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 216 installs | ⭐ No ratings yet | v1.0.5
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 215 installs | ⭐ No ratings yet | v1.0.5
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 3 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C216%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C215%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -24,9 +24,15 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で88件ものコミット、お疲れ様です！👏 Merge pull request #9 from is0692vs/feat/vscode-context-menu-integration、Webview: キャンバスUI大幅追加・ズーム/リサイズ/Monaco統合を実装、初期セットアップ: Link Canvas VSCode拡張の基本構成を追加など、多くの作業を進められました。合計16318行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+3日間で合計90件ものコミット、素晴らしい集中力と進捗ですね！お疲れ様でした！✨
 
-_Total: 82 commits across 3 projects_
+まず`link-canvas`リポジトリでは、VSCode拡張のキャンバスUIが目覚ましい進化を遂げました。Webviewベースのキャンバス表示に、ズーム、リサイズ、Monaco Editor統合といった主要機能が大幅に追加され、操作性が格段に向上しましたね。特にReact FlowからネイティブのInfiniteCanvasへの移行は、パフォーマンスとカスタマイズ性を高める大きな決断でした。Monacoのコンテキストメニューから定義/参照に飛べる連携も実装され、開発体験が飛躍的に向上しています！🚀 さらに、実装ガイド、テスト手順、完了レポートといったドキュメント整備や、Marketplace公開に向けたREADME拡充、GitHub Actionsの追加も着々と進められています。💪
+
+一方`code-mantra`リポジトリでは、通知機能がより賢く、安定するよう改善されました。アイドル状態検知や、大量削除・ファイルサイズ超過といった新しいトリガーが追加され、ユーザーへのフィードバックが強化されています。また、SuppressionManagerの導入により、通知の重複や誤検知が効果的に防止され、IdleManagerのデバウンス処理改善やテストの追加で、堅牢性も向上しましたね！🔧
+
+両リポジトリともに、多岐にわたる重要な機能開発と安定性向上が詰まった3日間でした。この調子でさらなる開発を楽しんでください！🎉
+
+_Total: 74 commits across 5 projects_
 
 <table>
   <tr>
@@ -37,7 +43,7 @@ _Total: 82 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/link-canvas" target="_blank">link-canvas</a></strong></sub>
       <br />
-      <sub>📊 56 commits (68.3%)</sub>
+      <sub>📊 47 commits (63.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -48,20 +54,20 @@ _Total: 82 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 25 commits (30.5%)</sub>
+      <sub>📊 25 commits (33.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/json-comments" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/json-comments" alt="json-comments" width="100%" />
+      <a href="https://github.com/is0692vs/Audicle" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/Audicle" alt="Audicle" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/is0692vs/json-comments" target="_blank">json-comments</a></strong></sub>
+      <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 1 commits (1.2%)</sub>
+      <sub>📊 1 commits (1.4%)</sub>
       <br />
-      <sub>📄 Unknown </sub>
+      <sub>🟨 JavaScript </sub>
     </td>
   </tr>
 </table>
