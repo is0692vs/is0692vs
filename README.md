@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia chuvoso☔
-📍 São Paulo: 21°C
+# 🌍 ¡Hola! Está lloviendo☔
+📍 Bogotá: 16°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -24,15 +24,19 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-3日間で合計90件ものコミット、素晴らしい集中力と進捗ですね！お疲れ様でした！✨
+直近3日間で合計119件ものコミット、大変お疲れ様でした！精力的な開発で素晴らしい成果が出ていますね✨
 
-まず`link-canvas`リポジトリでは、VSCode拡張のキャンバスUIが目覚ましい進化を遂げました。Webviewベースのキャンバス表示に、ズーム、リサイズ、Monaco Editor統合といった主要機能が大幅に追加され、操作性が格段に向上しましたね。特にReact FlowからネイティブのInfiniteCanvasへの移行は、パフォーマンスとカスタマイズ性を高める大きな決断でした。Monacoのコンテキストメニューから定義/参照に飛べる連携も実装され、開発体験が飛躍的に向上しています！🚀 さらに、実装ガイド、テスト手順、完了レポートといったドキュメント整備や、Marketplace公開に向けたREADME拡充、GitHub Actionsの追加も着々と進められています。💪
+特に**settlemate**では、グループ招待コード参加フォームの追加や、ドキュメント（README.md, CONTRIBUTING.md, API.md, USER_GUIDE.mdなど）の包括的な日本語化・整備を完了させ、ユーザー体験と開発効率の両面を大きく向上させましたね！🚀
 
-一方`code-mantra`リポジトリでは、通知機能がより賢く、安定するよう改善されました。アイドル状態検知や、大量削除・ファイルサイズ超過といった新しいトリガーが追加され、ユーザーへのフィードバックが強化されています。また、SuppressionManagerの導入により、通知の重複や誤検知が効果的に防止され、IdleManagerのデバウンス処理改善やテストの追加で、堅牢性も向上しましたね！🔧
+**link-canvas**では、VSCode拡張機能の初期セットアップから目覚ましい進捗がありました！WebviewベースのキャンバスUI（ズーム、リサイズ、Monaco Editor統合）を大幅に実装し、React Flow依存を排除した独自のInfiniteCanvasへ移行。ファイル依存関係をSVGで描画する機能や、Monaco Editor内での定義/参照取得コンテキストメニュー、VSCode設定によるスタイルカスタマイズ機能も追加し、拡張機能の核となる部分を一気に構築しましたね！実装ガイドやテスト手順のドキュメントも整備され、今後の発展が楽しみです🌟
 
-両リポジトリともに、多岐にわたる重要な機能開発と安定性向上が詰まった3日間でした。この調子でさらなる開発を楽しんでください！🎉
+**ChronoClip**では、パフォーマンス最適化に加え、特定ドメインの読み込みを制御するリスト機能を追加。ユーザーがより快適に使えるサービスへと改善を進めています。
 
-_Total: 74 commits across 5 projects_
+**code-mantra**では、大規模なリファクタリングを行い、イベントハンドラを簡素化してコードの保守性を高めました。
+
+多岐にわたるプロジェクトで、機能追加、ドキュメント整備、パフォーマンス改善、リファクタリングと、本当に素晴らしい集中力と成果です！この調子で頑張ってくださいね！💪
+
+_Total: 136 commits across 7 projects_
 
 <table>
   <tr>
@@ -43,7 +47,18 @@ _Total: 74 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/link-canvas" target="_blank">link-canvas</a></strong></sub>
       <br />
-      <sub>📊 47 commits (63.5%)</sub>
+      <sub>📊 76 commits (55.9%)</sub>
+      <br />
+      <sub>🔷 TypeScript </sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/is0692vs/settlemate" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/settlemate" alt="settlemate" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/is0692vs/settlemate" target="_blank">settlemate</a></strong></sub>
+      <br />
+      <sub>📊 28 commits (20.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -54,20 +69,9 @@ _Total: 74 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 25 commits (33.8%)</sub>
+      <sub>📊 25 commits (18.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/Audicle" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/Audicle" alt="Audicle" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
-      <br />
-      <sub>📊 1 commits (1.4%)</sub>
-      <br />
-      <sub>🟨 JavaScript </sub>
     </td>
   </tr>
 </table>
