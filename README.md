@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Sunny and warm☀️
-📍 Miami: 19°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Lima: 17°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -12,7 +12,7 @@
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
 - **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 202 installs | ⭐ No ratings yet | v1.0.5
-- **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 8 installs | ⭐ No ratings yet | v1.1.7
+- **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 8 installs | ⭐ No ratings yet | v1.1.8
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 3 installs | ⭐ No ratings yet | v0.1.3
 
 ![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C202%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C8%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
@@ -24,15 +24,15 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計82件もの素晴らしいコミット、お疲れ様でした！✨
+直近3日間で、なんと83件ものコミットがありましたね！素晴らしい集中力と活動量です！🚀
 
-**link-canvas** では、WebviewベースのキャンバスUIが大きく進化しましたね！ズームやリサイズ、Monacoエディタ統合の基盤を整備し、さらにReact Flowから独自のInfiniteCanvasへの移行で見事なパフォーマンス改善を実現しました。VSCodeやMonacoエディタとのコンテキストメニュー連携も強化され、定義や参照をキャンバスに表示できるようになったのは画期的な機能です👏。ドキュメント整備やMarketplace公開準備も着々と進められ、本当に素晴らしいです！
+特に、`link-canvas` リポジトリでは、VSCode拡張の基盤構築から、WebviewベースのキャンバスUI大幅追加、ズーム・リサイズ・Monaco統合といった中核機能の整備を精力的に進められました。React Flowから独自のInfiniteCanvasへの移行で安定性を高め、Monaco Editor上でのリサイズハンドルの動作改善も実現。さらに、VSCodeエディタやMonaco内のコンテキストメニューと連携し、定義・参照をキャンバスに表示する機能も実装されましたね！実装ガイドやテスト手順、完了レポートの作成、そしてマーケットプレイス公開に向けたREADMEの英語化やGitHub Actionsの追加と、ドキュメント整備と公開準備も着々と進んでいます。素晴らしい取り組みです！✨
 
-一方、**code-mantra** では、開発効率をサポートする新機能が追加されました。アイドル状態検知機能の実装と改善、そして大量削除やファイルサイズ超過を検知して通知するトリガー機能も搭載され、開発体験がさらに向上しましたね💡。
+また、`code-mantra` リポジトリでは、アイドル状態検知に加え、コードの大量削除やファイルサイズ超過をトリガーとする新しい通知機能が追加され、開発体験の向上に貢献しています。関連するリファクタリングやテストも充実させ、非常に堅牢な機能になっていますね！👍
 
-両リポジトリで重要な機能開発、基盤改善、そしてドキュメント作成と多岐にわたる活躍、本当に素晴らしいです！引き続きの貢献を楽しみにしています！🚀
+この短期間での多くの重要な進展、本当に素晴らしいです！今後のさらなる発展が楽しみですね！🎉
 
-_Total: 83 commits across 3 projects_
+_Total: 82 commits across 3 projects_
 
 <table>
   <tr>
@@ -43,7 +43,7 @@ _Total: 83 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/link-canvas" target="_blank">link-canvas</a></strong></sub>
       <br />
-      <sub>📊 63 commits (75.9%)</sub>
+      <sub>📊 61 commits (74.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -54,7 +54,7 @@ _Total: 83 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 19 commits (22.9%)</sub>
+      <sub>📊 20 commits (24.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
