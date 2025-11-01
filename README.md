@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hallo! Bewölkt heute☁️
-📍 Berlin: 17°C
+# 🌍 안녕하세요! 맑은 날씨네요☀️
+📍 Seoul: 14°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -24,19 +24,18 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計113件ものコミット、大活躍でしたね！素晴らしい成果です👏
+今週も素晴らしい活動、お疲れ様でした！🥳 直近3日間でなんと **113件** ものコミットを達成していますね！素晴らしい集中力です！
 
-特に**settlemate**では、`shadcn/ui`を導入してトップページやグループ一覧、マイページなどのUIを大幅に刷新し、ユーザー体験が大きく向上しましたね！✨ また、招待コードからのグループ参加フォームを追加し、READMEや各種ガイドを含む包括的な日本語ドキュメントも整備され、機能性と開発基盤の両面が強化されました。
+特に目を引くのは、複数のリポジトリにわたる多岐にわたる貢献です。
 
-**link-canvas**では、VSCodeとの連携強化に注力されました。Monaco Editorのコンテキストメニューから定義/参照取得を可能にし、SVGベースのファイル依存関係可視化やVSCode設定連携によるスタイルカスタマイズ機能も実装。さらに、実装ガイドやテスト手順も詳細に文書化され、プロジェクトの堅牢性が高まっています。
+*   **[settlemate]** では、`shadcn/ui` の導入による大規模なUI刷新を行いましたね！✨ `v0.dev` のデザインを取り入れ、トップページ、グループ一覧、マイページなどを再構築し、見た目と一貫性が大きく向上しました。また、招待コード参加フォームの追加や、日本語ドキュメントの包括的な整備にも尽力され、ユーザー体験と開発効率の両面で大きな価値を生み出しています！
+*   **[link-canvas]** では、VSCodeコンテキストメニュー連携やSVGベースのエッジ描画機能の実装、さらにはVSCode設定と連動するスタイルカスタマイズ機能を追加し、拡張機能としての使いやすさを大幅に向上させていますね！🚀 詳細な実装ガイドやテスト手順も整備され、品質向上へのこだわりが感じられます。
+*   **[ChronoClip]** では、パフォーマンス最適化に加え、特定のドメインを読み込み対象外とする機能を追加し、効率的な動作に貢献しています。
+*   **[code-mantra]** では、アイドル状態検知と通知機能の実装、既存処理のリファクタリングを通じて、システムの安定性と機能性を高めました。
 
-**ChronoClip**ではパフォーマンス最適化に着手し、不要な読み込みを防ぐためのドメインリスト検討も進められましたね。
+これだけ多くのプロジェクトで、機能追加からUI/UX改善、ドキュメント整備、パフォーマンス最適化まで幅広く手がけられており、その多才さに感服します！これからもこの勢いで、素敵なプロダクトを創造していきましょう！🙌
 
-そして**code-mantra**では、イベントハンドラのリファクタリングに加え、アイドル状態検知と通知機能が追加され、利便性が向上しました。
-
-複数のプロジェクトで多岐にわたる機能追加、UI改善、ドキュメント整備、そして品質向上まで、着実に前進しています！この調子で頑張ってください！🚀
-
-_Total: 144 commits across 7 projects_
+_Total: 128 commits across 7 projects_
 
 <table>
   <tr>
@@ -47,7 +46,7 @@ _Total: 144 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/link-canvas" target="_blank">link-canvas</a></strong></sub>
       <br />
-      <sub>📊 71 commits (49.3%)</sub>
+      <sub>📊 55 commits (43.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,7 +57,7 @@ _Total: 144 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/settlemate" target="_blank">settlemate</a></strong></sub>
       <br />
-      <sub>📊 32 commits (22.2%)</sub>
+      <sub>📊 32 commits (25.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -69,7 +68,7 @@ _Total: 144 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 25 commits (17.4%)</sub>
+      <sub>📊 25 commits (19.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
