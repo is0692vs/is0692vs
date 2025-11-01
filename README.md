@@ -1,12 +1,12 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！今日は曇り空ですね☁️
-📍 Osaka: 14°C
+# 🌍 Ciao! Giornata soleggiata☀️
+📍 Rome: 23°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
 📦 **[pr-cannon](https://github.com/is0692vs/pr-cannon)**: 641 total downloads
 
-![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%2C601%2C613%2C634%2C636%2C641%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%2C601%2C613%2C634%2C636%2C641%2C641%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- stats:end -->
 
 <!-- vscode-stats:start -->
@@ -15,7 +15,7 @@
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 3 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C225%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -24,17 +24,17 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で計127件ものコミット、大変お疲れ様です！🚀 複数のプロジェクトで素晴らしい進捗を見せていますね。
+直近3日間で合計113件ものコミット、素晴らしい集中力ですね！🚀
 
-まず**settlemate**では、招待コードでのグループ参加フォーム追加、そしてREADMEを含む広範な日本語ドキュメントの整備に尽力しました。📖 さらに`shadcn/ui`を導入し、`v0.dev`の知見も活かしながらトップページやグループ一覧のUIを全面的に刷新！ユーザー体験が格段に向上したことでしょう。✨
+**settlemate** では、プロジェクトの基盤強化とユーザビリティ向上に大きく貢献しました。`shadcn/ui` を導入し、`v0.dev` を参考にトップページやグループ一覧、マイページなどのUIを大幅に刷新。招待コードによるグループ参加フォームを追加し、既存機能の強化も抜かりありません。さらに、広範囲にわたる日本語ドキュメントの追加・整備も行われ、新規参画者にとっても分かりやすい環境が整いましたね！✨
 
-次に**link-canvas**では、VSCode拡張機能のキャンバスUIを大きく進化させました。Webviewベースのズーム・リサイズ・Monaco統合から始まり、React Flowから独自のInfiniteCanvasへの移行でアーキテクチャを改善。SVGエッジ描画やVSCodeコンテキストメニュー統合、スタイルカスタマイズ、そして詳細な実装・テストガイドの追加まで、基盤がより強固になりましたね！🏗️
+**link-canvas** では、VSCode拡張機能の体験を深める開発が進みました。Monaco Editor内でのコンテキストメニューを使った定義/参照の取得機能、SVGベースの依存関係描画、VSCode設定と連携するスタイルカスタマイズ機能が実装されました。詳細な実装ガイドやテスト手順も追加され、機能の安定性向上にも注力しています👏。
 
-その他、**ChronoClip**ではパフォーマンス最適化を行い、**code-mantra**ではイベントハンドラのリファクタリングでコード品質を向上させるなど、地道な改善も光ります。🌟
+その他、**ChronoClip** ではパフォーマンス最適化や特定のドメインを読み込まない機能が追加され、**code-mantra** ではアイドル状態の検知と通知機能が実装されました。
 
-多岐にわたる開発、本当に素晴らしい集中力と生産性です！これからも応援しています！💪
+複数のプロジェクトで多岐にわたる重要な改善と新機能開発、本当にお疲れ様でした！この勢いで次のステップも頑張ってください！🚀🎉
 
-_Total: 149 commits across 7 projects_
+_Total: 148 commits across 7 projects_
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ _Total: 149 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/link-canvas" target="_blank">link-canvas</a></strong></sub>
       <br />
-      <sub>📊 76 commits (51.0%)</sub>
+      <sub>📊 75 commits (50.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +56,7 @@ _Total: 149 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/settlemate" target="_blank">settlemate</a></strong></sub>
       <br />
-      <sub>📊 32 commits (21.5%)</sub>
+      <sub>📊 32 commits (21.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -67,7 +67,7 @@ _Total: 149 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 25 commits (16.8%)</sub>
+      <sub>📊 25 commits (16.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
