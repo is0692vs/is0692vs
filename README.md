@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Hiroshima: 15°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Bogotá: 11°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,11 +11,11 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 241 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 239 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 3 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C241%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C239%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -24,33 +24,22 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと102件ものコミット、お疲れ様でした！素晴らしい活動量ですね！🚀
+直近3日間でなんと102件ものコミット、素晴らしいですね！✨ 大量の変更を精力的にこなしたことが伺えます。
 
-**settlemate** では、大規模な日本語ドキュメントの追加・整備や招待コード参加フォームの実装に加え、`shadcn/ui` を導入したUIの全面刷新で、使いやすさと見た目が大幅に向上しましたね！✨
+**settlemate** では、`shadcn/ui` を導入してUIを大きく刷新されましたね！🚀 トップページからグループ、マイページまで一貫性のあるデザインになり、ユーザー体験が向上したことでしょう。招待コード参加フォームの新機能や、READMEを含む包括的な日本語ドキュメントの整備も進み、プロジェクトの使いやすさと開発基盤がぐっと強化されました。
 
-**link-canvas** では、VSCodeコンテキストメニュー連携、SVGによるファイル依存関係の描画、スタイルカスタマイズ機能を追加し、Monacoエディタ連携も改善。さらに公開に向けたREADME強化やGitHub Actions設定も着々と進んでいます！🎉
+**link-canvas** では、VS Code拡張機能としてのパワーアップが見られます！💪 VS Codeコンテキストメニューとの連携や、SVGベースのエッジ描画によるファイル依存関係の視覚化、さらに設定に基づいたスタイルカスタマイズ機能まで追加されましたね。Monacoエディタ連携の改善や、Marketplace公開に向けたREADMEの英語化とGitHub Actionsの整備も着々と進んでいて、リリースが楽しみです！
 
-**ChronoClip** では、パフォーマンス最適化と、特定のドメインを読み込まないフィルタリング機能の強化に取り組まれましたね。ユーザー体験の向上に繋がります！💡
+**code-mantra** では、アイドル状態検知と通知機能を追加し、ユーザー体験を向上させています。また、通知の重複や誤検知を防ぐSuppressionManagerを導入し、信頼性が大きく向上しましたね！👏
 
-**code-mantra** では、アイドル状態検知トリガーの追加や、通知の重複・誤検知を防ぐSuppressionManagerの導入により、通知機能の精度と安定性がぐんとアップしました！🛡️
+**ChronoClip** では、パフォーマンスの最適化や、読み込みされないドメインリスト作成の検討など、より快適な利用環境を目指した改善が進んでいます。
 
-多岐にわたるプロジェクトで素晴らしい成果を出されており、この調子でこれからも頑張りましょう！😊
+多岐にわたるプロジェクトでこれだけの成果を出されているのは本当に素晴らしいです！この調子で頑張っていきましょう！💪
 
-_Total: 131 commits across 8 projects_
+_Total: 127 commits across 8 projects_
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/link-canvas" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/link-canvas" alt="link-canvas" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/is0692vs/link-canvas" target="_blank">link-canvas</a></strong></sub>
-      <br />
-      <sub>📊 34 commits (26.0%)</sub>
-      <br />
-      <sub>🔷 TypeScript </sub>
-    </td>
     <td align="center" width="33%">
       <a href="https://github.com/is0692vs/settlemate" target="_blank">
         <img src="https://opengraph.githubassets.com/1/is0692vs/settlemate" alt="settlemate" width="100%" />
@@ -58,7 +47,18 @@ _Total: 131 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/settlemate" target="_blank">settlemate</a></strong></sub>
       <br />
-      <sub>📊 32 commits (24.4%)</sub>
+      <sub>📊 32 commits (25.2%)</sub>
+      <br />
+      <sub>🔷 TypeScript </sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/is0692vs/link-canvas" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/link-canvas" alt="link-canvas" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/is0692vs/link-canvas" target="_blank">link-canvas</a></strong></sub>
+      <br />
+      <sub>📊 30 commits (23.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -69,7 +69,7 @@ _Total: 131 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
       <br />
-      <sub>📊 25 commits (19.1%)</sub>
+      <sub>📊 25 commits (19.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
