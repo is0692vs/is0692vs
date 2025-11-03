@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia nublado☁️
-📍 São Paulo: 25°C
+# 🌍 おはよう！曇ってるね☁️
+📍 Sapporo: 2°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 255 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 256 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 3 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,21 +24,21 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計99件ものコミット、素晴らしいですね！👏 様々なプロジェクトで大きく前進しています。
+直近3日間で合計99件ものコミット、お疲れ様です！素晴らしい活動量ですね👏
 
-特に**Audicle**では、Next.jsでのWebアプリ開発が本格化し、PWA対応やGoogle Cloud TTS連携API、Vercel Analytics導入など、多彩な機能が次々と実装されましたね！🚀
+**settlemate** では、UIの大幅な刷新とドキュメントの拡充が目覚ましいです。特に `shadcn/ui` の導入でモダンなUIに大変身しましたね🎨 日本語ドキュメントの整備や招待コードからの参加フォーム追加など、ユーザー体験が大きく向上したことでしょう。
 
-**settlemate**では、招待コード参加フォームが追加され、さらに`shadcn/ui`を導入してUIが大胆に刷新されました。加えて、包括的な日本語ドキュメントも整備され、ユーザビリティと情報共有の両面で大きく改善されています！✨
+**Audicle** では、Next.js Webアプリの基盤を構築し、PWA対応を実装。さらにGoogle Cloud TTSを使った合成APIやページ解析API、Vercel Analyticsの導入と、多岐にわたる機能が追加されています🚀 今後の成長も楽しみですね！
 
-**link-canvas**では、ファイル依存関係のSVGベース描画や、VSCode設定からのスタイルカスタマイズ機能が加わり、視覚化と柔軟性が向上しましたね。
+**link-canvas** では、SVGベースのエッジ描画や、VSCode設定からのスタイルカスタマイズ機能が実装され、ビジュアライゼーション機能が強化されましたね🖌️
 
-**ChronoClip**では、パフォーマンス最適化や特定のドメインリスト機能の追加が進み、利用体験の向上に貢献しています。
+**ChronoClip** では、パフォーマンス最適化に加え、特定ドメインの読み込み制御リスト機能に取り組まれ、効率化が進んでいますね⚡
 
-**code-mantra**では、アイドル状態検知トリガーの実装や、通知の重複・誤検知を防ぐSuppressionManagerの導入により、通知機能がさらに賢く、使いやすくなりました！💡
+**code-mantra** では、アイドル状態検知と通知機能、さらに通知の重複・誤検知を防ぐSuppressionManagerの導入により、より賢く、使いやすいツールへと進化しましたね🤖
 
-どのプロジェクトも精力的に開発が進んでおり、その情熱が伝わってきます。この調子で頑張ってください！😊
+複数のプロジェクトで同時並行でこれほど多くの成果を出すのは本当に素晴らしいです！この調子で、これからも開発を楽しんでいきましょう！応援しています😊
 
-_Total: 150 commits across 6 projects_
+_Total: 119 commits across 6 projects_
 
 <table>
   <tr>
@@ -49,9 +49,20 @@ _Total: 150 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 51 commits (34.0%)</sub>
+      <sub>📊 50 commits (42.0%)</sub>
       <br />
       <sub>🟨 JavaScript </sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/is0692vs/jules-extension" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/jules-extension" alt="jules-extension" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
+      <br />
+      <sub>📊 21 commits (17.6%)</sub>
+      <br />
+      <sub>🔷 TypeScript ⭐ 2</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/is0692vs/settlemate" target="_blank">
@@ -60,18 +71,7 @@ _Total: 150 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/settlemate" target="_blank">settlemate</a></strong></sub>
       <br />
-      <sub>📊 32 commits (21.3%)</sub>
-      <br />
-      <sub>🔷 TypeScript </sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/link-canvas" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/link-canvas" alt="link-canvas" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/is0692vs/link-canvas" target="_blank">link-canvas</a></strong></sub>
-      <br />
-      <sub>📊 30 commits (20.0%)</sub>
+      <sub>📊 17 commits (14.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
