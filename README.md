@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Está nublado☁️
-📍 Mexico City: 10°C
+# 🌍 Olá! Dia nublado☁️
+📍 São Paulo: 25°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 256 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 255 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 3 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,19 +24,21 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で99件ものコミット、お疲れ様でした！精力的な開発で素晴らしい成果を上げていますね！✨
+直近3日間で合計99件ものコミット、素晴らしいですね！👏 様々なプロジェクトで大きく前進しています。
 
-特に目を引くのは、複数のプロジェクトでの大規模な機能追加と改善です。
+特に**Audicle**では、Next.jsでのWebアプリ開発が本格化し、PWA対応やGoogle Cloud TTS連携API、Vercel Analytics導入など、多彩な機能が次々と実装されましたね！🚀
 
-*   **settlemate** では、`shadcn/ui` を導入してUIを全面刷新し、v0.devのデザインを取り入れましたね！招待コード参加フォームの実装や、包括的な日本語ドキュメントの整備も進められ、ユーザビリティと情報提供が大きく向上しました👏
-*   **Audicle** では、Next.js Webアプリの基盤をPWA対応で構築し、Google Cloud TTS連携APIや抽出APIを実装。Vercel Analyticsの導入まで行い、未来を見据えた開発が進んでいますね！🚀
-*   **link-canvas** では、ファイル依存関係をSVGで描画する機能や、VSCode設定からスタイルをカスタマイズできる機能を実装し、視覚的な表現力と柔軟性がアップしました！
-*   **ChronoClip** では、パフォーマンスの最適化や、特定のドメインを読み込まないリスト作成機能に取り組まれ、より快適な利用体験へと繋がりますね！
-*   **code-mantra** では、アイドル状態検知と通知機能、さらに通知の重複・誤検知を防ぐSuppressionManagerを導入し、賢く便利なツールへと進化させています！
+**settlemate**では、招待コード参加フォームが追加され、さらに`shadcn/ui`を導入してUIが大胆に刷新されました。加えて、包括的な日本語ドキュメントも整備され、ユーザビリティと情報共有の両面で大きく改善されています！✨
 
-多方面での活躍、本当に素晴らしいです！この調子で次の開発も頑張ってください！応援しています！💪
+**link-canvas**では、ファイル依存関係のSVGベース描画や、VSCode設定からのスタイルカスタマイズ機能が加わり、視覚化と柔軟性が向上しましたね。
 
-_Total: 155 commits across 7 projects_
+**ChronoClip**では、パフォーマンス最適化や特定のドメインリスト機能の追加が進み、利用体験の向上に貢献しています。
+
+**code-mantra**では、アイドル状態検知トリガーの実装や、通知の重複・誤検知を防ぐSuppressionManagerの導入により、通知機能がさらに賢く、使いやすくなりました！💡
+
+どのプロジェクトも精力的に開発が進んでおり、その情熱が伝わってきます。この調子で頑張ってください！😊
+
+_Total: 150 commits across 6 projects_
 
 <table>
   <tr>
@@ -47,7 +49,7 @@ _Total: 155 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 51 commits (32.9%)</sub>
+      <sub>📊 51 commits (34.0%)</sub>
       <br />
       <sub>🟨 JavaScript </sub>
     </td>
@@ -58,7 +60,7 @@ _Total: 155 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/settlemate" target="_blank">settlemate</a></strong></sub>
       <br />
-      <sub>📊 32 commits (20.6%)</sub>
+      <sub>📊 32 commits (21.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -69,7 +71,7 @@ _Total: 155 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/link-canvas" target="_blank">link-canvas</a></strong></sub>
       <br />
-      <sub>📊 30 commits (19.4%)</sub>
+      <sub>📊 30 commits (20.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
