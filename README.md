@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Lyon: 7°C
+# 🌍 G'day! Bit cloudy today☁️
+📍 Sydney: 17°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 270 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 269 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 3 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,21 +24,21 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計99件ものコミット、お疲れ様です！素晴らしい活動量ですね👏
+直近3日間で合計99ものコミット、本当に素晴らしい活躍ぶりですね！✨ 多岐にわたるプロジェクトで精力的に開発を進められました。
 
-**Audicle** では、Next.js Webアプリの基盤を築き、PWA対応やGoogle Cloud TTS連携APIの実装、さらにVercel Analytics導入と、多機能なWebアプリ開発を着々と進めていますね🚀
+特に **settlemate** では、包括的な日本語ドキュメントの追加と招待機能のUI実装を進められたほか、`shadcn/ui` を導入して大規模なUI刷新を行いましたね。使いやすさが大きく向上しそうです！🚀
 
-**settlemate** では、`shadcn/ui` を導入してUIを大幅に刷新✨、招待コードによる参加フォーム追加や、詳細な日本語ドキュメント整備と、ユーザー体験と開発効率の向上に大きく貢献しています！
+**Audicle** では、Next.js Webアプリのパッケージを構築し、PWA対応を実装。さらにGoogle Cloud TTSを使った合成APIや抽出API、Vercel Analyticsの導入まで、多岐にわたる機能開発とインフラ整備でプロジェクトが大きく前進しました。
 
-**link-canvas** では、SVGでのエッジ描画による依存関係可視化や、VSCode設定によるスタイルカスタマイズ機能を追加し、表現力と柔軟性を高めましたね🎨
+**link-canvas** では、ファイル依存関係の可視化のためにSVGベースのエッジ描画を実装し、VSCode設定からのスタイルカスタマイズ機能も追加。表現力が豊かになりますね！🎨
 
-**ChronoClip** では、パフォーマンス最適化に加え、特定ドメインの読み込み制御リスト作成にも着手し、さらなる利便性を追求していますね🛠️
+**code-mantra** では、アイドル状態検知と通知抑制機能を導入し、通知の精度と堅牢性が向上しました。処理の最適化も忘れずに行われています。
 
-**code-mantra** では、イベントハンドラの改善やアイドル状態検知機能、さらには通知の重複を防ぐSuppressionManagerの導入と、コードの堅牢性とユーザー体験を向上させる工夫が光ります💡
+**ChronoClip** ではパフォーマンス最適化を図りつつ、ドメイン制御機能の検討も進められました。
 
-複数のプロジェクトでこれだけ多岐にわたる開発を進められているのは本当に素晴らしいです！今後の進化が楽しみですね。引き続き頑張ってください！💪
+この短期間でこれだけの成果は本当にすごいです！今後のさらなる発展が楽しみですね！💪
 
-_Total: 78 commits across 4 projects_
+_Total: 73 commits across 4 projects_
 
 <table>
   <tr>
@@ -49,7 +49,7 @@ _Total: 78 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 49 commits (62.8%)</sub>
+      <sub>📊 49 commits (67.1%)</sub>
       <br />
       <sub>🟨 JavaScript </sub>
     </td>
@@ -60,7 +60,7 @@ _Total: 78 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 16 commits (20.5%)</sub>
+      <sub>📊 12 commits (16.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 2</sub>
     </td>
@@ -71,7 +71,7 @@ _Total: 78 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/moodle-to-manaba-R" target="_blank">moodle-to-manaba-R</a></strong></sub>
       <br />
-      <sub>📊 12 commits (15.4%)</sub>
+      <sub>📊 12 commits (16.4%)</sub>
       <br />
       <sub>🟨 JavaScript </sub>
     </td>
