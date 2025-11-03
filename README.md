@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia nublado☁️
-📍 São Paulo: 22°C
+# 🌍 こんにちは！今日は曇り空ですね☁️
+📍 Tokyo: 15°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -24,21 +24,21 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-お疲れ様です！この3日間で合計97件ものコミット、驚くほど活発な開発ペースですね！✨
+この3日間で合計98件ものコミット、本当にお疲れ様でした！✨多岐にわたるプロジェクトで素晴らしい成果が出ていますね！
 
-**Audicle**では、Next.js PWA Webアプリの新規構築とPWA対応を完了し、Google Cloud TTS連携や抽出APIの実装で機能を追加しました！🚀
+**Audicle** では、Next.jsベースのWebアプリ基盤をPWA対応でスキャフォールドし、音声合成APIやページ解析APIといった主要な新機能を実装・強化しましたね！🚀
 
-**settlemate**では、グループ招待機能のUI実装、広範な日本語ドキュメントの整備、そして`shadcn/ui`を導入し大規模なUI刷新。ユーザー体験が大きく向上しました！🎨📚
+**settlemate** では、`shadcn/ui` を導入してUIを大幅に刷新し、招待コードによるグループ参加フォームを実装しました。さらに、包括的な日本語ドキュメントの整備にも大きく貢献し、ユーザー体験が大きく向上しました！👏
 
-**link-canvas**では、ファイル依存のSVGエッジ描画とVSCode設定と連携するスタイルカスタマイズ機能を追加し、視覚表現と柔軟性を高めましたね！⚙️
+**link-canvas** では、SVGベースのエッジ描画でファイル依存関係の可視化を実現し、VSCode設定からのリアルタイムなスタイルカスタマイズ機能を追加しましたね。🎨
 
-**ChronoClip**では、パフォーマンス最適化と、特定ドメインの読み込み制御リスト機能を追加。安定性と利便性を向上させました。⚡
+**ChronoClip** では、パフォーマンス最適化を進め、特定ドメインの読み込みを制御する機能にも着手。システムの安定性と効率化に貢献しました！⚙️
 
-**code-mantra**では、アイドル状態検知と通知機能、そして通知の重複を防ぐSuppressionManagerを導入。拡張機能の堅牢性・使い勝手を高めました！🛡️
+そして **code-mantra** では、アイドル状態検知と通知機能を実装し、さらに`SuppressionManager`を導入して通知の重複・誤検知を防止。より信頼性の高い通知システムを構築しましたね！💡
 
-複数のプロジェクトでこれほど精力的に活動されているのは素晴らしいです！この勢いで、次なる成果も期待しています！🎉
+どのプロジェクトも着実に進化しており、その貢献は計り知れません。この勢いで、来週も素晴らしい開発を進めていきましょう！応援しています！💪
 
-_Total: 154 commits across 7 projects_
+_Total: 153 commits across 7 projects_
 
 <table>
   <tr>
@@ -49,7 +49,7 @@ _Total: 154 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 47 commits (30.5%)</sub>
+      <sub>📊 49 commits (32.0%)</sub>
       <br />
       <sub>🟨 JavaScript </sub>
     </td>
@@ -60,7 +60,7 @@ _Total: 154 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/settlemate" target="_blank">settlemate</a></strong></sub>
       <br />
-      <sub>📊 32 commits (20.8%)</sub>
+      <sub>📊 32 commits (20.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -71,7 +71,7 @@ _Total: 154 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/link-canvas" target="_blank">link-canvas</a></strong></sub>
       <br />
-      <sub>📊 30 commits (19.5%)</sub>
+      <sub>📊 30 commits (19.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
