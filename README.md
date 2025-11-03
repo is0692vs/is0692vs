@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
 # 🌍 G'day! Bit cloudy today☁️
-📍 Sydney: 17°C
+📍 Sydney: 20°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 269 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 265 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 3 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,19 +24,19 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計99ものコミット、本当に素晴らしい活躍ぶりですね！✨ 多岐にわたるプロジェクトで精力的に開発を進められました。
+3日間で99件ものコミット、素晴らしい集中力と生産性ですね！お疲れ様です！🚀
 
-特に **settlemate** では、包括的な日本語ドキュメントの追加と招待機能のUI実装を進められたほか、`shadcn/ui` を導入して大規模なUI刷新を行いましたね。使いやすさが大きく向上しそうです！🚀
+**Audicle** では、Next.jsでのPWA対応ウェブアプリをVercelに構築し、Google Cloud TTS連携やページ解析API、Vercel Analytics導入と、未来を見据えた機能拡張が盛りだくさんですね！✨
 
-**Audicle** では、Next.js Webアプリのパッケージを構築し、PWA対応を実装。さらにGoogle Cloud TTSを使った合成APIや抽出API、Vercel Analyticsの導入まで、多岐にわたる機能開発とインフラ整備でプロジェクトが大きく前進しました。
+**settlemate** では、招待コード機能の追加や、包括的なドキュメントの整備、そして `shadcn/ui` を使った大規模なUI刷新で、ユーザー体験が大きく向上したことでしょう！👏
 
-**link-canvas** では、ファイル依存関係の可視化のためにSVGベースのエッジ描画を実装し、VSCode設定からのスタイルカスタマイズ機能も追加。表現力が豊かになりますね！🎨
+**link-canvas** では、ファイル依存関係のSVG描画実装と、VSCode設定からのスタイルカスタマイズ機能で、視覚化と柔軟性がぐっと高まりましたね！🎨
 
-**code-mantra** では、アイドル状態検知と通知抑制機能を導入し、通知の精度と堅牢性が向上しました。処理の最適化も忘れずに行われています。
+**ChronoClip** では、パフォーマンス最適化や、読み込みされないドメインリスト機能の検討など、より快適な利用のための改善が進んでいますね！⚙️
 
-**ChronoClip** ではパフォーマンス最適化を図りつつ、ドメイン制御機能の検討も進められました。
+**code-mantra** では、アイドル状態検知と通知機能の追加、さらに通知の重複・誤検知を防ぐSuppressionManagerの導入で、機能性と信頼性が大きく向上しました。コードのリファクタリングも抜かりないですね！💪
 
-この短期間でこれだけの成果は本当にすごいです！今後のさらなる発展が楽しみですね！💪
+多岐にわたるプロジェクトで、機能追加からUI改善、ドキュメント整備、パフォーマンス最適化まで、本当に幅広い貢献をされています。素晴らしい成果です！この調子で頑張ってください！🎉
 
 _Total: 73 commits across 4 projects_
 
