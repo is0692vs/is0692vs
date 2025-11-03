@@ -84,18 +84,40 @@ async function main() {
       vscodeHistory = JSON.parse(readFileSync(vscodeHistoryPath, "utf-8"));
     }
 
-    // 今日のVSCode統計を追加
-    const todayVscodeStats: VscodeStatsHistory = {
-      date: today,
-      extensions: Object.fromEntries(
-        vscodeData.map((d) => [d.extension, d.installs])
-      ),
-    };
+    // 今日の日付のインデックスを探す
+    const vscodeExistingIndex = vscodeHistory.findIndex((h) => h.date === today);
+    let todayVscodeStats: VscodeStatsHistory;
 
-    // 同じ日付のデータがあれば更新、なければ追加
-    const vscodeExistingIndex = vscodeHistory.findIndex(
-      (h) => h.date === today
-    );
+    if (vscodeExistingIndex >= 0) {
+      // 今日のデータが既にある場合
+      todayVscodeStats = vscodeHistory[vscodeExistingIndex];
+    } else {
+      // 今日のデータがまだない場合
+      const previousDayStats =
+        vscodeHistory.length > 0
+          ? vscodeHistory[vscodeHistory.length - 1]
+          : null;
+      todayVscodeStats = {
+        date: today,
+        // 前日のデータを引き継ぐ or 新規作成
+        extensions: previousDayStats ? { ...previousDayStats.extensions } : {},
+      };
+    }
+
+    // APIから取得したデータで更新
+    for (const d of vscodeData) {
+      const extensionName = d.extension;
+      const newInstalls = d.installs;
+      const currentInstalls = todayVscodeStats.extensions[extensionName] || 0;
+
+      // 新しい値と現在の値のうち、大きい方を採用
+      todayVscodeStats.extensions[extensionName] = Math.max(
+        newInstalls,
+        currentInstalls
+      );
+    }
+
+    // 履歴を更新
     if (vscodeExistingIndex >= 0) {
       vscodeHistory[vscodeExistingIndex] = todayVscodeStats;
     } else {
