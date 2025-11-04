@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia chuvoso☔
-📍 São Paulo: 20°C
+# 🌍 Hello! Rather cloudy today☁️
+📍 London: 15°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 289 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 292 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 3 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,17 +24,17 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計32件ものコミット、素晴らしい成果ですね！🚀 幅広いプロジェクトで多岐にわたる開発を進められました。
+直近3日間で計32件ものコミット、お疲れ様です！素晴らしい活動量ですね！👏
 
-特に**Audicle**では、WebアプリのVercel化に着手し、Next.jsを使った基盤構築と大規模なPWA対応を進めましたね。Google Cloud TTSを利用した音声合成APIの実装や、ページの抽出API追加、NextAuthによるGoogle認証機能の導入、Vercel Analyticsの導入など、ユーザー体験と機能性の向上に大きく貢献されています。API周りの修正やJSDOMの置き換えなど、安定稼働のための修正もばっちりです！
+特に**Audicle**では、Vercel向けNext.js PWAアプリの足場作りから始まり、PWA対応、Google Cloud TTS連携API、ページ抽出API、NextAuthによるGoogle認証、Vercel Analytics導入と、基盤から主要機能まで大きく開発が進みましたね！✨READMEの更新やAPI Routeの修正もバッチリです。
 
-**moodle-to-manaba-R**では、待望の英語対応を実現し、より多くのユーザーが利用できるようになりましたね。parser.jsのコード整理も行い、メンテナンス性も向上しました。
+**moodle-to-manaba-R**では、英語対応を導入し、コードのフォーマット整理も進みました。国際化対応、素晴らしいです！🌍
 
-**jules-extension**では、GitHubトークン設定のドキュメント更新や、終了したセッションのチェック無効化など、機能改善と情報提供を同時に進められました。READMEの整形も素晴らしいですね。
+**jules-extension**では、終了したセッションのチェック無効化や、GitHub Token設定のドキュメント、READMEの整形など、機能改善とドキュメント整備に力を入れましたね。ユーザー体験の向上に貢献しています！👍
 
-また、**is0692vs**のリポジトリでは、VSCode拡張機能の統計更新ロジックを修正し、機能の正確性を高めました。
+そして**is0692vs**リポジトリでは、VSCode拡張機能の統計更新ロジックを修正されました。見逃されがちな部分の修正も完璧です！
 
-この3日間で多くの重要なマイルストーンを達成しましたね。今後のさらなる進展が楽しみです！🎉
+多岐にわたるプロジェクトでこれだけの成果を出されているのは本当に素晴らしいです！この調子で頑張りましょう！🚀
 
 _Total: 49 commits across 2 projects_
 
