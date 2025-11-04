@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Bogotá: 11°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Paris: 10°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 270 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 269 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 3 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,19 +24,19 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと32件ものコミット、素晴らしい活躍ぶりですね！✨
+直近3日間で合計32件ものコミット、お疲れ様でした！素晴らしいですね！👏
 
-特に**Audicle**リポジトリでは、Next.jsを使った新しいWebアプリの基盤構築にPWA対応、Google Cloud TTS連携のAPI実装、さらにはWebページからの情報抽出APIやNextAuthによる認証機能、Vercel Analytics導入と、非常に広範囲にわたる開発を進められましたね！🚀 大量のコード追加からもその熱意が伝わってきます。
+特に**[Audicle]**では、Vercel版WebアプリのNext.js基盤を構築し、PWA対応、Google Cloud TTS連携API、ページ解析API、Google OAuth認証の追加と、まさに新機能が続々デプロイされていますね！🚀 Vercel Analytics導入やAPI Routeの修正、JSDOMの置き換えなど、大規模な機能追加とインフラ整備、お見事です！
 
-**moodle-to-manaba-R**では、多言語対応として英語サポートを追加され、ユーザー体験の向上に貢献しました。コードのフォーマット整理も行い、品質向上にも余念がありません！🌍
+**[moodle-to-manaba-R]**では、英語対応を実装し、国際化への大きな一歩を踏み出しましたね。加えて、parser.jsのフォーマット整理やコード整備も進められ、プロジェクトの品質向上に貢献されています！🌐
 
-**jules-extension**では、終了したセッションのチェック無効化やGitHub Token設定に関するドキュメント更新、READMEの整形を通じて、使いやすさと情報の分かりやすさを追求されていますね。📚
+**[jules-extension]**では、終了したセッションのチェック無効化といった機能改善や、GitHubトークン設定などのドキュメント更新・整形に尽力されました。ユーザー体験と情報共有の改善に繋がりますね！✍️
 
-また、**is0692vs**リポジトリでは、VSCode拡張機能の統計更新ロジック修正にも着手され、細やかな改善も光ります。💡
+そして、**[is0692vs]**ではVSCode拡張機能の統計更新ロジック修正まで！多岐にわたるプロジェクトで本当に精力的な活動でした！✨
 
-多様なプロジェクトで精力的に活動されており、その多才さと推進力には感服いたします！この調子で、これからも素晴らしい開発を続けてください！応援しています！🎉
+この調子で、今後の活躍も楽しみにしています！応援しています！🎉
 
-_Total: 73 commits across 4 projects_
+_Total: 72 commits across 3 projects_
 
 <table>
   <tr>
@@ -47,7 +47,7 @@ _Total: 73 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 49 commits (67.1%)</sub>
+      <sub>📊 49 commits (68.1%)</sub>
       <br />
       <sub>🟨 JavaScript </sub>
     </td>
@@ -58,7 +58,7 @@ _Total: 73 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 12 commits (16.4%)</sub>
+      <sub>📊 12 commits (16.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 2</sub>
     </td>
@@ -69,7 +69,7 @@ _Total: 73 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/moodle-to-manaba-R" target="_blank">moodle-to-manaba-R</a></strong></sub>
       <br />
-      <sub>📊 12 commits (16.4%)</sub>
+      <sub>📊 11 commits (15.3%)</sub>
       <br />
       <sub>🟨 JavaScript </sub>
     </td>
