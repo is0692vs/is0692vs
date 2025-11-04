@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia nublado☁️
-📍 Lisbon: 20°C
+# 🌍 Bonjour! Belle journée ensoleillée☀️
+📍 Paris: 17°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 271 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 274 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 3 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,17 +24,7 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと32件ものコミット、お疲れ様でした！素晴らしい活動量ですね！🚀
-
-特に[Audicle]では、Vercelを使ったWebアプリの開発が大きく進展しました。Next.jsとPWAの導入でモダンな基盤を構築し、Google Cloud TTS APIやページ抽出API、Google OAuth認証の実装と、多岐にわたる新機能を追加されましたね。Vercel Analyticsの導入や、APIルートの修正、認証設定の共通化、ライブラリの互換性問題解決など、細部にわたる改善も光っています✨。READMEの更新でプロダクトラインナップを明確にされたのも素晴らしいです！
-
-また、[moodle-to-manaba-R]では、英語対応を実装され、国際化への一歩を踏み出しましたね！関連する競合解消やコードの整理も抜かりなく行われています。
-
-[jules-extension]では、終了したセッションのチェック無効化という新機能を追加し、ドキュメントもGitHubトークン設定のガイダンスや機能テーブルの整形など、利用者にとって分かりやすく改善されましたね👏。
-
-ご自身の[is0692vs]リポジトリでは、VSCode拡張機能の統計更新ロジックを修正し、機能の信頼性を高められました。
-
-様々なプロジェクトで大きな進歩があり、多方面での活躍が目覚ましい3日間でした！この調子で頑張ってください！🎉
+直近3日間で32件ものコミット、お疲れ様です！👏 Merge pull request #69 from is0692vs/68-web-app-vercel作成、Merge pull request #67 from is0692vs/66-featwebuiのpwa確認、Merge pull request #79 from is0692vs/78-vercelttsリクエストapi作成など、多くの作業を進められました。合計22528行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 49 commits across 2 projects_
 
