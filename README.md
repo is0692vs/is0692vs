@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Buenos Aires: 17°C
+# 🌍 Hello! Cloudy skies today☁️
+📍 New York: 16°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,11 +11,11 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 310 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 313 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
-- **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 3 installs | ⭐ No ratings yet | v0.1.3
+- **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 4 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C312%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C3%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C313%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -24,16 +24,17 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で計26件のコミット、素晴らしい活躍でした！🎉
+直近3日間で合計31件ものコミット、大変お疲れ様でした！👏✨
 
-**[Audicle]** リポジトリでは、Webアプリケーション開発が大きく進捗しましたね。Next.jsでのWebアプリパッケージScaffoldからPWA対応、Google Cloud TTS連携API、コンテンツ抽出API、そしてNextAuthによる認証機能と、主要機能が続々と実装されています。
-特に、HTMLの段落構造を保持し、再生制御まで考慮された詳細なパース機能は、コンテンツの読み上げ体験を格段に向上させるでしょう。Vercel Analyticsの導入やREADME更新、APIルートの405エラー修正、JSDOMからlinkedomへの置き換え、CORS対応といった堅牢性・運用改善も抜かりなく進められています。
+特に**Audicle**リポジトリでの活躍が目覚ましいですね！Next.jsをベースとしたPWA対応Webアプリの基盤を大胆に立ち上げ、Google Cloud TTS連携APIの実装、記事からのコンテンツ抽出・段落パース機能、Google認証機能、Vercel Analytics導入など、主要な機能を次々と実装されています。
 
-**[is0692vs]** リポジトリでは、VSCode拡張機能の統計更新ロジック修正もお疲れ様でした！
+また、プロジェクト名の「Auticle」から「Audicle」への統一や不要なドキュメントの整理を進め、開発環境をより一層クリアにされましたね。発生したAPI Routeの405エラー修正やJSDOMの置き換えによるES Module互換性改善など、安定性向上にも大きく貢献されています。
 
-この短期間で、これほど多岐にわたる重要な機能開発、改善、そしてバグ修正をこなされたことに心から敬意を表します。素晴らしい成果です、この調子でこれからも頑張りましょう！🚀✨
+一方で、**is0692vs**リポジトリでは、VSCode拡張機能の統計更新ロジックを修正し、機能の正確性を高める作業を行いました。
 
-_Total: 56 commits across 1 projects_
+大規模な新機能開発から基盤整備、そして細かな改善・修正まで、幅広いタスクを見事にこなされています。この素晴らしい推進力で、プロジェクトの進化が加速していますね！今後のさらなる発展が楽しみです！🚀
+
+_Total: 61 commits across 1 projects_
 
 <table>
   <tr>
@@ -44,7 +45,7 @@ _Total: 56 commits across 1 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 56 commits (100.0%)</sub>
+      <sub>📊 61 commits (100.0%)</sub>
       <br />
       <sub>🟨 JavaScript </sub>
     </td>
