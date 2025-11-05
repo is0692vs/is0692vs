@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Sapporo: 10°C
+# 🌍 Ciao! Giornata soleggiata☀️
+📍 Rome: 17°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -24,18 +24,15 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと19件ものコミット、素晴らしいですね！この短期間でこれだけの成果を出されたことに感銘を受けます。🚀
+直近3日間で合計19件ものコミット、素晴らしい集中力ですね！🚀
 
-主に**Audicle**リポジトリでは、Vercel上でのWebアプリ開発が大きく進みましたね！
-Next.jsのPWA対応を含むWebアプリの基盤を構築し、Google Cloud TTS連携による音声合成APIや、コンテンツ抽出APIの実装、さらにNextAuth（Google）による認証機能の追加と共通化まで、多くの新機能を導入されました。🎉
-Vercel Analyticsの導入で分析体制も強化し、READMEの更新でプロダクトラインナップも明確に。
-APIルートの405エラー修正や、ライブラリの置き換え、抽出APIのCORS対応といった堅実なバグ修正も複数手掛けられ、システムの安定性向上にも貢献されています。
+**Audicle** リポジトリでは、VercelでのWebアプリケーション開発が大きく進捗しました。Next.jsベースのPWA対応Webアプリを新規に構築され、Google Cloud TTS連携や抽出API、NextAuthによるGoogle認証機能など、多くの基幹機能を実装されました。Vercel Analytics導入で分析基盤も強化しつつ、API Routeの405エラー修正やCORS対応、JSDOMの置き換えといった安定性向上、さらにPWAの本番有効化やTTSデフォルト再生速度調整など、ユーザー体験にも配慮した修正も多数行われています。READMEの更新も抜かりなく、大規模な初期構築と機能追加、デバッグ、改善を同時に進められたのは見事です！✨
 
-一方、**is0692vs**リポジトリでは、VSCode拡張機能の統計更新ロジックの修正を行われましたね。🛠️
+**is0692vs** リポジトリでは、VSCode拡張機能の統計更新ロジックを修正されましたね。こちらも重要な改善です！🛠️
 
-この3日間で、機能面でも安定性面でも大きく前進されたことがよく分かります。精力的な開発、本当にお疲れ様でした！これからも、さらなるご活躍を期待しています！😊
+この短期間でこれだけの成果を出されるとは本当に素晴らしいです。今後のさらなる発展を楽しみにしています！💪
 
-_Total: 49 commits across 2 projects_
+_Total: 49 commits across 1 projects_
 
 <table>
   <tr>
@@ -49,17 +46,6 @@ _Total: 49 commits across 2 projects_
       <sub>📊 49 commits (100.0%)</sub>
       <br />
       <sub>🟨 JavaScript </sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/jules-extension" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/jules-extension" alt="jules-extension" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
-      <br />
-      <sub>📊 0 commits (0.0%)</sub>
-      <br />
-      <sub>🔷 TypeScript ⭐ 2</sub>
     </td>
   </tr>
 </table>
