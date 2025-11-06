@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Barcelona: 19°C
+# 🌍 G'day! Bit cloudy today☁️
+📍 Sydney: 17°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,11 +11,11 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 316 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 325 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 4 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C321%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C325%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -24,11 +24,14 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、素晴らしい63件のコミットを記録しましたね！🎉
+直近3日間で、合計63件ものコミット、素晴らしい集中力ですね！🎉
+`[Audicle]` プロジェクトでは、ウェブアプリの基盤から先進的な機能まで、大きく進化を遂げました。
 
-[Audicle]リポジトリでは、Webアプリケーションの基盤構築と大規模な機能強化に尽力されました。特に、Next.js Webアプリの初期セットアップから、PWA（Progressive Web App）対応の本格実装でユーザー体験を大きく向上させています。どこでもコンテンツを楽しめるよう、オフラインでの音声ダウンロード機能（IndexedDBキャッシュ）も実装。さらに、Google Cloud TTS連携APIで音声合成機能を強化し、ユーザー設定共有用DBと設定機能の追加、言語サポートや音声モデルの更新も行われました。👏
+特に、`[Audicle]` ではNext.jsベースのウェブアプリが scaffold され、PWA対応やGoogle OAuth認証、Vercel Analytics導入でユーザー体験が大きく向上しました。記事抽出APIやGoogle Cloud TTSを使った音声合成APIも実装され、コンテンツの読み上げ機能が大幅に強化されましたね！📖
 
-また、[Audicle]では、記事抽出APIや本文パース機能の追加でコンテンツ処理能力を高め、Google認証（NextAuth）の導入でセキュリティも強化されています。開発環境のDevcontainer整備やプロジェクト名の統一、README更新といった品質向上とメンテナンス作業も抜かりなく実施。着実にプロダクトが成長しているのが分かります！この勢いで次のステップへ進みましょう！🚀
+さらに、`[Audicle]` ではユーザー設定共有DBと多言語対応機能が追加され、パーソナライズが加速。オフラインダウンロード機能の実装とIndexedDBの最適化（シングルトン化、Blob直接保存）により、パフォーマンスとストレージ効率も大幅に改善されました！🚀
+
+開発環境も`[Audicle]` でdevcontainerのセットアップが強化され、今後の開発効率もアップすること間違いなしです。Audicleがより強力で使いやすいプロダクトへと成長していくのが楽しみです！素晴らしい貢献、ありがとうございます！✨
 
 _Total: 44 commits across 1 projects_
 
@@ -43,7 +46,7 @@ _Total: 44 commits across 1 projects_
       <br />
       <sub>📊 44 commits (100.0%)</sub>
       <br />
-      <sub>🟨 JavaScript </sub>
+      <sub>🟨 JavaScript ⭐ 1</sub>
     </td>
   </tr>
 </table>
