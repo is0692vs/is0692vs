@@ -1,21 +1,21 @@
 <!-- weather-greeting:start -->
-# 🌍 Hallo! Sonniger Tag☀️
-📍 Berlin: 7°C
+# 🌍 Hello! Beautiful sunny day☀️
+📍 San Francisco: 12°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
 📦 **[pr-cannon](https://github.com/is0692vs/pr-cannon)**: 641 total downloads
 
-![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%2C601%2C613%2C634%2C636%2C641%2C641%2C641%2C641%2C641%2C641%2C641%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%2C601%2C613%2C634%2C636%2C641%2C641%2C641%2C641%2C641%2C641%2C641%2C641%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- stats:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 333 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 328 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 4 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C333%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C333%2C333%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%2C4%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -24,13 +24,15 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、あなたは素晴らしい63件のコミットを積み重ねました！🚀 Audicleプロジェクトでは、Webアプリケーションの大幅な進化を遂げています。
+直近3日間で、あなたは合計44件ものコミットを重ね、素晴らしい進捗を見せてくれました！🎉 特に[Audicle]リポジトリでは多岐にわたる重要な改善が実施されましたね。
 
-*   **Audicle**では、Next.js Webアプリの基盤を構築し、PWA対応を実装してオフラインでも利用できる準備が整いましたね。Google OAuth認証やGoogle Cloud TTS合成APIの導入で、よりリッチな体験を提供できるようになりました。記事の抽出APIや本文パース機能も強化されています。
-*   **Audicle**にユーザー設定共有用DBと設定機能が追加され、言語サポートや音声モデルの選択肢が拡充。特にオフラインダウンロード機能とIndexedDBキャッシュの実装は、ユーザー体験を大きく向上させるでしょう。保存形式の効率化やダイアログ改善も抜かりなく行われました。
-*   **Audicle**の内部では、Vercel Analyticsの導入、プロジェクト名の統一、開発コンテナのセットアップ強化、READMEの更新まで、多岐にわたる改善が進んでいます。
+まず、オフラインダウンロード機能が大きく進化しました。IndexedDBを活用したキャッシュ、並列ダウンロード、堅牢なエラーハンドリング、そして使いやすいUIが追加され、オフラインでの音声再生とストレージ管理が格段に向上しましたね。データの保存形式をBlobに変更したことでストレージ効率も大幅にアップ！👏
 
-これらの努力が、Audicleをさらに魅力的なプロダクトにしていきますね！✨
+次に、ユーザ設定機能が本格的に導入されました。Supabaseを用いた設定用DBの作成、言語サポートや音声モデルの更新、NextAuthとの連携による認証強化など、ユーザーごとのパーソナライズが可能になり、今後の機能拡張の土台がしっかりと築かれました。🛠️
+
+また、記事の本文パース機能も段落単位での詳細な制御ができるようになり、再生体験がよりスムーズになりました。加えて、開発環境のDevContainerが強化され、Supabase連携も進んだことで、開発のしやすさも向上しています。AuticleからAudicleへのプロジェクト名統一も完了し、ブランドの一貫性が保たれましたね！✨
+
+これらの大きな進展は、ユーザー体験の向上と開発効率の両面で素晴らしい成果です。この勢いを維持して、次なる目標に向けて頑張っていきましょう！🚀
 
 _Total: 44 commits across 1 projects_
 
