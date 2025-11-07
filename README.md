@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia chuvoso☔
-📍 Lisbon: 19°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Lima: 18°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 334 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 332 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 4 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,18 +24,17 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、あなたは素晴らしい58件のコミットを記録しましたね！お疲れ様です！✨
-主要な活動はすべてAudicleリポジトリに集中しており、多岐にわたる重要な機能開発と改善が進められました。
+3日間で67件ものコミット、素晴らしい成果ですね！🎉 主に**Audicle**リポジトリに集中し、多数の新機能開発と大幅な改善を進めました。
 
-特に、[Audicle]では大規模な新機能と体験向上が目立ちます。
-ユーザー設定共有DBと設定機能を導入し、音声モデルや再生速度、言語サポートといったパーソナルな設定が可能になりましたね。これは非常に大きな機能追加でした！
-また、プレイリスト機能付きブックマークや、IndexedDBを活用したオフラインダウンロード機能も実装され、オフラインでの再生体験とストレージ管理が大きく強化されました。
-コンテンツ表示についても、段落単位の本文パース機能を実装し、再生中のハイライトや任意の段落からの再生を可能にするなど、ユーザーの利便性が格段に向上しています。
-さらに、開発環境のdevcontainerセットアップ強化やSupabase連携の基盤整備、APIサーバーのREADME拡充など、今後の開発効率を高めるための土台作りも着々と進められました。プロジェクト名の表記ゆれ解消も完了し、一貫性が保たれています。
+**Audicle**では、まずユーザー設定の共有DBと設定機能を実装し、音声モデルや再生速度、言語サポートを可能にしました。これにより、よりパーソナライズされた体験が提供できますね！✨
 
-これだけの多数の機能追加と品質改善を短期間で実現したのは本当に素晴らしいです！ユーザー体験と開発効率の両面で大きく前進しましたね。今後のさらなる進化が楽しみです！🚀🎉
+さらに、オフラインダウンロード機能（IndexedDBキャッシュ）を実装し、どこでもコンテンツを楽しめるように。プレイリスト機能付きブックマーク管理も追加され、使い勝手が格段に向上しました。
 
-_Total: 100 commits across 1 projects_
+Webアプリの体験も大きく改善！**Audicle**では、読み上げ箇所の自動スクロールや段落単位の本文パース機能を実装。これにより、よりスムーズで直感的な読書体験を提供しています。IndexedDBの最適化やDB・Supabase連携、Devcontainerの強化といった技術的な土台作りもしっかり行いましたね。
+
+プロジェクト名の一貫性向上やドキュメント拡充も忘れず、品質向上にも貢献しています。盛りだくさんの開発、本当にお疲れ様でした！この勢いで、次の目標も達成していきましょう！🚀
+
+_Total: 135 commits across 1 projects_
 
 <table>
   <tr>
@@ -46,7 +45,7 @@ _Total: 100 commits across 1 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 100 commits (100.0%)</sub>
+      <sub>📊 135 commits (100.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
