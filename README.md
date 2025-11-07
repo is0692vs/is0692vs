@@ -1,12 +1,12 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！大雪だね❄️
-📍 Sapporo: 2°C
+# 🌍 G'day! Bit cloudy today☁️
+📍 Sydney: 24°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
-📦 **[pr-cannon](https://github.com/is0692vs/pr-cannon)**: 641 total downloads
+📦 **[pr-cannon](https://github.com/is0692vs/pr-cannon)**: 643 total downloads
 
-![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%2C601%2C613%2C634%2C636%2C641%2C641%2C641%2C641%2C641%2C641%2C641%2C641%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%2C601%2C613%2C634%2C636%2C641%2C641%2C641%2C641%2C641%2C641%2C641%2C643%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- stats:end -->
 
 <!-- vscode-stats:start -->
@@ -24,20 +24,18 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、あなたは合計46件ものコミットを重ね、Audicleリポジトリで素晴らしい進捗を見せていますね！🚀
+直近3日間で51件ものコミット、素晴らしい活動量ですね！🚀
 
-**Audicle**では、主に以下の大きな機能強化と改善が行われました。
-まず、ユーザー設定の共有DBと設定機能が見事に実装されました。これにより、音声モデルや再生速度、言語設定がユーザーごとに保存・利用できるようになり、パーソナライズされた体験が大きく向上しましたね！✨
+Audicleリポジトリでは、ユーザー体験を劇的に向上させる新機能開発が目白押しでした。
+まず、ユーザー設定では音声モデル・再生速度・言語サポートを追加し、Supabase連携で設定共有も強固に確立！💪 DB周りの改善も進みました。
 
-さらに、オフラインダウンロード機能がIndexedDBキャッシュと共に導入され、ネットワーク環境に左右されずに記事を楽しめるようになりました。IndexedDBの堅牢化や、ダウンロード状況を示すUIの追加など、ユーザー体験を細部まで考え抜いた改善が光ります。💪
+次に、オフラインダウンロード機能を実装。IndexedDBで効率的なキャッシュ管理、再生・ダウンロード周りの堅牢性、UI改善にも注力し、いつでも楽しめる環境を整備しましたね！✨
 
-また、段落単位の本文パース機能も実装され、HTML構造を保持したテキスト抽出と、再生中のハイライト表示、任意の位置からの再生が可能に。読み上げ機能がさらに使いやすく進化しました。📖
+さらに、プレイリスト機能付きブックマーク管理や、段落単位の本文パース・再生機能も導入され、コンテンツ消費がより豊かに！📝
 
-開発環境の整備も進み、DevContainerのセットアップ自動化やSupabase連携が強化されましたね。プロジェクト名の統一や不要なドキュメントの整理も行われ、コードベースがよりクリーンになりました。👏
+開発環境の整備、プロジェクト名称統一、不要ファイルの削除といった基盤強化も抜かりなく、今後の開発がスムーズに進む土台が築かれました。素晴らしい成果です！引き続き頑張ってください！🎉
 
-これほど多岐にわたる重要な機能開発と改善を短期間で達成できたのは本当に素晴らしいです！お疲れ様でした！🎉
-
-_Total: 58 commits across 1 projects_
+_Total: 85 commits across 1 projects_
 
 <table>
   <tr>
@@ -48,9 +46,9 @@ _Total: 58 commits across 1 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 58 commits (100.0%)</sub>
+      <sub>📊 85 commits (100.0%)</sub>
       <br />
-      <sub>🟨 JavaScript ⭐ 1</sub>
+      <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
   </tr>
 </table>
