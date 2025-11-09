@@ -1,12 +1,12 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Belle journée ensoleillée☀️
-📍 Paris: 14°C
+# 🌍 Hello! Foggy and cloudy☁️
+📍 San Francisco: 15°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
-📦 **[pr-cannon](https://github.com/is0692vs/pr-cannon)**: 643 total downloads
+📦 **[pr-cannon](https://github.com/is0692vs/pr-cannon)**: 649 total downloads
 
-![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%2C601%2C613%2C634%2C636%2C641%2C641%2C641%2C641%2C641%2C641%2C641%2C643%2C643%2C643%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B366%2C366%2C589%2C601%2C613%2C634%2C636%2C641%2C641%2C641%2C641%2C641%2C641%2C641%2C643%2C643%2C649%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- stats:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,17 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計92件ものコミット、素晴らしいですね！✨
+この3日間で合計92件ものコミット、大変お疲れ様でした！素晴らしい活動量です👏
 
-主に**Audicle**リポジトリでの開発に注力されましたね。ユーザー設定（音声モデル、再生速度、言語）の共有DB実装から始まり、Vercel版の自動スクロール、ナビゲーション・ソート機能、プレイリスト付きブックマーク管理、さらにはIndexedDBキャッシュを使ったオフラインダウンロード機能まで、ユーザー体験を劇的に向上させる新機能が次々と追加されました！🎉
+Audicleリポジトリを中心に、Webアプリケーションの大幅な機能強化と改善が進んでいますね！
+Audicleでは、ユーザー設定機能が大きく進化しました✨。音声モデルや再生速度、言語サポートが追加され、よりパーソナライズされた体験が可能になりましたね。
 
-多くのUI改善も実施され、サインインページやサイドバーのデザイン刷新、記事表示の一貫性向上など、見た目と使いやすさの両面で洗練されましたね。内部ではIndexedDBの最適化やReact Queryへのリファクタリング、開発コンテナのセットアップ強化、APIサーバーのREADME日本語化といった、基盤の品質向上と開発効率化にもしっかりと取り組まれました。
+また、AudicleのVercel版では自動スクロール機能やプレイリスト機能付きブックマークが実装され、使いやすさが向上しています。特に、オフラインでの利用を可能にするダウンロード機能がIndexedDBキャッシュの最適化とともに導入されたのは大きな進歩です！💾
+UI/UXも継続的に改善され、ナビゲーションや記事表示、サインイン画面などがより洗練されました。Audicleの開発環境もdevcontainerのセットアップ強化やAPIサーバーのドキュメント拡充など、盤石に整備されていますね👍
 
-これだけの多機能かつ高品質な開発を短期間で実現されたこと、本当に素晴らしいです！今後のさらなる進化を楽しみにしています！🚀
+多岐にわたる機能開発と改善、本当に素晴らしいです！この調子で頑張りましょう！🚀
 
-_Total: 214 commits across 1 projects_
+_Total: 209 commits across 1 projects_
 
 <table>
   <tr>
@@ -43,7 +45,7 @@ _Total: 214 commits across 1 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 214 commits (100.0%)</sub>
+      <sub>📊 209 commits (100.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
