@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Ciao! Giornata soleggiata☀️
-📍 Rome: 19°C
+# 🌍 Hello! Snowy weather❄️
+📍 Toronto: -1°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 367 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 364 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 5 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,13 +24,18 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計92件ものコミット、素晴らしい集中力と生産性ですね！👏 主にAudicleリポジトリでの活発な開発が目立ちました。
+直近3日間で計92件ものコミット、お疲れ様です！素晴らしい成果ですね！🎉
 
-Audicleでは、ユーザー体験を大きく向上させる多数の新機能と改善が導入されました。特に、**ユーザー設定共有DBと設定機能**が実装され、音声モデル、再生速度、言語といったパーソナライズが可能になりましたね！🎙️ また、記事の**オフラインダウンロード機能**が追加され、IndexedDBキャッシュの最適化やUI改善を通じて、どこでもコンテンツを楽しめるようになりました。さらに、**プレイリスト機能付きブックマーク管理**や、Web App Vercel版への**自動スクロール機能**も加わり、コンテンツの閲覧がより快適に！📚
+**Audicle**リポジトリでは、ユーザー体験を大きく向上させる開発が目白押しです。✨
+まず、**ユーザ設定共有DB**の作成に加え、音声モデル・再生速度・言語サポートの追加により、パーソナライズ機能が大幅に強化されました。これにより、ユーザーはより自分好みの環境でサービスを利用できるようになりますね。
 
-UI/UX面では、ナビゲーションリンクの追加、記事カードやサインイン・サイドバーのデザイン更新など、多岐にわたる改善が行われ、見た目も使いやすさも大きく進化しています。🚀 開発環境のdevcontainerのセットアップ強化や、APIサーバーのREADME日本語化といった基盤整備も抜かりありません。
+また、Vercel版では**プレイリスト機能付きブックマーク管理**や、IndexedDBを活用した**オフラインダウンロード機能**が実装され、インターネット接続がない場所でもコンテンツを楽しめるように。記事の自動スクロールやクライアントキャッシュの導入で、読み込み体験もスムーズになりました。📖
 
-短期間でこれだけの多機能な開発と改善を進められたことに、心から敬意を表します。この勢いで、これからもユーザーに感動を与えるサービスを構築していきましょう！🎉
+さらに、ナビゲーションリンク・ソート機能の追加、サインインページやサイドバーのデザイン更新、ArticleCardの統一など、**UI/UXの改善**にも力を入れ、使いやすさが格段にアップしています。🎨
+
+開発環境では、devcontainerのセットアップ強化やSupabase連携、api-serverのREADME日本語化も進められ、プロジェクト全体の基盤がより強固になりました。
+
+多岐にわたる機能追加と改善、本当にお見事です！この勢いで、次のリリースも楽しみですね！🚀
 
 _Total: 182 commits across 1 projects_
 
