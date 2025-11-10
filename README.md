@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Beautiful sunny day☀️
-📍 Sydney: 18°C
+# 🌍 你好！今天多云☁️
+📍 Beijing: 8°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 391 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 387 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 5 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,17 +24,17 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、Audicleリポジトリに62件ものコミット、お疲れ様です！素晴らしい活動量ですね！🚀
+素晴らしい3日間でしたね！なんと合計62件ものコミットを重ね、Audicleの開発に大きく貢献してくれました。👏✨
 
-Audicleでは、ユーザー体験を大きく向上させる機能開発とUI改善に注力しました。まず、ユーザー設定に基づいて音声モデルや再生速度を調整できる機能を導入し、個々人に合わせた読書体験を提供できるようになりましたね🗣️。また、Webアプリ版に自動スクロール機能を実装し、読み上げ箇所をスムーズに追えるようになりました↕️。
+特に[Audicle]では、ユーザー体験を劇的に向上させる新機能が満載です！
+*   **設定機能の強化**: 音声モデルや再生速度のユーザー設定をサポートし、一人ひとりに合わせた読書体験が可能になりましたね。これは大きな進化です！🎧
+*   **UI/UXの改善**: Web App Vercel版への自動スクロール機能の実装、ナビゲーションリンクやソート機能の追加、そしてプレイリスト機能付きブックマーク管理の導入で、使いやすさが格段にアップしました。🎨📚 既存UIの継続的な改善や新しいコンポーネントの導入、グローバルスタイルの調整も細やかに行われています。
+*   **技術的な改善**: React Queryの導入によるデータフェッチングの効率化や、Service Workerのスクリプト読み込みロジックの修正など、裏側のパフォーマンス向上にも余念がありません。🚀
+*   **ドキュメント整備**: api-serverのREADME日本語化も、今後の開発をスムーズにする大切な一歩です。📝
 
-さらに、ナビゲーションリンクの追加、記事のソート機能、プレイリスト機能付きブックマーク管理の実装、そしてプレイリストへの記事追加UIの改善により、コンテンツ管理が格段に便利になりました🔖。
+これらの取り組みにより、[Audicle]はさらにパワフルで魅力的なプロダクトへと進化しています。本当にお疲れ様でした！この調子で頑張りましょう！🚀
 
-UI面では、サインインページやサイドバー、記事カード、プレイリストページなど、Audicleの多くの箇所のデザインとレイアウトを徹底的に改善し、より洗練された見た目に進化させました🎨。React Queryを導入したデータフェッチのリファクタリングも行い、パフォーマンスと保守性も向上させています⚙️。
-
-ドキュメントでは、Audicleのapi-serverのREADMEを日本語化し、情報共有を促進しました📝。この短期間でこれだけの多岐にわたる改善を成し遂げたのは本当に素晴らしいです！今後のAudicleがさらに楽しみですね！🎉
-
-_Total: 129 commits across 1 projects_
+_Total: 95 commits across 1 projects_
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ _Total: 129 commits across 1 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 129 commits (100.0%)</sub>
+      <sub>📊 95 commits (100.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -93,24 +93,24 @@ _Total: 129 commits across 1 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/3SS77BL8QoIWyoK0u7pDGQ" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273ae516ba0de5909fc9613a81b" alt="Like a Flower" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>Like a Flower</sub>
-      <br />
-      <sub>LANA</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/2YyI6tBurS8dCVhdPkpZp3" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="オーケストラ" width="120" />
       </a>
       <br />
-      <sub><strong>#5</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>オーケストラ</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/3v9zz2nwzTGE1UupubZhfy" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="HiDE the BLUE" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>HiDE the BLUE</sub>
       <br />
       <sub>BiSH</sub>
     </td>
