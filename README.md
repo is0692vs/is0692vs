@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 你好！今天多云☁️
-📍 Beijing: 8°C
+# 🌍 こんにちは！お天気ですね☀️
+📍 Fukuoka: 10°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 387 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 382 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 5 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,17 +24,9 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-素晴らしい3日間でしたね！なんと合計62件ものコミットを重ね、Audicleの開発に大きく貢献してくれました。👏✨
+直近3日間で66件ものコミット、お疲れ様です！👏 Merge pull request #107 from is0692vs/87-vercelリクエスト速度とか音声とかの設定をできるようにする、Merge pull request #116 from is0692vs/115-vercel読み上げ箇所スクロールフォロー、Merge pull request #125 from is0692vs/124-vercelui改善など、多くの作業を進められました。合計23023行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-特に[Audicle]では、ユーザー体験を劇的に向上させる新機能が満載です！
-*   **設定機能の強化**: 音声モデルや再生速度のユーザー設定をサポートし、一人ひとりに合わせた読書体験が可能になりましたね。これは大きな進化です！🎧
-*   **UI/UXの改善**: Web App Vercel版への自動スクロール機能の実装、ナビゲーションリンクやソート機能の追加、そしてプレイリスト機能付きブックマーク管理の導入で、使いやすさが格段にアップしました。🎨📚 既存UIの継続的な改善や新しいコンポーネントの導入、グローバルスタイルの調整も細やかに行われています。
-*   **技術的な改善**: React Queryの導入によるデータフェッチングの効率化や、Service Workerのスクリプト読み込みロジックの修正など、裏側のパフォーマンス向上にも余念がありません。🚀
-*   **ドキュメント整備**: api-serverのREADME日本語化も、今後の開発をスムーズにする大切な一歩です。📝
-
-これらの取り組みにより、[Audicle]はさらにパワフルで魅力的なプロダクトへと進化しています。本当にお疲れ様でした！この調子で頑張りましょう！🚀
-
-_Total: 95 commits across 1 projects_
+_Total: 100 commits across 1 projects_
 
 <table>
   <tr>
@@ -45,7 +37,7 @@ _Total: 95 commits across 1 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 95 commits (100.0%)</sub>
+      <sub>📊 100 commits (100.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
