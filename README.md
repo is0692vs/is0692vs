@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Snowy day❄️
-📍 Chicago: -4°C
+# 🌍 Hallo! Es regnet☔
+📍 Berlin: 8°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,11 +11,11 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 372 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 391 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 5 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C333%2C345%2C364%2C372%2C382%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%2C4%2C5%2C5%2C5%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C333%2C345%2C364%2C372%2C391%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%2C4%2C5%2C5%2C5%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -24,15 +24,21 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-お疲れ様です！直近3日間で、なんと60件ものコミットを達成されましたね！素晴らしい集中力です👏
+直近3日間で、なんと60件ものコミット、お疲れ様です！素晴らしい活躍ですね！🎉
 
-**Audicle**では、ユーザー体験を飛躍的に向上させるための大規模な機能追加とUI改善に尽力されました。特に、**音声モデルや再生速度のユーザー設定サポート**を実装し、読み上げ体験が格段にパーソナルになりましたね。さらに、**Webアプリ版での自動スクロール機能**や**ブックマークによる読書位置の復元処理**は、長時間の利用をより快適にする重要な改善です！✨
+**[Audicle]** リポジトリでは、ユーザー体験を大きく向上させる新機能開発とUI/UX改善に精力的に取り組んでいますね。
 
-**プレイリスト機能付きブックマーク管理**や**ナビゲーションリンク、ソート機能の追加**で、コンテンツ管理がよりスムーズになりました。また、サインインページ、サイドバー、ArticleCardコンポーネントの刷新、そしてグローバルスタイルの調整まで、細部にわたるUI改善にも注力され、見た目と使いやすさの両面で大きく進化していますね！
+特に注目すべきは、ユーザー設定に基づく音声モデルと再生速度のサポート追加や、Web App Vercel版への自動スクロール機能実装です。これで読書体験がぐっと快適になりますね！📖✨
 
-**Audicle**のapi-serverのREADME日本語化もバッチリです👍。これだけの多岐にわたる作業をこなし、Audicleの品質と機能性を大きく高めてくださり、本当にありがとうございます！この勢いで、次の目標も達成していきましょう！🚀
+また、プレイリスト機能付きブックマーク管理の実装や、React Queryを活用したデータ取得の最適化で、よりスムーズな操作が可能になったことでしょう。ナビゲーションリンクやソート機能の追加も、情報へのアクセスを容易にしますね。
 
-_Total: 133 commits across 1 projects_
+UI面では、Vercel版の既存UI改善を始め、ArticleCardコンポーネントの新規作成、サインインページやサイドバーのデザイン更新、グローバルスタイルの調整など、細部にわたるこだわりが見られます。見た目も使いやすさも格段にアップしましたね！🎨
+
+さらに、APIサーバーのREADME日本語化といったドキュメント整備や、記事のURL・タイトル取得部分の修正、スクロールログの改善など、品質向上のための努力も怠っていません。
+
+これだけ多くの機能追加と改善を短期間で実現したのは見事です！今後の**[Audicle]**の進化がますます楽しみですね！応援しています！🚀
+
+_Total: 126 commits across 1 projects_
 
 <table>
   <tr>
@@ -43,7 +49,7 @@ _Total: 133 commits across 1 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 133 commits (100.0%)</sub>
+      <sub>📊 126 commits (100.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
