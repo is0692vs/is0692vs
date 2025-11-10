@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello!
-📍 Toronto
+# 🌍 ¡Hola! Día nublado☁️
+📍 Lima: 19°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 396 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 391 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 5 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,17 +24,13 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、[Audicle]リポジトリに66件ものコミットを達成しましたね！素晴らしい集中力です👏
+直近3日間で、なんと66件ものコミット、本当に素晴らしいですね！✨ 特に**[Audicle]**リポジトリでは、多岐にわたる機能強化と改善を精力的に進められました。
 
-Audicleでは、ユーザー体験向上へ新機能開発・UI改善に注力。音声モデル・再生速度のユーザー設定、自動スクロール機能で読書体験が向上。ブックマーク・読書位置の復元処理も充実。
+**[Audicle]**では、ユーザー体験を格段に向上させる多くの新機能を実装されました。音声モデル設定や再生速度調整のサポートを追加し、Web App Vercel版に自動スクロール機能を実装！👏 プレイリスト機能付きブックマーク管理を実装し、記事ロード時のプレイリスト選択機能や、既存のブックマーク機能・読書位置の復元処理も強化されています。また、プレイリストの検証ロジックを修正し、安定性も向上させました。
 
-プレイリスト機能付きブックマーク管理、記事のプレイリスト追加UI、React Queryによるクライアントキャッシュ導入、プレイリストID検証など、機能強化・安定化を進めました。
+UI/UXの改善にも注力され、**[Audicle]**のUIではナビゲーションリンクやソート機能を追加。サインインページやサイドバーのデザインを更新し、ArticleCardコンポーネントを新規作成するなど、一貫性のある美しいインターフェースへと進化させています。グローバルスタイルの改善やレイアウト調整も行われ、より洗練された見た目になりましたね！🎨
 
-ナビゲーションリンク、記事ソート、サインイン・サイドバーのデザイン刷新、ArticleCard新規作成など、UI/UXにこだわりが見られます✨
-
-`api-server`のREADME日本語化やService Worker修正など、ドキュメント・基盤整備も抜かりありません。
-
-短期間で多くの改善と新機能が実現され、ユーザーにとって魅力的なAudicleになったことでしょう！今後の進化も楽しみです🚀
+さらに、React Queryの導入によるデータフェッチングの効率化や、コードの整形、service workerのスクリプト読み込みロジック修正といった内部品質の向上にも抜かりがありません。APIサーバーのREADMEも日本語化し、ドキュメントも充実！この勢いで、これからも素晴らしい開発を進めていってください！🚀
 
 _Total: 90 commits across 1 projects_
 
@@ -106,15 +102,15 @@ _Total: 90 commits across 1 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/3v9zz2nwzTGE1UupubZhfy" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="HiDE the BLUE" width="120" />
+      <a href="https://open.spotify.com/track/08rRFDUovbSP4WK3E75gmO" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27394dbc96009e8a77db2698496" alt="LET IT DIE" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>HiDE the BLUE</sub>
+      <sub>LET IT DIE</sub>
       <br />
-      <sub>BiSH</sub>
+      <sub>MY FIRST STORY</sub>
     </td>
   </tr>
 </table>
