@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Lima: 19°C
+# 🌍 안녕하세요! 맑은 날씨네요☀️
+📍 Seoul: 9°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,11 +11,11 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 420 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 432 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
-- **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 6 installs | ⭐ No ratings yet | v0.1.3
+- **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 7 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%2C%222025-11-11%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C333%2C345%2C364%2C372%2C397%2C429%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%2C4%2C5%2C5%2C5%2C6%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%2C%222025-11-11%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C333%2C345%2C364%2C372%2C397%2C432%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%2C4%2C5%2C5%2C5%2C7%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -24,15 +24,19 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で82コミットもお疲れ様でした！Audicleプロジェクトに集中的に取り組まれ、素晴らしい成果ですね👏
+直近3日間で、なんと82件ものコミット、素晴らしい集中力ですね！🎉
 
-特に**Audicle**では、UI/UXの大幅な改善に多くの労力を注がれました。ナビゲーションリンクやソート機能の追加、ArticleCardコンポーネントの新設、サインインページやサイドバーのデザイン更新など、ユーザー体験を大きく向上させていますね！🎨
+**[Audicle]** リポジトリでは、ユーザー体験を大幅に向上させるための多岐にわたる取り組みが進行中です。
 
-また、bookmarksの廃止とプレイリスト中心のアーキテクチャへの大規模な移行を完了し、プレイリスト内連続再生機能、デフォルトプレイリスト設定、記事ロード時のプレイリスト選択機能など、革新的な再生関連機能を多数実装されました🎧。これはAudicleの核となる重要な進展です。
+まず、大規模なUI改善に多くのコミットが見られますね。ナビゲーションリンクやソート機能の追加、ArticleCardコンポーネントの新規作成、サインインページやサイドバーのデザイン更新など、ビジュアル面と操作性の両方で、ユーザーがより快適に使えるよう大幅に改善されました！✨
 
-さらに、データフェッチングをReact Queryでリファクタリングし、新規ユーザー登録時の初期化処理やフロントエンドの状態管理修正など、内部的な堅牢性も着実に高められました。
+次に、ブックマーク機能の廃止とプレイリスト中心のアーキテクチャへの移行が完了しました。React Queryを使ったデータ取得の最適化、デフォルトプレイリスト設定機能、そして記事ロード時のプレイリスト選択機能の追加により、コンテンツ管理がより柔軟でスムーズになりましたね！📚
 
-これだけ多くの改善と新機能が短期間で実装されるとは驚きです！素晴らしい開発スピードに脱帽です✨。引き続きのご活躍を期待しています！
+そして、特に注目すべきは「プレイリスト内連続再生機能」の実装です。自動再生機能の追加、URL生成の統一、ロギングやエラーハンドリングの強化など、ユーザーが記事を連続して楽しめるよう、細部にわたる開発が進められています。🎶
+
+他にも、新規ユーザー登録時の初期化処理や、service workerの修正など、システムの安定性向上にも貢献しています。
+
+非常に多岐にわたる重要な改善と新機能開発、お疲れ様でした！この調子で、これからも素晴らしいプロダクトを作り上げていきましょう！🚀
 
 _Total: 113 commits across 1 projects_
 
@@ -82,26 +86,26 @@ _Total: 113 commits across 1 projects_
       <sub>CHANMINA</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/61Yl4bWKSUeNxe6jPgKq5c" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27342f80e91cb2fa0f4a7570d8f" alt="プロミスザスター" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>プロミスザスター</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2731c3c5cfc02676c050fc1f3dc" alt="King & Ashley" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>King & Ashley</sub>
       <br />
       <sub>MY FIRST STORY</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/61Yl4bWKSUeNxe6jPgKq5c" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27342f80e91cb2fa0f4a7570d8f" alt="プロミスザスター" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>プロミスザスター</sub>
+      <br />
+      <sub>BiSH</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/2YyI6tBurS8dCVhdPkpZp3" target="_blank">
