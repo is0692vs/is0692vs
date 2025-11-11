@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hallo! Es regnet☔
-📍 Berlin: 9°C
+# 🌍 Olá! Dia ensolarado☀️
+📍 São Paulo: 21°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 423 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 417 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 5 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,18 +24,20 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと82件ものコミット、お疲れ様です！素晴らしい成果ですね！🚀
+直近3日間で、あなたは素晴らしい82件ものコミットを重ねましたね！✨
 
-**[Audicle]** では、広範な機能改善と大規模なリファクタリングが精力的に進められました。
-まず、UI/UXの改善が目覚ましく、ナビゲーションやソート機能の追加、ArticleCardの新規作成による記事表示の一貫性向上、サインインページやサイドバーのデザイン刷新など、ユーザー体験が大きく向上しましたね！✨
+特に**Audicle**リポジトリでは、多岐にわたる重要な開発が活発に進められました。
+まず、大規模なUI改善に精力的に取り組んでいましたね。**Audicle**では、ナビゲーションリンクやソート機能が追加され、サインインページやサイドバーのデザイン刷新、`ArticleCard`コンポーネントの新規作成によって、ユーザー体験が大きく向上しました。
 
-また、プロジェクトの核となる「プレイリスト」機能が大幅に強化されました。これまでのブックマーク機能は廃止され、プレイリスト中心のアーキテクチャへの移行が完了。さらに、待望のプレイリスト内連続再生機能が実装され、デフォルトプレイリスト設定や記事ロード時のプレイリスト選択機能も追加されました。これにより、ユーザーはよりシームレスにコンテンツを楽しめるようになりましたね！🎉
+次に、システムの根幹に関わる大きな変更として、**Audicle**のブックマーク機能の廃止と、プレイリスト中心のアーキテクチャへの移行が完了しました。これは今後の展開を大きく左右する重要なマイルストーンです。
 
-内部的には、React Queryを導入してデータフェッチとミューテーションを効率化し、新規ユーザー登録時の初期化処理も追加されるなど、堅牢な基盤作りも抜かりありません。
+さらに、プレイリスト機能そのものも大きく強化されました。**Audicle**では、待望のプレイリスト内連続再生機能が実装され、記事ロード時のプレイリスト選択やデフォルトプレイリスト設定も可能に。React Queryの導入により、データフェッチングも効率化されていますね。
 
-本当に多岐にわたる重要な改善を短期間で達成されました。この勢いで、次の開発も楽しみですね！👍
+その他にも、新規ユーザー登録時の初期化処理や、サービスワーカーの読み込みロジック修正など、**Audicle**の安定性と機能拡張のための細やかな配慮も光ります。
 
-_Total: 127 commits across 1 projects_
+これだけの多くの機能強化と基盤改善を短期間で実現されたことに、心から敬意を表します！あなたの貢献は本当に素晴らしいです！🚀
+
+_Total: 116 commits across 1 projects_
 
 <table>
   <tr>
@@ -46,7 +48,7 @@ _Total: 127 commits across 1 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 127 commits (100.0%)</sub>
+      <sub>📊 116 commits (100.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -105,15 +107,15 @@ _Total: 127 commits across 1 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/08rRFDUovbSP4WK3E75gmO" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27394dbc96009e8a77db2698496" alt="LET IT DIE" width="120" />
+      <a href="https://open.spotify.com/track/3v9zz2nwzTGE1UupubZhfy" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="HiDE the BLUE" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>LET IT DIE</sub>
+      <sub>HiDE the BLUE</sub>
       <br />
-      <sub>MY FIRST STORY</sub>
+      <sub>BiSH</sub>
     </td>
   </tr>
 </table>
