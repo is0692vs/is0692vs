@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia ensolarado☀️
-📍 São Paulo: 21°C
+# 🌍 Ciao! Giornata soleggiata☀️
+📍 Rome: 18°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 417 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 422 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 5 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,18 +24,7 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、あなたは素晴らしい82件ものコミットを重ねましたね！✨
-
-特に**Audicle**リポジトリでは、多岐にわたる重要な開発が活発に進められました。
-まず、大規模なUI改善に精力的に取り組んでいましたね。**Audicle**では、ナビゲーションリンクやソート機能が追加され、サインインページやサイドバーのデザイン刷新、`ArticleCard`コンポーネントの新規作成によって、ユーザー体験が大きく向上しました。
-
-次に、システムの根幹に関わる大きな変更として、**Audicle**のブックマーク機能の廃止と、プレイリスト中心のアーキテクチャへの移行が完了しました。これは今後の展開を大きく左右する重要なマイルストーンです。
-
-さらに、プレイリスト機能そのものも大きく強化されました。**Audicle**では、待望のプレイリスト内連続再生機能が実装され、記事ロード時のプレイリスト選択やデフォルトプレイリスト設定も可能に。React Queryの導入により、データフェッチングも効率化されていますね。
-
-その他にも、新規ユーザー登録時の初期化処理や、サービスワーカーの読み込みロジック修正など、**Audicle**の安定性と機能拡張のための細やかな配慮も光ります。
-
-これだけの多くの機能強化と基盤改善を短期間で実現されたことに、心から敬意を表します！あなたの貢献は本当に素晴らしいです！🚀
+直近3日間で82件ものコミット、お疲れ様です！👏 Merge pull request #125 from is0692vs/124-vercelui改善、Merge pull request #149 from is0692vs/148-vercelbookmarksの廃止、Merge pull request #138 from is0692vs/137-vercelクライアントキャッシュなど、多くの作業を進められました。合計7425行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 116 commits across 1 projects_
 
