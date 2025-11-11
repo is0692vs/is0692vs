@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 你好！今天多云☁️
-📍 Beijing: 7°C
+# 🌍 Hello! Foggy and cloudy☁️
+📍 San Francisco: 19°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 429 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 422 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 5 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,7 +24,19 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で82件ものコミット、お疲れ様です！👏 Merge pull request #125 from is0692vs/124-vercelui改善、Merge pull request #149 from is0692vs/148-vercelbookmarksの廃止、Merge pull request #138 from is0692vs/137-vercelクライアントキャッシュなど、多くの作業を進められました。合計7425行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近3日間で、なんと82件ものコミットがありましたね！素晴らしいペースです！✨
+
+**[Audicle]** プロジェクトでは、多岐にわたる重要な作業が進められました。
+
+まず、ユーザーインターフェースが大きく進化しましたね！ナビゲーションリンクやソート機能の追加、ArticleCardコンポーネントの新規作成、サインインページやサイドバーのデザイン刷新など、一貫性と使いやすさを追求したUI改善に精力的に取り組んでいます。🎨
+
+そして、システム基盤となるアーキテクチャの大胆な刷新も見られます。「bookmarks」の廃止とプレイリスト中心のデータモデルへの移行は、今後の機能拡張の強力な土台となるでしょう！💪
+
+さらに、待望のプレイリスト内連続再生機能も実装されましたね！自動再生機能やURL生成、ロギング、エラーハンドリングの強化まで、ユーザー体験を向上させるための細やかな配慮が感じられます。🎶
+
+また、PlaylistSelectorModalやUserSettingsPanelにReact Queryを導入し、データ取得と更新の効率化も図られています。他にもデフォルトプレイリスト設定機能の追加や、新規ユーザー登録時の初期化処理など、着実にサービスを充実させていますね！
+
+短期間でこれだけの成果を出せるのは本当にすごいです！この調子で開発を楽しんでいきましょう！🚀
 
 _Total: 113 commits across 1 projects_
 
@@ -85,26 +97,26 @@ _Total: 113 commits across 1 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/2YyI6tBurS8dCVhdPkpZp3" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="オーケストラ" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>オーケストラ</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2731c3c5cfc02676c050fc1f3dc" alt="King & Ashley" width="120" />
       </a>
       <br />
-      <sub><strong>#5</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>King & Ashley</sub>
       <br />
       <sub>MY FIRST STORY</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/2YyI6tBurS8dCVhdPkpZp3" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="オーケストラ" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>オーケストラ</sub>
+      <br />
+      <sub>BiSH</sub>
     </td>
   </tr>
 </table>
