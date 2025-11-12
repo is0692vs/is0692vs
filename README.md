@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Buenos Aires: 17°C
+# 🌍 Hello! Cloudy weather today☁️
+📍 Los Angeles: 15°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,11 +11,11 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 445 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 432 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
-- **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 7 installs | ⭐ No ratings yet | v0.1.3
+- **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 8 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%2C%222025-11-11%22%2C%222025-11-12%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C333%2C345%2C364%2C372%2C397%2C432%2C445%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%2C4%2C5%2C5%2C5%2C7%2C7%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%2C%222025-11-11%22%2C%222025-11-12%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C333%2C345%2C364%2C372%2C397%2C432%2C445%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%2C4%2C5%2C5%2C5%2C7%2C8%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -24,19 +24,19 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと55件ものコミット、素晴らしい集中力ですね！🚀 主にAudicleリポジトリで多くの機能開発と改善を進められたようです。
+直近3日間で計60件のコミット、お疲れ様でした！✨ 特に`[Audicle]`リポジトリで素晴らしい活動を見せてくれましたね！
 
-**Audicle**では、まず「ブックマーク機能の廃止」と「プレイリストへの完全移行」を大胆に進められました。APIの全面的な変更、フロントエンドの状態管理修正、そして記事を直接プレイリストに追加する機能の実装まで、プレイリスト中心のアーキテクチャへと大きく舵を切りましたね！✨
+`[Audicle]`では、まず「Bookmarks機能の完全廃止とPlaylist中心のアーキテクチャへの移行」という大きな基盤改善を完遂されました。これは非常に重要な変更ですね！👏
 
-次に、ユーザー体験を大きく向上させる「プレイリスト内連続再生機能」を精力的に開発。連続再生のロジックやURL生成の統一、ロギング、エラーハンドリングの強化まで、細部にわたる実装お疲れ様です！🎧
+さらに、ユーザー体験を豊かにする新機能が続々と追加されています。「プレイリスト内連続再生機能」の実装や、リーダーページのURL生成、ロギング、インデックス変更時の挙動改善など、連続再生を徹底的に作り込みました。デフォルトプレイリスト設定機能や記事ロード時のプレイリスト選択機能も加わり、プレイリストの利便性が飛躍的に向上しています。🎵
 
-さらに、「記事人気度カウント機能」のバックエンド・フロントエンド統合と、それに基づく「人気記事表示UI」の実装も完了させ、コンテンツの発見性を高める重要な一歩を踏み出しましたね。👀
+また、「記事人気度カウント機能のバックエンドとフロントエンドの統合」と「人気記事表示のUI実装」も完了し、ユーザーが魅力的なコンテンツを発見しやすくなりました。🤩
 
-他にも、React Queryを使ったデータフェッチングの最適化、デフォルトプレイリスト設定、新規ユーザー登録時の初期化処理、そしてサービスワーカーやUIの細かな修正まで、多岐にわたる改善をされています。
+加えて、「React Queryの導入」によるデータフェッチングとミューテーションの最適化や、「グローバルキャッシュの基本実装」で、アプリケーションのパフォーマンスと安定性が大幅に強化されています。エラーハンドリングの効率化や新規ユーザー登録時の初期化処理もバッチリですね。
 
-この短期間でこれだけの成果を出されたこと、本当に素晴らしいです！今後の進化がますます楽しみですね！👏
+大規模なアーキテクチャ変更から、機能強化、パフォーマンス改善まで、多岐にわたるタスクを見事にこなされています。この素晴らしい勢いで、さらなる発展に期待しています！🚀
 
-_Total: 125 commits across 1 projects_
+_Total: 140 commits across 1 projects_
 
 <table>
   <tr>
@@ -47,7 +47,7 @@ _Total: 125 commits across 1 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 125 commits (100.0%)</sub>
+      <sub>📊 140 commits (100.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
