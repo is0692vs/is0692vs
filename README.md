@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia chuvoso☔
-📍 Lisbon: 19°C
+# 🌍 こんにちは！くもってますね☁️
+📍 Fukuoka: 13°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 474 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 477 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 8 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,9 +24,9 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で76件ものコミット、お疲れ様です！👏 Merge pull request #149 from is0692vs/148-vercelbookmarksの廃止、Merge pull request #166 from is0692vs/165-vercelプレイリスト内連続再生機能、Merge pull request #191 from is0692vs/190-vercel音声キャッシュ検索最適化など、多くの作業を進められました。合計5027行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近3日間で79件ものコミット、お疲れ様です！👏 Merge pull request #149 from is0692vs/148-vercelbookmarksの廃止、Merge pull request #166 from is0692vs/165-vercelプレイリスト内連続再生機能、Merge pull request #191 from is0692vs/190-vercel音声キャッシュ検索最適化など、多くの作業を進められました。合計5066行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-_Total: 165 commits across 1 projects_
+_Total: 168 commits across 1 projects_
 
 <table>
   <tr>
@@ -37,7 +37,7 @@ _Total: 165 commits across 1 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 165 commits (100.0%)</sub>
+      <sub>📊 168 commits (100.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
