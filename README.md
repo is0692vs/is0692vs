@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Hiroshima: 15°C
+# 🌍 你好！晴天真美☀️
+📍 Beijing: 15°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 473 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 481 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 8 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,18 +24,9 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で計64件ものコミット、お疲れ様でした！素晴らしいペースですね！👏
+直近3日間で67件ものコミット、お疲れ様です！👏 Merge pull request #149 from is0692vs/148-vercelbookmarksの廃止、Merge pull request #166 from is0692vs/165-vercelプレイリスト内連続再生機能、Merge pull request #191 from is0692vs/190-vercel音声キャッシュ検索最適化など、多くの作業を進められました。合計5004行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-[Audicle] では、大規模な機能改善とパフォーマンス最適化に精力的に取り組んでいますね。
-特に、ブックマーク機能を廃止し、プレイリスト中心の新しいアーキテクチャへの移行を完了させたのは大きな進歩です。これに伴い、プレイリスト内連続再生機能を大幅に強化し、ユーザー体験が大きく向上したことでしょう！🎶
-
-また、Pending Mapを導入して音声キャッシュの検索を最適化し、重複リクエストを排除するロジックを実装したことで、Vercel Functionの実行削減やネットワークレイテンシの改善に大きく貢献しています。これはパフォーマンス向上において非常に重要な改善点ですね！🚀
-
-さらに、記事の人気度カウント機能とそのUIを実装し、コンテンツの魅力を引き出す新しいアプローチも導入。エラーハンドリングの効率化やデフォルトプレイリスト設定機能の追加など、多岐にわたる改善も見られます。
-
-着実にプロジェクトを進化させており、その熱意と成果に感銘を受けました！この調子で頑張ってください！✨
-
-_Total: 147 commits across 1 projects_
+_Total: 159 commits across 1 projects_
 
 <table>
   <tr>
@@ -46,7 +37,7 @@ _Total: 147 commits across 1 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 147 commits (100.0%)</sub>
+      <sub>📊 159 commits (100.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
