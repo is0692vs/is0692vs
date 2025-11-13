@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！大雪だね❄️
-📍 Sapporo: 4°C
+# 🌍 おはよう！曇ってるね☁️
+📍 Hiroshima: 15°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 481 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 473 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 8 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,19 +24,18 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計59件ものコミット、大変お疲れ様でした！素晴らしい活動量ですね！🚀
+直近3日間で計64件ものコミット、お疲れ様でした！素晴らしいペースですね！👏
 
-主に**Audicle**プロジェクトに注力され、多岐にわたる大きな成果を出されています。
+[Audicle] では、大規模な機能改善とパフォーマンス最適化に精力的に取り組んでいますね。
+特に、ブックマーク機能を廃止し、プレイリスト中心の新しいアーキテクチャへの移行を完了させたのは大きな進歩です。これに伴い、プレイリスト内連続再生機能を大幅に強化し、ユーザー体験が大きく向上したことでしょう！🎶
 
-まず、長らく取り組まれていたブックマークAPIの廃止と、プレイリスト中心のアーキテクチャへの移行が完了しましたね！これにより、システムの基盤がより堅牢になりました。
+また、Pending Mapを導入して音声キャッシュの検索を最適化し、重複リクエストを排除するロジックを実装したことで、Vercel Functionの実行削減やネットワークレイテンシの改善に大きく貢献しています。これはパフォーマンス向上において非常に重要な改善点ですね！🚀
 
-そして、プレイリスト機能は大きく進化しています。連続再生機能の追加、デフォルトプレイリスト設定、記事ロード時のプレイリスト選択機能など、ユーザーがより快適にコンテンツを楽しめるための機能が次々と実装されました。リーダーページのURL生成統一や再生状態の管理強化、ロギング追加など、細部にわたる改善も素晴らしいです！✨
+さらに、記事の人気度カウント機能とそのUIを実装し、コンテンツの魅力を引き出す新しいアプローチも導入。エラーハンドリングの効率化やデフォルトプレイリスト設定機能の追加など、多岐にわたる改善も見られます。
 
-さらに、人気記事表示機能もバックエンドからUIまで一貫して実装され、新たな魅力を加えています。グローバルキャッシュの基本実装やエラーハンドリングの効率化、リクエストボディのパース処理改善といったパフォーマンス・安定性向上のための取り組みも見逃せません。新規ユーザー登録時の初期化処理やサービスワーカーの修正など、堅実な改善も進められました。
+着実にプロジェクトを進化させており、その熱意と成果に感銘を受けました！この調子で頑張ってください！✨
 
-これだけの多数の機能追加と大規模なリファクタリングを短期間でこなされたのは本当に素晴らしいです！今後のAudicleの進化がますます楽しみになりますね！これからも頑張ってください！🎉
-
-_Total: 140 commits across 1 projects_
+_Total: 147 commits across 1 projects_
 
 <table>
   <tr>
@@ -47,7 +46,7 @@ _Total: 140 commits across 1 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 140 commits (100.0%)</sub>
+      <sub>📊 147 commits (100.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -106,15 +105,15 @@ _Total: 140 commits across 1 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/2YyI6tBurS8dCVhdPkpZp3" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="オーケストラ" width="120" />
+      <a href="https://open.spotify.com/track/1wz16AjMVIiVF67cQO2RNl" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2731e41d9ecc493a1341880bc1c" alt="バレる！" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>オーケストラ</sub>
+      <sub>バレる！</sub>
       <br />
-      <sub>BiSH</sub>
+      <sub>Creepy Nuts</sub>
     </td>
   </tr>
 </table>
