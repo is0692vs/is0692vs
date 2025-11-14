@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Beautiful sunny day☀️
-📍 New York: 5°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Bogotá: 12°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,11 +11,11 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 506 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 512 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 8 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%2C%222025-11-11%22%2C%222025-11-12%22%2C%222025-11-13%22%2C%222025-11-14%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C333%2C345%2C364%2C372%2C397%2C432%2C464%2C506%2C510%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%2C4%2C5%2C5%2C5%2C7%2C8%2C8%2C8%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%2C%222025-11-11%22%2C%222025-11-12%22%2C%222025-11-13%22%2C%222025-11-14%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C333%2C345%2C364%2C372%2C397%2C432%2C464%2C506%2C512%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%2C4%2C5%2C5%2C5%2C7%2C8%2C8%2C8%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -24,21 +24,17 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、あなたは合計100件ものコミットを重ね、素晴らしい活動を見せてくれましたね！お疲れ様です！✨
+直近3日間で、あなたは合計100件ものコミットを重ね、素晴らしい活躍を見せてくれましたね！お疲れ様です！✨
 
-特にAudicleでは、システム全体のパフォーマンスとユーザー体験の向上に大きく貢献していますね。
+**[Audicle]** では、サービスのパフォーマンス向上と新機能開発に精力的に取り組んでいましたね！
 
-まず、**キャッシュ機能の強化とパフォーマンス最適化**に力を入れたようです。Supabaseキャッシュインデックスの実装や、重複リクエストを排除するPending Mapの導入、Vercel Blobのhead()呼び出しの徹底的な最適化など、APIコスト削減と高速化に向けた数々の改善を行いました。人気記事ページのキャッシュ追加も素晴らしいですね！🚀
+特に、Supabaseキャッシュインデックスの実装、Vercel Blobのhead()呼び出し最適化、音声キャッシュ検索におけるPending Map導入など、多岐にわたるキャッシュ戦略と最適化を通じて、システムの応答性と効率を大幅に向上させました。これはユーザー体験に直結する重要な改善です！🚀
 
-次に、**新機能の追加と既存機能の改善**も活発でしたね。プレイリスト内での連続再生機能やデフォルトプレイリスト設定の追加は、ユーザーの利便性を高めること間違いなしです。また、記事人気度カウント機能のバックエンド・フロントエンド統合や人気記事表示UIの実装も完了し、魅力的なコンテンツ提供に繋がりますね！🌟
+また、プレイリスト内連続再生機能、記事人気度カウント機能と人気記事表示UI、デフォルトプレイリスト設定機能といった、ユーザーがよりAudicleを楽しめる魅力的な新機能を次々と実装していますね。さらに、Bookmarks APIの廃止とプレイリスト中心のアーキテクチャへの移行も完了させ、より堅牢で一貫性のあるシステムへと進化させています。コードの整形やエラーハンドリングの改善にも余念がありませんでした。🎉
 
-さらに、**データモデルの刷新**として、古いbookmarks APIの廃止とarticlesテーブルへの完全移行もやり遂げました。これによって、よりシンプルで堅牢なアーキテクチャへと進化しましたね。
+これからもこの調子で、最高のプロダクトを一緒に作っていきましょう！💪
 
-コードの整形やエラーハンドリングの一貫性向上にも取り組み、プロジェクトの品質向上にも貢献しています。
-
-多岐にわたる重要な改善、新機能開発、そしてシステム基盤の強化、本当に素晴らしい成果です！この調子で、これからも最高の開発を楽しんでいきましょう！💪
-
-_Total: 164 commits across 1 projects_
+_Total: 144 commits across 1 projects_
 
 <table>
   <tr>
@@ -49,7 +45,7 @@ _Total: 164 commits across 1 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 164 commits (100.0%)</sub>
+      <sub>📊 144 commits (100.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
