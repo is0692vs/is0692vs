@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Bit cloudy today☁️
-📍 Sydney: 20°C
+# 🌍 Hello! Cloudy day☁️
+📍 Chicago: 18°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,11 +11,11 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 529 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 550 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 8 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%2C%222025-11-11%22%2C%222025-11-12%22%2C%222025-11-13%22%2C%222025-11-14%22%2C%222025-11-15%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C333%2C345%2C364%2C372%2C397%2C432%2C464%2C506%2C534%2C534%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%2C4%2C5%2C5%2C5%2C7%2C8%2C8%2C8%2C8%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%2C%222025-11-11%22%2C%222025-11-12%22%2C%222025-11-13%22%2C%222025-11-14%22%2C%222025-11-15%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C333%2C345%2C364%2C372%2C397%2C432%2C464%2C506%2C534%2C550%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%2C4%2C5%2C5%2C5%2C7%2C8%2C8%2C8%2C8%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -24,14 +24,14 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計100件ものコミット、素晴らしいですね！👏 主にAudicleプロジェクトで、多岐にわたる機能強化とパフォーマンス改善に尽力されました。
+直近3日間で合計100件の素晴らしいコミット、お疲れ様でした！✨
+[Audicle]リポジトリでは、パフォーマンスとユーザー体験を大きく向上させる多岐にわたる作業が進みましたね。
 
-特に、大規模な変更としてAudicleではR2とVercel Blobストレージプロバイダを統合し、音声ストレージの基盤を強化しました。Vercel Blobのhead()呼び出しを最適化することで、月間呼び出し数を大幅に削減するパフォーマンス改善も実現。Supabaseキャッシュインデックスの実装やPending Map導入による重複リクエスト排除で、データ処理効率も大きく向上させていますね！🚀
+特に大規模な機能強化として、音声ストレージのR2とVercel Blobへの移行が完了し、システム基盤がさらに堅牢になりました🚀 また、Supabaseキャッシュインデックスの実装やPending Mapの導入による音声キャッシュ検索の最適化、Vercel Blobのhead()呼び出し最適化など、徹底的なパフォーマンス改善が行われました。人気記事ページのキャッシュ機能強化も、データ取得の効率向上に貢献しています。
 
-また、AudicleではモバイルUIの改善にも力を入れ、レスポンシブデザインの強化や再生画面UI、人気記事表示UIの調整を行いました。ユーザー体験の向上に直結する素晴らしい取り組みです。
-さらに、記事人気度カウント機能やプレイリスト管理機能、そのためのバルク更新APIの実装など、新しい価値提供にも積極的に取り組んでいます。コードの整形やエラーハンドリングの改善も進め、プロジェクト全体の品質向上にも貢献していますね。✨
+UI/UX面では、スマホ再生画面のUI修正やレスポンシブデザインの強化、PlaybackSpeedDialコンポーネントの可読性向上など、モバイルユーザーがより快適に使えるための工夫が随所に凝らされています📱 新たに人気記事表示機能や記事のプレイリスト管理機能が実装され、機能面も大きく充実しましたね。
 
-この3日間での集中力と成果、本当に素晴らしいです！これからも頑張ってください！🎉
+コードの整形やエラーハンドリングの一貫性向上も着実に進められており、高品質な開発を推進されていることが伺えます。次なる成果も楽しみにしています！💪
 
 _Total: 203 commits across 1 projects_
 
@@ -70,11 +70,22 @@ _Total: 203 commits across 1 projects_
       <sub>Creepy Nuts</sub>
     </td>
     <td align="center">
+      <a href="https://open.spotify.com/track/6AmDMNyz5x5OKky3aDAD6q" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273b198f6e94641e8f69ed09ac7" alt="TOMORROW" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>TOMORROW</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
       <a href="https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2731c3c5cfc02676c050fc1f3dc" alt="King & Ashley" width="120" />
       </a>
       <br />
-      <sub><strong>#2</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>King & Ashley</sub>
       <br />
@@ -85,7 +96,7 @@ _Total: 203 commits across 1 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b2736d9a4f8ab4e8df3742959d12" alt="グラデーション" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>グラデーション</sub>
       <br />
@@ -96,22 +107,11 @@ _Total: 203 commits across 1 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b273fc5e4067581a0bf29e65afbb" alt="Good" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#5</strong></sub>
       <br />
       <sub>Good</sub>
       <br />
       <sub>CHANMINA</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/6AmDMNyz5x5OKky3aDAD6q" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273b198f6e94641e8f69ed09ac7" alt="TOMORROW" width="120" />
-      </a>
-      <br />
-      <sub><strong>#5</strong></sub>
-      <br />
-      <sub>TOMORROW</sub>
-      <br />
-      <sub>BiSH</sub>
     </td>
   </tr>
 </table>
