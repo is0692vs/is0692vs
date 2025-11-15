@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy today☁️
-📍 Toronto: 3°C
+# 🌍 G'day! Bit cloudy today☁️
+📍 Sydney: 20°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 530 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 529 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 8 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,21 +24,16 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間の活動サマリーです！
+直近3日間で合計100件ものコミット、素晴らしいですね！👏 主にAudicleプロジェクトで、多岐にわたる機能強化とパフォーマンス改善に尽力されました。
 
-直近3日間で計98件ものコミット、素晴らしいですね！ Audicleの開発が大きく進展していますね👏✨
+特に、大規模な変更としてAudicleではR2とVercel Blobストレージプロバイダを統合し、音声ストレージの基盤を強化しました。Vercel Blobのhead()呼び出しを最適化することで、月間呼び出し数を大幅に削減するパフォーマンス改善も実現。Supabaseキャッシュインデックスの実装やPending Map導入による重複リクエスト排除で、データ処理効率も大きく向上させていますね！🚀
 
-**Audicle**では、主に以下の3つの領域で大きな成果を上げられました。
+また、AudicleではモバイルUIの改善にも力を入れ、レスポンシブデザインの強化や再生画面UI、人気記事表示UIの調整を行いました。ユーザー体験の向上に直結する素晴らしい取り組みです。
+さらに、記事人気度カウント機能やプレイリスト管理機能、そのためのバルク更新APIの実装など、新しい価値提供にも積極的に取り組んでいます。コードの整形やエラーハンドリングの改善も進め、プロジェクト全体の品質向上にも貢献していますね。✨
 
-まず、サービスの**パフォーマンスとコスト最適化**に力を入れられましたね。特に、音声ストレージをVercel R2やBlobへ移行し、Supabaseのキャッシュインデックスを導入したことで、より効率的なデータ管理が期待できます。Vercel Blobの`head()`呼び出しを削減する最適化や、重複リクエストを排除するロジックの実装、人気記事ページのキャッシュ機能追加など、細部にわたる改善でパフォーマンス向上に大きく貢献されました！
+この3日間での集中力と成果、本当に素晴らしいです！これからも頑張ってください！🎉
 
-次に、**ユーザー体験の向上**にも注力されました。モバイル版の再生画面UIでは、レスポンシブデザインの強化やPlaybackSpeedDialコンポーネント、MobileArticleMenuの位置調整、z-indexの改善など、ユーザーがより快適に利用できるような細かい配慮が見られます。
-
-さらに、**新機能として「記事人気度カウント機能」のバックエンド・フロントエンド統合と、「人気記事表示UI」の実装**を進められましたね。ユーザーエンゲージメントを高める重要な機能追加です！
-
-これだけ多くの機能強化や改善が進んでいるのは、本当に素晴らしい成果です！今後のAudicleがさらに楽しみですね🚀
-
-_Total: 191 commits across 1 projects_
+_Total: 203 commits across 1 projects_
 
 <table>
   <tr>
@@ -49,7 +44,7 @@ _Total: 191 commits across 1 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 191 commits (100.0%)</sub>
+      <sub>📊 203 commits (100.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -108,13 +103,13 @@ _Total: 191 commits across 1 projects_
       <sub>CHANMINA</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/61Yl4bWKSUeNxe6jPgKq5c" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27342f80e91cb2fa0f4a7570d8f" alt="プロミスザスター" width="120" />
+      <a href="https://open.spotify.com/track/6AmDMNyz5x5OKky3aDAD6q" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273b198f6e94641e8f69ed09ac7" alt="TOMORROW" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>プロミスザスター</sub>
+      <sub>TOMORROW</sub>
       <br />
       <sub>BiSH</sub>
     </td>
