@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy skies today☁️
-📍 New York: 13°C
+# 🌍 おはよう！雨だね☔
+📍 Sapporo: 10°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,11 +11,11 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 563 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 577 installs | ⭐ No ratings yet | v1.0.8
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 9 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%2C%222025-11-11%22%2C%222025-11-12%22%2C%222025-11-13%22%2C%222025-11-14%22%2C%222025-11-15%22%2C%222025-11-16%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C333%2C345%2C364%2C372%2C397%2C432%2C464%2C506%2C534%2C550%2C564%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%2C4%2C5%2C5%2C5%2C7%2C8%2C8%2C8%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%2C%222025-11-11%22%2C%222025-11-12%22%2C%222025-11-13%22%2C%222025-11-14%22%2C%222025-11-15%22%2C%222025-11-16%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C333%2C345%2C364%2C372%2C397%2C432%2C464%2C506%2C534%2C550%2C577%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%2C4%2C5%2C5%2C5%2C7%2C8%2C8%2C8%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- active-projects:start -->
@@ -24,17 +24,17 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、合計100件ものコミット、本当にお疲れ様でした！💪素晴らしい活動サマリーをお届けしますね。
+直近3日間で、なんと124件ものコミット、素晴らしいですね！✨
 
-**Audicle**では、多岐にわたる重要な改善と新機能開発に尽力されました。特に目を引くのは、JestやPlaywrightを導入してテスト環境を大幅に強化し、堅牢なE2Eテストの基盤を実装された点です。品質向上への意識が素晴らしいですね！✨
+**Audicle**では、JestとPlaywrightを使ったテスト環境の整備とE2Eテストを強力に推進し、品質向上へ大きく貢献されています。R2やVercel Blobへのストレージ移行、Supabaseキャッシュインデックスの実装でパフォーマンスも向上！🚀 Geminiワークフローの導入やNext.js 16への移行、スマホUI/UXの改善、プレイリスト管理機能の追加など、多岐にわたる新機能開発・改善が見られますね。バグ修正やコード品質向上にも余念がありません！
 
-インフラ面では、R2やVercel Blobストレージへの移行、Next.js 16へのアップデート、Supabaseキャッシュインデックスの実装など、大規模な近代化と最適化を進められました。🚀 これにより、パフォーマンスとスケーラビリティが大きく向上したことでしょう。
+**jules-extension**では、CIの充実化やCodeQL分析、Dependabotの設定で開発基盤がより強固になりました。GitHub Actionsの環境変数統一も進められ、効率性とセキュリティを高めています。🛡️
 
-また、モバイル再生画面のUI/UX修正やレスポンシブデザインの強化など、ユーザー体験を向上させるための細やかな調整も光っています📱。人気記事のモーダルエラー修正やプレイリスト管理機能の追加、さらにはREADMEの英語化まで、幅広いタスクを見事にこなされていますね。
+**link-canvas**でも、esbuildのバージョンアップが行われるなど、着実に改善が進んでいますね！⬆️
 
-多岐にわたる重要な改善と精力的な活動、本当に素晴らしいです！この調子で、これからも素晴らしい開発を続けていきましょう！🎉
+短期間でこれだけの成果を出されており、今後のさらなる発展が楽しみです！😊
 
-_Total: 294 commits across 2 projects_
+_Total: 326 commits across 6 projects_
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ _Total: 294 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 294 commits (100.0%)</sub>
+      <sub>📊 291 commits (89.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -56,9 +56,20 @@ _Total: 294 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 0 commits (0.0%)</sub>
+      <sub>📊 31 commits (9.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/is0692vs/code-mantra" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/code-mantra" alt="code-mantra" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
+      <br />
+      <sub>📊 2 commits (0.6%)</sub>
+      <br />
+      <sub>🔷 TypeScript </sub>
     </td>
   </tr>
 </table>
