@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Bit cloudy today☁️
-📍 Sydney: 20°C
+# 🌍 Hello! Cloudy skies today☁️
+📍 New York: 13°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 564 installs | ⭐ No ratings yet | v1.0.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 563 installs | ⭐ No ratings yet | v1.0.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 9 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,13 +24,17 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-この3日間で合計100件ものコミット、素晴らしい集中力ですね！✨ 主にAudicleリポジトリで、大規模な機能追加、インフラ刷新、パフォーマンス向上、そしてユーザー体験の改善に大きく貢献されました。
+直近3日間で、合計100件ものコミット、本当にお疲れ様でした！💪素晴らしい活動サマリーをお届けしますね。
 
-Audicleでは、まずJestとPlaywrightを用いたテスト環境を導入し、E2Eテストの基本を実装するなど、品質保証体制を大幅に強化しましたね！🚀 また、音声ストレージをVercel R2やBlobへ移行し、Next.js 16への依存関係を更新することで、インフラ基盤のモダン化と安定性向上も図られました。
+**Audicle**では、多岐にわたる重要な改善と新機能開発に尽力されました。特に目を引くのは、JestやPlaywrightを導入してテスト環境を大幅に強化し、堅牢なE2Eテストの基盤を実装された点です。品質向上への意識が素晴らしいですね！✨
 
-さらに、Supabaseのキャッシュインデックス実装や人気記事ページのキャッシュ機能追加により、データ取得効率が飛躍的に向上しています📈。モバイル版の再生画面UIの改善やレスポンシブデザインの強化で、様々なデバイスでの使いやすさも向上しました。モーダルのレースコンディション防止やAPIエンドポイントの修正といった重要なバグ修正、コード整形、READMEの英語化など、多岐にわたる作業、本当にお疲れ様でした！この密度の高い活動が、Audicleの品質と進化を力強く推進していますね。素晴らしい成果です！👏
+インフラ面では、R2やVercel Blobストレージへの移行、Next.js 16へのアップデート、Supabaseキャッシュインデックスの実装など、大規模な近代化と最適化を進められました。🚀 これにより、パフォーマンスとスケーラビリティが大きく向上したことでしょう。
 
-_Total: 305 commits across 1 projects_
+また、モバイル再生画面のUI/UX修正やレスポンシブデザインの強化など、ユーザー体験を向上させるための細やかな調整も光っています📱。人気記事のモーダルエラー修正やプレイリスト管理機能の追加、さらにはREADMEの英語化まで、幅広いタスクを見事にこなされていますね。
+
+多岐にわたる重要な改善と精力的な活動、本当に素晴らしいです！この調子で、これからも素晴らしい開発を続けていきましょう！🎉
+
+_Total: 294 commits across 2 projects_
 
 <table>
   <tr>
@@ -41,9 +45,20 @@ _Total: 305 commits across 1 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 305 commits (100.0%)</sub>
+      <sub>📊 294 commits (100.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/is0692vs/jules-extension" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/jules-extension" alt="jules-extension" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
+      <br />
+      <sub>📊 0 commits (0.0%)</sub>
+      <br />
+      <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
   </tr>
 </table>
