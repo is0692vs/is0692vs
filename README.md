@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Ciao! Giornata piovosa☔
-📍 Rome: 19°C
+# 🌍 ¡Hola! Día soleado☀️
+📍 Buenos Aires: 19°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 592 installs | ⭐ No ratings yet | v1.0.8
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 590 installs | ⭐ No ratings yet | v1.0.8
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 10 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,19 +24,9 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計126件ものコミット、お疲れ様です！素晴らしい活動量ですね👏
+直近3日間で126件ものコミット、お疲れ様です！👏 Merge pull request #251 from is0692vs/testセットアップ、Merge pull request #215 from is0692vs/214-vercel音声ストレージr2移行、Merge pull request #282 from is0692vs/281-vercelnextjs16移行など、多くの作業を進められました。合計34377行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-**Audicle**では、JestとPlaywrightを用いたテスト環境の構築やE2Eテストの基本実装を精力的に進め、品質向上に大きく貢献しましたね🧪。R2/Vercel Blobのストレージプロバイダー追加で機能拡張もバッチリです☁️。Geminiワークフローの導入、記事プレイリスト管理機能、そしてレスポンシブデザインの強化やモバイル再生画面UIの修正といったUI/UX改善も多数実施し、ユーザー体験がぐっと向上しそうです📱🎶。コードのリファクタリングやバグ修正も抜かりなく、プロジェクトがより堅牢になりました✨。
-
-**otodoki2**では、Geminiワークフローをさらに強化し、言語サポートを追加するなど、AI連携の幅を広げていますね🤖。依存関係の更新も着実です。
-
-**jules-extension**では、CI/CDの充実化に取り組み、LintジョブやCodeQL分析のワークフローを追加して、開発プロセスを強化しました🚀。素晴らしい改善です！
-
-**link-canvas**でも依存関係の更新を進めていただき、プロジェクトの健全性を保っていますね！
-
-全てのプロジェクトで多岐にわたる開発・改善を進めており、その努力が実を結んでいます。この調子で頑張っていきましょう！💪
-
-_Total: 341 commits across 6 projects_
+_Total: 356 commits across 6 projects_
 
 <table>
   <tr>
@@ -47,7 +37,7 @@ _Total: 341 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 303 commits (88.9%)</sub>
+      <sub>📊 318 commits (89.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -58,7 +48,7 @@ _Total: 341 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 31 commits (9.1%)</sub>
+      <sub>📊 31 commits (8.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
@@ -69,7 +59,7 @@ _Total: 341 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/otodoki2" target="_blank">otodoki2</a></strong></sub>
       <br />
-      <sub>📊 3 commits (0.9%)</sub>
+      <sub>📊 3 commits (0.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
