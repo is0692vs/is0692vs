@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Buenos Aires: 19°C
+# 🌍 你好！晴天真美☀️
+📍 Beijing: 2°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 590 installs | ⭐ No ratings yet | v1.0.8
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 586 installs | ⭐ No ratings yet | v1.0.8
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 10 installs | ⭐ No ratings yet | v0.1.3
 
@@ -26,7 +26,7 @@
 直近3日間の活動サマリー:
 直近3日間で126件ものコミット、お疲れ様です！👏 Merge pull request #251 from is0692vs/testセットアップ、Merge pull request #215 from is0692vs/214-vercel音声ストレージr2移行、Merge pull request #282 from is0692vs/281-vercelnextjs16移行など、多くの作業を進められました。合計34377行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-_Total: 356 commits across 6 projects_
+_Total: 355 commits across 6 projects_
 
 <table>
   <tr>
@@ -37,7 +37,7 @@ _Total: 356 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 318 commits (89.3%)</sub>
+      <sub>📊 317 commits (89.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
