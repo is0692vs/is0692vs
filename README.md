@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Sunny and warm☀️
-📍 Miami: 16°C
+# 🌍 Ciao! Giornata piovosa☔
+📍 Rome: 17°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -24,17 +24,19 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、合計111件ものコミット、お疲れ様でした！素晴らしい活動量ですね！✨
+直近3日間で113件ものコミット、素晴らしいですね！🚀
 
-特に[Audicle]リポジトリでは、JestとPlaywrightを導入してテスト環境を構築し、E2Eテストの基本実装を進めるなど、品質向上への大きな一歩を踏み出しましたね。🚀 さらにR2やVercel Blobといった新しいストレージプロバイダーを追加したり、Geminiワークフローを組み込んだりと、新機能の開発も活発です。モバイル再生画面のUI修正やレスポンシブデザインの強化、モーダルのバグ修正、記事のプレイリスト管理機能追加といったユーザー体験向上への細やかな配慮も素晴らしいです。依存関係の更新やCIジョブの見直しも着々と進められています。
+**Audicle** では、JestとPlaywrightを使ったテスト環境の構築やE2Eテストの実装で品質向上に大きく貢献しましたね。Vercel R2やBlobへのストレージ移行も完了し、Geminiのワークフローを追加してAI連携も強化！✨ モバイル再生画面や記事ページのUI改善、人気の記事モーダルのバグ修正、そして記事のプレイリスト管理機能追加と、多岐にわたる活躍が見られます。CI/CDも最適化されましたね！
 
-[jules-extension]リポジトリでは、CIの充実化に力を入れ、LintジョブやCodeQL分析のワークフローを追加。Dependabotも設定し、開発基盤がより強固になりました。GitHub Actionsでの環境変数統一やGemini APIキー関連の改善も抜かりありません。🛠️
+**otodoki2** では、Geminiワークフローがさらに強化され、より賢く動くようになりました。
 
-また、[link-canvas]リポジトリではesbuildの依存関係を更新し、プロジェクトの健全性を保っています。
+**jules-extension** でもCI/CDを充実させ、CodeQLによる静的解析を導入し、Gemini連携もバッチリです👍。
 
-多岐にわたるリポジトリで、機能追加から品質向上、基盤整備まで幅広く取り組まれており、その熱意に感服します！この勢いで次の目標も達成していきましょう！🎉
+**link-canvas** や **otodoki2**、**jules-extension** の各リポジトリで依存関係の更新も着実に進められています。
 
-_Total: 325 commits across 6 projects_
+この3日間で、開発の基盤強化から新機能、品質改善まで、本当に多くの成果を出されましたね。お疲れ様でした！これからも期待しています！🌟
+
+_Total: 320 commits across 6 projects_
 
 <table>
   <tr>
@@ -45,7 +47,7 @@ _Total: 325 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 290 commits (89.2%)</sub>
+      <sub>📊 282 commits (88.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -56,18 +58,18 @@ _Total: 325 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 31 commits (9.5%)</sub>
+      <sub>📊 31 commits (9.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/code-mantra" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/code-mantra" alt="code-mantra" width="100%" />
+      <a href="https://github.com/is0692vs/otodoki2" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/otodoki2" alt="otodoki2" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
+      <sub><strong><a href="https://github.com/is0692vs/otodoki2" target="_blank">otodoki2</a></strong></sub>
       <br />
-      <sub>📊 2 commits (0.6%)</sub>
+      <sub>📊 3 commits (0.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
