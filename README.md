@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Madrid: 13°C
+# 🌍 Hello! Beautiful sunny day☀️
+📍 New York: 5°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -24,9 +24,17 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で126件ものコミット、お疲れ様です！👏 Merge pull request #251 from is0692vs/testセットアップ、Merge pull request #282 from is0692vs/281-vercelnextjs16移行、Merge pull request #284 from is0692vs/geminiCLIactions使ってみるなど、多くの作業を進められました。合計29561行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近3日間で126件ものコミット、本当にお疲れ様です！素晴らしい活動量ですね！✨
 
-_Total: 285 commits across 6 projects_
+特に**Audicle**では、JestとPlaywrightを用いたテスト環境の構築やE2Eテストの実装を始め、Geminiを使ったIssue管理ワークフローの追加、記事リーダーのナビゲーション機能改善、プレイリスト関連の大規模なリファクタリングを進めました。さらにモーダルや本文抽出のバグ修正、コードの可読性向上、READMEの英語化まで、多岐にわたる機能改善と品質向上に貢献されていますね！🚀
+
+**otodoki2**では、Geminiワークフローを言語サポートや一括トリアージ機能でさらに強化し、依存関係の更新も抜かりなく実施。⬆️
+**jules-extension**ではCI/CDの充実化に注力し、LintやCodeQL分析、Dependabotの設定でプロジェクトの品質とセキュリティを大きく向上させました！✅
+**link-canvas**でも開発依存関係の更新で、環境を常に最新に保つ取り組みが光ります。⚙️
+
+機能追加、品質向上、開発効率化、そしてプロジェクト基盤の強化と、非常に多角的な貢献が見られます。これからのさらなる進展が楽しみです！👏
+
+_Total: 276 commits across 6 projects_
 
 <table>
   <tr>
@@ -37,7 +45,7 @@ _Total: 285 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 247 commits (86.7%)</sub>
+      <sub>📊 238 commits (86.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -48,7 +56,7 @@ _Total: 285 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 31 commits (10.9%)</sub>
+      <sub>📊 31 commits (11.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
