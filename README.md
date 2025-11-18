@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Beautiful sunny day☀️
-📍 New York: 5°C
+# 🌍 こんにちは！あめがふってますね☔
+📍 Fukuoka: 9°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -24,17 +24,21 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で126件ものコミット、本当にお疲れ様です！素晴らしい活動量ですね！✨
+直近3日間で、なんと合計126件ものコミット、本当にお疲れ様でした！素晴らしい活動量ですね🚀
 
-特に**Audicle**では、JestとPlaywrightを用いたテスト環境の構築やE2Eテストの実装を始め、Geminiを使ったIssue管理ワークフローの追加、記事リーダーのナビゲーション機能改善、プレイリスト関連の大規模なリファクタリングを進めました。さらにモーダルや本文抽出のバグ修正、コードの可読性向上、READMEの英語化まで、多岐にわたる機能改善と品質向上に貢献されていますね！🚀
+特に活動が目立ったのは以下のプロジェクトです。
 
-**otodoki2**では、Geminiワークフローを言語サポートや一括トリアージ機能でさらに強化し、依存関係の更新も抜かりなく実施。⬆️
-**jules-extension**ではCI/CDの充実化に注力し、LintやCodeQL分析、Dependabotの設定でプロジェクトの品質とセキュリティを大きく向上させました！✅
-**link-canvas**でも開発依存関係の更新で、環境を常に最新に保つ取り組みが光ります。⚙️
+**Audicle**では、JestとPlaywrightを用いたテスト環境やE2Eテストの基本実装が大きく進みましたね！品質向上のための素晴らしい取り組みです。さらにGeminiを活用したワークフローの追加、記事リーダーのプレイリスト機能強化とナビゲーション改善、そしてVercelレイアウトのリファクタリングも積極的に行われました。モーダルの不具合修正やREADMEの英語化、記事抽出の修正、リファクタリング用GitHub Actionsの導入まで、多岐にわたる改善をされていますね！✨
 
-機能追加、品質向上、開発効率化、そしてプロジェクト基盤の強化と、非常に多角的な貢献が見られます。これからのさらなる進展が楽しみです！👏
+**otodoki2**では、依存関係の更新に加え、Geminiワークフローの機能強化を行い、より高度なコンテキストと多言語対応を実現しました。素晴らしい進化です！
 
-_Total: 276 commits across 6 projects_
+**jules-extension**では、CI/CD環境を大幅に強化！LintジョブやCodeQL分析の追加、Dependabotの設定で、より堅牢な開発体制を築きましたね。
+
+**link-canvas**でも、開発依存関係のアップデートが行われました。
+
+様々なプロジェクトで、テスト導入、新機能開発、リファクタリング、CI/CD強化と、幅広い分野で大きな進捗がありましたね！この勢いで次のステップも楽しみにしています！これからも頑張ってください！🎉
+
+_Total: 267 commits across 6 projects_
 
 <table>
   <tr>
@@ -45,7 +49,7 @@ _Total: 276 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 238 commits (86.2%)</sub>
+      <sub>📊 229 commits (85.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -56,7 +60,7 @@ _Total: 276 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 31 commits (11.2%)</sub>
+      <sub>📊 31 commits (11.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
