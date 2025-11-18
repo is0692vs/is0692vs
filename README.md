@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
 # 🌍 Hello! Rather cloudy today☁️
-📍 London: 3°C
+📍 London: 4°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -24,9 +24,9 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で121件ものコミット、お疲れ様です！👏 Merge pull request #251 from is0692vs/testセットアップ、Merge pull request #282 from is0692vs/281-vercelnextjs16移行、Merge pull request #284 from is0692vs/geminiCLIactions使ってみるなど、多くの作業を進められました。合計29328行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近3日間で126件ものコミット、お疲れ様です！👏 Merge pull request #251 from is0692vs/testセットアップ、Merge pull request #282 from is0692vs/281-vercelnextjs16移行、Merge pull request #284 from is0692vs/geminiCLIactions使ってみるなど、多くの作業を進められました。合計29381行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-_Total: 316 commits across 6 projects_
+_Total: 287 commits across 6 projects_
 
 <table>
   <tr>
@@ -37,7 +37,7 @@ _Total: 316 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 278 commits (88.0%)</sub>
+      <sub>📊 249 commits (86.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -48,7 +48,7 @@ _Total: 316 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 31 commits (9.8%)</sub>
+      <sub>📊 31 commits (10.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
@@ -59,7 +59,7 @@ _Total: 316 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/otodoki2" target="_blank">otodoki2</a></strong></sub>
       <br />
-      <sub>📊 3 commits (0.9%)</sub>
+      <sub>📊 3 commits (1.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
