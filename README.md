@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Mexico City: 11°C
+# 🌍 G'day! Bit cloudy today☁️
+📍 Sydney: 21°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 620 installs | ⭐ No ratings yet | v1.0.8
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 624 installs | ⭐ No ratings yet | v1.0.8
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 11 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,15 +24,17 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で計100件ものコミット、素晴らしい集中力ですね！🚀✨
+直近3日間で、なんと100件ものコミット、お疲れ様でした！素晴らしいですね！✨
 
-特に**Audicle**では、Gemini関連のワークフロー追加でAI活用の幅を大きく広げ、記事リーダーのナビゲーションやプレイリスト機能の改善、そしてVercel Next.js 16移行やモバイルレイアウトの調整、表示バグの修正など、ユーザー体験とシステム安定化に多岐にわたり貢献されました。既存コードのリファクタリングや不要なPRイベントの削減も着実に進んでいますね！
+特に**Audicle**では大活躍！Vercel Next.js 16への移行や、Geminiワークフローの追加・強化、記事リーダーのプレイリスト機能やナビゲーションコントロールの改善、人気記事モーダルのバグ修正、さらにPCレイアウトのスマホ対応やコードリファクタリング、不要なイベント削除、そしてリファクタリング提案Actionsの作成まで、多岐にわたる機能強化と品質向上が進みましたね。
 
-**otodoki2**では、Geminiワークフローのさらなる強化や依存関係の更新で、未来を見据えた開発が進んでいます。
+**otodoki2**では、依存関係の更新に加え、Geminiワークフローの機能がさらに強化されました。素晴らしい取り組みです！
 
-また、**jules-extension**ではCI設定の更新やLint、CodeQL分析ワークフローの追加で開発基盤がより強固になりました🛡️。**link-canvas**でも開発環境の依存関係を最新に保つなど、プロジェクト全体が着実に進化しています。
+**jules-extension**では、CIの充実化に注力されましたね！Lintジョブの追加やCodeQL分析、Dependabot設定で品質とセキュリティが向上しました。頼もしいです！🚀
 
-効率的なAI連携、UI/UXの改善、堅牢な開発環境構築と、本当に広範囲な活躍、お見事です！これからもこの調子で頑張っていきましょう！🎉
+**link-canvas**でも、依存関係の更新が行われ、プロジェクトの健全性が保たれています。
+
+どのプロジェクトも着実に進化しており、その貢献に感謝です！これからも期待しています！😊
 
 _Total: 208 commits across 6 projects_
 
