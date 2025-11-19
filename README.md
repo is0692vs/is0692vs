@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rainy day☔
-📍 New York: 5°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Buenos Aires: 16°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 625 installs | ⭐ No ratings yet | v1.0.8
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 622 installs | ⭐ No ratings yet | v1.0.8
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 11 installs | ⭐ No ratings yet | v0.1.3
 
@@ -26,7 +26,7 @@
 直近3日間の活動サマリー:
 直近3日間で100件ものコミット、お疲れ様です！👏 Merge pull request #282 from is0692vs/281-vercelnextjs16移行、Merge pull request #284 from is0692vs/geminiCLIactions使ってみる、Merge pull request #133 from is0692vs/dependabot/npm_and_yarn/mobile/npm_and_yarn-2e94d63b2aなど、多くの作業を進められました。合計14225行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-_Total: 204 commits across 6 projects_
+_Total: 190 commits across 6 projects_
 
 <table>
   <tr>
@@ -37,7 +37,7 @@ _Total: 204 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 166 commits (81.4%)</sub>
+      <sub>📊 152 commits (80.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -48,7 +48,7 @@ _Total: 204 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 31 commits (15.2%)</sub>
+      <sub>📊 31 commits (16.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
@@ -59,7 +59,7 @@ _Total: 204 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/otodoki2" target="_blank">otodoki2</a></strong></sub>
       <br />
-      <sub>📊 3 commits (1.5%)</sub>
+      <sub>📊 3 commits (1.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
