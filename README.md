@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rather cloudy today☁️
-📍 London: 4°C
+# 🌍 ¡Hola! Día soleado☀️
+📍 Mexico City: 23°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -13,7 +13,7 @@
 🚀 VSCode Extensions:
 - **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 661 installs | ⭐ No ratings yet | v1.0.8
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
-- **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 11 installs | ⭐ No ratings yet | v0.1.3
+- **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 12 installs | ⭐ No ratings yet | v0.1.3
 
 ![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-24%22%2C%222025-10-25%22%2C%222025-10-26%22%2C%222025-10-27%22%2C%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%2C%222025-11-11%22%2C%222025-11-12%22%2C%222025-11-13%22%2C%222025-11-14%22%2C%222025-11-15%22%2C%222025-11-16%22%2C%222025-11-17%22%2C%222025-11-18%22%2C%222025-11-19%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B86%2C86%2C108%2C125%2C129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C333%2C345%2C364%2C372%2C397%2C432%2C464%2C506%2C534%2C550%2C577%2C603%2C625%2C661%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B0%2C0%2C5%2C7%2C7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%2C4%2C5%2C5%2C5%2C7%2C8%2C8%2C8%2C9%2C9%2C10%2C11%2C12%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
@@ -24,17 +24,20 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと104件ものコミット、大変お疲れ様でした！👏 複数のプロジェクトで精力的に活動されていますね！
+この3日間で合計124件ものコミット、お疲れ様でした！すごい勢いですね！🚀
 
-特に**Audicle**では、機能強化が目覚ましいです。Geminiワークフローの追加や、記事リーダーのプレイリスト自動検出・ナビゲーション機能の実装で、使いやすさが大きく向上しましたね！🚀 大規模な依存関係更新やサービスワーカーの設定改善、コード構造のリファクタリングも進め、基盤をより強固にしています。モーダルのバグ修正や記事本文抽出の改善、リファクタリングActionsの導入など、多岐にわたる改善と新機能開発に尽力されました。
+特に**Audicle**では、Vercel Next.js 16への移行やService Workerの設定改善といった大規模なアップデートを行いましたね。Geminiワークフローの追加では、課題管理を効率化する新しい機能が導入され、開発の生産性向上に大きく貢献しそうです。さらに、記事リーダーへのプレイリスト自動検出とナビゲーション機能の追加で、ユーザー体験が大きく向上したことでしょう！👏
+UI/UXの改善も進み、PCレイアウトをスマホに近づけたり、再生画面のコンポーネント分割と最適化も実施。細かなバグ修正（人気記事のモーダルや本文抽出時の重複読み込み）も着実にこなし、品質向上に努めていますね。また、CONTRIBUTING.mdの英語翻訳で、コントリビューションの促進にも力を入れているのが素晴らしいです！🌍
 
-**otodoki2**では、Geminiワークフローをさらに強化し、多言語対応も進めましたね。依存関係の更新もバッチリです！
-**jules-extension**では、CI/CDの設定を大幅に更新し、LintジョブやCodeQL分析、Dependabotの導入で開発体制がより堅牢になりました。素晴らしい取り組みです！✨
-また、**link-canvas**でも、esbuildの依存関係を更新し、プロジェクトの健全性を保っていますね。
+**otodoki2**でもGeminiワークフローがさらに強化され、コンテキストや言語サポートの追加、そして一括トリアージ機能で、より柔軟な運用が可能になりましたね。依存関係の更新も抜かりありません。✨
 
-どのリポジトリでも着実に、そして素晴らしい成果を上げています！この勢いで、これからもどんどん良いものを作っていきましょう！応援しています！🌟
+**jules-extension**では、CI設定の更新やLintジョブ、CodeQL分析、Dependabotの設定追加と、CI/CDの充実化に大きく貢献しましたね。堅牢な開発環境が整っていくのは頼もしいです！🔧
 
-_Total: 152 commits across 6 projects_
+**link-canvas**も依存関係のアップデートが行われ、常に最新の状態を保っています。
+
+各リポジトリで多岐にわたる重要な作業を精力的に進めており、その熱意と努力に感銘を受けます！これからも頑張ってください！🎉
+
+_Total: 135 commits across 2 projects_
 
 <table>
   <tr>
@@ -45,20 +48,9 @@ _Total: 152 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 117 commits (77.0%)</sub>
+      <sub>📊 133 commits (98.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/jules-extension" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/jules-extension" alt="jules-extension" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
-      <br />
-      <sub>📊 28 commits (18.4%)</sub>
-      <br />
-      <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/is0692vs/otodoki2" target="_blank">
@@ -67,7 +59,7 @@ _Total: 152 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/otodoki2" target="_blank">otodoki2</a></strong></sub>
       <br />
-      <sub>📊 3 commits (2.0%)</sub>
+      <sub>📊 2 commits (1.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
