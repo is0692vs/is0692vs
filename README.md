@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Tropical rain shower☔
-📍 Miami: 21°C
+# 🌍 Ciao! Giornata piovosa☔
+📍 Rome: 13°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -24,15 +24,15 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと合計82件ものコミット、お疲れ様でした！素晴らしい活躍ですね！🎉
+直近3日間で92件ものコミット、大変お疲れ様でした！素晴らしいペースで多くの成果を出していますね！👏
 
-**otodoki2** では、Geminiワークフローの大幅な強化に取り組みましたね！言語サポートの追加やGCP設定の充実、そしてバルク issue トリアージ機能の実装など、AIを活用した開発プロセスがさらにスムーズになったことでしょう。Dependabotによる依存関係の更新もバッチリです！
+**Audicle**では、多岐にわたる機能強化と改善が進行中ですね。特に、プレイリストのソートオプション拡張や連続再生機能の修正、記事リーダーへのナビゲーションコントロール追加はユーザー体験を大きく向上させるでしょう。また、コンポーネントの分割やコード構造のリファクタリング、CI/CDワークフローの最適化も着実に進められ、システムの安定性と開発効率の向上に貢献していますね！さらに「CONTRIBUTING.md」の英語翻訳も、プロジェクトの国際化に繋がる素晴らしい取り組みです🌎
 
-**Audicle** では、多岐にわたる改善が見られました。特に記事リーダー機能は大きく進化し、プレイリストの自動検出やナビゲーションコントロールの追加、再生画面の最適化により、ユーザー体験が向上しましたね！🚀 また、`CONTRIBUTING.md`の英語翻訳や、`PROJECT_HEALTH.md`の自動生成、リファクタリング提案Actionsの導入など、開発体験とドキュメンテーションの品質向上にも大きく貢献しています。不要なプルリクエストイベントの削除やワークフローの最適化で、CI/CDもより効率的になりましたね。コード構造のリファクタリングやエラーハンドリングの改善も進み、プロジェクト全体の健全性が保たれています。
+そして**otodoki2**では、Dependabotによる依存関係の更新に加え、Geminiワークフローの強化に注力されましたね。言語サポートやGCP設定の追加、一括イシュートリアージ機能の実装は、開発プロセスをよりスムーズかつ効率的にするための大きな一歩です。AIを活用した先進的な機能開発、さすがです！✨
 
-どのリポジトリでも着実に、そして精力的に開発を進めていて本当に素晴らしいです！これからもこの調子で頑張りましょう！🌟
+たくさんのコード変更と新機能、改善作業、本当にありがとうございます！この勢いで次の素晴らしい成果も期待しています！😊
 
-_Total: 102 commits across 4 projects_
+_Total: 133 commits across 4 projects_
 
 <table>
   <tr>
@@ -43,7 +43,7 @@ _Total: 102 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 96 commits (94.1%)</sub>
+      <sub>📊 127 commits (95.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -54,7 +54,7 @@ _Total: 102 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 2 commits (2.0%)</sub>
+      <sub>📊 2 commits (1.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
@@ -65,7 +65,7 @@ _Total: 102 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/pr-cannon" target="_blank">pr-cannon</a></strong></sub>
       <br />
-      <sub>📊 2 commits (2.0%)</sub>
+      <sub>📊 2 commits (1.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -80,26 +80,26 @@ _Total: 102 commits across 4 projects_
 <table>
   <tr>
     <td align="center">
-      <a href="https://open.spotify.com/track/1wz16AjMVIiVF67cQO2RNl" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2731e41d9ecc493a1341880bc1c" alt="バレる！" width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>バレる！</sub>
-      <br />
-      <sub>Creepy Nuts</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/6AmDMNyz5x5OKky3aDAD6q" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273b198f6e94641e8f69ed09ac7" alt="TOMORROW" width="120" />
       </a>
       <br />
-      <sub><strong>#2</strong></sub>
+      <sub><strong>#1</strong></sub>
       <br />
       <sub>TOMORROW</sub>
       <br />
       <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1wz16AjMVIiVF67cQO2RNl" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2731e41d9ecc493a1341880bc1c" alt="バレる！" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>バレる！</sub>
+      <br />
+      <sub>Creepy Nuts</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/6AGHSgBeirk7AHXWOM3vKp" target="_blank">
