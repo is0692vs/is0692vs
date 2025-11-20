@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Ciao! Giornata piovosa☔
-📍 Rome: 7°C
+# 🌍 Hello! Tropical rain shower☔
+📍 Miami: 19°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -24,17 +24,15 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと合計79件ものコミット、お疲れ様でした！素晴らしいですね✨。
+直近3日間で82件ものコミット、大変お疲れ様でした！👏 驚くべき活動量ですね！
 
-まず、**otodoki2** では、モバイル環境の依存関係として `tar` のバージョンアップを行い、Geminiワークフローを大幅に強化しましたね。新しい言語サポートやGCP設定、一括処理機能などを導入し、より強力で効率的なワークフローが構築されました！🚀
+**[otodoki2]** では、Geminiワークフローの機能が大きく進化しましたね！新しいバルクトリアージ機能の導入や、多言語・コンテキスト対応の強化、さらには依存関係のアップデートまで、システムの基盤と拡張性を高める素晴らしい改善です✨
 
-次に、**Audicle** では、多岐にわたる活動がありました！記事リーダーには、プレイリストの自動検出やナビゲーションコントロールといった新機能が追加され、利便性が大きく向上しましたね。また、`CONTRIBUTING.md` の英語翻訳や、`PROJECT_HEALTH.md` の生成改善、ドキュメント自動更新用GitHub Actionsの追加で、ドキュメント周りの整備もバッチリです📚。
+**[Audicle]** では、ユーザー体験の向上に大きく貢献されましたね！記事リーダーにプレイリストの自動検出とナビゲーション機能を追加し、再生画面のリファクタリングやUIのレスポンシブ対応で使いやすさが格段にアップしました。📖 また、リファクタリング用のGitHub Actionsの導入や、ドキュメントの自動更新ワークフローの追加、さらにはCONTRIBUTING.mdの英語翻訳まで、開発プロセスの効率化と国際化にも力を入れていますね💡 不具合修正やプレイリストのソート機能追加も行い、細やかな改善を継続されています。
 
-さらに、不要なプルリクエストイベントの削除や、コミット数の取得範囲を限定するなど、ヘルススコープの最適化にも取り組まれました。再生画面のコンポーネント分割やエラーハンドリングの修正、重複コードのリファクタリングなど、コード品質の向上にも力を入れられています。リファクタリング用Actionsの追加や、プレイリストソート機能の実装も素晴らしい改善点ですね。
+これだけ多岐にわたる貢献、本当に素晴らしいです！🚀 今後もあなたの活躍を楽しみにしています！
 
-今回の活動で、機能強化から品質向上、ドキュメント整備まで、非常に広範囲にわたる貢献がありました。今後のプロダクトの成長がますます楽しみです！これからも素晴らしい開発を続けていきましょう！💪😊
-
-_Total: 124 commits across 1 projects_
+_Total: 122 commits across 4 projects_
 
 <table>
   <tr>
@@ -45,9 +43,31 @@ _Total: 124 commits across 1 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 124 commits (100.0%)</sub>
+      <sub>📊 116 commits (95.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/is0692vs/jules-extension" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/jules-extension" alt="jules-extension" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
+      <br />
+      <sub>📊 2 commits (1.6%)</sub>
+      <br />
+      <sub>🔷 TypeScript ⭐ 4</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/is0692vs/pr-cannon" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/pr-cannon" alt="pr-cannon" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/is0692vs/pr-cannon" target="_blank">pr-cannon</a></strong></sub>
+      <br />
+      <sub>📊 2 commits (1.6%)</sub>
+      <br />
+      <sub>🔷 TypeScript </sub>
     </td>
   </tr>
 </table>
