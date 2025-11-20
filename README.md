@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy weather today☁️
-📍 Los Angeles: 10°C
+# 🌍 ¡Hola! Está lloviendo☔
+📍 Bogotá: 16°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -26,7 +26,7 @@
 直近3日間の活動サマリー:
 直近3日間で95件ものコミット、お疲れ様です！👏 Merge pull request #319 from is0692vs/連続再生修正、Merge pull request #133 from is0692vs/dependabot/npm_and_yarn/mobile/npm_and_yarn-2e94d63b2a、feat: Enhance Gemini workflows with additional context and language supportなど、多くの作業を進められました。合計12367行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-_Total: 130 commits across 4 projects_
+_Total: 124 commits across 4 projects_
 
 <table>
   <tr>
@@ -37,7 +37,7 @@ _Total: 130 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 124 commits (95.4%)</sub>
+      <sub>📊 118 commits (95.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -48,7 +48,7 @@ _Total: 130 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 2 commits (1.5%)</sub>
+      <sub>📊 2 commits (1.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
@@ -59,7 +59,7 @@ _Total: 130 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/pr-cannon" target="_blank">pr-cannon</a></strong></sub>
       <br />
-      <sub>📊 2 commits (1.5%)</sub>
+      <sub>📊 2 commits (1.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
