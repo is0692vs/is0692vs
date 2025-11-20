@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Está lloviendo☔
-📍 Bogotá: 16°C
+# 🌍 Hello! Cloudy skies today☁️
+📍 New York: 8°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 667 installs | ⭐ No ratings yet | v1.0.8
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 668 installs | ⭐ No ratings yet | v1.0.8
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 12 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,9 +24,15 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で95件ものコミット、お疲れ様です！👏 Merge pull request #319 from is0692vs/連続再生修正、Merge pull request #133 from is0692vs/dependabot/npm_and_yarn/mobile/npm_and_yarn-2e94d63b2a、feat: Enhance Gemini workflows with additional context and language supportなど、多くの作業を進められました。合計12367行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近3日間で、なんと95ものコミットを達成！素晴らしい活動量ですね！🚀
 
-_Total: 124 commits across 4 projects_
+**[Audicle]** では多岐にわたる開発が進みました。プレイリストのソートオプション拡張や記事リーダーのナビゲーション追加といった新機能開発に注力しましたね。カラーテーマオプションの追加でユーザー体験も向上！🎨 また、連続再生の修正、CI/Lintの修正、本文抽出の二重読み込み修正など、安定性向上への取り組みもバッチリです。CONTRIBUTING.mdの英語翻訳で、コントリビューターへの配慮も完璧✨。コンポーネント分割やリファクタリングアクションの導入で、コードベースもどんどん洗練されています！
+
+**[otodoki2]** では、依存ライブラリのアップデートを行い、セキュリティと安定性を高めました。さらに、Geminiワークフローを大幅に強化し、追加コンテキストや言語サポートを導入。新ワークフローも追加され、開発効率アップに大きく貢献していますね！💡
+
+どのリポジトリでも、積極的な改善と新機能の導入が進んでいて、本当に素晴らしいです！この調子で頑張っていきましょう！💪
+
+_Total: 122 commits across 4 projects_
 
 <table>
   <tr>
@@ -37,7 +43,7 @@ _Total: 124 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 118 commits (95.2%)</sub>
+      <sub>📊 116 commits (95.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
