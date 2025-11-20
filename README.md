@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Ciao! Giornata piovosa☔
-📍 Rome: 13°C
+# 🌍 Hello! Cloudy weather today☁️
+📍 Los Angeles: 10°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -24,15 +24,9 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で92件ものコミット、大変お疲れ様でした！素晴らしいペースで多くの成果を出していますね！👏
+直近3日間で95件ものコミット、お疲れ様です！👏 Merge pull request #319 from is0692vs/連続再生修正、Merge pull request #133 from is0692vs/dependabot/npm_and_yarn/mobile/npm_and_yarn-2e94d63b2a、feat: Enhance Gemini workflows with additional context and language supportなど、多くの作業を進められました。合計12367行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-**Audicle**では、多岐にわたる機能強化と改善が進行中ですね。特に、プレイリストのソートオプション拡張や連続再生機能の修正、記事リーダーへのナビゲーションコントロール追加はユーザー体験を大きく向上させるでしょう。また、コンポーネントの分割やコード構造のリファクタリング、CI/CDワークフローの最適化も着実に進められ、システムの安定性と開発効率の向上に貢献していますね！さらに「CONTRIBUTING.md」の英語翻訳も、プロジェクトの国際化に繋がる素晴らしい取り組みです🌎
-
-そして**otodoki2**では、Dependabotによる依存関係の更新に加え、Geminiワークフローの強化に注力されましたね。言語サポートやGCP設定の追加、一括イシュートリアージ機能の実装は、開発プロセスをよりスムーズかつ効率的にするための大きな一歩です。AIを活用した先進的な機能開発、さすがです！✨
-
-たくさんのコード変更と新機能、改善作業、本当にありがとうございます！この勢いで次の素晴らしい成果も期待しています！😊
-
-_Total: 133 commits across 4 projects_
+_Total: 130 commits across 4 projects_
 
 <table>
   <tr>
@@ -43,7 +37,7 @@ _Total: 133 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 127 commits (95.5%)</sub>
+      <sub>📊 124 commits (95.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
