@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Tropical rain shower☔
-📍 Miami: 20°C
+# 🌍 Hello! Cloudy weather today☁️
+📍 Los Angeles: 10°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -24,18 +24,15 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと82件ものコミットを達成しました！素晴らしい活動量ですね！✨
+直近3日間で、なんと **82件** ものコミットがありました！素晴らしい活躍ですね！🚀✨
 
-まず、**otodoki2** では、依存関係の更新（tarパッケージのバージョンアップ）でセキュリティと安定性を向上させましたね。さらに、Geminiワークフローを大幅に強化し、言語サポートやGCP設定を追加、新しい一括処理ワークフローも導入して、AI連携がさらにスムーズになりそうです！🚀
+**otodoki2** では、主にGemini関連のワークフローが大きく強化されましたね。言語サポートやGCP設定の追加、そして新しいバルクトリアージ機能の実装など、AIを活用した開発プロセスがさらにスムーズになりました。また、依存関係のアップデートも忘れずに行い、システムの安定性も確保されています。
 
-次に、**Audicle** では、多岐にわたる改善が見られました！
-記事リーダーにプレイリストの自動検出とナビゲーションコントロールを追加し、ユーザー体験が大きく向上しましたね。プレイリスト機能はソート機能やローカル保存ロジックも追加され、使いやすさが格段にアップ！🙌
-コードのリファクタリングでは、再生画面のコンポーネント分割やコード構造の最適化を進め、保守性が高まりました。不要なプルリクエストイベントの削除やコミット取得範囲の限定、テストコマンドの修正といった地道な改善も光ります。
-また、GitHub Actionsを活用してリファクタリング提案やドキュメント自動更新の仕組みを導入し、開発効率も大幅にアップしましたね！ドキュメントではCONTRIBUTING.mdの英語翻訳も行い、グローバルな貢献を意識した動きも素晴らしいです🌍
+一方、**Audicle** では多岐にわたる改善が進行中です！特に記事リーダー機能の強化が目立ち、プレイリストの自動検出やナビゲーションコントロールの追加で、ユーザー体験が大きく向上していますね。再生画面のコンポーネント分割や自動再生仕様の変更も進み、コードの可読性や保守性もグッとアップしました。さらに、`CONTRIBUTING.md` の英語翻訳や `PROJECT_HEALTH.md` の自動生成ワークフローの追加で、ドキュメントの整備とプロジェクトの透明性も高まっています。他にも、不要なプルリクエストイベントの削除やテストコマンドの修正など、地道ながらも大切な改善も多数実施されました。
 
-どのリポジトリでも、新機能追加、品質向上、開発効率化に大きく貢献されており、その努力と成果に拍手を送ります！この調子で、今後も素晴らしい開発を続けていきましょう！🎉
+この短期間でこれほど多くの成果を出されており、本当に素晴らしいです！今後のさらなる発展が楽しみですね！🙌🎉
 
-_Total: 120 commits across 4 projects_
+_Total: 102 commits across 4 projects_
 
 <table>
   <tr>
@@ -46,7 +43,7 @@ _Total: 120 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 114 commits (95.0%)</sub>
+      <sub>📊 96 commits (94.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -57,7 +54,7 @@ _Total: 120 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 2 commits (1.7%)</sub>
+      <sub>📊 2 commits (2.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
@@ -68,7 +65,7 @@ _Total: 120 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/pr-cannon" target="_blank">pr-cannon</a></strong></sub>
       <br />
-      <sub>📊 2 commits (1.7%)</sub>
+      <sub>📊 2 commits (2.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
