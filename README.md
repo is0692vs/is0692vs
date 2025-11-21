@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！素晴らしい晴れですね☀️
-📍 Osaka: 14°C
+# 🌍 G'day! Rainy weather☔
+📍 Sydney: 18°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 699 installs | ⭐ No ratings yet | v1.0.8
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 700 installs | ⭐ No ratings yet | v1.0.8
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 12 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,18 +24,15 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-3日間で合計63件ものコミット、本当にお疲れ様でした！素晴らしい活動量ですね🚀
+直近3日間で、なんと68件ものコミット、大変お疲れ様でした！素晴らしいペースで活動されていますね！👏
 
-Audicleリポジトリでの開発が特に目覚ましいものでした。
-Audicleでは、プレイリストのソートオプション拡張やカラーテーマオプション追加など、ユーザー体験を向上させる新機能開発に注力されましたね。さらに、リファクタリングの自動化を促すActionsの導入も行い、開発効率の向上にも貢献されています。
+**Audicle**では、ユーザー体験を大きく向上させる機能開発が進みましたね。「プレイリストのソートオプション拡張」や「カラーテーマオプション追加」は、ユーザーの好みに合わせたカスタマイズを可能にする大きな一歩です🎨！さらに、「CONTRIBUTING.mdの英語翻訳」でプロジェクトの国際化にも貢献。開発効率を上げる「リファクタリングactions」の導入や、「CIビルドとLintの修正」「E2E CIジョブの安定性向上」といった継続的な品質改善もバッチリです👍 再生画面の最適化や細かいバグ修正も多数実施され、着実にプロジェクトが進化しています。
 
-また、CONTRIBUTING.mdの英語翻訳で国際化への一歩を踏み出し、再生画面のコンポーネント分割による最適化も進められました。CIビルド、Lint、E2Eテスト関連の修正も多数行い、品質と安定性の向上に大きく貢献されています。Prev/Nextボタンの修正や、文字列リテラルのクォートスタイル統一など、細やかな改善も光ります✨
+一方、**otodoki2**では、開発ワークフローの効率化と安定性向上に注力しました。「GitHub Actionsのワークフロー最適化」や「GEMINI APIキーの使用簡素化・環境変数化」は、自動化を促進し、今後の開発をよりスムーズにする重要な改善ですね✨。
 
-pr-cannonリポジトリでは、`glob`パッケージの依存関係を更新し、プロジェクトの健全性を保ちました。
+この短期間での多岐にわたる精力的な活動、本当に素晴らしいです！これからもこの調子で頑張っていきましょう！🚀
 
-多岐にわたる課題に取り組み、Audicleの機能強化、品質向上、開発効率化に大きく貢献された3日間でした！この調子でこれからも頑張ってください！💪🎉
-
-_Total: 122 commits across 4 projects_
+_Total: 128 commits across 5 projects_
 
 <table>
   <tr>
@@ -46,9 +43,20 @@ _Total: 122 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 116 commits (95.1%)</sub>
+      <sub>📊 117 commits (91.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/is0692vs/otodoki2" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/otodoki2" alt="otodoki2" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/is0692vs/otodoki2" target="_blank">otodoki2</a></strong></sub>
+      <br />
+      <sub>📊 5 commits (3.9%)</sub>
+      <br />
+      <sub>🔷 TypeScript </sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/is0692vs/jules-extension" target="_blank">
@@ -60,17 +68,6 @@ _Total: 122 commits across 4 projects_
       <sub>📊 2 commits (1.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/pr-cannon" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/pr-cannon" alt="pr-cannon" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/is0692vs/pr-cannon" target="_blank">pr-cannon</a></strong></sub>
-      <br />
-      <sub>📊 2 commits (1.6%)</sub>
-      <br />
-      <sub>🔷 TypeScript </sub>
     </td>
   </tr>
 </table>
@@ -94,26 +91,26 @@ _Total: 122 commits across 4 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/1wz16AjMVIiVF67cQO2RNl" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2731e41d9ecc493a1341880bc1c" alt="バレる！" width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>バレる！</sub>
-      <br />
-      <sub>Creepy Nuts</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/6AGHSgBeirk7AHXWOM3vKp" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="Nothing." width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#2</strong></sub>
       <br />
       <sub>Nothing.</sub>
       <br />
       <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1wz16AjMVIiVF67cQO2RNl" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2731e41d9ecc493a1341880bc1c" alt="バレる！" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>バレる！</sub>
+      <br />
+      <sub>Creepy Nuts</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP" target="_blank">
