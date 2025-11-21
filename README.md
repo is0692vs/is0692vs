@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Rainy weather☔
-📍 Sydney: 18°C
+# 🌍 Olá! Dia nublado☁️
+📍 Lisbon: 15°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -11,7 +11,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 700 installs | ⭐ No ratings yet | v1.0.8
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 707 installs | ⭐ No ratings yet | v1.0.8
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 12 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,13 +24,13 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと68件ものコミット、大変お疲れ様でした！素晴らしいペースで活動されていますね！👏
+直近3日間で計68件のコミット、素晴らしい活動量ですね！👏 たくさんの変更、お疲れ様でした！
 
-**Audicle**では、ユーザー体験を大きく向上させる機能開発が進みましたね。「プレイリストのソートオプション拡張」や「カラーテーマオプション追加」は、ユーザーの好みに合わせたカスタマイズを可能にする大きな一歩です🎨！さらに、「CONTRIBUTING.mdの英語翻訳」でプロジェクトの国際化にも貢献。開発効率を上げる「リファクタリングactions」の導入や、「CIビルドとLintの修正」「E2E CIジョブの安定性向上」といった継続的な品質改善もバッチリです👍 再生画面の最適化や細かいバグ修正も多数実施され、着実にプロジェクトが進化しています。
+特に`Audicle`では、プレイリストのソートオプションを拡張し、ユーザーが好みに合わせて管理できるようになりましたね！🎨 また、カラーテーマオプションの追加で、よりパーソナライズされた体験を提供できるようになりました。CONTRIBUTING.mdを英語に翻訳し、国際的な貢献もしやすくする準備も万端です。さらに、CIビルドやLintの修正、リファクタリング用Actionsの導入など、開発ワークフローと安定性の向上にも大きく貢献していますね！
 
-一方、**otodoki2**では、開発ワークフローの効率化と安定性向上に注力しました。「GitHub Actionsのワークフロー最適化」や「GEMINI APIキーの使用簡素化・環境変数化」は、自動化を促進し、今後の開発をよりスムーズにする重要な改善ですね✨。
+`otodoki2`では、GitHub Actionsのワークフロー最適化とGEMINI APIキーの管理を徹底し、セキュリティと開発効率を同時に高める素晴らしい取り組みが目立ちます。🤖
 
-この短期間での多岐にわたる精力的な活動、本当に素晴らしいです！これからもこの調子で頑張っていきましょう！🚀
+多岐にわたる改善と新機能開発、本当に素晴らしい活躍です！これからもその素晴らしいペースで、素敵なプロダクトを創造し続けてください！🚀
 
 _Total: 128 commits across 5 projects_
 
