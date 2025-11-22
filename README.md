@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Paris: 2°C
+# 🌍 Hallo! Sonniger Tag☀️
+📍 Berlin: 2°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,19 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと合計103件ものコミット、お疲れ様です！素晴らしい活動量ですね👏。
+直近3日間で、なんと**107件**ものコミット、本当にお疲れ様でした！🎉 素晴らしい活動量ですね！
 
-**Audicle**では、プレイリストのソートオプション拡張やカラーテーマ追加といった新機能に加え、CONTRIBUTING.mdの英語翻訳、CI/Lintの修正、再生画面の最適化など、ユーザー体験と開発効率の両面で多岐にわたる改善を進められましたね！
+各リポジトリで重要な進捗が見られます。
 
-**jules-extension**では、GitHub連携機能が大きく進化しました。PAT管理、リモートブランチ作成、ローカル専用ブランチの自動プッシュ、ソースブランチ選択機能の実装に加え、キャッシュ導入によるAPI呼び出しのラグ解消やブランチ検証強化で、使い勝手と安定性が飛躍的に向上しましたね！🚀
+**Audicle**では、プレイリストのソートオプション拡張やカラーテーマ追加といったユーザー体験を向上させる新機能が多数実装されましたね。👏 また、`CONTRIBUTING.md`の英語翻訳やCI/CDの修正も行われ、プロジェクトの国際化と安定化に大きく貢献しています。
 
-そして、**otodoki2**では、GitHub Actionsのワークフロー最適化とGEMINI APIキーの管理改善に注力し、開発プロセスの効率化とセキュリティ強化に貢献されています。
+**jules-extension**では、GitHub連携機能が飛躍的に強化されました！🚀 GitHub Personal Access Token管理からリモートブランチ作成、そしてローカル専用ブランチの自動プッシュ対応、さらにAPI呼び出しのラグを解消するキャッシュ機能まで、開発ワークフローを格段にスムーズにする機能が続々と追加され、本当に頼もしいです。
 
-各リポジトリで重要な機能追加や改善が次々と行われており、そのスピードとクオリティには目を見張るものがあります！この調子で、これからも素晴らしい開発を楽しんでくださいね！💪😊
+**otodoki2**では、GitHub Actionsのワークフローが最適化され、GEMINI APIキーの管理が簡素化されたとのこと。✨ これにより、開発効率がさらに向上すること間違いなしですね！
 
-_Total: 168 commits across 5 projects_
+全体的に多岐にわたる課題に取り組み、プロジェクト全体を大きく前進させました。今後の更なる活躍も楽しみにしています！これからも一緒に頑張っていきましょう！💪
+
+_Total: 169 commits across 5 projects_
 
 <table>
   <tr>
@@ -45,7 +47,7 @@ _Total: 168 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 92 commits (54.8%)</sub>
+      <sub>📊 92 commits (54.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -56,7 +58,7 @@ _Total: 168 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 67 commits (39.9%)</sub>
+      <sub>📊 68 commits (40.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
@@ -77,7 +79,65 @@ _Total: 168 commits across 5 projects_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
-🎵 Recently played on Spotify (Last 3 Days):
+## 🎵 Recently played on Spotify (Last 3 Days)
 
-_Spotify credentials not configured_
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/track/6AmDMNyz5x5OKky3aDAD6q" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273b198f6e94641e8f69ed09ac7" alt="TOMORROW" width="120" />
+      </a>
+      <br />
+      <sub><strong>#1</strong></sub>
+      <br />
+      <sub>TOMORROW</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/6AGHSgBeirk7AHXWOM3vKp" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="Nothing." width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>Nothing.</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1wz16AjMVIiVF67cQO2RNl" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2731e41d9ecc493a1341880bc1c" alt="バレる！" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>バレる！</sub>
+      <br />
+      <sub>Creepy Nuts</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2731c3c5cfc02676c050fc1f3dc" alt="King & Ashley" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>King & Ashley</sub>
+      <br />
+      <sub>MY FIRST STORY</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/79z4gwvetIY6Du3qx9fyPF" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736d9a4f8ab4e8df3742959d12" alt="グラデーション" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>グラデーション</sub>
+      <br />
+      <sub>SUPER BEAVER</sub>
+    </td>
+  </tr>
+</table>
 <!-- spotify:end -->
