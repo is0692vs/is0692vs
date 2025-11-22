@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hallo! Sonniger Tag☀️
-📍 Berlin: 2°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Paris: 2°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -21,20 +21,23 @@
 <!-- active-projects:start -->
 ## 🔨 Active Projects (Last 30 Days)
 
-直近3日間の活動サマリー:
-直近3日間で、なんと**107件**ものコミット、本当にお疲れ様でした！🎉 素晴らしい活動量ですね！
+### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
-各リポジトリで重要な進捗が見られます。
+直近30日間の活動サマリー:
+直近30日間でなんと564ものコミット、素晴らしい集中力と生産性ですね！🚀
 
-**Audicle**では、プレイリストのソートオプション拡張やカラーテーマ追加といったユーザー体験を向上させる新機能が多数実装されましたね。👏 また、`CONTRIBUTING.md`の英語翻訳やCI/CDの修正も行われ、プロジェクトの国際化と安定化に大きく貢献しています。
+様々なプロジェクトで大きな進展がありました。
+特に、**settlemate** では、日本語READMEの追加、招待コード参加フォームの実装、広範なドキュメントの整備に尽力されました。さらに、`shadcn/ui` を導入し、全体的なUIの刷新を行うなど、ユーザー体験の向上と開発基盤の強化に大きく貢献しています。✨
 
-**jules-extension**では、GitHub連携機能が飛躍的に強化されました！🚀 GitHub Personal Access Token管理からリモートブランチ作成、そしてローカル専用ブランチの自動プッシュ対応、さらにAPI呼び出しのラグを解消するキャッシュ機能まで、開発ワークフローを格段にスムーズにする機能が続々と追加され、本当に頼もしいです。
+**link-canvas** では、VS Code拡張機能の初期セットアップから、WebviewベースのキャンバスUIの大幅な機能追加（ズーム、リサイズ、Monacoエディタ統合）、VS Codeコンテキストメニューとの統合、さらにはファイル依存関係を視覚化するSVGエッジ描画まで、革新的な機能が次々と形になりましたね！🎨
 
-**otodoki2**では、GitHub Actionsのワークフローが最適化され、GEMINI APIキーの管理が簡素化されたとのこと。✨ これにより、開発効率がさらに向上すること間違いなしですね！
+**Audicle** では、Vercel/Next.js 16への移行のための依存関係更新、プレイリストのソートオプション拡張、そしてGeminiを活用した新しいワークフローの追加と、技術的な更新と機能拡張が進んでいます。🚀
 
-全体的に多岐にわたる課題に取り組み、プロジェクト全体を大きく前進させました。今後の更なる活躍も楽しみにしています！これからも一緒に頑張っていきましょう！💪
+また、**pr-cannon** ではプロジェクトの初期セットアップを完了し、**moodle-to-manaba-R** では時間割表示の遅延改善とMVP基本機能の実装、**code-mantra** ではパイプライン用の`package-lock.json`追跡修正と、他のプロジェクトでも重要な作業を着実にこなされました。
 
-_Total: 169 commits across 5 projects_
+多岐にわたるプロジェクトでの貢献、本当に素晴らしい成果です！この調子でこれからも頑張ってください！🎉
+
+_Total: 1414 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +48,7 @@ _Total: 169 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 92 commits (54.4%)</sub>
+      <sub>📊 960 commits (67.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -56,7 +59,7 @@ _Total: 169 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 68 commits (40.2%)</sub>
+      <sub>📊 143 commits (10.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
@@ -77,7 +80,65 @@ _Total: 169 commits across 5 projects_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
-🎵 Recently played on Spotify (Last 30 Days):
+## 🎵 My Top Tracks on Spotify (Recently)
 
-_Spotify credentials not configured_
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/track/6AmDMNyz5x5OKky3aDAD6q" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273b198f6e94641e8f69ed09ac7" alt="TOMORROW" width="120" />
+      </a>
+      <br />
+      <sub><strong>#1</strong></sub>
+      <br />
+      <sub>TOMORROW</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/6AGHSgBeirk7AHXWOM3vKp" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="Nothing." width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>Nothing.</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1wz16AjMVIiVF67cQO2RNl" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2731e41d9ecc493a1341880bc1c" alt="バレる！" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>バレる！</sub>
+      <br />
+      <sub>Creepy Nuts</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2731c3c5cfc02676c050fc1f3dc" alt="King & Ashley" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>King & Ashley</sub>
+      <br />
+      <sub>MY FIRST STORY</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/79z4gwvetIY6Du3qx9fyPF" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736d9a4f8ab4e8df3742959d12" alt="グラデーション" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>グラデーション</sub>
+      <br />
+      <sub>SUPER BEAVER</sub>
+    </td>
+  </tr>
+</table>
 <!-- spotify:end -->
