@@ -8,7 +8,7 @@ import { generateVscodeChartUrl } from "./modules/vscode-chart";
 import { commitReflection } from "./modules/commit-reflection";
 import { getTopTracks } from "./modules/spotify-top-tracks";
 import { weatherGreeting } from "./modules/weather-greeting";
-import { DAYS_RANGE } from "./config/days-range";
+import { GRAPH_DAYS_RANGE } from "./config/days-range";
 
 interface StatsHistory {
   date: string;
@@ -54,8 +54,8 @@ async function main() {
     // 履歴を保存（全期間）
     writeFileSync(historyPath, JSON.stringify(history, null, 2));
 
-    // グラフ生成用に最新`DAYS_RANGE`日分のデータをスライス
-    const slicedHistory = history.slice(-DAYS_RANGE);
+    // グラフ生成用に最新`GRAPH_DAYS_RANGE`日分のデータをスライス
+    const slicedHistory = history.slice(-GRAPH_DAYS_RANGE);
 
     // グラフURL生成
     const chartUrl = generateChartUrl(slicedHistory);
@@ -129,8 +129,8 @@ async function main() {
     // 履歴を保存（全期間）
     writeFileSync(vscodeHistoryPath, JSON.stringify(vscodeHistory, null, 2));
 
-    // グラフ生成用に最新`DAYS_RANGE`日分のデータをスライス
-    const slicedVscodeHistory = vscodeHistory.slice(-DAYS_RANGE);
+    // グラフ生成用に最新`GRAPH_DAYS_RANGE`日分のデータをスライス
+    const slicedVscodeHistory = vscodeHistory.slice(-GRAPH_DAYS_RANGE);
 
     // グラフURL生成
     const vscodeChartUrl = generateVscodeChartUrl(slicedVscodeHistory);

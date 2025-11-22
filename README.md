@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
 # 🌍 ¡Hola! Día soleado☀️
-📍 Mexico City: 11°C
+📍 Mexico City: 10°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -19,24 +19,23 @@
 <!-- stats:end -->
 
 <!-- active-projects:start -->
-## 🔨 Active Projects (Last 30 Days)
+## 🔨 Active Projects (Last 3 Days)
 
-### 🤖 gemini2.5flashによる直近30日の活動サマリー
+### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
-直近30日間の活動サマリー:
-素晴らしい30日間でした！この期間に合計570件ものコミットを重ね、多くの進捗がありましたね！🚀
+直近3日間の活動サマリー:
+直近3日間で合計119コミット、素晴らしい活動量ですね！お疲れ様でした！👏
 
-特に目立った活動としては、
-*   **settlemate** では、ユーザー招待機能のUI強化やドキュメントの包括的な整備、そして `shadcn/ui` を導入した大規模なUI刷新を行いました。これにより、ユーザー体験が大きく向上しそうです！✨
-*   **link-canvas** では、VSCode拡張機能としてキャンバスUIの基盤を確立。ズーム、リサイズ、Monacoエディタ連携、さらにはファイル依存関係を視覚化するエッジ描画まで、革新的な機能が次々と形になっていますね！🎨
-*   **Audicle** では、依存関係のアップデートやプレイリストのソート機能拡張に加え、Geminiを活用したワークフローの追加もあり、開発の効率化と新機能の両面で貢献されています！🤖
-*   **pr-cannon** では、新しいプロジェクトの初期セットアップが完了し、今後の開発の土台がしっかりと築かれました。
-*   **moodle-to-manaba-R** では、時間割表示の遅延を大幅に改善し、ユーザー体験のパフォーマンス向上に大きく貢献しましたね。
-*   **code-mantra** では、パイプラインの安定化に向けた重要な変更も行われました。
+特に目立った活動としては、多岐にわたるプロジェクトで大きな進展がありました。
 
-様々なプロジェクトで多岐にわたる重要な改善や新機能開発に取り組んでいただき、本当に素晴らしい活躍です！この勢いで次の30日間も駆け抜けましょう！💪
+*   **Audicle** では、プレイリストのソートオプション拡張やカラーテーマオプション追加で、ユーザー体験が大きく向上しましたね！🎨 CONTRIBUTING.mdの英語翻訳で国際化にも貢献し、CIビルドや再生ロジックの改善で安定性もバッチリです！
+*   **jules-extension** では、GitHub Personal Access Token管理、リモートブランチ作成機能、ローカル専用ブランチの自動プッシュなど、GitHub連携機能が大幅に強化されました！💪 PAT関連のロジック修正やバリデーション強化、セッション作成時のキャッシュ更新で、機能性と信頼性がぐんとアップしましたね。
+*   **otodoki2** では、GitHub Actionsのワークフローを最適化し、GEMINI APIキーの利用を効率的かつセキュアに管理できるよう改善されました。CI/CDの整備、お見事です！✨
+*   **is0692vs** では、グラフの表示期間設定機能や統計データの追加で、データの可視化と情報提供能力を向上させましたね！📊
 
-_Total: 1414 commits across 10 projects_
+全体的に、新機能の開発から既存機能の改善、インフラの最適化まで、幅広いタスクに精力的に取り組まれたことが伺えます。今後のさらなる進化も楽しみにしています！😊
+
+_Total: 170 commits across 5 projects_
 
 <table>
   <tr>
@@ -47,7 +46,7 @@ _Total: 1414 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 960 commits (67.9%)</sub>
+      <sub>📊 91 commits (53.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -58,18 +57,18 @@ _Total: 1414 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 143 commits (10.1%)</sub>
+      <sub>📊 70 commits (41.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/code-mantra" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/code-mantra" alt="code-mantra" width="100%" />
+      <a href="https://github.com/is0692vs/otodoki2" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/otodoki2" alt="otodoki2" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/is0692vs/code-mantra" target="_blank">code-mantra</a></strong></sub>
+      <sub><strong><a href="https://github.com/is0692vs/otodoki2" target="_blank">otodoki2</a></strong></sub>
       <br />
-      <sub>📊 108 commits (7.6%)</sub>
+      <sub>📊 5 commits (2.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>

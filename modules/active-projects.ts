@@ -1,5 +1,5 @@
 import { githubUsername } from "../config/github";
-import { DAYS_RANGE } from "../config/days-range";
+import { COMMIT_DAYS_RANGE } from "../config/days-range";
 import { geminiModel } from "../config/gemini";
 
 interface Repository {
@@ -74,7 +74,7 @@ async function getCommitCount(
 function isActiveInLastDays(pushedAt: string): boolean {
   const lastPush = new Date(pushedAt);
   const nDaysAgo = new Date();
-  nDaysAgo.setDate(nDaysAgo.getDate() - DAYS_RANGE);
+  nDaysAgo.setDate(nDaysAgo.getDate() - COMMIT_DAYS_RANGE);
   return lastPush >= nDaysAgo;
 }
 
@@ -112,7 +112,7 @@ export async function activeProjects(reflectionText?: string): Promise<string> {
     const repos = await fetchUserRepos();
 
     const nDaysAgo = new Date();
-    nDaysAgo.setDate(nDaysAgo.getDate() - DAYS_RANGE);
+    nDaysAgo.setDate(nDaysAgo.getDate() - COMMIT_DAYS_RANGE);
     const since = nDaysAgo.toISOString();
 
     const activeRepos = repos
@@ -121,7 +121,7 @@ export async function activeProjects(reflectionText?: string): Promise<string> {
       .slice(0, 10);
 
     if (activeRepos.length === 0) {
-      return `## 🔨 Active Projects (Last ${DAYS_RANGE} Days)\n\n_No active projects in the last ${DAYS_RANGE} days_`;
+      return `## 🔨 Active Projects (Last ${COMMIT_DAYS_RANGE} Days)\n\n_No active projects in the last ${COMMIT_DAYS_RANGE} days_`;
     }
 
     // 各リポジトリのコミット数を並行取得
@@ -146,12 +146,12 @@ export async function activeProjects(reflectionText?: string): Promise<string> {
     const totalCommits = projectStats.reduce((sum, p) => sum + p.commits, 0);
 
     // ヘッダー
-    let markdown = `## 🔨 Active Projects (Last ${DAYS_RANGE} Days)\n\n`;
+    let markdown = `## 🔨 Active Projects (Last ${COMMIT_DAYS_RANGE} Days)\n\n`;
 
     // Geminiのサマリーを追加
     if (reflectionText) {
       const modelName = getModelDisplayName(geminiModel);
-      markdown += `### 🤖 ${modelName}による直近${DAYS_RANGE}日の活動サマリー\n\n`;
+      markdown += `### 🤖 ${modelName}による直近${COMMIT_DAYS_RANGE}日の活動サマリー\n\n`;
       markdown += `${reflectionText}\n\n`;
     }
 

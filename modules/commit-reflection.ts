@@ -1,6 +1,6 @@
 import { githubUsername } from "../config/github";
 import { geminiApiKey, geminiModel } from "../config/gemini";
-import { DAYS_RANGE } from "../config/days-range";
+import { COMMIT_DAYS_RANGE } from "../config/days-range";
 
 interface Commit {
   commit: {
@@ -53,7 +53,7 @@ async function getRepositories(): Promise<string[]> {
 
 async function getLastNDaysCommits(): Promise<Commit[]> {
   const nDaysAgo = new Date();
-  nDaysAgo.setDate(nDaysAgo.getDate() - DAYS_RANGE);
+  nDaysAgo.setDate(nDaysAgo.getDate() - COMMIT_DAYS_RANGE);
   nDaysAgo.setHours(0, 0, 0, 0);
 
   const since = nDaysAgo.toISOString();
@@ -146,7 +146,7 @@ async function getLastNDaysCommits(): Promise<Commit[]> {
 // Geminiがエラーで応答できない場合のフォールバック
 function generateFallbackSummary(topCommits: Commit[], totalCommitCount: number): string {
   if (topCommits.length === 0) {
-    return `直近${DAYS_RANGE}日間の活動サマリー:\n直近${DAYS_RANGE}日間、開発は行われていないようです。次の開発に向けて準備を整えましょう！🚀`;
+    return `直近${COMMIT_DAYS_RANGE}日間の活動サマリー:\n直近${COMMIT_DAYS_RANGE}日間、開発は行われていないようです。次の開発に向けて準備を整えましょう！🚀`;
   }
 
   // コミットメッセージから主な作業を抽出
@@ -160,7 +160,7 @@ function generateFallbackSummary(topCommits: Commit[], totalCommitCount: number)
     return sum + (c.stats?.additions || 0) + (c.stats?.deletions || 0);
   }, 0);
 
-  return `直近${DAYS_RANGE}日間の活動サマリー:\n直近${DAYS_RANGE}日間で${totalCommitCount}件ものコミット、お疲れ様です！👏 ${mainActivities}など、多くの作業を進められました。合計${totalLineChanges}行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨`;
+  return `直近${COMMIT_DAYS_RANGE}日間の活動サマリー:\n直近${COMMIT_DAYS_RANGE}日間で${totalCommitCount}件ものコミット、お疲れ様です！👏 ${mainActivities}など、多くの作業を進められました。合計${totalLineChanges}行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨`;
 }
 
 async function generateReflection(commits: Commit[]): Promise<string> {
@@ -169,7 +169,7 @@ async function generateReflection(commits: Commit[]): Promise<string> {
   }
 
   if (commits.length === 0) {
-    return `直近${DAYS_RANGE}日間の活動サマリー:\n直近${DAYS_RANGE}日間、開発は行われていないようです。次の開発に向けて準備を整えましょう！🚀`;
+    return `直近${COMMIT_DAYS_RANGE}日間の活動サマリー:\n直近${COMMIT_DAYS_RANGE}日間、開発は行われていないようです。次の開発に向けて準備を整えましょう！🚀`;
   }
 
   // 変更行数が多い上位20件のコミットを取得
@@ -185,7 +185,7 @@ async function generateReflection(commits: Commit[]): Promise<string> {
     .join("\n");
 
   const prompt = `あなたは開発者の日報を作成するアシスタントです。
-以下の直近${DAYS_RANGE}日間のコミット情報を分析し、簡潔で親しみやすい活動サマリーを生成してください。
+以下の直近${COMMIT_DAYS_RANGE}日間のコミット情報を分析し、簡潔で親しみやすい活動サマリーを生成してください。
 
 コミット数: ${commits.length}
 コミット情報(変更行数が多い上位20件。形式: [リポジトリ名] コミットメッセージ +追加行数/-削除行数):
@@ -260,7 +260,7 @@ ${commitMessages}
     return generateFallbackSummary(topCommits, commits.length);
   }
 
-  return `直近${DAYS_RANGE}日間の活動サマリー:\n${generatedText}`;
+  return `直近${COMMIT_DAYS_RANGE}日間の活動サマリー:\n${generatedText}`;
 }
 
 export async function commitReflection(): Promise<CommitReflectionResult> {
@@ -269,7 +269,7 @@ export async function commitReflection(): Promise<CommitReflectionResult> {
 
     if (commits.length === 0) {
       return {
-        text: `直近${DAYS_RANGE}日間の活動サマリー:\n直近${DAYS_RANGE}日間、開発は行われていないようです。次の開発に向けて準備を整えましょう！🚀`,
+        text: `直近${COMMIT_DAYS_RANGE}日間の活動サマリー:\n直近${COMMIT_DAYS_RANGE}日間、開発は行われていないようです。次の開発に向けて準備を整えましょう！🚀`,
         commitCount: 0,
       };
     }
@@ -283,7 +283,7 @@ export async function commitReflection(): Promise<CommitReflectionResult> {
   } catch (error) {
     console.error("Error in commitReflection:", error);
     return {
-      text: `直近${DAYS_RANGE}日間の活動サマリー:\nコミット情報の取得に失敗しました`,
+      text: `直近${COMMIT_DAYS_RANGE}日間の活動サマリー:\nコミット情報の取得に失敗しました`,
       commitCount: 0,
     };
   }
