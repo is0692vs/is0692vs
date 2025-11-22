@@ -77,65 +77,7 @@ _Total: 168 commits across 5 projects_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
-## 🎵 Recently played on Spotify (Last 3 Days)
+🎵 Recently played on Spotify (Last 3 Days):
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://open.spotify.com/track/6AmDMNyz5x5OKky3aDAD6q" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273b198f6e94641e8f69ed09ac7" alt="TOMORROW" width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>TOMORROW</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/6AGHSgBeirk7AHXWOM3vKp" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="Nothing." width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>Nothing.</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/1wz16AjMVIiVF67cQO2RNl" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2731e41d9ecc493a1341880bc1c" alt="バレる！" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>バレる！</sub>
-      <br />
-      <sub>Creepy Nuts</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2731c3c5cfc02676c050fc1f3dc" alt="King & Ashley" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>King & Ashley</sub>
-      <br />
-      <sub>MY FIRST STORY</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/79z4gwvetIY6Du3qx9fyPF" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736d9a4f8ab4e8df3742959d12" alt="グラデーション" width="120" />
-      </a>
-      <br />
-      <sub><strong>#5</strong></sub>
-      <br />
-      <sub>グラデーション</sub>
-      <br />
-      <sub>SUPER BEAVER</sub>
-    </td>
-  </tr>
-</table>
+_Spotify credentials not configured_
 <!-- spotify:end -->
