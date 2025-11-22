@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！いい天気だね☀️
-📍 Hiroshima: 10°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Paris: 2°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,17 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと合計103件ものコミット、お疲れ様でした！素晴らしいですね✨
+直近3日間で、なんと合計103件ものコミット、お疲れ様です！素晴らしい活動量ですね👏。
 
-**Audicle**では、プレイリストのソートオプション拡張や自動再生の最適化・修正で、ユーザー体験が大きく向上しましたね！🎨さらにカラーテーマオプション追加でカスタマイズ性もアップ。CONTRIBUTING.mdの英語翻訳やCI/Lint修正など、開発基盤の整備もバッチリです！
+**Audicle**では、プレイリストのソートオプション拡張やカラーテーマ追加といった新機能に加え、CONTRIBUTING.mdの英語翻訳、CI/Lintの修正、再生画面の最適化など、ユーザー体験と開発効率の両面で多岐にわたる改善を進められましたね！
 
-**jules-extension**では、GitHub連携機能が大幅に強化されましたね！🎉PAT管理、リモートブランチ作成、サインイン、自動プッシュ、ブランチ検証と多岐にわたる機能追加・改善で、開発フローがよりスムーズになったことでしょう。API呼び出しのキャッシュ導入でパフォーマンスも向上させ、使いやすさにもこだわっていますね。
+**jules-extension**では、GitHub連携機能が大きく進化しました。PAT管理、リモートブランチ作成、ローカル専用ブランチの自動プッシュ、ソースブランチ選択機能の実装に加え、キャッシュ導入によるAPI呼び出しのラグ解消やブランチ検証強化で、使い勝手と安定性が飛躍的に向上しましたね！🚀
 
-そして**otodoki2**では、GitHub Actionsのワークフロー最適化とGEMINI APIキーの環境変数化で、CI/CDがより効率的に、そしてセキュアになりましたね！🚀
+そして、**otodoki2**では、GitHub Actionsのワークフロー最適化とGEMINI APIキーの管理改善に注力し、開発プロセスの効率化とセキュリティ強化に貢献されています。
 
-どのリポジトリでも、新機能開発からパフォーマンス改善、開発基盤の整備まで、幅広く精力的に活動されており、その貢献は計り知れません。今後のさらなる活躍も楽しみにしています！これからも頑張ってください！👏
+各リポジトリで重要な機能追加や改善が次々と行われており、そのスピードとクオリティには目を見張るものがあります！この調子で、これからも素晴らしい開発を楽しんでくださいね！💪😊
 
-_Total: 167 commits across 5 projects_
+_Total: 168 commits across 5 projects_
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ _Total: 167 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 91 commits (54.5%)</sub>
+      <sub>📊 92 commits (54.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -56,7 +56,7 @@ _Total: 167 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 67 commits (40.1%)</sub>
+      <sub>📊 67 commits (39.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
