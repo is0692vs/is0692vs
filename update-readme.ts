@@ -8,6 +8,7 @@ import { generateVscodeChartUrl } from "./modules/vscode-chart";
 import { commitReflection } from "./modules/commit-reflection";
 import { getTopTracks } from "./modules/spotify-top-tracks";
 import { weatherGreeting } from "./modules/weather-greeting";
+import { DAYS_RANGE } from "./config/days-range";
 
 interface StatsHistory {
   date: string;
@@ -50,14 +51,14 @@ async function main() {
       history.push(todayStats);
     }
 
-    // 最新30日分のみ保持
-    history = history.slice(-30);
-
-    // 履歴を保存
+    // 履歴を保存（全期間）
     writeFileSync(historyPath, JSON.stringify(history, null, 2));
 
+    // グラフ生成用に最新`DAYS_RANGE`日分のデータをスライス
+    const slicedHistory = history.slice(-DAYS_RANGE);
+
     // グラフURL生成
-    const chartUrl = generateChartUrl(history);
+    const chartUrl = generateChartUrl(slicedHistory);
     const statsContent = `${text}\n\n![Download Stats](${chartUrl})`;
 
     // コミット振り返りの処理
@@ -125,14 +126,14 @@ async function main() {
       vscodeHistory.push(todayVscodeStats);
     }
 
-    // 最新30日分のみ保持
-    vscodeHistory = vscodeHistory.slice(-30);
-
-    // 履歴を保存
+    // 履歴を保存（全期間）
     writeFileSync(vscodeHistoryPath, JSON.stringify(vscodeHistory, null, 2));
 
+    // グラフ生成用に最新`DAYS_RANGE`日分のデータをスライス
+    const slicedVscodeHistory = vscodeHistory.slice(-DAYS_RANGE);
+
     // グラフURL生成
-    const vscodeChartUrl = generateVscodeChartUrl(vscodeHistory);
+    const vscodeChartUrl = generateVscodeChartUrl(slicedVscodeHistory);
     const vscodeContent =
       vscodeData.length > 0
         ? `${vscodeStatsText}\n\n![VSCode Extension Stats](${vscodeChartUrl})`

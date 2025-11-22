@@ -11,4 +11,4 @@
  * - README生成時のタイトル表示
  */
 
-export const DAYS_RANGE = 3;
+export const DAYS_RANGE = 30;
