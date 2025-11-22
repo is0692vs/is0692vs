@@ -8,6 +8,7 @@ import { generateVscodeChartUrl } from "./modules/vscode-chart";
 import { commitReflection } from "./modules/commit-reflection";
 import { getTopTracks } from "./modules/spotify-top-tracks";
 import { weatherGreeting } from "./modules/weather-greeting";
+import { DAYS_RANGE } from "./config/days-range";
 
 interface StatsHistory {
   date: string;
@@ -50,8 +51,8 @@ async function main() {
       history.push(todayStats);
     }
 
-    // 最新30日分のみ保持
-    history = history.slice(-30);
+    // 最新の`DAYS_RANGE`日分のみ保持
+    history = history.slice(-DAYS_RANGE);
 
     // 履歴を保存
     writeFileSync(historyPath, JSON.stringify(history, null, 2));
@@ -124,8 +125,8 @@ async function main() {
       vscodeHistory.push(todayVscodeStats);
     }
 
-    // 最新30日分のみ保持
-    vscodeHistory = vscodeHistory.slice(-30);
+    // 最新の`DAYS_RANGE`日分のみ保持
+    vscodeHistory = vscodeHistory.slice(-DAYS_RANGE);
 
     // 履歴を保存
     writeFileSync(vscodeHistoryPath, JSON.stringify(vscodeHistory, null, 2));
