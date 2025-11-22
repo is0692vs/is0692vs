@@ -81,10 +81,9 @@ export async function getTopTracks(): Promise<string> {
         // アクセストークンを取得
         const accessToken = await refreshAccessToken();
 
-        // TOP曲を取得（約4週間の期間）
-        const url = new URL("https://api.spotify.com/v1/me/top/tracks");
-        url.searchParams.append("time_range", "short_term");
-        url.searchParams.append("limit", SPOTIFY_TOP_TRACKS_LIMIT.toString());
+        // 直近の再生履歴を取得
+        const url = new URL("https://api.spotify.com/v1/me/player/recently-played");
+        url.searchParams.append("limit", "50"); // 取得件数を増やす（最大50件）
 
         const response = await fetch(url.toString(), {
             headers: {
@@ -95,14 +94,39 @@ export async function getTopTracks(): Promise<string> {
         if (!response.ok) {
             const errorText = await response.text();
             throw new Error(
-                `Failed to fetch top tracks: ${response.status} - ${errorText}`
+                `Failed to fetch recently played tracks: ${response.status} - ${errorText}`
             );
         }
 
-        const data = (await response.json()) as SpotifyTopTracksResponse;
+        const data = (await response.json()) as { items: { track: SpotifyTrack; played_at: string }[] };
+
+        // 過去DAYS_RANGE日間の再生回数を集計
+        const threeDaysAgo = new Date();
+        threeDaysAgo.setDate(threeDaysAgo.getDate() - DAYS_RANGE);
+
+        const trackCounts: Record<string, { track: SpotifyTrack; count: number }> = {};
+
+        data.items.forEach(item => {
+            const playedAt = new Date(item.played_at);
+            if (playedAt >= threeDaysAgo) {
+                const trackId = item.track.id;
+                if (!trackCounts[trackId]) {
+                    trackCounts[trackId] = {
+                        track: item.track,
+                        count: 0
+                    };
+                }
+                trackCounts[trackId].count++;
+            }
+        });
+
+        // 再生回数が多い順にソートし、上位5件を取得
+        const topTracks = Object.values(trackCounts)
+            .sort((a, b) => b.count - a.count)
+            .slice(0, SPOTIFY_TOP_TRACKS_LIMIT);
 
         // Markdown形式に整形
-        if (!data.items || data.items.length === 0) {
+        if (topTracks.length === 0) {
             return `🎵 Recently played on Spotify (Last ${DAYS_RANGE} Days):\n\n_No tracks found_`;
         }
 
@@ -113,7 +137,7 @@ export async function getTopTracks(): Promise<string> {
         markdown += '<table>\n';
         markdown += '  <tr>\n';
 
-        data.items.forEach((track, index) => {
+        topTracks.forEach(({ track }, index) => {
             const trackName = track.name;
             const artistName = track.artists.map(a => a.name).join(", ");
             const albumArt = track.album.images[0]?.url || "";
