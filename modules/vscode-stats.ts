@@ -1,5 +1,10 @@
 import { vscodeExtensions, type VscodeExtensionConfig } from "../config/extensions";
 
+interface VscodeStatsHistory {
+  date: string;
+  extensions: Record<string, number>;
+}
+
 interface ExtensionStats {
   id: string;
   name: string;
@@ -92,7 +97,9 @@ async function fetchExtensionStats(
   };
 }
 
-export async function vscodeStats(): Promise<{
+export async function vscodeStats(
+  vscodeHistory: VscodeStatsHistory[]
+): Promise<{
   text: string;
   data: ExtensionData[];
 }> {
@@ -115,7 +122,17 @@ export async function vscodeStats(): Promise<{
         const extensionName = s.relatedUrl
           ? `[${s.name}](${s.relatedUrl})`
           : s.name;
-        return `- **${extensionName}**: ${s.installs.toLocaleString()} installs | ${s.rating
+
+        let maxInstalls = s.installs;
+        if (vscodeHistory) {
+          vscodeHistory.forEach((day) => {
+            if (day.extensions[s.name] && day.extensions[s.name] > maxInstalls) {
+              maxInstalls = day.extensions[s.name];
+            }
+          });
+        }
+
+        return `- **${extensionName}**: ${maxInstalls.toLocaleString()} installs | ${s.rating
           } | v${s.version}`;
       })
       .join("\n");

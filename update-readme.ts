@@ -72,10 +72,6 @@ async function main() {
     console.log("🎵 Fetching Spotify top tracks...");
     const spotifyContent = await getTopTracks();
 
-    // VSCode統計の処理
-    console.log("🚀 Fetching VSCode extension statistics...");
-    const { text: vscodeStatsText, data: vscodeData } = await vscodeStats();
-
     // VSCode統計履歴を読み込み
     const vscodeHistoryPath = "data/vscode-stats-history.json";
     let vscodeHistory: VscodeStatsHistory[] = [];
@@ -83,6 +79,11 @@ async function main() {
     if (existsSync(vscodeHistoryPath)) {
       vscodeHistory = JSON.parse(readFileSync(vscodeHistoryPath, "utf-8"));
     }
+    // VSCode統計の処理
+    console.log("🚀 Fetching VSCode extension statistics...");
+    const { text: vscodeStatsText, data: vscodeData } = await vscodeStats(
+      vscodeHistory
+    );
 
     // 今日の日付のインデックスを探す
     const vscodeExistingIndex = vscodeHistory.findIndex((h) => h.date === today);
