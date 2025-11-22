@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはようございます！
-📍 Kyoto
+# 🌍 Hallo! Sonniger Tag☀️
+📍 Berlin: 2°C
 <!-- weather-greeting:end -->
 
 <!-- stats:start -->
@@ -21,12 +21,20 @@
 <!-- active-projects:start -->
 ## 🔨 Active Projects (Last 30 Days)
 
-### 🤖 gemini2.5flashによる直近30日の活動サマリー
+直近3日間の活動サマリー:
+直近3日間で、なんと**107件**ものコミット、本当にお疲れ様でした！🎉 素晴らしい活動量ですね！
 
-直近30日間の活動サマリー:
-直近30日間、開発は行われていないようです。次の開発に向けて準備を整えましょう！🚀
+各リポジトリで重要な進捗が見られます。
 
-_Total: 1412 commits across 10 projects_
+**Audicle**では、プレイリストのソートオプション拡張やカラーテーマ追加といったユーザー体験を向上させる新機能が多数実装されましたね。👏 また、`CONTRIBUTING.md`の英語翻訳やCI/CDの修正も行われ、プロジェクトの国際化と安定化に大きく貢献しています。
+
+**jules-extension**では、GitHub連携機能が飛躍的に強化されました！🚀 GitHub Personal Access Token管理からリモートブランチ作成、そしてローカル専用ブランチの自動プッシュ対応、さらにAPI呼び出しのラグを解消するキャッシュ機能まで、開発ワークフローを格段にスムーズにする機能が続々と追加され、本当に頼もしいです。
+
+**otodoki2**では、GitHub Actionsのワークフローが最適化され、GEMINI APIキーの管理が簡素化されたとのこと。✨ これにより、開発効率がさらに向上すること間違いなしですね！
+
+全体的に多岐にわたる課題に取り組み、プロジェクト全体を大きく前進させました。今後の更なる活躍も楽しみにしています！これからも一緒に頑張っていきましょう！💪
+
+_Total: 169 commits across 5 projects_
 
 <table>
   <tr>
@@ -37,7 +45,7 @@ _Total: 1412 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 960 commits (68.0%)</sub>
+      <sub>📊 92 commits (54.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -48,7 +56,7 @@ _Total: 1412 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 141 commits (10.0%)</sub>
+      <sub>📊 68 commits (40.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>

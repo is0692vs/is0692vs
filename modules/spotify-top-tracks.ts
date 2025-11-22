@@ -103,11 +103,11 @@ export async function getTopTracks(): Promise<string> {
 
         // Markdown形式に整形
         if (!data.items || data.items.length === 0) {
-            return `🎵 Recently played on Spotify (Last ${DAYS_RANGE} Days):\n\n_No tracks found_`;
+            return `🎵 My Top Tracks on Spotify (Recently):\n\n_No tracks found_`;
         }
 
         // ヘッダー
-        let markdown = `## 🎵 Recently played on Spotify (Last ${DAYS_RANGE} Days)\n\n`;
+        let markdown = `## 🎵 My Top Tracks on Spotify (Recently)\n\n`;
 
         // 横並びレイアウト - 1行のテーブルで実装
         markdown += '<table>\n';
@@ -143,16 +143,16 @@ export async function getTopTracks(): Promise<string> {
         // エラーメッセージを返す
         if (error instanceof Error) {
             if (error.message.includes("credentials are not configured")) {
-                return `🎵 Recently played on Spotify (Last ${DAYS_RANGE} Days):\n\n_Spotify credentials not configured_`;
+                return `🎵 My Top Tracks on Spotify (Recently):\n\n_Spotify credentials not configured_`;
             }
             if (error.message.includes("401")) {
-                return `🎵 Recently played on Spotify (Last ${DAYS_RANGE} Days):\n\n_Authentication error: Please check Spotify credentials_`;
+                return `🎵 My Top Tracks on Spotify (Recently):\n\n_Authentication error: Please check Spotify credentials_`;
             }
             if (error.message.includes("429")) {
-                return `🎵 Recently played on Spotify (Last ${DAYS_RANGE} Days):\n\n_API rate limit exceeded. Please try again later._`;
+                return `🎵 My Top Tracks on Spotify (Recently):\n\n_API rate limit exceeded. Please try again later._`;
             }
         }
 
-        return `🎵 Recently played on Spotify (Last ${DAYS_RANGE} Days):\n\n_Error fetching tracks. Please try again later._`;
+        return `🎵 My Top Tracks on Spotify (Recently):\n\n_Error fetching tracks. Please try again later._`;
     }
 }
