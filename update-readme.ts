@@ -151,16 +151,16 @@ async function main() {
       `<!-- weather-greeting:start -->\n${weatherGreetingContent}\n<!-- weather-greeting:end -->`
     );
 
-    // stats部分を更新
-    readme = readme.replace(
-      /<!-- stats:start -->[\s\S]*<!-- stats:end -->/,
-      `<!-- stats:start -->\n${statsContent}\n<!-- stats:end -->`
-    );
-
     // vscode-stats部分を更新
     readme = readme.replace(
       /<!-- vscode-stats:start -->[\s\S]*<!-- vscode-stats:end -->/,
       `<!-- vscode-stats:start -->\n${vscodeContent}\n<!-- vscode-stats:end -->`
+    );
+
+    // stats部分を更新
+    readme = readme.replace(
+      /<!-- stats:start -->[\s\S]*<!-- stats:end -->/,
+      `<!-- stats:start -->\n${statsContent}\n<!-- stats:end -->`
     );
 
     // active-projects部分を更新（reflectionを含む）
