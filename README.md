@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Madrid: 8°C
+# 🌍 Olá! Dia nublado☁️
+📍 São Paulo: 22°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,19 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと141件ものコミット、本当にお疲れ様です！素晴らしい活動量ですね👏
+直近3日間で、なんと141件ものコミット、お疲れ様でした！✨ 短期間にこれだけの成果は本当に素晴らしいですね！
 
-特に**jules-extension**では、Geminiと連携したレビュー自動転記・フィードバックワークフローの導入をはじめ、Feature Xによるユーザー体験とパフォーマンスの向上、GitHubサインインやPAT管理、リモートブランチ作成といった多岐にわたる新機能開発を進めましたね！ディレクトリ構造の改善やバグ修正、各種バリデーション強化も行い、プロジェクトの品質と機能拡充に大きく貢献しています🚀
+特に **jules-extension** では、Gemini連携によるレビュー自動転記のワークフローを置き換え、開発プロセスを大きく進化させましたね！🚀 GitHubサインイン機能やPAT管理、リモートブランチの作成・自動プッシュ、ソースブランチ選択など、GitHub連携機能が大幅に強化され、開発効率向上に大きく貢献しています。さらに、ユーザー体験を向上させる新機能の実装や、ディレクトリ構造のリファクタリングも行われ、プロジェクトの基盤がさらに強固になりましたね！
 
-**Audicle**では、プレイリストのソートオプション拡張やカラーテーマオプションの追加で、ユーザー体験がさらに豊かになりましたね。CI/CDの修正も抜かりなく、開発基盤も安定しています✨
+**Audicle** では、プレイリストのソートオプション拡張やカラーテーマの追加で、ユーザーの利便性を高める改善が見られます。また、CIビルドとLintの修正で、開発フローの安定化にもしっかり取り組んでいますね！💪
 
-**otodoki2**では、GitHub Actionsのワークフロー最適化やGEMINI APIキーの環境変数化・簡素化により、CI/CDがさらにスムーズに進化しました⚙️
+**otodoki2** では、GitHub Actionsのワークフローを最適化し、GEMINI APIキーの管理を簡素化する見事な改善を進めています。効率的な開発環境構築に繋がりますね！
 
-また、**is0692vs**では、グラフの表示期間設定機能や更新された統計データの追加で、情報可視化が向上しました📊
+そして、**is0692vs** リポジトリでも、グラフの表示期間設定や統計データ更新など、データ活用を促進する機能が追加されました。
 
-どのプロジェクトも着実に進化していて素晴らしいです！この調子で頑張りましょう！😊
+多岐にわたるプロジェクトでこれだけ多くの成果を出しているのは本当にすごいです！この勢いを保って、さらなる飛躍を期待しています！💡
 
-_Total: 186 commits across 3 projects_
+_Total: 176 commits across 3 projects_
 
 <table>
   <tr>
@@ -47,7 +47,7 @@ _Total: 186 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 137 commits (73.7%)</sub>
+      <sub>📊 137 commits (77.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
@@ -58,7 +58,7 @@ _Total: 186 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 44 commits (23.7%)</sub>
+      <sub>📊 34 commits (19.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -69,7 +69,7 @@ _Total: 186 commits across 3 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/otodoki2" target="_blank">otodoki2</a></strong></sub>
       <br />
-      <sub>📊 5 commits (2.7%)</sub>
+      <sub>📊 5 commits (2.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
