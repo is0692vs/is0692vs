@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia chuvoso☔
-📍 Lisbon: 17°C
+# 🌍 Hello! Cloudy weather today☁️
+📍 Los Angeles: 14°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,9 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、あなたは素晴らしい133件ものコミットを重ねましたね！その集中力と生産性、本当に素晴らしいです👏
+直近3日間で140件ものコミット、お疲れ様です！👏 Merge pull request #183 from is0692vs/レビュー自動転記actions、Implement feature X to enhance user experience and optimize performance、Merge pull request #135 from is0692vs/workflow1など、多くの作業を進められました。合計15290行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-特に[jules-extension]では、Gemini連携を大きく強化し、自動レビューやフィードバック、バルクトリアージ機能を導入しましたね。さらに、GitHubサインイン、PAT管理、リモートブランチ作成、ローカル専用ブランチの自動プッシュやバリデーションなど、GitHub連携機能も大幅に拡充。ユーザー体験向上やパフォーマンス最適化、キャッシュ処理の改善にも取り組み、広範囲にわたる機能強化と品質向上に大きく貢献されています！🚀
-
-[otodoki2]では、GitHub Actionsのワークフローを最適化し、Gemini APIキーの管理を簡素化・環境変数化することで、より効率的な開発環境を構築しましたね。素晴らしい改善です！✨
-
-また、[Audicle]ではブラウザの自動再生ポリシーによる音声再生エラーを見事に解消し、ユーザー体験を守りました。そして[is0692vs]では、グラフの表示期間設定や統計データの更新を行い、データ視覚化の柔軟性を高めました。
-
-たくさんの改善と新機能開発、本当にお疲れ様でした！この調子でこれからも素晴らしい活躍を期待しています！😊
-
-_Total: 170 commits across 2 projects_
+_Total: 178 commits across 2 projects_
 
 <table>
   <tr>
@@ -45,7 +37,7 @@ _Total: 170 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 111 commits (65.3%)</sub>
+      <sub>📊 100 commits (56.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
@@ -56,7 +48,7 @@ _Total: 170 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 59 commits (34.7%)</sub>
+      <sub>📊 78 commits (43.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
