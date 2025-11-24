@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！あめがふってますね☔
-📍 Fukuoka: 15°C
+# 🌍 Olá! Dia chuvoso☔
+📍 Lisbon: 17°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,17 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で計133件ものコミット、素晴らしい集中力ですね！🚀 多くのプロジェクトで活発な開発が進んでいます。
+直近3日間で、あなたは素晴らしい133件ものコミットを重ねましたね！その集中力と生産性、本当に素晴らしいです👏
 
-特に**jules-extension**では、新機能「feature X」の実装でユーザー体験とパフォーマンスを大幅に向上させましたね (+3591/-0)！ Geminiレビュー・フィードバックワークフローへの自動転記機能やバルクトリアージ機能の追加で、AI連携も大きく強化されています。さらに、GitHub連携も飛躍的に進化し、PAT管理、リモートブランチの作成・検証、ローカル専用ブランチの自動プッシュ、ソースブランチ選択機能など、ブランチ管理がよりスムーズになったことでしょう。キャッシュの更新やAPI呼び出しラグの解消といった細やかな改善も光ります✨。
+特に[jules-extension]では、Gemini連携を大きく強化し、自動レビューやフィードバック、バルクトリアージ機能を導入しましたね。さらに、GitHubサインイン、PAT管理、リモートブランチ作成、ローカル専用ブランチの自動プッシュやバリデーションなど、GitHub連携機能も大幅に拡充。ユーザー体験向上やパフォーマンス最適化、キャッシュ処理の改善にも取り組み、広範囲にわたる機能強化と品質向上に大きく貢献されています！🚀
 
-**otodoki2**では、GitHub Actionsワークフローの最適化とGEMINI APIキーの管理を簡素化し、開発環境がさらに使いやすくなりましたね。
+[otodoki2]では、GitHub Actionsのワークフローを最適化し、Gemini APIキーの管理を簡素化・環境変数化することで、より効率的な開発環境を構築しましたね。素晴らしい改善です！✨
 
-**Audicle**では、ブラウザの自動再生ポリシーによる音声再生エラーを見事に解消し、ユーザーがより快適に利用できるようになりました。ユーザー体験への配慮、素晴らしいです👏。
+また、[Audicle]ではブラウザの自動再生ポリシーによる音声再生エラーを見事に解消し、ユーザー体験を守りました。そして[is0692vs]では、グラフの表示期間設定や統計データの更新を行い、データ視覚化の柔軟性を高めました。
 
-そして**is0692vs**リポジトリでは、グラフの表示期間を設定可能にし、更新された統計データを追加するなど、データ可視化の改善を進めていますね。
+たくさんの改善と新機能開発、本当にお疲れ様でした！この調子でこれからも素晴らしい活躍を期待しています！😊
 
-多岐にわたる開発、お疲れ様でした！この調子で次の3日間も駆け抜けましょう！💪
-
-_Total: 187 commits across 2 projects_
+_Total: 170 commits across 2 projects_
 
 <table>
   <tr>
@@ -47,7 +45,7 @@ _Total: 187 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 128 commits (68.4%)</sub>
+      <sub>📊 111 commits (65.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
@@ -58,7 +56,7 @@ _Total: 187 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 59 commits (31.6%)</sub>
+      <sub>📊 59 commits (34.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
