@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！くもってますね☁️
-📍 Fukuoka: 12°C
+# 🌍 Hello! Beautiful sunny day☀️
+📍 New York: 10°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,31 +24,20 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計95件ものコミット、素晴らしい集中力と生産性ですね！🚀 各リポジトリで多くの進展が見られます。
+3日間で合計95件のコミット、素晴らしい集中力ですね！お疲れ様です！🚀
 
-特に**jules-extension**では、Geminiを活用したレビュー・フィードバックワークフローの大幅な刷新や、ユーザー体験向上を目指した大規模な新機能実装、さらにはジョブ構成の改善、ドキュメント更新と翻訳など、多岐にわたる機能強化と品質向上が行われました。ブランチリストの定期更新やフィードバック通知機能の追加もユーザーにとって嬉しい改善点ですね！
+**jules-extension** では、Gemini連携に大きく注力しましたね！レビュー自動転記やバルクトリアージ機能の追加、さらにはGeminiレビュー・フィードバックワークフローへの置き換えなど、AIを活用した新機能開発が目立ちます。ユーザー体験向上のためのFeature Xの実装や、ユーザーフィードバック通知、ブランチリストの定期更新機能追加も素晴らしいです。ドキュメントの更新・翻訳やGitHub Actionsワークフローの追加、テストジョブの分割など、開発効率と品質向上にも貢献しています！✨
 
-**Audicle**では、ブラウザの自動再生ポリシーによる音声再生エラーの解消や、並び替えオプションの拡充、カラーテーマの適用修正など、ユーザー体験をスムーズにするための重要なバグ修正と機能追加が目立ちます。ReaderViewコンポーネントのレイアウト改善も素晴らしいです✨。
+**Audicle** では、ユーザーのストレスを解消する重要な修正が盛りだくさんです。ブラウザの自動再生ポリシーによる音声再生エラーの解消や、二重再生によるAbortErrorの修正は特に素晴らしいですね！加えて、並び替えオプションへの逆順追加、カラーテーマ反映、歌詞表示レイアウトの改善など、UI/UXの細やかな配慮も光っています。🎧
 
-そして**is0692vs**では、グラフの表示期間設定機能の追加や統計データの更新、VSCodeインストール数の一貫性修正など、データ可視化と正確性向上に貢献されました。
+また、**is0692vs** リポジトリでは、グラフの表示期間設定や統計データの更新、JulesトリガーのGitHub Actionsワークフロー追加、VSCodeインストール数の修正など、幅広い改善を行っていますね！
 
-どのリポジトリでも着実にプロジェクトが進展しており、その勢いに感動します！今後のさらなる活躍を期待しています！😊
+多岐にわたる活躍、本当に素晴らしいです！この調子で頑張ってください！💪
 
-_Total: 146 commits across 2 projects_
+_Total: 145 commits across 2 projects_
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/jules-extension" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/jules-extension" alt="jules-extension" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
-      <br />
-      <sub>📊 73 commits (50.0%)</sub>
-      <br />
-      <sub>🔷 TypeScript ⭐ 4</sub>
-    </td>
     <td align="center" width="33%">
       <a href="https://github.com/is0692vs/Audicle" target="_blank">
         <img src="https://opengraph.githubassets.com/1/is0692vs/Audicle" alt="Audicle" width="100%" />
@@ -56,9 +45,20 @@ _Total: 146 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 73 commits (50.0%)</sub>
+      <sub>📊 73 commits (50.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/is0692vs/jules-extension" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/jules-extension" alt="jules-extension" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
+      <br />
+      <sub>📊 72 commits (49.7%)</sub>
+      <br />
+      <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
   </tr>
 </table>
