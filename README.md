@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Bit cloudy today☁️
-📍 Sydney: 26°C
+# 🌍 Hello! Perfect sunny day☀️
+📍 Los Angeles: 12°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,17 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計95件ものコミット、お疲れ様です！👏 とても精力的に開発に取り組んでいますね。
+直近3日間で合計95件ものコミット、素晴らしい活躍でした！🚀
 
-特に **jules-extension** では、Geminiを活用したレビュー・フィードバックワークフローへの置き換えや、新機能Xの実装でユーザー体験を大きく向上させましたね！🎉 ジョブ構成の改善、ドキュメントの更新、ユーザーフィードバック通知、ブランチリストの定期更新など、多岐にわたる機能強化と改善が素晴らしいです。
+特に、**jules-extension**では、Gemini連携によるレビュー・フィードバックワークフローの大幅な改善と自動転記機能の導入、ユーザー体験を向上させる新機能の実装、ジョブ構成の改善、そしてGitHub Actionsトリガーの追加など、多岐にわたる機能強化と効率化が進みましたね。ドキュメントの更新もバッチリです！
 
-**Audicle** では、ブラウザの自動再生ポリシーによる音声再生エラーや、二重呼び出しによるAbortErrorの解消、カラーテーマの問題修正に尽力しましたね。🎧✨ 並び替えオプションに逆順を追加したり、ReaderViewコンポーネントのレイアウトを調整したりと、ユーザーがより快適に使えるよう細やかな改善を重ねています。
+**Audicle**では、ブラウザの自動再生ポリシーによる音声再生エラーやダブルplay()呼び出しによるAbortErrorの解消、カラーテーマの適用問題、ReaderViewのレイアウトエラーなど、ユーザーがより快適に使えるよう安定性向上に大きく貢献しました。全ての並び替えオプションに逆順を追加するなど、細やかな配慮も光ります✨
 
-そして **is0692vs** でも、グラフの表示期間設定機能や更新された統計データの追加、VSCodeインストール数の修正など、重要な機能追加やメンテナンスを行いました。複数のリポジトリを横断してJulesトリガーのGitHub Actionsワークフローを追加したのもお見事です！🚀 これからもその勢いで、素晴らしい開発を続けていきましょう！
+また、**is0692vs**リポジトリでは、グラフの表示期間設定機能や更新された統計データの追加、JulesトリガーのGitHub Actionsワークフローの導入、VSCodeインストール数の不一致修正など、基盤強化とデータ活用の促進に力を入れましたね。
 
-_Total: 176 commits across 2 projects_
+とても生産的な3日間でした！この調子で頑張りましょう！🎉
+
+_Total: 163 commits across 2 projects_
 
 <table>
   <tr>
@@ -43,7 +45,7 @@ _Total: 176 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 98 commits (55.7%)</sub>
+      <sub>📊 85 commits (52.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
@@ -54,7 +56,7 @@ _Total: 176 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 78 commits (44.3%)</sub>
+      <sub>📊 78 commits (47.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
