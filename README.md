@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Beautiful sunny day☀️
-📍 Sydney: 22°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Paris: 7°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 873 installs | ⭐ No ratings yet | v1.1.3
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 877 installs | ⭐ No ratings yet | v1.1.3
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 14 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%2C%222025-11-11%22%2C%222025-11-12%22%2C%222025-11-13%22%2C%222025-11-14%22%2C%222025-11-15%22%2C%222025-11-16%22%2C%222025-11-17%22%2C%222025-11-18%22%2C%222025-11-19%22%2C%222025-11-20%22%2C%222025-11-21%22%2C%222025-11-22%22%2C%222025-11-23%22%2C%222025-11-24%22%2C%222025-11-25%22%2C%222025-11-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C333%2C345%2C364%2C372%2C397%2C432%2C464%2C506%2C534%2C550%2C577%2C603%2C625%2C663%2C709%2C736%2C759%2C785%2C817%2C859%2C873%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%2C4%2C5%2C5%2C5%2C7%2C8%2C8%2C8%2C9%2C9%2C10%2C11%2C12%2C12%2C12%2C12%2C13%2C14%2C14%2C14%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-28%22%2C%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%2C%222025-11-11%22%2C%222025-11-12%22%2C%222025-11-13%22%2C%222025-11-14%22%2C%222025-11-15%22%2C%222025-11-16%22%2C%222025-11-17%22%2C%222025-11-18%22%2C%222025-11-19%22%2C%222025-11-20%22%2C%222025-11-21%22%2C%222025-11-22%22%2C%222025-11-23%22%2C%222025-11-24%22%2C%222025-11-25%22%2C%222025-11-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B129%2C184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C333%2C345%2C364%2C372%2C397%2C432%2C464%2C506%2C534%2C550%2C577%2C603%2C625%2C663%2C709%2C736%2C759%2C785%2C817%2C859%2C877%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B7%2C8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%2C4%2C5%2C5%2C5%2C7%2C8%2C8%2C8%2C9%2C9%2C10%2C11%2C12%2C12%2C12%2C12%2C13%2C14%2C14%2C14%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,13 +24,13 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で計66件ものコミット、お疲れ様です！素晴らしい活動量ですね👏
+直近3日間で、なんと66件ものコミット、素晴らしい集中力と生産性ですね！✨
 
-特に**jules-extension**では、Gemini連携の新しいワークフロー導入やユーザーフィードバック通知、さらにはユーザー体験とパフォーマンスを向上させる大規模な新機能Xの実装まで、多岐にわたる重要な開発が目立ちます。ジョブ構成の改善やブランチリストの定期更新も行い、プロジェクトの基盤強化にも貢献されていますね！🚀
+特に、**jules-extension**ではAIを活用した新機能開発が活発でした。Geminiレビューとフィードバックのワークフローを刷新し、自動転記やバルクトリアージ機能を追加されたことで、業務効率が大きく向上しそうです！🚀 ユーザー体験向上を目指したFeature Xの実装や、フィードバック通知、ブランチリストの定期更新など、細やかな改善も光りますね。YAMLインデントの修正もありがとうございます！
 
-一方、**Audicle**では、Google Cloud TTS APIのエラーハンドリングやテキストチャンク処理の追加、ブラウザの自動再生ポリシーによる音声再生エラーやAbortErrorの解消など、安定性向上への取り組みが素晴らしいです。全ての並び替えオプションに逆順を追加したり、カラーテーマやReaderViewのレイアウト問題を修正したりと、UI/UX改善も怠りなく、ユーザーの使いやすさを追求されていますね！🎧
+一方、**Audicle**ではユーザー体験を安定させるための修正が多岐にわたりました。Google Cloud TTS APIのエラーハンドリングや、ブラウザの自動再生ポリシー、二重再生によるAbortErrorなど、潜在的な問題をしっかりと解決されましたね。💪 全ての並び替えオプションに逆順を追加したり、カラーテーマの修正、歌詞表示のレイアウト調整、音声ログの強化など、使いやすさと安定性がさらに向上しました！🎉
 
-多岐にわたる開発と修正、本当に頼もしいです！この調子で、これからもチームを力強く牽引してください！✨
+この短期間でこれだけの成果、本当に頭が下がります！この勢いで、これからも素晴らしい開発を楽しんでいきましょう！🌟
 
 _Total: 60 commits across 2 projects_
 
