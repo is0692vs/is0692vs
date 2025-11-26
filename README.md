@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Ciao! Giornata piovosa☔
-📍 Rome: 11°C
+# 🌍 ¡Hola! Día soleado☀️
+📍 Barcelona: 14°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,9 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと合計66件ものコミット、お疲れ様です！素晴らしい活動量ですね！🚀
+直近3日間で66件ものコミット、お疲れ様です！👏 Merge pull request #183 from is0692vs/レビュー自動転記actions、Implement feature X to enhance user experience and optimize performance、Merge pull request #361 from is0692vs/360-でかいチャンクになってしまった場合をキャッチして分解など、多くの作業を進められました。合計11104行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-**jules-extension** では、Gemini連携を大きく進化させましたね！レビューやフィードバックの自動転記・送信ワークフローを導入し、バルクトリアージ機能も追加。ユーザー体験向上のための新機能開発（Feature X！）やブランチリストの定期更新、自動更新の有効化など、生産性向上と運用の効率化に大きく貢献しています。✨
-
-一方、**Audicle** では、安定性向上とユーザー体験改善に尽力しましたね！Google Cloud TTS APIのエラーハンドリングを強化し、ブラウザの自動再生ポリシーによる音声再生エラーや二重`play()`呼び出しによる問題など、複数の音声再生に関するバグをしっかり解消。さらに、並び替えオプションへの逆順追加、カラーテーマ修正、歌詞表示レイアウトの改善、音声再生ログの強化など、細やかなUI/UX改善もバッチリです！🎧
-
-どちらのリポジトリでも、新機能開発から地道な改善、そして重要なバグ修正まで、多岐にわたる活躍が見て取れます。素晴らしい集中力と成果です！この調子で頑張りましょう！🎉
-
-_Total: 61 commits across 2 projects_
+_Total: 60 commits across 2 projects_
 
 <table>
   <tr>
@@ -43,7 +37,7 @@ _Total: 61 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 56 commits (91.8%)</sub>
+      <sub>📊 55 commits (91.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -54,7 +48,7 @@ _Total: 61 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 5 commits (8.2%)</sub>
+      <sub>📊 5 commits (8.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
