@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Beautiful sunny day☀️
-📍 Sydney: 20°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Bogotá: 12°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,15 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、あなたは素晴らしい20件のコミットをされましたね！🎉 非常に活発な開発、お疲れ様です！
+直近3日間で、素晴らしい20件のコミット、お疲れ様でした！👏 活発な開発が素晴らしいですね！
 
-特に[Audicle]では、大きな進展が見られます。Google Cloud TTS APIに関するエラーハンドリングを強化し、長文テキストの分割処理も追加して、安定性と使いやすさがぐっと向上しました。👏 また、ブラウザの自動再生ポリシーによる音声再生エラーや、二重再生によるAbortErrorといった重要な不具合も解消。カラーテーマがシステム設定に反映されるよう修正したり、ReaderViewのレイアウトエラーも改善したりと、ユーザー体験の細部まで配慮されています。さらに、音声再生ログの強化も実施し、今後のデバッグや改善に役立つ基盤を整えていますね！
+特に[Audicle]では、ユーザー体験の向上に大きく貢献されています。Google Cloud TTS APIの大きなチャンク処理に対応し、エラーハンドリングを強化されたことで、音声合成がより安定しましたね！🎤 また、ブラウザの自動再生ポリシーによるエラーや二重play()呼び出しによる再生エラーなど、音声再生の安定化に多数取り組まれ、ユーザーがスムーズに音声コンテンツを楽しめるよう改善されました。カラーテーマのシステム設定への対応や歌詞表示のレイアウト修正で、UI/UXも一層洗練されています。音声再生のログ強化や、botによる細かな調整もたくさんありがとうございます！
 
-一方、[jules-extension]では、ジョブ構成の改善に加え、Geminiを活用したバルクトリアージ機能という画期的な新機能が追加されましたね！これにより、作業効率が大きく向上すること間違いなしです。🚀 依存関係のアップデートも怠らず、常に最新でセキュアな環境を保つ努力が見て取れます。
+[jules-extension]では、ジョブ構成の改善に加え、Geminiのバルクトリアージという新機能を追加されましたね！🤖 新しい価値を提供する素晴らしい前進です。依存関係の更新もしっかりと行われており、プロジェクトの健全性も保たれています。
 
-多岐にわたる開発、本当に素晴らしいです！これからもその調子で、最高のプロダクトを作り上げていきましょう！💪
+多岐にわたる活動、本当に素晴らしいです！この調子で頑張ってください！✨
 
-_Total: 60 commits across 2 projects_
+_Total: 56 commits across 2 projects_
 
 <table>
   <tr>
@@ -43,7 +43,7 @@ _Total: 60 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 55 commits (91.7%)</sub>
+      <sub>📊 51 commits (91.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -54,7 +54,7 @@ _Total: 60 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 5 commits (8.3%)</sub>
+      <sub>📊 5 commits (8.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
