@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rather cloudy today☁️
-📍 London: 13°C
+# 🌍 ¡Hola! Está lloviendo☔
+📍 Bogotá: 17°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,24 +24,15 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、なんと20件ものコミット、素晴らしい集中力ですね！🚀✨ 活発な開発、お疲れ様です！
+素晴らしい3日間でしたね！✨ 直近3日間で合計20件ものコミットを重ね、多くの改善と新機能開発に貢献されました。
 
-特に目立った活動は以下の通りです。
+特に、**Audicle**プロジェクトでは、ユーザー体験の向上とシステムの安定性強化に大きく注力されました。Google Cloud TTS APIの大きなテキストチャンクを適切に処理するエラーハンドリングと分割機能を追加し、音声合成の堅牢性を大幅に高めましたね！🔊 また、ブラウザの自動再生ポリシーによる音声再生エラーや、二重play()呼び出しによるAbortErrorを解消し、スムーズな再生体験を実現しました。カラーテーマのシステム設定反映や、ReaderViewのレイアウト修正でUI/UXも磨き上げられています。デバッグに役立つ音声再生ログの強化も素晴らしいです！
 
-**Audicleでは、ユーザー体験と安定性が大きく向上しましたね！**
-*   Google Cloud TTS APIの長文処理とエラーハンドリングを強化し、大規模なテキストもスムーズに対応できるよう改善されました。これは大規模な機能追加です！ (+658/-16)
-*   [Audicle] 音声再生関連の多くの課題に取り組まれました。「ブラウザの自動再生ポリシーによるエラー」や「ダブルプレイによる`AbortError`」など、ユーザーがより快適に音声を楽しめるよう、安定性の向上に大きく貢献されましたね。🎧
-*   [Audicle] さらに、「カラーテーマが反映されない問題」や「歌詞表示のレイアウトエラー」も修正され、UI/UXの細部まで配慮が行き届いています。
-*   [Audicle] 音声再生のログ強化も行われ、今後のデバッグや改善に役立つ基盤が築かれました。
-*   細かい調整コミットも複数見受けられ、着実に品質を高めていますね。
+一方、**jules-extension**では、ジョブ構成の改善に加え、Gemini連携によるバルクトリアージという画期的な新機能を追加されましたね！🚀 これはチームの生産性向上に大きく貢献することでしょう。さらに、依存関係の更新も着実に行い、プロジェクトの健全性を保っています。
 
-**jules-extensionでは、新機能の導入と基盤強化が進みました！**
-*   [jules-extension] Geminiのバルクトリアージ機能が追加され、ジョブの構成も改善されましたね！これはワークフローの効率化に大きく貢献する、パワフルな新機能です！🤖
-*   [jules-extension] DependabotによるGitHub Actionsの依存関係アップデートも行われ、システムの健全性が保たれています。
+多岐にわたる開発、本当にお疲れ様でした！この調子で、これからも素晴らしい成果を楽しみにしています！🎉
 
-この短期間でこれだけ多くの改善と新機能開発を進められたのは本当に素晴らしいです！あなたの多岐にわたる貢献が、プロダクトの品質と機能性を大きく高めていますね！この調子で、これからも最高のプロダクトを目指して頑張りましょう！応援しています！💪
-
-_Total: 31 commits across 2 projects_
+_Total: 18 commits across 2 projects_
 
 <table>
   <tr>
@@ -52,7 +43,7 @@ _Total: 31 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 27 commits (87.1%)</sub>
+      <sub>📊 14 commits (77.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -63,7 +54,7 @@ _Total: 31 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 4 commits (12.9%)</sub>
+      <sub>📊 4 commits (22.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
