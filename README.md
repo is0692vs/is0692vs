@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Il pleut aujourd'hui☔
-📍 Paris: 5°C
+# 🌍 Hello! Foggy and cloudy☁️
+📍 San Francisco: 8°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,16 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-3日間で合計20件ものコミット、お疲れ様でした！✨ 素晴らしい活動量ですね！
+直近3日間で、素晴らしい20件のコミットがありましたね！お疲れ様です！✨
 
-特に**Audicle**では、ユーザー体験を大きく向上させる改善が目立ちます。Google Cloud TTS APIの大きなチャンクに対応するためのエラーハンドリングとテキストチャンク処理の追加、ブラウザの自動再生ポリシーによる音声再生エラーや二重再生によるAbortErrorの解消など、音声再生の安定性が大きく向上しましたね！👏 また、カラーテーマの反映修正やReaderViewのレイアウト改善、音声再生のログ強化など、細やかなUI/UXのブラッシュアップも素晴らしいです。
+特に、**Audicle** ではユーザー体験を大きく向上させる取り組みが目立ちます。Google Cloud TTS APIのエラーハンドリングとテキストチャンク分割の追加で、音声生成の安定性が格段にアップしましたね！👏
+ブラウザの自動再生ポリシーによる再生エラーや、二重 `play()` 呼び出しによる `AbortError` の解消など、音声再生周りの不具合修正で、よりスムーズな利用が可能に。カラーテーマの反映修正や、ReaderViewのレイアウトエラー対応といったUI/UX改善もバッチリです！💡 さらに、音声再生ログの強化で、今後のデバッグや改善にも役立ちますね。
 
-一方、**jules-extension**では、Geminiのバルクトリアージ機能を追加するなど、新たな機能拡張に着手されましたね！ジョブ構成の改善も行われ、今後の発展が楽しみです。🚀 また、GitHub Actionsの依存関係を更新し、プロジェクトの健全性も保たれています。
+一方、**jules-extension** では、ジョブ構成の改善に加え、Geminiのバルクトリアージ機能という魅力的な新機能が追加されました！🚀 生産性アップに繋がりそうです。また、`actions/github-script` や `actions/checkout` のような依存関係のバージョンアップも着実に実施され、プロジェクトの健全性が保たれていますね。
 
-多岐にわたる重要な改善や新機能開発、本当にお疲れ様でした！この調子で、これからも素敵な開発を続けていきましょう！💪
+多岐にわたる重要な改善、機能追加、そしてメンテナンス作業、本当に素晴らしいです！チーム全体が着実に前進している証ですね。引き続き頑張りましょう！🚀
 
-_Total: 40 commits across 2 projects_
+_Total: 37 commits across 2 projects_
 
 <table>
   <tr>
@@ -43,7 +44,7 @@ _Total: 40 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 36 commits (90.0%)</sub>
+      <sub>📊 33 commits (89.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -54,7 +55,7 @@ _Total: 40 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 4 commits (10.0%)</sub>
+      <sub>📊 4 commits (10.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
