@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hallo! Es regnet☔
-📍 Berlin: 4°C
+# 🌍 Bonjour! Il pleut aujourd'hui☔
+📍 Paris: 10°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -9,13 +9,13 @@
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 14 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%2C%222025-11-11%22%2C%222025-11-12%22%2C%222025-11-13%22%2C%222025-11-14%22%2C%222025-11-15%22%2C%222025-11-16%22%2C%222025-11-17%22%2C%222025-11-18%22%2C%222025-11-19%22%2C%222025-11-20%22%2C%222025-11-21%22%2C%222025-11-22%22%2C%222025-11-23%22%2C%222025-11-24%22%2C%222025-11-25%22%2C%222025-11-26%22%2C%222025-11-27%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B184%2C202%2C225%2C233%2C252%2C270%2C295%2C315%2C333%2C345%2C364%2C372%2C397%2C432%2C464%2C506%2C534%2C550%2C577%2C603%2C625%2C663%2C709%2C736%2C759%2C785%2C817%2C859%2C895%2C927%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B8%2C8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B0%2C3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%2C4%2C5%2C5%2C5%2C7%2C8%2C8%2C8%2C9%2C9%2C10%2C11%2C12%2C12%2C12%2C12%2C13%2C14%2C14%2C14%2C14%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%2C%222025-11-11%22%2C%222025-11-12%22%2C%222025-11-13%22%2C%222025-11-14%22%2C%222025-11-15%22%2C%222025-11-16%22%2C%222025-11-17%22%2C%222025-11-18%22%2C%222025-11-19%22%2C%222025-11-20%22%2C%222025-11-21%22%2C%222025-11-22%22%2C%222025-11-23%22%2C%222025-11-24%22%2C%222025-11-25%22%2C%222025-11-26%22%2C%222025-11-27%22%2C%222025-11-28%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B202%2C225%2C233%2C252%2C270%2C295%2C315%2C333%2C345%2C364%2C372%2C397%2C432%2C464%2C506%2C534%2C550%2C577%2C603%2C625%2C663%2C709%2C736%2C759%2C785%2C817%2C859%2C895%2C927%2C927%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B8%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B3%2C3%2C3%2C3%2C3%2C3%2C4%2C4%2C4%2C5%2C5%2C5%2C7%2C8%2C8%2C8%2C9%2C9%2C10%2C11%2C12%2C12%2C12%2C12%2C13%2C14%2C14%2C14%2C14%2C14%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
 📦 **[pr-cannon](https://github.com/is0692vs/pr-cannon)**: 664 total downloads
 
-![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-29%22%2C%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%2C%222025-11-11%22%2C%222025-11-12%22%2C%222025-11-13%22%2C%222025-11-14%22%2C%222025-11-15%22%2C%222025-11-16%22%2C%222025-11-17%22%2C%222025-11-18%22%2C%222025-11-19%22%2C%222025-11-20%22%2C%222025-11-21%22%2C%222025-11-22%22%2C%222025-11-23%22%2C%222025-11-24%22%2C%222025-11-25%22%2C%222025-11-26%22%2C%222025-11-27%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B634%2C636%2C641%2C641%2C641%2C641%2C641%2C641%2C641%2C643%2C643%2C649%2C649%2C649%2C649%2C649%2C652%2C652%2C652%2C652%2C652%2C652%2C652%2C652%2C652%2C652%2C658%2C658%2C664%2C664%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-10-30%22%2C%222025-10-31%22%2C%222025-11-01%22%2C%222025-11-02%22%2C%222025-11-03%22%2C%222025-11-04%22%2C%222025-11-05%22%2C%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%2C%222025-11-11%22%2C%222025-11-12%22%2C%222025-11-13%22%2C%222025-11-14%22%2C%222025-11-15%22%2C%222025-11-16%22%2C%222025-11-17%22%2C%222025-11-18%22%2C%222025-11-19%22%2C%222025-11-20%22%2C%222025-11-21%22%2C%222025-11-22%22%2C%222025-11-23%22%2C%222025-11-24%22%2C%222025-11-25%22%2C%222025-11-26%22%2C%222025-11-27%22%2C%222025-11-28%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B636%2C641%2C641%2C641%2C641%2C641%2C641%2C641%2C643%2C643%2C649%2C649%2C649%2C649%2C649%2C652%2C652%2C652%2C652%2C652%2C652%2C652%2C652%2C652%2C652%2C658%2C658%2C664%2C664%2C664%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- stats:end -->
 
 <!-- active-projects:start -->
@@ -24,15 +24,15 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-素晴らしい3日間でしたね！🎉 直近3日間で合計20件ものコミット、ありがとうございます！素晴らしい成果です。
+直近3日間で9件のコミット、お疲れ様です！素晴らしい活動ですね👏
 
-特に**Audicle**では、Google Cloud TTS APIのエラーハンドリングとテキストチャンク処理を追加し、大規模な機能改善を進めましたね！🔊 これでさらに安定した動作が期待できます。また、ブラウザの自動再生ポリシーによる音声再生エラーや、二重play()呼び出しによるAbrotErrorといった重要な再生関連の不具合を複数解消し、ユーザー体験が大きく向上したことでしょう。さらに、カラーテーマの適用問題や歌詞表示レイアウトのエラー修正、音声再生のログ強化まで、細部にわたる改善も忘れていませんね！✨
+特に[Audicle]では、Google Cloud TTS APIの大きなテキストチャンクを適切に処理するためのエラーハンドリングと分割機能を追加されましたね！これで、より安定した音声合成が期待できそうです🚀。他にも、[Audicle]のテキスト解析ロジック (`paragraphParser.ts`) や合成ルート (`synthesize/route.ts`) に関する細かい調整も複数回行われており、全体的な品質向上に貢献していますね✨。
 
-一方、**jules-extension**では、ジョブの構成を改善し、Geminiのバルクトリアージ機能を追加するという大きな新機能開発に成功しましたね！🚀 ワークフローの効率化に貢献すること間違いなしです。依存関係のアップデートも抜かりなく対応されており、プロジェクトの健全性が保たれています。
+また、[jules-extension]ではDependabotを利用して、GitHub Actionsの依存関係を最新バージョンに更新されました。プロジェクトの基盤を最新に保つ、とても重要な保守作業、ありがとうございます！
 
-多岐にわたる重要な改善と新機能開発、本当にお疲れ様でした！この調子で頑張っていきましょう！💪
+それぞれのプロジェクトで着実に前進されており、大変頼もしいです！この調子で頑張ってくださいね！😊
 
-_Total: 16 commits across 2 projects_
+_Total: 15 commits across 2 projects_
 
 <table>
   <tr>
@@ -43,7 +43,7 @@ _Total: 16 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 14 commits (87.5%)</sub>
+      <sub>📊 14 commits (93.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -54,7 +54,7 @@ _Total: 16 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 2 commits (12.5%)</sub>
+      <sub>📊 1 commits (6.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
