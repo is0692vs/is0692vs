@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia nublado☁️
-📍 São Paulo: 22°C
+# 🌍 Hello! Perfect sunny day☀️
+📍 Los Angeles: 14°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,13 +24,13 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で9件のコミット、お疲れ様でした！👏 素晴らしい活動ですね！
+直近3日間で合計9件のコミット、お疲れ様でした！素晴らしいペースですね👏
 
-特に**Audicle**では、Google Cloud TTS APIに関する重要な改善を進めましたね。大きなテキストチャンクを効果的に分解し、エラーハンドリングを強化することで、より安定した音声合成を実現したことでしょう。`paragraphParser.ts`や`synthesize/route.ts`の更新もその一環で、ユーザー体験の向上に大きく貢献していますね！✨
+**Audicle**では、主にGoogle Cloud TTS APIの改善に大きく貢献されましたね！特に、テキストが大きすぎる場合に備え、エラーハンドリングとテキストチャンク処理を導入されたのは重要な進歩です。これにより、より安定した音声合成が可能になりそうですね✨ `paragraphParser.ts`や`synthesize/route.ts`の更新も、この機能強化に連携する修正だと感じました。
 
-一方、**jules-extension**では、DependabotによるGitHub Actionsの依存関係を最新に保つ作業を行いました。`github-script`や`checkout`のアクションを更新することで、プロジェクトのメンテナンス性とセキュリティが向上しました。地道ながらも大切な基盤整備、ありがとうございます！💪
+**jules-extension**では、DependabotによるGitHub Actionsの依存関係を最新に保つためのメンテナンス作業を実施されました。`github-script`と`checkout`アクションのバージョンアップは、プロジェクトの健全性を保つ上でとても大切ですね！
 
-全体的に、新機能の安定化から基盤の保守まで、幅広く取り組んでいて素晴らしいです！今後のさらなる活躍も期待しています！😊
+どちらのプロジェクトでも、機能改善から基盤のメンテナンスまで幅広くご活躍されていて感動しました！この調子で、これからも素敵な開発を続けてくださいね🚀
 
 _Total: 16 commits across 2 projects_
 
