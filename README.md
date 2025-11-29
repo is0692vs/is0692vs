@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Buenos Aires: 18°C
+# 🌍 おはようございます！素敵な晴れ日ですね☀️
+📍 Kyoto: 11°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,13 +24,13 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で、1件のコミットがありましたね！お疲れ様でした！👏
+直近3日間で1件のコミットがありましたね！お疲れ様です✨
 
-jules-extensionリポジトリでは、Dependabotからのプルリクエストをマージし、GitHub Actionsの`actions/checkout`をバージョンアップしましたね！これは、プロジェクトの依存関係を最新の状態に保ち、セキュリティや安定性を向上させるための大切なメンテナンス作業です。常に最新の状態を保つ努力、素晴らしいです✨
+jules-extensionでは、DependabotからのGitHub Actions関連のプルリクエストをマージし、環境の安定性やセキュリティ向上に貢献されましたね。ビルドプロセスやCI/CDの基盤となる部分の更新は、プロジェクト全体の健全な運営に不可欠な地道ながらも大切な作業です。
 
-地道な更新作業も、プロダクトの健全性を保つ上で非常に重要です。これからも素敵な開発を応援しています！💪
+日々のこのような取り組みが、プロジェクト全体の品質向上と安定稼働に繋がっています。素晴らしいですね！これからも頑張ってくださいね！🚀
 
-_Total: 2 commits across 2 projects_
+_Total: 1 commits across 1 projects_
 
 <table>
   <tr>
@@ -41,20 +41,9 @@ _Total: 2 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 1 commits (50.0%)</sub>
+      <sub>📊 1 commits (100.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/jules-extension" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/jules-extension" alt="jules-extension" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
-      <br />
-      <sub>📊 1 commits (50.0%)</sub>
-      <br />
-      <sub>🔷 TypeScript ⭐ 4</sub>
     </td>
   </tr>
 </table>
