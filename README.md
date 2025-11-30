@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy skies today☁️
-📍 New York: 4°C
+# 🌍 おはようございます！素敵な晴れ日ですね☀️
+📍 Kyoto: 12°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
