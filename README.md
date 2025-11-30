@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Sapporo: 3°C
+# 🌍 Hello! Cloudy skies today☁️
+📍 New York: 4°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
