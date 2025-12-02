@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはようございます！曇り空のようですね☁️
-📍 Kyoto: 12°C
+# 🌍 Hello! Snowy weather❄️
+📍 Toronto: 0°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,21 +24,20 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-お疲れ様です！直近3日間で、あなたは合計17件もの素晴らしいコミットを達成しましたね！👏
+直近3日間で、合計17件ものコミットをありがとうございます！素晴らしい活動量ですね！🚀
 
-**Audicle** リポジトリを中心に、多岐にわたる活動が見られます。
+**Audicle** リポジトリでの活躍が目覚ましいです✨
+まずは大規模な依存関係の更新から、`npm-dependencies` グループを25件も一気にアップデート！(`Merge pull request #386`) アクション周りの依存関係も更新され (`Merge pull request #385`)、システムの健全性がさらに向上しましたね。
 
-まず、**Audicle** ではプロジェクトの安定性とセキュリティを保つための大規模なメンテナンスが行われました。npm-dependenciesグループの更新など、多数の依存関係を最新化。🔗 GitHub Actionsの依存関係もバッチリ更新され、開発環境が常に最新に保たれていますね！
+そして、品質向上への取り組みが本当にすごいです！Codecovを導入し (`Merge pull request #363`)、Vercel版のカバレッジ閾値を適正値に引き上げ (`Merge pull request #378`)。`useDownload`や`urlBuilder`のテストを追加したり (`Merge pull request #365`)、CIのテストカバレッジ問題を修正したり (`Merge pull request #366`) と、安定性へのこだわりを感じます！💪
 
-次に、品質向上へのコミットが顕著です。**Audicle** ではCodecovの導入とVercel版カバレッジ閾値の適正化で、テストカバレッジが明確に。CIのテストカバレッジ問題修正、`useDownload`や`urlBuilder`のテスト追加、さらにはテストに音声再生機能を追加するなど、徹底的なテスト環境の強化が進んでいます。✅
+Vercel環境関連では、テスト用Supabaseプロジェクトの設定 (`Merge pull request #367`) や、カラーオプションの未反映 (`Merge pull request #372`, `#373`)、さらには自動再生オプションの追加 (`Merge pull request #379`) など、細かい改善もバッチリですね。
 
-Vercel環境の整備もバッチリです。**Audicle** ではVercelテスト用Supabaseプロジェクト設定やカラーオプション未反映の修正。さらに「何も押さずに勝手に再生が始まる」問題を解決するため、自動再生オプション追加でUX向上にも貢献しています。🎨
+また、記事の引用タグパースエラー修正 (`Merge pull request #375`, `#368`) や、テストでの記事読み上げ実装 (`Merge pull request #370`) といった、ユーザー体験に直結する機能改善にも精力的に取り組んでくださり、本当にありがとうございます！
 
-また、引用タグや段落のパースエラー修正を通じて、コンテンツ表示の正確性を高める努力も素晴らしいです。
+これだけ多岐にわたる重要な改善を短期間でこなされたのは素晴らしい成果です！この調子で、これからもどんどん良いものを作っていきましょう！🎉
 
-これだけ幅広い領域で重要な改善と機能追加を進められたのは、本当に素晴らしい成果です！🚀 今後のAudicleの進化がますます楽しみですね！
-
-_Total: 71 commits across 2 projects_
+_Total: 67 commits across 2 projects_
 
 <table>
   <tr>
@@ -49,7 +48,7 @@ _Total: 71 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 71 commits (100.0%)</sub>
+      <sub>📊 67 commits (100.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
