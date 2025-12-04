@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Bit cloudy today☁️
-📍 Sydney: 23°C
+# 🌍 ¡Hola! Día soleado☀️
+📍 Buenos Aires: 24°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,13 +24,15 @@
 ### 🤖 gemini2.5flashによる直近3日の活動サマリー
 
 直近3日間の活動サマリー:
-直近3日間で合計3件のコミット、お疲れ様でした！✨ 主にAudicleリポジトリでのシステム基盤の安定化と改善に貢献されましたね。
+直近3日間で、あなたは3件のコミットを行いました！素晴らしいペースですね✨ 主にAudicleリポジトリの安定性向上と品質維持に大きく貢献してくださっています。
 
-Audicleでは、まず大量のnpm依存関係（25件！）を一気にアップデートし、WebアプリケーションのVercel版の最新化とセキュリティ向上に大きく貢献されました。これはシステムを最新に保つ上で非常に大切な作業ですね！👏 さらに、Vercel版のCodecovカバレッジ閾値を適正値に引き上げることで、継続的なコード品質維持にも配慮されています。また、GitHub Actionsの依存関係も4件更新され、CI/CDパイプラインも常に最新の状態に保たれていますね。💪
+**Audicle**では、まず大量のnpm依存関係を最新にアップデートする大規模な作業がありましたね。Vercel版のWebアプリの安定性とセキュリティを確保するための重要な更新、お疲れ様でした！また、**Audicle**のGitHub Actionsの依存関係もきちんと整理し、開発環境の維持にも力を入れていただきました。
 
-これらは目立たないながらも、プロジェクトの健全な運用には欠かせない大切なメンテナンス作業ばかりです。地道な努力を通じてAudicleの安定稼働を支えていただき、本当にありがとうございます！今後も素晴らしいご活躍を期待しています！🚀
+さらに、**Audicle**のVercel版のCodecovカバレッジ閾値を適正値に引き上げることで、コード品質のさらなる向上にも努めていますね。これらの取り組みは、プロダクト全体の信頼性を高める上で非常に価値があります。
 
-_Total: 10 commits across 2 projects_
+地道ながらも、システムを堅牢に保つための素晴らしい活動、本当にありがとうございます！これからも期待しています🚀
+
+_Total: 8 commits across 2 projects_
 
 <table>
   <tr>
@@ -41,7 +43,7 @@ _Total: 10 commits across 2 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 10 commits (100.0%)</sub>
+      <sub>📊 8 commits (100.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
