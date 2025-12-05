@@ -11,7 +11,7 @@
  * - README生成時のタイトル表示
  */
 
-export const COMMIT_DAYS_RANGE = 3; // コミット履歴用
+export const COMMIT_DAYS_RANGE = 30; // コミット履歴用
 export const GRAPH_DAYS_RANGE = 30; // グラフ用
 
 // 後方互換性のために残す（将来的に削除）
