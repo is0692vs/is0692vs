@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia chuvoso☔
-📍 Lisbon: 18°C
+# 🌍 G'day! Bit cloudy today☁️
+📍 Sydney: 27°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
