@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
 # 🌍 G'day! Bit cloudy today☁️
-📍 Sydney: 27°C
+📍 Sydney: 29°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -13,20 +13,28 @@
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
-📦 **[pr-cannon](https://github.com/is0692vs/pr-cannon)**: 664 total downloads
+📦 **[pr-cannon](https://github.com/is0692vs/pr-cannon)**: 667 total downloads
 
-![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%2C%222025-11-11%22%2C%222025-11-12%22%2C%222025-11-13%22%2C%222025-11-14%22%2C%222025-11-15%22%2C%222025-11-16%22%2C%222025-11-17%22%2C%222025-11-18%22%2C%222025-11-19%22%2C%222025-11-20%22%2C%222025-11-21%22%2C%222025-11-22%22%2C%222025-11-23%22%2C%222025-11-24%22%2C%222025-11-25%22%2C%222025-11-26%22%2C%222025-11-27%22%2C%222025-11-28%22%2C%222025-11-29%22%2C%222025-11-30%22%2C%222025-12-01%22%2C%222025-12-02%22%2C%222025-12-03%22%2C%222025-12-04%22%2C%222025-12-05%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B641%2C643%2C643%2C649%2C649%2C649%2C649%2C649%2C652%2C652%2C652%2C652%2C652%2C652%2C652%2C652%2C652%2C652%2C658%2C658%2C664%2C664%2C664%2C664%2C664%2C664%2C664%2C664%2C664%2C664%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-11-06%22%2C%222025-11-07%22%2C%222025-11-08%22%2C%222025-11-09%22%2C%222025-11-10%22%2C%222025-11-11%22%2C%222025-11-12%22%2C%222025-11-13%22%2C%222025-11-14%22%2C%222025-11-15%22%2C%222025-11-16%22%2C%222025-11-17%22%2C%222025-11-18%22%2C%222025-11-19%22%2C%222025-11-20%22%2C%222025-11-21%22%2C%222025-11-22%22%2C%222025-11-23%22%2C%222025-11-24%22%2C%222025-11-25%22%2C%222025-11-26%22%2C%222025-11-27%22%2C%222025-11-28%22%2C%222025-11-29%22%2C%222025-11-30%22%2C%222025-12-01%22%2C%222025-12-02%22%2C%222025-12-03%22%2C%222025-12-04%22%2C%222025-12-05%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B641%2C643%2C643%2C649%2C649%2C649%2C649%2C649%2C652%2C652%2C652%2C652%2C652%2C652%2C652%2C652%2C652%2C652%2C658%2C658%2C664%2C664%2C664%2C664%2C664%2C664%2C664%2C664%2C664%2C667%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- stats:end -->
 
 <!-- active-projects:start -->
-## 🔨 Active Projects (Last 3 Days)
+## 🔨 Active Projects (Last 30 Days)
 
-### 🤖 gemini2.5flashによる直近3日の活動サマリー
+### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
-直近3日間の活動サマリー:
-直近3日間、開発は行われていないようです。次の開発に向けて準備を整えましょう！🚀
+直近30日間の活動サマリー:
+直近30日間で229件ものコミット、素晴らしいペースですね！👏
 
-_Total: 1 commits across 1 projects_
+**jules-extension**では、Geminiを活用したレビュー自動転記ワークフローを導入し、大幅なUX向上やパフォーマンス最適化を実現しましたね。GitHub連携機能も拡充し、開発効率が大きく向上したことでしょう！✨
+
+また、**Audicle**では、依存関係の更新に加え、プレイリストのソート機能拡張やカラーテーマオプション追加でユーザー体験を向上。Codecov導入で品質向上にも貢献し、Google Cloud TTS APIのエラーハンドリングも素晴らしいです！🚀
+
+**otodoki2**では、Geminiワークフローの更なる強化やGitHub Actionsの最適化を進め、開発基盤を着実に強化されていますね！🛠️
+
+全体的に、多岐にわたるプロジェクトで新機能開発から品質改善、開発基盤の最適化まで幅広く貢献されており、その努力と成果に感服しました。今後の活躍も楽しみにしています！これからも一緒に頑張りましょう！😊
+
+_Total: 1272 commits across 8 projects_
 
 <table>
   <tr>
@@ -37,9 +45,31 @@ _Total: 1 commits across 1 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 1 commits (100.0%)</sub>
+      <sub>📊 1079 commits (84.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/is0692vs/jules-extension" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/jules-extension" alt="jules-extension" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
+      <br />
+      <sub>📊 175 commits (13.8%)</sub>
+      <br />
+      <sub>🔷 TypeScript ⭐ 4</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/is0692vs/otodoki2" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/otodoki2" alt="otodoki2" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/is0692vs/otodoki2" target="_blank">otodoki2</a></strong></sub>
+      <br />
+      <sub>📊 8 commits (0.6%)</sub>
+      <br />
+      <sub>🔷 TypeScript </sub>
     </td>
   </tr>
 </table>
