@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Buenos Aires: 22°C
+# 🌍 안녕하세요! 비가 오는 날이네요☔
+📍 Seoul: 8°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,17 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと229件ものコミット、お疲れ様です！👏 素晴らしい生産性ですね！
+直近30日間で229件ものコミット、素晴らしいですね！精力的な活動、お疲れ様です💪
 
-**Audicle** では、依存関係の更新に加え、プレイリストのソートオプション拡張やSupabase設定を進められました。CONTRIBUTING.mdの英語翻訳で国際化に貢献し、Codecov導入やカバレッジ閾値調整で品質向上に尽力。Google Cloud TTS APIのエラーハンドリング、カラーテーマオプション追加、再生エラー解消もユーザー体験を大きく向上させていますね！✨
+特に**jules-extension**では、Geminiレビュー・フィードバックワークフローへの改善や、ユーザー体験を向上させるFeature Xの実装、GitHub PAT管理、リモートブランチ作成機能追加と多岐にわたる新機能開発を進められましたね！ローカル専用ブランチの自動プッシュやGitHubサインイン連携もスムーズな開発を後押ししています。
 
-**jules-extension** では、Geminiを活用したレビュー自動転記やフィードバックワークフロー、バルクトリアージ機能を導入し、開発プロセスを効率化。GitHub Personal Access Token管理、リモートブランチ作成、サインイン機能、ローカルブランチ自動プッシュなど、強力なGitHub連携機能の追加にも尽力されましたね。ユーザーエクスペリエンス向上とパフォーマンス最適化も素晴らしいです！🚀
+**Audicle**では、依存関係の定期的な更新に加え、プレイリストのソートオプション拡張、Codecov導入によるコード品質向上、Vercel版のカバレッジ閾値調整、そしてGoogle Cloud TTS APIのエラーハンドリング強化など、安定性と機能拡張の両面で貢献されています。カラーテーマ追加や音声再生エラー解消もユーザー体験向上に繋がりますね🎨
 
-**otodoki2** では、依存関係の更新とともに、Geminiワークフローをさらに強化し、言語サポートやGCP連携、バルクトリアージ機能を盛り込まれました。GitHub Actionsのワークフロー最適化とGEMINI APIキー使用の簡素化で、CI/CDもスムーズに！👍
+**otodoki2**では、依存関係の更新はもちろんのこと、GitHub ActionsとGeminiワークフローの最適化・強化に注力されました。新しいバルクトリアージ機能の追加やAPIキーの利用簡素化は、開発効率を大きく改善したことでしょう。
 
-多岐にわたるプロジェクトで、新機能開発から品質改善、ワークフローの最適化まで、本当に素晴らしい活動内容です！今後のさらなる活躍も期待しています！😊
+たくさんの成果、本当にお見事です！これからも素晴らしい開発を期待しています✨
 
-_Total: 1209 commits across 8 projects_
+_Total: 1180 commits across 8 projects_
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ _Total: 1209 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 1017 commits (84.1%)</sub>
+      <sub>📊 988 commits (83.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -56,7 +56,7 @@ _Total: 1209 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 175 commits (14.5%)</sub>
+      <sub>📊 175 commits (14.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 5</sub>
     </td>
