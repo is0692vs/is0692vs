@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Barcelona: 16°C
+# 🌍 おはようございます！曇り空のようですね☁️
+📍 Kyoto: 10°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,17 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で234件ものコミット、お疲れ様です！素晴らしい活動量ですね👏
+直近30日間で234件ものコミット、素晴らしい活躍ぶりですね！お疲れ様です！
 
-**Audicle**では、依存関係のアップデートやプレイリストのソートオプション拡張、カラーテーマの追加など、機能改善とユーザー体験の向上に尽力されましたね！さらに、Codecov導入によるテストカバレッジの強化や、Google Cloud TTS APIのエラーハンドリング、ドキュメント整備も進められました。
+特に、
+- **Audicle** では、多数の依存関係アップデートに対応し、プレイリストのソートオプション拡張、Media Session APIによるバックグラウンド再生機能の追加、Google Cloud TTS APIのエラーハンドリング強化、そしてCodecov導入で品質向上にも大きく貢献されましたね！🎨
+- **jules-extension** では、Geminiを活用したレビュー自動転記ワークフローの導入、ユーザー体験向上を目指したFeature X開発、GitHub Personal Access Token管理やブランチ自動プッシュ機能の追加など、開発効率と利便性を高める素晴らしい改善が目立ちます！🚀
+- **otodoki2** では、Geminiワークフローのさらなる強化やGitHub Actionsの最適化を通じて、開発プロセスがよりスムーズになったことでしょう！🌟
+- **settlemate** では、Next.jsのバージョンアップを確実に実施し、プロジェクトの安定性と最新技術への対応をしっかりと進められました！
 
-**jules-extension**では、Geminiを使ったレビュー・フィードバックワークフローへの刷新や新機能Xの実装、GitHubのPAT管理やリモートブランチ作成、自動プッシュなど、開発効率を大きく向上させる機能が次々と追加されています✨
+多岐にわたるプロジェクトで、新機能開発から品質向上、開発効率の改善まで、目覚ましい成果を上げていますね。この調子でこれからも素晴らしい開発を続けてください！応援しています！🎉
 
-**otodoki2**でも、依存関係のアップデートに加え、Geminiワークフローの強化やGitHub Actionsの最適化・APIキーの簡素化が行われ、プロジェクト全体の自動化が進んでいますね。
-
-**settlemate**では、Next.jsのバージョンアップを実施し、最新環境への追従もバッチリです。
-
-多岐にわたるプロジェクトで、新機能開発からインフラ・ドキュメント整備まで、本当に幅広い貢献をされています。これからもその素晴らしいペースで、さらなるプロダクトの進化を楽しみにしています！🚀
-
-_Total: 1161 commits across 8 projects_
+_Total: 1134 commits across 8 projects_
 
 <table>
   <tr>
@@ -47,7 +45,7 @@ _Total: 1161 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 959 commits (82.6%)</sub>
+      <sub>📊 932 commits (82.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -58,7 +56,7 @@ _Total: 1161 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 177 commits (15.2%)</sub>
+      <sub>📊 177 commits (15.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 5</sub>
     </td>
