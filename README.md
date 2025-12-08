@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Madrid: 11°C
+# 🌍 你好！晴天真美☀️
+📍 Beijing: 3°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,21 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと229件ものコミット、本当にお疲れ様でした！素晴らしい活動量ですね！🙌
+直近30日間で234件ものコミット、素晴らしい活躍ぶりですね！お疲れ様です！👏
 
-*Audicle*では、大量の依存関係更新でプロジェクトの基盤をしっかり固めつつ、プレイリストのソートオプション拡張やカラーテーマ追加でユーザー体験を向上させていますね。さらに、Codecov導入による品質管理強化や、Google Cloud TTS APIのエラーハンドリング、ブラウザ自動再生エラーの解消まで、多角的にプロジェクトの改善を進めています✨
+各プロジェクトで多岐にわたる開発と改善に取り組んでいますね。
 
-*jules-extension*では、Geminiを活用したレビュー自動転記やバルクトリアージ機能で、開発ワークフローを大きく進化させています。GitHub連携機能も強化され、PAT管理やリモートブランチ作成、自動プッシュなど、開発者の生産性を高める新機能が盛りだくさんですね！🚀 feature Xの実装も非常に楽しみです。
+特に**Audicle**では、多くの依存関係アップデートや機能改善が見られました。プレイリストのソートオプション拡張、Supabase設定、Codecov導入とカバレッジ閾値の調整、Google Cloud TTS APIのエラーハンドリング、そしてVercel版のカラーテーマオプション追加など、幅広い機能強化と品質向上に貢献されています。ドキュメントの更新もバッチリです！📚🎨
 
-*otodoki2*では、依存関係の定期的な更新に加え、Geminiワークフローの強化とGitHub Actionsの最適化を通じて、開発プロセス全体の効率化に貢献していますね！⚙️
+**jules-extension**では、Geminiを活用したレビュー自動転記ワークフローへの置き換えや、ユーザー体験向上のための新機能開発、GitHub関連機能（PAT管理、リモートブランチ作成、サインイン）の実装が目立ちます。精力的に開発を進めていますね！🚀
 
-どのプロジェクトでも、革新的な機能追加から堅実な基盤改善まで、多岐にわたる活躍が見られます。今後のさらなる飛躍も期待しています！😊
+**otodoki2**では、Geminiワークフローの強化とGitHub Actionsの最適化に注力し、APIキーの利用簡素化など、開発効率アップに貢献していますね。📦🤖
 
-_Total: 1126 commits across 8 projects_
+また、**settlemate**でもNext.jsのバージョンアップデートを実施し、常に最新の環境を保つ努力が見られます。
+
+これだけのコミット数と貢献内容、本当に素晴らしいです！これからもその勢いで、より良いプロダクトを開発していきましょう！🎉
+
+_Total: 1158 commits across 8 projects_
 
 <table>
   <tr>
@@ -45,7 +49,7 @@ _Total: 1126 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 934 commits (82.9%)</sub>
+      <sub>📊 956 commits (82.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -56,16 +60,16 @@ _Total: 1126 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 175 commits (15.5%)</sub>
+      <sub>📊 177 commits (15.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 5</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/otodoki2" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/otodoki2" alt="otodoki2" width="100%" />
+      <a href="https://github.com/is0692vs/settlemate" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/settlemate" alt="settlemate" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/is0692vs/otodoki2" target="_blank">otodoki2</a></strong></sub>
+      <sub><strong><a href="https://github.com/is0692vs/settlemate" target="_blank">settlemate</a></strong></sub>
       <br />
       <sub>📊 8 commits (0.7%)</sub>
       <br />
