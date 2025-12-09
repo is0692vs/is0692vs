@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！今日は曇り空ですね☁️
-📍 Tokyo: 9°C
+# 🌍 こんにちは！くもってますね☁️
+📍 Fukuoka: 6°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,9 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間でなんと234件ものコミット、素晴らしい開発ペースですね！🎉
+直近30日間で234件ものコミット、お疲れ様です！👏 Merge pull request #386 from is0692vs/dependabot/npm_and_yarn/packages/web-app-vercel/npm-dependencies-6b3086b17f、Merge pull request #183 from is0692vs/レビュー自動転記actions、Implement feature X to enhance user experience and optimize performanceなど、多くの作業を進められました。合計30089行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-特に[Audicle]では、大規模な依存関係のアップデートに加え、プレイリストのソートオプション拡張、バックグラウンド再生対応、カラーテーマ追加といったユーザー体験を向上させる新機能開発が目立ちます。Codecov導入による品質向上、Google Cloud TTS API連携のエラーハンドリング強化、CONTRIBUTING.mdの英語翻訳やプロジェクトドキュメント更新など、機能面・保守面・国際化まで多岐にわたる改善を進めましたね！
-
-[jules-extension]では、AIを活用したGeminiレビューとフィードバックの自動転記ワークフローを導入し、開発プロセスを大きく効率化しました。ユーザー体験やパフォーマンスを向上させる新機能の実装に加え、GitHub Personal Access Token管理やローカルブランチの自動プッシュ機能も追加され、開発体験がより一層スムーズになったことでしょう。
-
-[otodoki2]でも、依存関係の更新に加え、Geminiワークフローの強化やGitHub Actionsの最適化、APIキー管理の簡素化に取り組みましたね。効率化への意識の高さがうかがえます。
-
-また、[settlemate]ではNext.jsのバージョンアップを行い、最新の環境への追従も抜かりないですね。
-
-全体的に、新機能開発、品質向上、開発ワークフローの効率化、最新技術への対応と、あらゆる面でプロジェクトを前進させる活動が活発に行われています。この勢いで、これからも素晴らしいプロダクトを世に送り出してください！🚀✨
-
-_Total: 1117 commits across 8 projects_
+_Total: 1122 commits across 8 projects_
 
 <table>
   <tr>
@@ -47,7 +37,7 @@ _Total: 1117 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 898 commits (80.4%)</sub>
+      <sub>📊 898 commits (80.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -58,7 +48,7 @@ _Total: 1117 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 194 commits (17.4%)</sub>
+      <sub>📊 199 commits (17.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 5</sub>
     </td>
