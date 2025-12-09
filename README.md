@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia chuvoso☔
-📍 Lisbon: 16°C
+# 🌍 Hallo! Es regnet☔
+📍 Berlin: 12°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,18 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**234件**ものコミット、大変お疲れ様でした！素晴らしい活動量に感動です👏
+直近30日間で234ものコミット、素晴らしい活躍でしたね！🚀
+様々なプロジェクトで精力的に活動し、多くの改善と新機能開発に貢献されました。
 
-**Audicle**では、広範な依存関係の更新、バックグラウンド再生やカラーテーマ対応などの新機能、Codecov導入による品質向上、Google Cloud TTS API改善、ドキュメント整備と多岐にわたる改善を精力的に進められましたね！🌟
+特に、
+*   **Audicle** では、依存関係の更新、プレイリストソートオプション拡張、バックグラウンド再生サポート、カラーテーマ追加といったユーザー体験向上に直結する新機能開発に加え、Codecov導入やGoogle Cloud TTS APIのエラーハンドリング強化、ドキュメント整備など、品質と安定性向上にも大きく貢献しましたね！✨
+*   **jules-extension** では、Geminiを活用したレビュー自動転記ワークフローの導入や、ユーザーエクスペリエンス・パフォーマンスの最適化、GitHub PAT管理機能追加、ローカルブランチの自動プッシュといった開発効率を高める機能に注力しました。💡
+*   **otodoki2** でも、Geminiワークフローの強化とGitHub Actionsの最適化、APIキーの簡素化を進め、開発プロセスをよりスムーズにしましたね。🛠️
+*   **settlemate** では、Next.jsのバージョンアップを行い、基盤の安定化に貢献されました。
 
-**jules-extension**では、Geminiを活用したレビュー自動転記・フィードバックワークフロー導入、UX・パフォーマンス向上のための新機能開発、GitHub連携強化など、開発フローの効率化と機能拡張に大きく貢献されました！🚀
+新機能開発からインフラ・CI/CD改善、そしてドキュメント整備まで、広範囲にわたるコミットでプロジェクトの成長を強力に推進しています。今後のさらなるご活躍も楽しみにしています！🎉
 
-**otodoki2**では、Geminiワークフローの強化やGitHub Actionsの最適化により、開発体験とシステム連携を向上させましたね！💡
-
-**settlemate**では、Next.jsのバージョンアップで基盤の強化もバッチリです！🏗️
-
-全体を通して、システム基盤の堅牢化から新機能開発、そして開発プロセス自動化まで、多岐にわたる素晴らしい成果を上げられました。この調子でこれからも頑張ってください！🎉
-
-_Total: 1114 commits across 8 projects_
+_Total: 1117 commits across 8 projects_
 
 <table>
   <tr>
@@ -47,7 +46,7 @@ _Total: 1114 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 898 commits (80.6%)</sub>
+      <sub>📊 898 commits (80.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -58,7 +57,7 @@ _Total: 1114 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 191 commits (17.1%)</sub>
+      <sub>📊 194 commits (17.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 5</sub>
     </td>
