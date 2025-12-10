@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Buenos Aires: 28°C
+# 🌍 G'day! Rainy weather☔
+📍 Sydney: 20°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,7 +24,17 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で235件ものコミット、お疲れ様です！👏 Merge pull request #386 from is0692vs/dependabot/npm_and_yarn/packages/web-app-vercel/npm-dependencies-6b3086b17f、Merge pull request #183 from is0692vs/レビュー自動転記actions、Implement feature X to enhance user experience and optimize performanceなど、多くの作業を進められました。合計30075行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間でなんと235ものコミット、お疲れ様です！素晴らしい活動量ですね👏
+
+**Audicle**では、依存関係のアップデートやVercel関連のインフラ整備に加え、プレイリストのソートオプション拡張、バックグラウンド再生サポート、カラーテーマ追加といったユーザー体験向上のための機能開発が目立ちます。Codecovの導入やGoogle Cloud TTS APIのエラーハンドリングなど、品質向上にも精力的に取り組んでいますね！
+
+**jules-extension**では、Gemini連携のレビュー・フィードバックワークフローへの刷新や、ユーザー体験とパフォーマンスを向上させる新機能の実装、GitHubサインイン機能の追加など、意欲的な開発が続いています！
+
+**otodoki2**でも、Geminiワークフローの強化やGitHub Actionsの最適化を通じて、開発効率と機能性を高めているのが素晴らしいです。依存関係の更新も忘れずに行っていますね。
+
+**settlemate**では、Next.jsのバージョンアップで基盤を最新に保つ努力が見られます。
+
+様々なプロジェクトで多岐にわたる活躍、本当に素晴らしいです。この調子でこれからも頑張ってください！🎉
 
 _Total: 1121 commits across 8 projects_
 
