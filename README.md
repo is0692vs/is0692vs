@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy skies today☁️
-📍 New York: 2°C
+# 🌍 ¡Hola! Día soleado☀️
+📍 Buenos Aires: 28°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,9 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で234件ものコミット、お疲れ様です！👏 Merge pull request #386 from is0692vs/dependabot/npm_and_yarn/packages/web-app-vercel/npm-dependencies-6b3086b17f、Merge pull request #183 from is0692vs/レビュー自動転記actions、Implement feature X to enhance user experience and optimize performanceなど、多くの作業を進められました。合計30075行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で235件ものコミット、お疲れ様です！👏 Merge pull request #386 from is0692vs/dependabot/npm_and_yarn/packages/web-app-vercel/npm-dependencies-6b3086b17f、Merge pull request #183 from is0692vs/レビュー自動転記actions、Implement feature X to enhance user experience and optimize performanceなど、多くの作業を進められました。合計30075行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-_Total: 1120 commits across 8 projects_
+_Total: 1121 commits across 8 projects_
 
 <table>
   <tr>
@@ -37,7 +37,7 @@ _Total: 1120 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 895 commits (79.9%)</sub>
+      <sub>📊 895 commits (79.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -48,18 +48,18 @@ _Total: 1120 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 200 commits (17.9%)</sub>
+      <sub>📊 200 commits (17.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 5</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/settlemate" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/settlemate" alt="settlemate" width="100%" />
+      <a href="https://github.com/is0692vs/otodoki2" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/is0692vs/otodoki2" alt="otodoki2" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/is0692vs/settlemate" target="_blank">settlemate</a></strong></sub>
+      <sub><strong><a href="https://github.com/is0692vs/otodoki2" target="_blank">otodoki2</a></strong></sub>
       <br />
-      <sub>📊 8 commits (0.7%)</sub>
+      <sub>📊 9 commits (0.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
