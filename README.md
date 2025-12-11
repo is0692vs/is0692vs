@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rather cloudy today☁️
-📍 London: 10°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Lyon: 6°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
