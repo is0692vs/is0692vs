@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
 # 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Paris: 6°C
+📍 Paris: 7°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,9 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-お疲れ様です！この30日間で**246件**ものコミット、素晴らしい集中力と生産性ですね！👏✨
+直近30日間で246件ものコミット、お疲れ様です！👏 Initial commit from Create Next App、Merge pull request #386 from is0692vs/dependabot/npm_and_yarn/packages/web-app-vercel/npm-dependencies-6b3086b17f、Merge pull request #183 from is0692vs/レビュー自動転記actionsなど、多くの作業を進められました。合計39178行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-特に、**otodoki3**では新規プロジェクトの立ち上げから初期設定まで、精力的に開発を進め、新しいプロダクトの基盤をしっかりと築かれましたね！🚀
-
-**jules-extension**では、Geminiを活用したレビュー・フィードバックワークフローへの刷新や、UX・パフォーマンスを向上させる新機能の実装に尽力され、ユーザー体験向上に大きく貢献されています！🌟
-
-**Audicle**では、依存関係のアップデートやプレイリストのソート機能拡張、バックグラウンド再生対応など、多岐にわたる機能改善が行われました。Codecov導入やGoogle Cloud TTS APIのエラーハンドリング、そして重要なドキュメント整備も素晴らしいですね。📝
-
-**otodoki2**では、Geminiワークフローの強化やGitHub Actionsの最適化、依存関係のアップデートを通じて、開発効率の向上と安定化に貢献されています。また、**settlemate**ではNext.jsのバージョンアップを実施し、常に最新の環境を追求されていますね！
-
-この活発な活動の積み重ねが、プロジェクト全体の品質向上と未来の進化に繋がっています。今後のさらなる活躍も期待しています！😊
-
-_Total: 970 commits across 9 projects_
+_Total: 936 commits across 9 projects_
 
 <table>
   <tr>
@@ -47,7 +37,7 @@ _Total: 970 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 672 commits (69.3%)</sub>
+      <sub>📊 634 commits (67.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -58,7 +48,7 @@ _Total: 970 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 261 commits (26.9%)</sub>
+      <sub>📊 265 commits (28.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 5</sub>
     </td>
@@ -69,7 +59,7 @@ _Total: 970 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 11 commits (1.1%)</sub>
+      <sub>📊 11 commits (1.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
