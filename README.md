@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！いい天気だね☀️
-📍 Hiroshima: 5°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Lyon: 11°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,19 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で246件ものコミット、素晴らしい活躍ぶりですね！💪✨
-特に、複数のプロジェクトで大きな進展がありました。
+直近30日間でなんと246ものコミット、素晴らしい活躍でした！👏
 
-**otodoki3** では、新しいプロジェクトが華々しくスタート！初期コミットから大規模なコードベースが追加され、今後の発展が楽しみです。🎉
-**jules-extension** では、Geminiを活用したレビュー自動転記ワークフローを導入し、開発プロセスがよりスムーズに。さらに、ユーザー体験を向上させる新機能の実装も行われ、パフォーマンス最適化にも注力されましたね！🚀
-**Audicle** では、依存関係の定期的な更新に加え、プレイリストの機能拡張やバックグラウンド再生のサポートなど、ユーザー向けの機能改善が目立ちます。Codecovの導入やVercel設定など、品質管理やインフラ面でも大きく貢献されました！📖🔧
-**otodoki2** では、Geminiワークフローの強化やGitHub Actionsの最適化が進み、開発効率がさらにアップしましたね。**settlemate** では、Next.jsのバージョンアップで技術的な基盤を強化されました。
+特に目を引く活動は以下の通りです。
 
-この1ヶ月間、多岐にわたるプロジェクトで、新機能開発、品質向上、ワークフロー最適化と、本当に幅広い活躍を見せていただきました！今後のさらなるご活躍も期待しています！😊
+*   **otodoki3** では、Next.jsを使った新規プロジェクトを立ち上げ、大量のコードを追加されました！🚀
+*   **Audicle** では、依存関係のアップデートから、プレイリストのソート拡張、アクセシビリティ改善、バックグラウンド再生対応、Codecov導入、ドキュメント更新まで、幅広い改善と新機能開発に尽力されました！✨
+*   **jules-extension** では、Geminiレビューやフィードバックワークフローの導入、ユーザー体験とパフォーマンスを向上させる新機能の実装で、機能強化と生産性向上に貢献しました！💡
+*   **otodoki2** では、依存関係の更新やGeminiワークフローの強化、GitHub Actionsの最適化を通じて、開発効率とAI連携を深められましたね！🤖
+*   **settlemate** では、Next.jsのバージョンアップで、プロジェクトの基盤を最新に保つ重要な作業をされました！💪
 
-_Total: 939 commits across 9 projects_
+多岐にわたるプロジェクトで、新機能開発から品質向上、基盤のアップデートまで、本当に精力的に取り組んでいただきありがとうございます。今後のさらなるご活躍を期待しています！😊
+
+_Total: 945 commits across 9 projects_
 
 <table>
   <tr>
@@ -45,7 +47,7 @@ _Total: 939 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 630 commits (67.1%)</sub>
+      <sub>📊 632 commits (66.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -56,7 +58,7 @@ _Total: 939 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 272 commits (29.0%)</sub>
+      <sub>📊 276 commits (29.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 5</sub>
     </td>
