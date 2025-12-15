@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Lyon: 11°C
+# 🌍 안녕하세요! 오늘은 흐린 날씨네요☁️
+📍 Seoul: 2°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,21 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間でなんと246ものコミット、素晴らしい活躍でした！👏
+直近30日間で246件もの素晴らしいコミット、お疲れ様でした！👏多岐にわたる活動内容で、プロジェクトの成長に大きく貢献されていますね！
 
-特に目を引く活動は以下の通りです。
+特に、**Audicle**では、プレイリストのソート機能拡張やバックグラウンド再生サポート、ArticleCardのアクセシビリティ改善といった新機能開発から、依存関係の定期的な更新、Codecov導入による品質向上、そしてドキュメントの英語翻訳まで、非常に幅広く取り組まれました。🚀
 
-*   **otodoki3** では、Next.jsを使った新規プロジェクトを立ち上げ、大量のコードを追加されました！🚀
-*   **Audicle** では、依存関係のアップデートから、プレイリストのソート拡張、アクセシビリティ改善、バックグラウンド再生対応、Codecov導入、ドキュメント更新まで、幅広い改善と新機能開発に尽力されました！✨
-*   **jules-extension** では、Geminiレビューやフィードバックワークフローの導入、ユーザー体験とパフォーマンスを向上させる新機能の実装で、機能強化と生産性向上に貢献しました！💡
-*   **otodoki2** では、依存関係の更新やGeminiワークフローの強化、GitHub Actionsの最適化を通じて、開発効率とAI連携を深められましたね！🤖
-*   **settlemate** では、Next.jsのバージョンアップで、プロジェクトの基盤を最新に保つ重要な作業をされました！💪
+また、**otodoki3**では大規模な初回コミットが複数あり、新しいプロジェクトの立ち上げが順調に進んでいる様子が伺えます。素晴らしいスタートですね！🌟
 
-多岐にわたるプロジェクトで、新機能開発から品質向上、基盤のアップデートまで、本当に精力的に取り組んでいただきありがとうございます。今後のさらなるご活躍を期待しています！😊
+**jules-extension**では、Geminiを活用したレビュー自動転記ワークフローの導入や、ユーザー体験を向上させる新機能開発が進みましたね。AI連携の強化、流石です！🤖
 
-_Total: 945 commits across 9 projects_
+**otodoki2**でも、Geminiワークフローの強化と最適化、GitHub Actionsの改善、さらに依存関係の更新と、着実に開発が進んでいます。✨
+
+そして、**settlemate**ではNext.jsのバージョンアップを実施し、常に最新の技術を取り入れる姿勢が素晴らしいです。💡
+
+どのプロジェクトでも質の高い作業が行われており、日々の努力が形になっているのがよく分かります。この調子で、これからも開発を楽しんでいきましょう！💪
+
+_Total: 934 commits across 9 projects_
 
 <table>
   <tr>
@@ -47,7 +49,7 @@ _Total: 945 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 632 commits (66.9%)</sub>
+      <sub>📊 621 commits (66.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -58,7 +60,7 @@ _Total: 945 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 276 commits (29.2%)</sub>
+      <sub>📊 276 commits (29.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 5</sub>
     </td>
@@ -106,22 +108,11 @@ _Total: 945 commits across 9 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/6AGHSgBeirk7AHXWOM3vKp" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="Nothing." width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>Nothing.</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/0z6XUSiw6WTT8uZNWJwWcO" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b27342f80e91cb2fa0f4a7570d8f" alt="GiANT KiLLERS" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>GiANT KiLLERS</sub>
       <br />
@@ -132,9 +123,20 @@ _Total: 945 commits across 9 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="本当本気" width="120" />
       </a>
       <br />
-      <sub><strong>#5</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>本当本気</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/0vFaWaqU8AGed1slnaP1rn" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273f900b0bad230bc0dc085e387" alt="STAR" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>STAR</sub>
       <br />
       <sub>BiSH</sub>
     </td>
