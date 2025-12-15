@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！今日は曇り空ですね☁️
-📍 Osaka: 8°C
+# 🌍 Hello! Perfect sunny day☀️
+📍 Los Angeles: 17°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,17 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間でなんと246ものコミット、素晴らしい集中力と活動量ですね！🙌
+直近30日間で246件もの素晴らしいコミット、お疲れ様でした！✨ 多岐にわたるプロジェクトで活発な開発が進んでいますね。
 
-特に、[otodoki3]では新しいプロジェクトの立ち上げと初期設定を精力的に進められました。🚀 [jules-extension]では、新機能の実装に加え、Geminiを活用したレビュー自動化ワークフローを導入し、開発効率を大きく向上させましたね！✨
+特に注目すべきは、**Audicle**での活動です。依存関係の大規模なアップデートや、プレイリストのソート拡張、背景再生サポート追加でユーザー体験が向上しました。さらに、Codecov導入やTTS APIのエラーハンドリング強化、ドキュメントの英語翻訳など、品質向上と開発効率化への貢献も素晴らしいです！👏
 
-[Audicle]では、プレイリストのソート機能拡張やバックグラウンド再生サポートといったユーザー体験向上のための機能改善を進める傍ら、Codecov導入で品質向上にも貢献。さらに、依存関係のアップデートやドキュメント整備も抜かりなく行われています。👍
+**jules-extension**では、Geminiを活用したレビュー自動転記アクションを導入し、ワークフローを大きく改善。ユーザー体験を向上させる新機能Xの実装も進み、プロダクトの進化が楽しみです！🚀
 
-[otodoki2]では、GitHub ActionsとGeminiを活用したワークフローの最適化に注力し、開発プロセスをよりスムーズにされています。👏 また、[settlemate]を含む複数のプロジェクトで依存関係の更新も着実に行われており、最新の状態を保つ努力が見受けられます。
+**otodoki3**では、Next.jsでのInitial commitからプロジェクトが華々しくスタートを切りましたね。今後の展開に期待大です！
 
-多岐にわたるプロジェクトでの貢献、本当に素晴らしいです！この調子でこれからも頑張っていきましょう！💪
+また、**otodoki2**でも、Geminiワークフローを強化し、GitHub Actionsを最適化するなど、自動化と効率化に力を入れています。💪 **settlemate**でもNext.jsのバージョンアップを行い、最新技術への追従もバッチリです。
+
+これまでの努力がプロジェクトの成長に繋がっています。引き続き頑張りましょう！🌈
 
 _Total: 1008 commits across 9 projects_
 
@@ -82,24 +84,24 @@ _Total: 1008 commits across 9 projects_
 <table>
   <tr>
     <td align="center">
-      <a href="https://open.spotify.com/track/6AGHSgBeirk7AHXWOM3vKp" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="Nothing." width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>Nothing.</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/3tzKpLkhT5QiB9BJwGwZOS" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2736a7a4db44a33d9bc542513c2" alt="I am me." width="120" />
       </a>
       <br />
-      <sub><strong>#2</strong></sub>
+      <sub><strong>#1</strong></sub>
       <br />
       <sub>I am me.</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/6AGHSgBeirk7AHXWOM3vKp" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="Nothing." width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>Nothing.</sub>
       <br />
       <sub>BiSH</sub>
     </td>
