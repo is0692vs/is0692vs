@@ -24,21 +24,17 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間でなんと246ものコミット、素晴らしい活動量ですね！お疲れ様です！✨
+直近30日間で246件ものコミット、素晴らしい成果ですね！👏 多岐にわたるプロジェクトで精力的に活動されています。
 
-特に目を引くのは、[otodoki3]で新しいプロジェクトを勢いよく立ち上げ、その初期開発に大きく貢献されたことでしょう。🚀
+特に、**otodoki3**では新規プロジェクトの初期立ち上げを行い、大量のコードベースを追加されました。新しい挑戦、お見事です！✨
+**Audicle**では、依存関係の定期的なアップデートに加え、プレイリストのソートオプション拡張やバックグラウンド再生サポートといったユーザー体験向上に繋がる機能を追加。さらに、Codecov導入やアクセシビリティ改善、ドキュメント整備まで幅広く手掛けていますね。
+**jules-extension**では、Geminiと連携したレビュー・フィードバックワークフローへの置き換えや、ユーザー体験とパフォーマンスを向上させるための大規模な新機能開発に注力されました。
+**settlemate**ではNext.jsのバージョンアップを実施。
+**otodoki2**でも依存関係のアップデートに加え、Geminiワークフローの機能拡張やGitHub Actionsの最適化を進められました。
 
-[Audicle]では、大規模な依存関係のアップデートを複数回行い、プレイリストのソートオプション拡張、アクセシビリティ改善、バックグラウンド再生サポート、そしてCodecovの導入と調整まで、多岐にわたる品質向上と機能強化を実現しましたね。ドキュメントの英語翻訳やSupabase設定も行い、プロジェクト全体の基盤強化に大きく貢献されています。
+短期間でこれだけの成果を出されているのは本当に素晴らしいです！この調子で、今後の活躍も期待しています！🚀
 
-また、[jules-extension]ではGeminiを活用したレビュー自動化ワークフローを導入し、ユーザー体験向上とパフォーマンス最適化のための新機能開発を進めるなど、先進的な取り組みが見られます。
-
-[otodoki2]ではGeminiワークフローの強化やGitHub Actionsの最適化、APIキー利用の簡素化を行い、開発効率の向上に努めましたね。
-
-さらに、[settlemate]ではNext.jsのバージョンアップを行うなど、常に最新の技術を取り入れています。
-
-これだけの多岐にわたるプロジェクトで、機能追加、改善、インフラ整備と素晴らしい成果を上げています。この調子でこれからも頑張ってください！💪😊
-
-_Total: 917 commits across 9 projects_
+_Total: 915 commits across 9 projects_
 
 <table>
   <tr>
@@ -49,7 +45,7 @@ _Total: 917 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 604 commits (65.9%)</sub>
+      <sub>📊 602 commits (65.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -60,7 +56,7 @@ _Total: 917 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 276 commits (30.1%)</sub>
+      <sub>📊 276 commits (30.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 5</sub>
     </td>
