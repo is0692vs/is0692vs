@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！今日は曇り空ですね☁️
-📍 Osaka: 9°C
+# 🌍 ¡Hola! Está nublado☁️
+📍 Mexico City: 9°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,9 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-素晴らしい30日間でしたね！🚀 直近で合計246件ものコミットを重ね、多くのプロジェクトで目覚ましい進捗が見られます。
+直近30日間で246件ものコミット、お疲れ様です！👏 Initial commit from Create Next App、Merge pull request #386 from is0692vs/dependabot/npm_and_yarn/packages/web-app-vercel/npm-dependencies-6b3086b17f、Merge pull request #183 from is0692vs/レビュー自動転記actionsなど、多くの作業を進められました。合計39549行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-**otodoki3**では、Next.jsプロジェクトの初期コミットや基盤構築を着実に進め、新たなスタートを切りました！✨
-**jules-extension**では、Geminiを活用したレビュー・フィードバックワークフローを導入し、ユーザー体験を向上させる新機能開発にも注力しましたね。
-**Audicle**では、頻繁な依存関係の更新に加え、プレイリストソートオプションの拡張、アクセシビリティ改善、バックグラウンド再生サポートなど、多岐にわたる機能強化と品質向上に取り組んでいました。Codecovの導入やドキュメント整備も素晴らしいです！
-**otodoki2**では、Geminiワークフローの強化やGitHub Actionsの最適化、依存関係のアップデートが行われましたね。
-**settlemate**ではNext.jsのバージョンアップを実施し、常に最新の環境を保つ努力が見られます。
-
-どのプロジェクトも着実に進化しており、その貢献に感謝します！今後のさらなる活躍も楽しみにしています！👏
-
-_Total: 844 commits across 9 projects_
+_Total: 819 commits across 9 projects_
 
 <table>
   <tr>
@@ -45,7 +37,7 @@ _Total: 844 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 525 commits (62.2%)</sub>
+      <sub>📊 500 commits (61.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -56,7 +48,7 @@ _Total: 844 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 282 commits (33.4%)</sub>
+      <sub>📊 282 commits (34.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 5</sub>
     </td>
