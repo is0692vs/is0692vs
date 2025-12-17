@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Tropical rain shower☔
-📍 Miami: 25°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Paris: 9°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,17 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で244件ものコミット、大変お疲れ様でした！素晴らしい活動量ですね👏
+直近30日間でなんと244件ものコミット、素晴らしい活躍でした！🚀
 
-特に、**otodoki3**では新規プロジェクトの立ち上げに大きく貢献しました🚀 **Audicle**では、依存関係のアップデートやCodecov導入で開発基盤を強化しつつ、プレイリストのソート拡張、バックグラウンド再生対応、ArticleCardのアクセシビリティ向上など、ユーザー体験を高める多くの新機能・改善を実施。ドキュメント整備も抜かりありません✨
+特に注目すべきは、**otodoki3**プロジェクトの初期立ち上げですね。大量のコード追加から、新しい基盤をしっかりと築き上げてくれたことが分かります。
 
-**jules-extension**では、ユーザー体験向上を目指した新機能開発に加え、Gemini連携によるレビュー・フィードバックワークフローの効率化、セッション作成画面のバリデーション追加で品質向上に貢献しました👍
+**jules-extension**では、Geminiを活用したレビュー・フィードバックワークフローを導入し、開発プロセスを大きく進化させました。さらに、ユーザー体験を向上させる新機能開発や、セッション作成画面のインラインバリデーション追加など、多角的な改善が見られます✨。
 
-また、**otodoki2**ではGemini連携ワークフローの機能強化とGitHub Actionsの最適化、依存関係の更新を進め、**settlemate**でもNext.jsのバージョンアップに取り組むなど、多岐にわたるプロジェクトで精力的に活動しましたね！
+**Audicle**では、依存関係の更新やプレイリストのソートオプション拡張、アクセシビリティ改善、背景再生サポートの実装、ドキュメントの英語翻訳と更新、Codecov導入による品質向上など、本当に幅広いタスクに取り組まれましたね。プロジェクト全体の健全性を高める素晴らしい貢献です👏。
 
-この多様な貢献が、プロジェクト全体を大きく前進させています。今後のさらなる活躍も楽しみにしています！これからも頑張ってくださいね！😊
+**otodoki2**では、Geminiワークフローの強化とGitHub Actionsの最適化を進め、開発効率の向上に貢献。**settlemate**ではNext.jsのバージョンアップを行い、技術スタックの鮮度を保っていますね。
+
+各リポジトリで重要な進展があり、プロダクト全体に大きな価値をもたらしています。この調子でこれからも素晴らしい開発を期待しています！😊
 
 _Total: 697 commits across 8 projects_
 
@@ -82,35 +84,13 @@ _Total: 697 commits across 8 projects_
 <table>
   <tr>
     <td align="center">
-      <a href="https://open.spotify.com/track/3tzKpLkhT5QiB9BJwGwZOS" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736a7a4db44a33d9bc542513c2" alt="I am me." width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>I am me.</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/5mVt55yfKXh5bWfm6teGEV" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="本当本気" width="120" />
       </a>
       <br />
-      <sub><strong>#2</strong></sub>
+      <sub><strong>#1</strong></sub>
       <br />
       <sub>本当本気</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/0444pT4wWRm8EpJ4hDHbS7" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27342f80e91cb2fa0f4a7570d8f" alt="SMACK baby SMACK" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>SMACK baby SMACK</sub>
       <br />
       <sub>BiSH</sub>
     </td>
@@ -119,20 +99,42 @@ _Total: 697 commits across 8 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="SEE YOU" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#2</strong></sub>
       <br />
       <sub>SEE YOU</sub>
       <br />
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/0z6XUSiw6WTT8uZNWJwWcO" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27342f80e91cb2fa0f4a7570d8f" alt="GiANT KiLLERS" width="120" />
+      <a href="https://open.spotify.com/track/3tzKpLkhT5QiB9BJwGwZOS" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736a7a4db44a33d9bc542513c2" alt="I am me." width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>I am me.</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/0vFaWaqU8AGed1slnaP1rn" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273f900b0bad230bc0dc085e387" alt="STAR" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>STAR</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273781c530b2131180a1dd7ad30" alt="ZUTTO" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>GiANT KiLLERS</sub>
+      <sub>ZUTTO</sub>
       <br />
       <sub>BiSH</sub>
     </td>
