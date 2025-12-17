@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy weather today☁️
-📍 Los Angeles: 13°C
+# 🌍 Hello! Rainy day☔
+📍 San Francisco: 15°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -26,7 +26,7 @@
 直近30日間の活動サマリー:
 直近30日間で244件ものコミット、お疲れ様です！👏 Initial commit from Create Next App、Merge pull request #386 from is0692vs/dependabot/npm_and_yarn/packages/web-app-vercel/npm-dependencies-6b3086b17f、Merge pull request #183 from is0692vs/レビュー自動転記actionsなど、多くの作業を進められました。合計39577行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-_Total: 705 commits across 8 projects_
+_Total: 698 commits across 8 projects_
 
 <table>
   <tr>
@@ -37,7 +37,7 @@ _Total: 705 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 423 commits (60.0%)</sub>
+      <sub>📊 416 commits (59.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -48,7 +48,7 @@ _Total: 705 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 255 commits (36.2%)</sub>
+      <sub>📊 255 commits (36.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 5</sub>
     </td>
@@ -69,7 +69,65 @@ _Total: 705 commits across 8 projects_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
-🎵 My Top Tracks on Spotify (Recently):
+## 🎵 My Top Tracks on Spotify (Recently)
 
-_Error fetching tracks. Please try again later._
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/track/3tzKpLkhT5QiB9BJwGwZOS" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736a7a4db44a33d9bc542513c2" alt="I am me." width="120" />
+      </a>
+      <br />
+      <sub><strong>#1</strong></sub>
+      <br />
+      <sub>I am me.</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/5mVt55yfKXh5bWfm6teGEV" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="本当本気" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>本当本気</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/0444pT4wWRm8EpJ4hDHbS7" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27342f80e91cb2fa0f4a7570d8f" alt="SMACK baby SMACK" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>SMACK baby SMACK</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/7hpQwS6miuzzUcEx3zOFvt" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="SEE YOU" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>SEE YOU</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/0z6XUSiw6WTT8uZNWJwWcO" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27342f80e91cb2fa0f4a7570d8f" alt="GiANT KiLLERS" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>GiANT KiLLERS</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+  </tr>
+</table>
 <!-- spotify:end -->
