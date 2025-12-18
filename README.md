@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rainy day☔
-📍 London: 10°C
+# 🌍 おはよう！いい天気だね☀️
+📍 Hiroshima: 8°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 1,491 installs | ⭐ No ratings yet | v1.1.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 1,492 installs | ⭐ No ratings yet | v1.1.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 16 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-11-19%22%2C%222025-11-20%22%2C%222025-11-21%22%2C%222025-11-22%22%2C%222025-11-23%22%2C%222025-11-24%22%2C%222025-11-25%22%2C%222025-11-26%22%2C%222025-11-27%22%2C%222025-11-28%22%2C%222025-11-29%22%2C%222025-11-30%22%2C%222025-12-01%22%2C%222025-12-02%22%2C%222025-12-03%22%2C%222025-12-04%22%2C%222025-12-05%22%2C%222025-12-06%22%2C%222025-12-07%22%2C%222025-12-08%22%2C%222025-12-09%22%2C%222025-12-10%22%2C%222025-12-11%22%2C%222025-12-12%22%2C%222025-12-13%22%2C%222025-12-14%22%2C%222025-12-15%22%2C%222025-12-16%22%2C%222025-12-17%22%2C%222025-12-18%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B663%2C709%2C736%2C759%2C785%2C817%2C859%2C895%2C927%2C953%2C985%2C1002%2C1022%2C1049%2C1074%2C1107%2C1137%2C1158%2C1180%2C1219%2C1254%2C1265%2C1314%2C1356%2C1373%2C1404%2C1429%2C1455%2C1475%2C1491%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B12%2C12%2C12%2C12%2C13%2C14%2C14%2C14%2C14%2C14%2C14%2C14%2C14%2C14%2C14%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C16%2C16%2C16%2C16%2C16%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-11-19%22%2C%222025-11-20%22%2C%222025-11-21%22%2C%222025-11-22%22%2C%222025-11-23%22%2C%222025-11-24%22%2C%222025-11-25%22%2C%222025-11-26%22%2C%222025-11-27%22%2C%222025-11-28%22%2C%222025-11-29%22%2C%222025-11-30%22%2C%222025-12-01%22%2C%222025-12-02%22%2C%222025-12-03%22%2C%222025-12-04%22%2C%222025-12-05%22%2C%222025-12-06%22%2C%222025-12-07%22%2C%222025-12-08%22%2C%222025-12-09%22%2C%222025-12-10%22%2C%222025-12-11%22%2C%222025-12-12%22%2C%222025-12-13%22%2C%222025-12-14%22%2C%222025-12-15%22%2C%222025-12-16%22%2C%222025-12-17%22%2C%222025-12-18%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B663%2C709%2C736%2C759%2C785%2C817%2C859%2C895%2C927%2C953%2C985%2C1002%2C1022%2C1049%2C1074%2C1107%2C1137%2C1158%2C1180%2C1219%2C1254%2C1265%2C1314%2C1356%2C1373%2C1404%2C1429%2C1455%2C1475%2C1492%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B12%2C12%2C12%2C12%2C13%2C14%2C14%2C14%2C14%2C14%2C14%2C14%2C14%2C14%2C14%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C16%2C16%2C16%2C16%2C16%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,14 +24,15 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間でなんと242件ものコミット、素晴らしい活躍でした！✨
+直近30日間で合計242件ものコミット、素晴らしい活動量ですね！✨
 
-特に、[otodoki3]では新規プロジェクトの華々しい立ち上げに尽力されましたね！🚀
-[jules-extension]ではGemini連携を含むワークフローの改善や、ユーザー体験を向上させる新機能の開発、UIのアクセシビリティ強化に取り組まれました。🎨
-[Audicle]では依存関係のアップデートからプレイリスト機能拡張、バックグラウンド再生対応、Codecov導入による品質向上、さらにはドキュメント整備やUIのアクセシビリティ改善まで、多岐にわたる改善と機能追加を達成！💪
-そして、[settlemate]のNext.jsバージョンアップも抜かりなく対応いただきました。💻
+**otodoki3** では、Next.jsを使った新規プロジェクトを勢いよく立ち上げ、初期コミットを重ねましたね！新しいチャレンジ、お疲れ様です！🚀
+**jules-extension** では、Geminiレビューとフィードバックのワークフロー導入や、ユーザー体験を向上させる新機能開発に力を入れましたね。🎨 セッション作成画面のインラインバリデーション追加も素晴らしい貢献です！
+**Audicle** では特に多くの改善が見られますね。依存関係のアプデートを複数回行い、プレイリストのソートオプション拡張やバックグラウンド再生のサポート追加といった機能強化も実施。さらに、ArticleCardのアクセシビリティ向上、Codecovの導入による品質向上、Google Cloud TTS APIのエラーハンドリング強化、そしてドキュメントの英語翻訳と、多角的な改善を進めました。本当に頼もしいです！👏
+**settlemate** ではNext.jsのバージョンアップを行い、プロジェクトの基盤を最新に保ちましたね。
+**otodoki2** ではGitHub Actionsのワークフロー最適化とGEMINI APIキーの簡素化を進め、開発効率向上に貢献しました！
 
-これだけの成果を短期間で出す集中力と貢献、本当に頭が下がります。この調子でこれからも素晴らしい開発を続けてください！🥳
+全体的に、新機能開発から品質向上、基盤整備まで、幅広く精力的に取り組んでいますね。この調子で頑張りましょう！😊
 
 _Total: 698 commits across 8 projects_
 
@@ -103,13 +104,13 @@ _Total: 698 commits across 8 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/3tzKpLkhT5QiB9BJwGwZOS" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736a7a4db44a33d9bc542513c2" alt="I am me." width="120" />
+      <a href="https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273781c530b2131180a1dd7ad30" alt="ZUTTO" width="120" />
       </a>
       <br />
       <sub><strong>#3</strong></sub>
       <br />
-      <sub>I am me.</sub>
+      <sub>ZUTTO</sub>
       <br />
       <sub>BiSH</sub>
     </td>
@@ -125,13 +126,13 @@ _Total: 698 commits across 8 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273781c530b2131180a1dd7ad30" alt="ZUTTO" width="120" />
+      <a href="https://open.spotify.com/track/3tzKpLkhT5QiB9BJwGwZOS" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736a7a4db44a33d9bc542513c2" alt="I am me." width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>ZUTTO</sub>
+      <sub>I am me.</sub>
       <br />
       <sub>BiSH</sub>
     </td>
