@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Lyon: 12°C
+# 🌍 Hallo! Bewölkt heute☁️
+📍 Berlin: 8°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,15 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと242件ものコミット、お疲れ様です！素晴らしい活動量ですね！👏
+直近30日間で合計242件のコミット、素晴らしいですね！🎉 大変お疲れ様でした！
 
-[otodoki3]では、大規模な初期コミットが連続し、新プロジェクトの力強いスタートを飾りました！🌟
+**Audicle** では、依存関係やSupabase設定といった基盤強化に加え、プレイリストソート拡張、バックグラウンド再生サポートなど多くの機能追加・改善が行われました。🎨 ArticleCardのアクセシビリティ向上、Codecov導入、Google Cloud TTS APIのエラーハンドリングなど、品質とユーザビリティへの貢献も大きいです！
 
-[Audicle]では、依存関係の更新でシステムの健全性を保ちつつ、プレイリストのソート拡張や背景再生サポートでユーザー体験を大きく向上。🎨 Codecov導入やTTS APIのエラーハンドリング、ドキュメント整備で品質と開発効率も高めています。
+**jules-extension** では、Geminiを活用したレビュー自動転記ワークフローへの刷新や、ユーザー体験向上のための新機能Xを実装。セッション作成画面のバリデーション追加も、着実な改善につながっていますね。✨
 
-[jules-extension]では、Geminiを活用したレビュー・フィードバックワークフローを導入し、新機能開発やセッション作成画面のバリデーション追加で着実に進化を遂げました。🚀
+**otodoki3** では、新規プロジェクトの立ち上げとなる初期コミットが多数ありました。**otodoki2** ではGitHub Actionsの最適化、**settlemate** ではNext.jsのバージョンアップと、各プロジェクトで技術的改善も着々と進められています。
 
-その他、[otodoki2]でGitHub Actionsのワークフロー最適化、[settlemate]でNext.jsのバージョンアップと、各プロジェクトで重要な進展がありましたね。
-
-常に変化を恐れず挑戦する姿勢、本当に素晴らしいです！これからも期待しています！😊
+多岐にわたるプロジェクトで機能開発から基盤整備まで幅広く活躍されており、素晴らしい貢献です！これからも応援しています！🚀
 
 _Total: 697 commits across 8 projects_
 
@@ -84,24 +82,24 @@ _Total: 697 commits across 8 projects_
 <table>
   <tr>
     <td align="center">
-      <a href="https://open.spotify.com/track/7hpQwS6miuzzUcEx3zOFvt" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="SEE YOU" width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>SEE YOU</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/5mVt55yfKXh5bWfm6teGEV" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="本当本気" width="120" />
       </a>
       <br />
-      <sub><strong>#2</strong></sub>
+      <sub><strong>#1</strong></sub>
       <br />
       <sub>本当本気</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/7hpQwS6miuzzUcEx3zOFvt" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="SEE YOU" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>SEE YOU</sub>
       <br />
       <sub>BiSH</sub>
     </td>
