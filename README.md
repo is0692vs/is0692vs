@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy today☁️
-📍 Toronto: 2°C
+# 🌍 Bonjour! Il pleut aujourd'hui☔
+📍 Lyon: 10°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,17 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で242件ものコミット、お疲れ様です！👏 Initial commit from Create Next App、Merge pull request #386 from is0692vs/dependabot/npm_and_yarn/packages/web-app-vercel/npm-dependencies-6b3086b17f、Merge pull request #183 from is0692vs/レビュー自動転記actionsなど、多くの作業を進められました。合計38583行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間でなんと242件ものコミット、素晴らしい活躍でしたね！🚀 非常に多岐にわたるプロジェクトで、目覚ましい貢献が見て取れます！
 
-_Total: 677 commits across 8 projects_
+特に**Audicle**では、依存関係の大規模なアップデートが複数回行われ、システムの基盤を最新の状態に保っていますね。さらに、プレイリストのソートオプション拡張やMedia Session APIを使ったバックグラウンド再生機能、Google Cloud TTS APIのエラーハンドリングとチャンク処理追加といった新機能開発も多数手がけています！🎨 PaletteによるArticleCardのアクセシビリティ改善や、Codecovの導入、Vercel版Codecovカバレッジ閾値の調整といった品質向上への取り組み、CONTRIBUTING.mdの英語翻訳やプロジェクト構成のドキュメント更新も素晴らしいです✨
+
+**jules-extension**では、自動返信ワークフローをGemini連携のレビュー・フィードバックワークフローに置き換えたり、ユーザー体験を向上させる新機能を実装したりと、プロダクトの中核を強化していますね。🎨 Paletteを用いたセッション作成画面のインラインバリデーション追加もユーザー体験向上に貢献しています！💡
+
+新規プロジェクトである**otodoki3**の立ち上げもお疲れ様でした！初期コミットから大きく動いていますね💪。**otodoki2**ではGitHub Actionsのワークフロー最適化とGEMINI APIキーの簡素化、**settlemate**ではNext.jsのバージョンアップと、各プロジェクトで着実に前進しているのがわかります。
+
+この活発な開発ペース、本当に素晴らしいです！これからも頑張ってくださいね！😊
+
+_Total: 659 commits across 8 projects_
 
 <table>
   <tr>
@@ -37,7 +45,7 @@ _Total: 677 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 384 commits (56.7%)</sub>
+      <sub>📊 366 commits (55.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -48,7 +56,7 @@ _Total: 677 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 266 commits (39.3%)</sub>
+      <sub>📊 266 commits (40.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 7</sub>
     </td>
@@ -59,7 +67,7 @@ _Total: 677 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 11 commits (1.6%)</sub>
+      <sub>📊 11 commits (1.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
