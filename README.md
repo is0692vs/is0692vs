@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 안녕하세요! 맑은 날씨네요☀️
-📍 Seoul: 2°C
+# 🌍 Olá! Dia chuvoso☔
+📍 Lisbon: 12°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,9 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で244件ものコミット、お疲れ様です！👏 Initial commit from Create Next App、Merge pull request #386 from is0692vs/dependabot/npm_and_yarn/packages/web-app-vercel/npm-dependencies-6b3086b17f、Merge pull request #183 from is0692vs/レビュー自動転記actionsなど、多くの作業を進められました。合計38441行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で245件ものコミット、お疲れ様です！👏 Initial commit from Create Next App、Merge pull request #386 from is0692vs/dependabot/npm_and_yarn/packages/web-app-vercel/npm-dependencies-6b3086b17f、Merge pull request #183 from is0692vs/レビュー自動転記actionsなど、多くの作業を進められました。合計39343行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-_Total: 265 commits across 8 projects_
+_Total: 269 commits across 8 projects_
 
 <table>
   <tr>
@@ -37,7 +37,7 @@ _Total: 265 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 157 commits (59.2%)</sub>
+      <sub>📊 157 commits (58.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 7</sub>
     </td>
@@ -48,7 +48,7 @@ _Total: 265 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 86 commits (32.5%)</sub>
+      <sub>📊 90 commits (33.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -59,7 +59,7 @@ _Total: 265 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 11 commits (4.2%)</sub>
+      <sub>📊 11 commits (4.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
