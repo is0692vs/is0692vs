@@ -31,9 +31,9 @@ interface CommitReflectionResult {
 
 async function getRepositories(): Promise<Array<{ name: string; owner: string }>> {
   try {
-    // 1. GitHubユーザーのリポジトリ一覧を取得（オーガナイゼーションを含む）
+    // 1. GitHubユーザーのリポジトリ一覧を取得（オーガナイゼーションを含む、ただしパブリックのみ）
     // 認証トークン(GH_PAT)が有効で、repo/read:org権限がある場合のみ成功する
-    const url = `https://api.github.com/user/repos?per_page=100&sort=updated&affiliation=owner,collaborator,organization_member`;
+    const url = `https://api.github.com/user/repos?per_page=100&sort=updated&visibility=public&affiliation=owner,collaborator,organization_member`;
 
     // GH_PATがない場合はエラーを投げてフォールバックさせる
     if (!process.env.GH_PAT) {

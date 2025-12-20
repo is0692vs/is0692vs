@@ -34,7 +34,7 @@ function getHeaders(): HeadersInit {
 
 async function fetchUserRepos(): Promise<Repository[]> {
   try {
-    const url = `https://api.github.com/user/repos?sort=pushed&per_page=100&affiliation=owner,collaborator,organization_member`;
+    const url = `https://api.github.com/user/repos?sort=pushed&per_page=100&visibility=public&affiliation=owner,collaborator,organization_member`;
 
     if (!GH_PAT) {
       throw new Error("GH_PAT is not set");
