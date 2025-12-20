@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！雨ですね☔
-📍 Hiroshima: 13°C
+# 🌍 Ciao! Giornata soleggiata☀️
+📍 Rome: 16°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
