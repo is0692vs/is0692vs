@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Partly cloudy today☁️
-📍 Miami: 23°C
+# 🌍 안녕하세요! 맑은 날씨네요☀️
+📍 Seoul: 2°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
