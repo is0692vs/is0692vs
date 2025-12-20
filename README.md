@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia chuvoso☔
-📍 Lisbon: 12°C
+# 🌍 おはようございます！曇り空のようですね☁️
+📍 Kyoto: 11°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,18 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で245件ものコミット、お疲れ様です！👏 Initial commit from Create Next App、Merge pull request #386 from is0692vs/dependabot/npm_and_yarn/packages/web-app-vercel/npm-dependencies-6b3086b17f、Merge pull request #183 from is0692vs/レビュー自動転記actionsなど、多くの作業を進められました。合計39343行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で、246件もの素晴らしいコミットを達成しましたね！🎉 多岐にわたるプロジェクトでの精力的な活動、お疲れ様です！
 
-_Total: 269 commits across 8 projects_
+主な活動は以下の通りです。
+- **otodoki3**: 新規プロジェクトの立ち上げを進めました。🚀
+- **otodoki2**: `feature X`でUX/パフォーマンス向上、GitHub Actionsワークフローを最適化。✨
+- **Audicle**: 依存関係更新に加え、`プレイリストのソート拡張`、`バックグラウンド再生`対応、`ArticleCard`のアクセシビリティ改善、`Codecov`や`Supabase`で開発基盤を強化しました。💡
+- **jules-extension**: `レビュー自動転記`を`Geminiレビュー`ワークフローへ移行、`feature X`実装、`セッション作成画面のバリデーション追加`で機能性も向上。👍
+- **settlemate**: `Next.jsのバージョンアップ`で最新技術に対応。
+
+新機能開発からインフラ整備まで、これだけの成果は本当に素晴らしいです！この調子で頑張りましょう！🥳
+
+_Total: 270 commits across 8 projects_
 
 <table>
   <tr>
@@ -37,7 +46,7 @@ _Total: 269 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 157 commits (58.4%)</sub>
+      <sub>📊 157 commits (58.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 7</sub>
     </td>
@@ -48,16 +57,16 @@ _Total: 269 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 90 commits (33.5%)</sub>
+      <sub>📊 90 commits (33.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/otodoki3" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/otodoki3" alt="otodoki3" width="100%" />
+      <a href="https://github.com/Hiroki-org/otodoki3" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/otodoki3" alt="otodoki3" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/is0692vs/otodoki3" target="_blank">otodoki3</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
       <sub>📊 11 commits (4.1%)</sub>
       <br />
