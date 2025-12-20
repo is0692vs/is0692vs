@@ -30,29 +30,66 @@ interface CommitReflectionResult {
 }
 
 async function getRepositories(): Promise<Array<{ name: string; owner: string }>> {
-  // GitHubユーザーのリポジトリ一覧を取得（オーガナイゼーションを含む）
-  const url = `https://api.github.com/user/repos?per_page=100&sort=updated&affiliation=owner,collaborator,organization_member`;
+  try {
+    // 1. GitHubユーザーのリポジトリ一覧を取得（オーガナイゼーションを含む）
+    // 認証トークン(GH_PAT)が有効で、repo/read:org権限がある場合のみ成功する
+    const url = `https://api.github.com/user/repos?per_page=100&sort=updated&affiliation=owner,collaborator,organization_member`;
 
-  const response = await fetch(url, {
-    headers: {
-      Authorization: `token ${process.env.GH_PAT}`,
+    // GH_PATがない場合はエラーを投げてフォールバックさせる
+    if (!process.env.GH_PAT) {
+      throw new Error("GH_PAT is not set");
+    }
+
+    const response = await fetch(url, {
+      headers: {
+        Authorization: `token ${process.env.GH_PAT}`,
+        Accept: "application/vnd.github.v3+json",
+      },
+    });
+
+    if (!response.ok) {
+      throw new Error(`Failed to fetch repositories (Authenticated): ${response.status} ${response.statusText}`);
+    }
+
+    const repos = (await response.json()) as Array<{
+      name: string;
+      owner: { login: string };
+    }>;
+
+    return repos.map((r) => ({
+      name: r.name,
+      owner: r.owner.login,
+    }));
+  } catch (error) {
+    console.warn("⚠️ Authenticated fetch failed, falling back to public repositories:", error);
+
+    // 2. フォールバック: パブリックリポジトリのみ取得
+    // GITHUB_TOKENあるいはトークンなしでも動作する
+    const url = `https://api.github.com/users/${githubUsername}/repos?per_page=100&sort=updated`;
+
+    const headers: HeadersInit = {
       Accept: "application/vnd.github.v3+json",
-    },
-  });
+    };
+    if (process.env.GH_PAT) {
+      headers.Authorization = `token ${process.env.GH_PAT}`;
+    }
 
-  if (!response.ok) {
-    throw new Error(`Failed to fetch repositories: ${response.statusText}`);
+    const response = await fetch(url, { headers });
+
+    if (!response.ok) {
+      throw new Error(`Failed to fetch repositories (Public Fallback): ${response.statusText}`);
+    }
+
+    const repos = (await response.json()) as Array<{
+      name: string;
+      owner: { login: string };
+    }>;
+
+    return repos.map((r) => ({
+      name: r.name,
+      owner: r.owner?.login || githubUsername,
+    }));
   }
-
-  const repos = (await response.json()) as Array<{
-    name: string;
-    owner: { login: string };
-  }>;
-
-  return repos.map((r) => ({
-    name: r.name,
-    owner: r.owner.login,
-  }));
 }
 
 async function getLastNDaysCommits(): Promise<Commit[]> {

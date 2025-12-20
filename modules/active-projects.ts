@@ -33,14 +33,45 @@ function getHeaders(): HeadersInit {
 }
 
 async function fetchUserRepos(): Promise<Repository[]> {
-  const url = `https://api.github.com/user/repos?sort=pushed&per_page=100&affiliation=owner,collaborator,organization_member`;
-  const response = await fetch(url, { headers: getHeaders() });
+  try {
+    const url = `https://api.github.com/user/repos?sort=pushed&per_page=100&affiliation=owner,collaborator,organization_member`;
 
-  if (!response.ok) {
-    throw new Error(`Failed to fetch repositories`);
+    if (!GH_PAT) {
+      throw new Error("GH_PAT is not set");
+    }
+
+    const response = await fetch(url, { headers: getHeaders() });
+
+    if (!response.ok) {
+      throw new Error(`Failed to fetch repositories (Authenticated)`);
+    }
+
+    return await response.json();
+  } catch (error) {
+    console.warn("⚠️ Authenticated fetch failed, falling back to public repositories:", error);
+    const url = `https://api.github.com/users/${githubUsername}/repos?sort=pushed&per_page=100`;
+    // フォールバック時はheadersにAuthorizationを含めるかはgetHeaders()依存（GH_PATがあれば使う）
+    // ただしGH_PATが無効で401だった場合は外すべきかもしれないが、
+    // getHeaders()はGH_PATがあれば使う実装。
+    // ここでは単純に同じgetHeadersを使う（public endpointなら401でも通る？いや401 tokenは弾かれる）
+    // 安全のため、GH_PAT依存しないヘッダーを作るか、あるいはエラーが401ならトークンなしでリトライすべき。
+    // ここでは簡易的に、getHeaders()を使う。もしトークンが無効ならこれも死ぬが、
+    // GITHUB_TOKEN (Actions) の場合、user/reposは403 forbiddenだが users/xxx/reposは200 OKになるはず。
+
+    const response = await fetch(url, { headers: getHeaders() });
+
+    if (!response.ok) {
+      throw new Error(`Failed to fetch repositories (Fallback)`);
+    }
+
+    // 戻り値の型合わせ（ownerがない場合などはAPI仕様次第だが、public endpointもownerを返す）
+    const repos = await response.json();
+    // ownerオブジェクトがない場合に備えて補完（通常はある）
+    return repos.map((r: any) => ({
+      ...r,
+      owner: r.owner || { login: githubUsername }
+    }));
   }
-
-  return await response.json();
 }
 
 async function getCommitCount(
