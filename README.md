@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Sapporo: 6°C
+# 🌍 おはようございます！曇り空のようですね☁️
+📍 Kyoto: 14°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,19 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと合計241件もの素晴らしいコミットがありましたね！素晴らしい活動量です👏
+直近30日間で**241件**ものコミット、本当に素晴らしい活躍でしたね！✨
 
-特に目を引くのは、**otodoki3**プロジェクトの華々しい立ち上げです！🚀 初期コミットが複数見られ、新たな挑戦が始まった予感がします。
+特に目を引いたのは、以下のような多岐にわたる活動です。
 
-**Audicle**では、多岐にわたる改善が進みました。依存関係のアップデートで基盤を強化しつつ、プレイリストのソートオプション拡張やバックグラウンド再生サポート追加でユーザー体験が向上。さらに、ArticleCardのアクセシビリティ改善やGoogle Cloud TTS APIのエラーハンドリング、Codecovの導入と設定調整で品質と堅牢性も大きく高められましたね！ドキュメントも整備され、完璧です✨
+*   **otodoki3**では、新しいプロジェクトの立ち上げに大きく貢献し、初期構築を進めてくださいましたね！🚀
+*   **Audicle**では、複数回にわたる依存関係のアップデートに加え、プレイリストのソートオプション拡張やバックグラウンド再生機能の追加でユーザー体験を向上！🎨 ArticleCardのアクセシビリティ改善やCodecov導入による品質強化、Google Cloud TTS API連携のエラーハンドリングなど、幅広い改善が行われました。
+*   **jules-extension**では、Geminiレビューワークフローの導入や大規模な新機能追加、セッション作成画面のバリデーション強化、さらにはユニットテストの追加で、機能性と堅牢性を大きく高めましたね！💡
+*   **settlemate**では、Next.jsのバージョンアップを行い、プロジェクトの基盤を最新の状態に保つ重要な作業をこなしました。💻
+*   **otodoki2**では、GitHub Actionsのワークフローを最適化し、開発効率の向上にも貢献していただきました！🚀
 
-**jules-extension**では、Gemini連携によるレビュー自動転記ワークフローや、ユーザー体験向上のための新機能開発「Feature X」が印象的です。セッション作成画面のバリデーション追加やユニットテストの充実も、品質向上へのこだわりを感じます！💡
+たくさんのプロジェクトで積極的な改善や新機能開発、品質向上に取り組んでいただき、本当にありがとうございます！今後のさらなるご活躍も楽しみにしています！👏
 
-その他、**settlemate**ではNext.jsのバージョンアップ、**otodoki2**ではGitHub Actionsのワークフロー最適化とGEMINI APIキー使用の簡素化が行われ、各プロジェクトが着実に進化していますね。
-
-この勢いで、これからも素晴らしい開発を続けていきましょう！応援しています！🎉
-
-_Total: 620 commits across 6 projects_
+_Total: 611 commits across 6 projects_
 
 <table>
   <tr>
@@ -47,7 +47,7 @@ _Total: 620 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 329 commits (53.1%)</sub>
+      <sub>📊 316 commits (51.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -58,7 +58,7 @@ _Total: 620 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 268 commits (43.2%)</sub>
+      <sub>📊 272 commits (44.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 7</sub>
     </td>
@@ -128,13 +128,13 @@ _Total: 620 commits across 6 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/0z6XUSiw6WTT8uZNWJwWcO" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27342f80e91cb2fa0f4a7570d8f" alt="GiANT KiLLERS" width="120" />
+      <a href="https://open.spotify.com/track/3tzKpLkhT5QiB9BJwGwZOS" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736a7a4db44a33d9bc542513c2" alt="I am me." width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>GiANT KiLLERS</sub>
+      <sub>I am me.</sub>
       <br />
       <sub>BiSH</sub>
     </td>
