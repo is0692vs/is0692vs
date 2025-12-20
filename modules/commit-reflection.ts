@@ -29,9 +29,9 @@ interface CommitReflectionResult {
   commitCount: number;
 }
 
-async function getRepositories(): Promise<string[]> {
-  // GitHubユーザーのリポジトリ一覧を取得
-  const url = `https://api.github.com/users/${githubUsername}/repos?per_page=100&sort=updated`;
+async function getRepositories(): Promise<Array<{ name: string; owner: string }>> {
+  // GitHubユーザーのリポジトリ一覧を取得（オーガナイゼーションを含む）
+  const url = `https://api.github.com/user/repos?per_page=100&sort=updated&affiliation=owner,collaborator,organization_member`;
 
   const response = await fetch(url, {
     headers: {
@@ -46,9 +46,13 @@ async function getRepositories(): Promise<string[]> {
 
   const repos = (await response.json()) as Array<{
     name: string;
+    owner: { login: string };
   }>;
 
-  return repos.map((r) => r.name);
+  return repos.map((r) => ({
+    name: r.name,
+    owner: r.owner.login,
+  }));
 }
 
 async function getLastNDaysCommits(): Promise<Commit[]> {
@@ -67,7 +71,7 @@ async function getLastNDaysCommits(): Promise<Commit[]> {
 
     for (const repo of repos) {
       try {
-        const url = `https://api.github.com/repos/${githubUsername}/${repo}/commits?since=${since}&author=${githubUsername}&per_page=100`;
+        const url = `https://api.github.com/repos/${repo.owner}/${repo.name}/commits?since=${since}&author=${githubUsername}&per_page=100`;
 
         const response = await fetch(url, {
           headers: {
@@ -87,7 +91,7 @@ async function getLastNDaysCommits(): Promise<Commit[]> {
               const commitSha = (commit as any).sha;
               if (!commitSha) continue;
 
-              const detailUrl = `https://api.github.com/repos/${githubUsername}/${repo}/commits/${commitSha}`;
+              const detailUrl = `https://api.github.com/repos/${repo.owner}/${repo.name}/commits/${commitSha}`;
               const detailResponse = await fetch(detailUrl, {
                 headers: {
                   Authorization: `token ${process.env.GH_PAT}`,
@@ -99,15 +103,15 @@ async function getLastNDaysCommits(): Promise<Commit[]> {
                 const detailData = (await detailResponse.json()) as any;
                 commit.stats = detailData.stats || { total: 0, additions: 0, deletions: 0 };
                 commit.files = detailData.files || [];
-                commit.repository = repo; // リポジトリ名を設定
+                commit.repository = repo.name; // リポジトリ名を設定
               }
             } catch (error) {
-              console.debug(`Failed to fetch commit details for ${repo}`);
+              console.debug(`Failed to fetch commit details for ${repo.owner}/${repo.name}`);
               // 詳細取得失敗時はデフォルト値を設定
               if (!commit.stats) {
                 commit.stats = { total: 0, additions: 0, deletions: 0 };
               }
-              commit.repository = repo; // リポジトリ名を設定
+              commit.repository = repo.name; // リポジトリ名を設定
             }
           }
 
@@ -115,7 +119,7 @@ async function getLastNDaysCommits(): Promise<Commit[]> {
         }
       } catch (error) {
         // 個別リポジトリエラーは無視して続行
-        console.debug(`Failed to fetch commits from ${repo}`);
+        console.debug(`Failed to fetch commits from ${repo.owner}/${repo.name}`);
       }
     }
 

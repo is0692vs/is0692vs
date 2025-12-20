@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Snowy weather❄️
-📍 Toronto: -3°C
+# 🌍 おはよう！雨ですね☔
+📍 Hiroshima: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -19,61 +19,9 @@
 <!-- stats:end -->
 
 <!-- active-projects:start -->
-## 🔨 Active Projects (Last 30 Days)
+## 🔨 Active Projects
 
-### 🤖 gemini2.5flashによる直近30日の活動サマリー
-
-直近30日間の活動サマリー:
-直近30日間で、なんと142件ものコミットを達成しましたね！素晴らしい活動量です！🎉
-
-特に、[otodoki3]では「Initial commit」や「first commit」から始まり、大規模な初期開発と開発環境の構築（devcontainer）を進め、プロジェクトの力強いスタートを切りましたね。🚀
-[jules-extension]では、AI連携の強化（Geminiレビュー、バルクトリアージ機能）や新機能開発（feature X）、UI改善（インラインバリデーション）、品質向上（ユニットテスト追加）、セキュリティ強化（ログサニタイズ）と、多岐にわたる重要な改善を次々とリリースしました！ユーザー体験の向上に大きく貢献しています。✨
-[otodoki2]では、GitHub Actionsのワークフローを最適化し、GEMINI APIキーの利用を簡素化するなど、CI/CDの効率化とAI連携をバッチリ進めました。🤖
-また、[settlemate]ではNext.jsや依存ライブラリのバージョンアップを行い、プロジェクトの健全性を保ちましたね。🛠️
-さらに、[is0692vs]リポジトリではグラフの表示期間設定や統計データの追加と、ユーザーに役立つ機能強化が光ります。📊
-
-このように、様々なプロジェクトで新機能開発からインフラ改善、品質向上まで幅広く取り組んでおり、その多才さに感服します！これからもこの勢いで頑張っていきましょう！💪
-
-_Total: 295 commits across 5 projects_
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/jules-extension" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/jules-extension" alt="jules-extension" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
-      <br />
-      <sub>📊 272 commits (92.2%)</sub>
-      <br />
-      <sub>🔷 TypeScript ⭐ 7</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/otodoki3" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/otodoki3" alt="otodoki3" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/is0692vs/otodoki3" target="_blank">otodoki3</a></strong></sub>
-      <br />
-      <sub>📊 11 commits (3.7%)</sub>
-      <br />
-      <sub>🔷 TypeScript </sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/otodoki2" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/otodoki2" alt="otodoki2" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/is0692vs/otodoki2" target="_blank">otodoki2</a></strong></sub>
-      <br />
-      <sub>📊 6 commits (2.0%)</sub>
-      <br />
-      <sub>🔷 TypeScript </sub>
-    </td>
-  </tr>
-</table>
-
+_Error fetching projects. Please try again later._
 <!-- active-projects:end -->
 
 <!-- spotify:start -->

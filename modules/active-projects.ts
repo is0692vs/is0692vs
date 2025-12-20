@@ -4,6 +4,7 @@ import { geminiModel } from "../config/gemini";
 
 interface Repository {
   name: string;
+  owner: { login: string };
   pushed_at: string;
   html_url: string;
   language: string | null;
@@ -12,6 +13,7 @@ interface Repository {
 
 interface ProjectStats {
   name: string;
+  owner: string;
   url: string;
   commits: number;
   lastPush: string;
@@ -31,17 +33,18 @@ function getHeaders(): HeadersInit {
 }
 
 async function fetchUserRepos(): Promise<Repository[]> {
-  const url = `https://api.github.com/users/${githubUsername}/repos?sort=pushed&per_page=100`;
+  const url = `https://api.github.com/user/repos?sort=pushed&per_page=100&affiliation=owner,collaborator,organization_member`;
   const response = await fetch(url, { headers: getHeaders() });
 
   if (!response.ok) {
-    throw new Error(`Failed to fetch repositories for ${githubUsername}`);
+    throw new Error(`Failed to fetch repositories`);
   }
 
   return await response.json();
 }
 
 async function getCommitCount(
+  owner: string,
   repoName: string,
   since: string
 ): Promise<number> {
@@ -51,7 +54,7 @@ async function getCommitCount(
     const perPage = 100;
 
     while (true) {
-      const url = `https://api.github.com/repos/${githubUsername}/${repoName}/commits?since=${since}&per_page=${perPage}&page=${page}`;
+      const url = `https://api.github.com/repos/${owner}/${repoName}/commits?since=${since}&author=${githubUsername}&per_page=${perPage}&page=${page}`;
       const response = await fetch(url, { headers: getHeaders() });
       if (!response.ok) break;
 
@@ -127,9 +130,10 @@ export async function activeProjects(reflectionText?: string): Promise<string> {
     // 各リポジトリのコミット数を並行取得
     const projectStats: ProjectStats[] = await Promise.all(
       activeRepos.map(async (repo) => {
-        const commits = await getCommitCount(repo.name, since);
+        const commits = await getCommitCount(repo.owner.login, repo.name, since);
         return {
           name: repo.name,
+          owner: repo.owner.login,
           url: repo.html_url,
           commits,
           lastPush: repo.pushed_at,
