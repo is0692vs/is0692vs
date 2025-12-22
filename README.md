@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rainy day☔
-📍 San Francisco: 15°C
+# 🌍 ¡Hola! Está lloviendo☔
+📍 Bogotá: 17°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,9 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で276件ものコミット、素晴らしい成果ですね！精力的な活動、本当にお疲れ様です✨
+直近30日間で276件ものコミット、お疲れ様です！👏 Initial commit from Create Next App、Merge pull request #18 from Hiroki-org/copilot/setup-test-environment-jest、Implement feature X to enhance user experience and optimize performanceなど、多くの作業を進められました。合計48115行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-特に**otodoki3**では、プロジェクトの初期設定から始まり、Jestを使ったテスト環境を構築し、なんと93%もの高いテストカバレッジを実現しましたね！楽曲プール管理機能の実装も進み、大きな進捗が見られます。ワークフローの整理もバッチリです。
-
-**Audicle**では、多数の依存関係アップデートに対応し、プロジェクトの健全性を保っています。🎨ArticleCardのアクセシビリティ向上や、Media Session APIによるバックグラウンド再生機能の追加、Codecov導入による品質向上にも貢献しました。ドキュメント更新や環境設定もありがとうございます！
-
-**jules-extension**では、Geminiレビューワークフローへの切り替えといった開発効率向上や、セッション作成画面のインラインバリデーション追加など、ユーザー体験と品質の両面から改善を進めていますね。新機能実装も素晴らしいです！
-
-また、**otodoki2**ではユーザー体験向上・パフォーマンス最適化のための機能実装、**settlemate**ではNext.jsのバージョンアップを着実に実施されました。
-
-様々なプロジェクトで多岐にわたる活躍、本当に素晴らしいです！これからも皆さんのご活躍を期待しています！🚀
-
-_Total: 255 commits across 9 projects_
+_Total: 251 commits across 9 projects_
 
 <table>
   <tr>
@@ -47,7 +37,7 @@ _Total: 255 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 100 commits (39.2%)</sub>
+      <sub>📊 97 commits (38.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 7</sub>
     </td>
@@ -58,7 +48,7 @@ _Total: 255 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 90 commits (35.3%)</sub>
+      <sub>📊 89 commits (35.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -69,7 +59,7 @@ _Total: 255 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 49 commits (19.2%)</sub>
+      <sub>📊 49 commits (19.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
