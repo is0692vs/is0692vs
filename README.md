@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia nublado☁️
-📍 Lisbon: 11°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Buenos Aires: 24°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,7 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で261件ものコミット、素晴らしい活躍ぶりですね！👏
-
-まず、新規プロジェクトの`otodoki3`では、初期設定からJestテストスイートの導入による93%のテストカバレッジ達成、そして楽曲プール管理機能の実装と、立ち上げ期に重要な基盤構築と主要機能開発を精力的に進めていますね！🚀
-
-`Audicle`では、多数の依存関係アップデートでシステムを最新の状態に保ちつつ、アクセシビリティ改善（ArticleCard）、バックグラウンド再生対応（Media Session API）、Codecov導入による品質向上にも取り組まれており、多岐にわたる改善が光ります✨
-
-`jules-extension`では、レビュー自動転記ワークフローをGeminiワークフローに置き換え、セッション作成画面のインラインバリデーションを追加するなど、開発効率とユーザー体験の両面で着実な進化を遂げていますね！💡
-
-また、`settlemate`ではNext.jsのバージョンアップを行い、技術スタックの健全性を保っています。
-
-これだけの成果を短期間で出されているのは本当にすごいです！これからも、その素晴らしい開発力を発揮してくださいね！応援しています！💪
+直近30日間で261件ものコミット、お疲れ様です！👏 Initial commit from Create Next App、Merge pull request #18 from Hiroki-org/copilot/setup-test-environment-jest、Implement feature X to enhance user experience and optimize performanceなど、多くの作業を進められました。合計48115行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 211 commits across 9 projects_
 
