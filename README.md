@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia nublado☁️
-📍 São Paulo: 32°C
+# 🌍 Hello! Cloudy today☁️
+📍 Toronto: -1°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,18 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-この30日間で合計220件ものコミット、お疲れ様でした！様々なプロジェクトで精力的に活動されていましたね！🚀
+直近30日間で231件ものコミット、お疲れ様でした！素晴らしい活動量ですね👏
 
-特に[otodoki3]では、プロジェクトの初期セットアップから始まり、Jestを使ったテスト環境構築でなんと93%ものカバレッジを達成！👏さらに楽曲プール管理機能の実装と、主要な基盤構築に大きく貢献されましたね。
+特に、
+*   **otodoki3** では、プロジェクトの初期立ち上げから始まり、Jestによるテスト環境構築と93%ものカバレッジ達成、楽曲プール管理機能の実装、さらにはチュートリアルやオーディオプレーヤー機能の追加、スワイプ機能の改善まで、多岐にわたる重要な基盤構築と機能開発を進められました。Geminiワークフローの整理もお見事です！
+*   **Audicle** では、多数の依存関係アップデートやVercel向けSupabase設定、Codecovの導入と閾値調整を通じて、プロジェクトの健全性と品質向上に貢献されました。また、ArticleCardのアクセシビリティ改善やMedia Session APIによるバックグラウンド再生サポート、ドキュメント更新など、ユーザー体験とメンテナンス性向上にも尽力されていますね。
+*   **otodoki2** では、ユーザー体験向上とパフォーマンス最適化のための機能実装が行われました。
+*   **settlemate** ではNext.jsのバージョンアップを実施し、技術スタックの最新化を図りました。
+*   **jules-extension** では、セッション作成画面にインラインバリデーションを追加し、UI/UXを改善されましたね。
 
-[Audicle]では、ユーザー体験の向上とパフォーマンス最適化のための機能実装に加え、多数の依存関係アップデートやアクセシビリティ改善、バックグラウンド再生機能の追加など、幅広い改善が見られました。Codecovの導入でテストカバレッジも強化され、品質向上への意識が素晴らしいです！💪
+多くのリポジトリで、新機能開発から品質向上、メンテナンスまで幅広くご活躍された1ヶ月でした。この調子でこれからも素晴らしい開発を続けてください！🚀
 
-また、[otodoki2]ではユーザー体験向上とパフォーマンス最適化のための機能が実装され、[settlemate]ではNext.jsのバージョンアップ、[jules-extension]ではセッション作成画面のインラインバリデーション追加と、各リポジトリで着実に改善が進んでいますね。
-
-短期間でこれだけの多岐にわたる開発と改善、本当に素晴らしい成果です！今後のさらなる活躍も楽しみにしています！✨
-
-_Total: 212 commits across 9 projects_
+_Total: 216 commits across 9 projects_
 
 <table>
   <tr>
@@ -45,7 +46,7 @@ _Total: 212 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 79 commits (37.3%)</sub>
+      <sub>📊 72 commits (33.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -56,7 +57,7 @@ _Total: 212 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 59 commits (27.8%)</sub>
+      <sub>📊 70 commits (32.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -67,7 +68,7 @@ _Total: 212 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 58 commits (27.4%)</sub>
+      <sub>📊 58 commits (26.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 7</sub>
     </td>
