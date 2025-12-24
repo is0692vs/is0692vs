@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Lyon: 1°C
+# 🌍 G'day! Rainy weather☔
+📍 Sydney: 22°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,15 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で216件のコミット、素晴らしい開発活動でした！👏
+直近30日間でなんと216件ものコミット、本当にお疲れ様でした！👏素晴らしい生産性ですね！
 
-新規プロジェクト「**otodoki3**」では、初期コミットから「楽曲プール管理機能の実装」、さらには「Jestテストスイート導入と93%の高いカバレッジ達成」と、品質にこだわった開発を精力的に進められましたね！✨
+特に目立った活動としては、「otodoki3」でのプロジェクト立ち上げ（Initial commitなど）から始まり、Jestテスト環境の構築とカバレッジ93%達成、楽曲プール管理機能の実装とテスト追加など、基盤固めと機能開発が精力的に進められました。✨
 
-「**Audicle**」では、「依存関係アップデート」で常に最新を保ちつつ、「ArticleCardのアクセシビリティ改善」や「バックグラウンド再生サポート」でユーザー体験を向上。Codecov導入やGoogle Cloud TTS APIのエラーハンドリング追加など、堅牢性とテスト基盤の強化にも貢献されていますね。
+「Audicle」では、複数回にわたる依存関係の更新でプロジェクトを最新に保ちつつ、ArticleCardのアクセシビリティ改善、Media Session APIによるバックグラウンド再生サポート、Codecovの導入とカバレッジ設定、Supabaseプロジェクト設定、そしてGoogle Cloud TTS APIのエラーハンドリングまで、幅広い改善と新機能が追加されましたね！🚀
 
-「**otodoki2**」では、「ユーザー体験向上とパフォーマンス最適化のためのFeature Xの実装」という大規模な改善に着手されました。💪
+また、「otodoki2」ではユーザー体験向上とパフォーマンス最適化のための新機能実装、「settlemate」ではNext.jsのバージョンアップで基盤を強化、「jules-extension」ではセッション作成画面のインラインバリデーション追加と、各プロジェクトで着実に成果を上げています。💡
 
-その他にも、「**settlemate**」でNext.jsのバージョンアップ、「**jules-extension**」でセッション作成画面のバリデーション追加と、多岐にわたるプロジェクトで着実に前進しています。
-
-多岐にわたる貢献、本当に素晴らしいです！この勢いでこれからもプロダクトをより良くしていきましょう！🚀
+複数のリポジトリでこれだけの成果を出せるのは本当に素晴らしいです！この調子で、これからも開発を楽しんでいきましょう！🔥
 
 _Total: 208 commits across 9 projects_
 
@@ -106,24 +104,24 @@ _Total: 208 commits across 9 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/5mVt55yfKXh5bWfm6teGEV" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="本当本気" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>本当本気</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273781c530b2131180a1dd7ad30" alt="ZUTTO" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>ZUTTO</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/5mVt55yfKXh5bWfm6teGEV" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="本当本気" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>本当本気</sub>
       <br />
       <sub>BiSH</sub>
     </td>
