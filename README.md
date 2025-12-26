@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
 # 🌍 Olá! Dia nublado☁️
-📍 Lisbon: 12°C
+📍 Lisbon: 11°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -13,9 +13,9 @@
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
-📦 **[pr-cannon](https://github.com/is0692vs/pr-cannon)**: 677 total downloads
+📦 **[pr-cannon](https://github.com/is0692vs/pr-cannon)**: 683 total downloads
 
-![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-11-27%22%2C%222025-11-28%22%2C%222025-11-29%22%2C%222025-11-30%22%2C%222025-12-01%22%2C%222025-12-02%22%2C%222025-12-03%22%2C%222025-12-04%22%2C%222025-12-05%22%2C%222025-12-06%22%2C%222025-12-07%22%2C%222025-12-08%22%2C%222025-12-09%22%2C%222025-12-10%22%2C%222025-12-11%22%2C%222025-12-12%22%2C%222025-12-13%22%2C%222025-12-14%22%2C%222025-12-15%22%2C%222025-12-16%22%2C%222025-12-17%22%2C%222025-12-18%22%2C%222025-12-19%22%2C%222025-12-20%22%2C%222025-12-21%22%2C%222025-12-22%22%2C%222025-12-23%22%2C%222025-12-24%22%2C%222025-12-25%22%2C%222025-12-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B664%2C664%2C664%2C664%2C664%2C664%2C664%2C664%2C667%2C669%2C669%2C669%2C669%2C669%2C669%2C669%2C670%2C670%2C670%2C672%2C676%2C676%2C676%2C676%2C676%2C676%2C677%2C677%2C677%2C677%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-11-27%22%2C%222025-11-28%22%2C%222025-11-29%22%2C%222025-11-30%22%2C%222025-12-01%22%2C%222025-12-02%22%2C%222025-12-03%22%2C%222025-12-04%22%2C%222025-12-05%22%2C%222025-12-06%22%2C%222025-12-07%22%2C%222025-12-08%22%2C%222025-12-09%22%2C%222025-12-10%22%2C%222025-12-11%22%2C%222025-12-12%22%2C%222025-12-13%22%2C%222025-12-14%22%2C%222025-12-15%22%2C%222025-12-16%22%2C%222025-12-17%22%2C%222025-12-18%22%2C%222025-12-19%22%2C%222025-12-20%22%2C%222025-12-21%22%2C%222025-12-22%22%2C%222025-12-23%22%2C%222025-12-24%22%2C%222025-12-25%22%2C%222025-12-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B664%2C664%2C664%2C664%2C664%2C664%2C664%2C664%2C667%2C669%2C669%2C669%2C669%2C669%2C669%2C669%2C670%2C670%2C670%2C672%2C676%2C676%2C676%2C676%2C676%2C676%2C677%2C677%2C677%2C683%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- stats:end -->
 
 <!-- active-projects:start -->
@@ -24,17 +24,18 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で225件ものコミット、素晴らしい活躍でした！🚀
+直近30日間で225ものコミット、素晴らしい活躍でしたね！🚀
 
-特に、**otodoki3**でのめざましい活躍が光ります。新規プロジェクトの立ち上げから、Jestでのテスト環境構築（93%という高カバレッジ達成は素晴らしいです！✨）、PWA対応、楽曲プール管理機能、チュートリアルカードやオーディオプレーヤー機能の実装まで、精力的に基盤を築き上げましたね！
+特に、[otodoki3]ではプロジェクトの立ち上げ（Initial commit、first commit）から始まり、Jestテストスイートの導入で品質を大幅に向上させ、93%という高いカバレッジを達成！✨ PWA対応、楽曲プール管理、チュートリアルカードとオーディオプレイヤー機能追加で、ユーザー体験向上にも大きく貢献されましたね。
 
-**Audicle**では、頻繁な依存関係のアップデートでプロジェクトを最新に保ちつつ、ArticleCardのアクセシビリティ改善やバックグラウンド再生機能の追加でユーザー体験を向上。Codecov導入やSupabase設定で開発環境も整備し、ドキュメント更新にも力を入れられました。多岐にわたる改善と保守、素晴らしいです！
+[Audicle]では、複数の依存関係アップデートやR2Sチェック、Codecov導入でプロジェクトの健全性を維持しつつ、ArticleCardのアクセシビリティ改善やバックグラウンド再生対応、ドキュメント更新と多岐にわたる改善をされました。素晴らしいです！👏
 
-また、**otodoki2**ではユーザー体験を高めるための機能Xを実装。**jules-extension**ではセッション作成画面のバリデーション追加で品質向上に貢献し、**settlemate**ではNext.jsのバージョンアップを実施されました。
+また、[otodoki2]ではユーザー体験とパフォーマンス最適化のための機能Xを実装。
+[settlemate]ではNext.jsのバージョンアップ、[jules-extension]ではセッション作成画面のインラインバリデーション追加と、各プロジェクトで着実に前進していますね。
 
-複数のプロジェクトで幅広いタスクをこなし、素晴らしい成果を上げています！この調子でこれからも頑張ってください！🎉
+たくさんのプロジェクトで精力的に活動され、本当に素晴らしい成果です。この調子でこれからも頑張ってください！💪
 
-_Total: 221 commits across 8 projects_
+_Total: 220 commits across 8 projects_
 
 <table>
   <tr>
@@ -45,7 +46,7 @@ _Total: 221 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 83 commits (37.6%)</sub>
+      <sub>📊 83 commits (37.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +57,7 @@ _Total: 221 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 65 commits (29.4%)</sub>
+      <sub>📊 65 commits (29.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -67,7 +68,7 @@ _Total: 221 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 57 commits (25.8%)</sub>
+      <sub>📊 56 commits (25.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 7</sub>
     </td>
