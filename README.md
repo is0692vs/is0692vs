@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！大雪だね❄️
-📍 Sapporo: -7°C
+# 🌍 ¡Hola! Está nublado☁️
+📍 Mexico City: 18°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,23 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で243件ものコミット、素晴らしい集中力と生産性でしたね！🎉 多岐にわたるプロジェクトで活発に貢献されています。
+直近30日間で、なんと243件もの素晴らしいコミット、お疲れ様でした！🎉 大量の変更を精力的にこなされましたね！
 
-特に`otodoki3`では、プロジェクトの初期セットアップから精力的に取り組んでいますね。VitestやPlaywrightを使ったテスト基盤の整備、Jestの導入で高いテストカバレッジを実現し、品質向上に大きく貢献！✨ PWA対応や楽曲プール管理機能、謎曲排除フィルター、チュートリアルとオーディオプレイヤー機能の改善など、ユーザー体験を豊かにする新機能開発・改善が進みました。
+特に目を引く活動をリポジトリごとに見ていきましょう。
 
-`Audicle`でも、依存関係の定期的なアップデートでプロジェクトを常に最新の状態に保ち、安定性を高めていますね。また、ArticleCardのアクセシビリティ向上や、Media Session APIによるバックグラウンド再生対応は、ユーザーにとって非常に嬉しい改善です。ドキュメント更新も着実に行われていますね。👏
+**otodoki3** では、テスト環境をVitestとPlaywrightへ移行し、Jest導入でテストカバレッジ93%を達成と、品質向上に大きく貢献されました。PWA対応や楽曲プール管理機能、プレビュー自動再生、そして「謎曲排除」といったユーザー体験を向上させる新機能の実装も素晴らしいです！✨
 
-さらに、`otodoki2`ではユーザー体験向上のための機能X実装、`settlemate`ではNext.jsのバージョンアップ、`jules-extension`ではセッション作成画面のインラインバリデーション追加と、各プロジェクトで重要な作業をこなしています。
+**Audicle** では、依存関係の丁寧なアップデートを多数実施。Codecovの導入やVercelでのカバレッジ閾値調整、Supabase設定と、開発基盤の整備を積極的に進められましたね。ArticleCardのアクセシビリティ向上やMedia Session APIによる背景再生サポートなど、ユーザーフレンドリーな改善も光っています！💡 ドキュメント更新もお忘れなく。
 
-この多様な貢献が、プロジェクト全体の進化を力強く後押ししています！今後も素晴らしい活躍を期待しています！😊
+**otodoki2** では、主要機能であるFeature Xの実装により、UX向上とパフォーマンス最適化に尽力されました。
 
-_Total: 241 commits across 8 projects_
+**jules-extension** では、セッション作成画面にインラインバリデーションを追加し、入力体験がさらにスムーズになりましたね！👍
+
+**settlemate** では、Next.jsのバージョンアップを行い、最新技術への追従もバッチリです。
+
+多岐にわたるプロジェクトで、機能追加から品質改善、基盤整備まで、幅広くご活躍された一ヶ月でした！この調子でこれからも素晴らしい開発を楽しんでいきましょう！🚀
+
+_Total: 243 commits across 8 projects_
 
 <table>
   <tr>
@@ -45,7 +51,7 @@ _Total: 241 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 102 commits (42.3%)</sub>
+      <sub>📊 104 commits (42.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +62,7 @@ _Total: 241 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 66 commits (27.4%)</sub>
+      <sub>📊 66 commits (27.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -67,7 +73,7 @@ _Total: 241 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 57 commits (23.7%)</sub>
+      <sub>📊 57 commits (23.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 7</sub>
     </td>
