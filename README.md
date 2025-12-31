@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！今日は曇り空ですね☁️
-📍 Tokyo: 11°C
+# 🌍 Hello! Cloudy skies today☁️
+📍 New York: -3°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,7 +24,15 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で230件ものコミット、お疲れ様です！👏 Merge pull request #53 from Hiroki-org/52-テスト整備phase1、Merge pull request #18 from Hiroki-org/copilot/setup-test-environment-jest、Implement feature X to enhance user experience and optimize performanceなど、多くの作業を進められました。合計43411行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で230件もの素晴らしいコミット、お疲れ様でした！👏
+
+特に[otodoki3]では、テストフレームワークをVitestとPlaywrightへ移行し、Jestでのテストカバレッジも93%にまで大幅に向上させましたね！🚀 PWA対応や楽曲プール管理機能の実装、UIのモダン化とコンポーネント強化、さらには謎曲排除フィルターやプレイリスト追加機能、チュートリアルカードとオーディオプレーヤーの改善など、ユーザー体験に直結する大きな機能強化が目白押しです。
+
+[Audicle]では、複数の依存関係アップデートを行い、ArticleCardのアクセシビリティ改善やMedia Session APIによるバックグラウンド再生機能の追加、そしてドキュメント更新も着実に進められました。✨
+
+また、[otodoki2]ではユーザー体験向上とパフォーマンス最適化のための機能が実装され、[settlemate]ではNext.jsのバージョンアップが行われるなど、それぞれのプロジェクトで重要な進捗が見られます。
+
+活発な開発活動、本当に素晴らしいです！この調子でこれからも頑張りましょう！👍
 
 _Total: 234 commits across 8 projects_
 
@@ -37,7 +45,7 @@ _Total: 234 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 110 commits (47.0%)</sub>
+      <sub>📊 111 commits (47.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -59,7 +67,7 @@ _Total: 234 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 51 commits (21.8%)</sub>
+      <sub>📊 50 commits (21.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
