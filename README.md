@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia chuvoso☔
-📍 Lisbon: 15°C
+# 🌍 G'day! Bit cloudy today☁️
+📍 Sydney: 20°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,15 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で229件ものコミット、お疲れ様でした！素晴らしいペースですね！
+直近30日間で229件ものコミット、素晴らしいペースですね！🚀 大変多くの活動があったことが伺えます。
 
-[otodoki3] では、VitestやPlaywrightへのテストフレームワーク移行、Jestでのカバレッジ向上、PWA対応と多岐にわたる基盤強化が行われました。楽曲プール管理、プレイリスト機能の追加、謎曲排除、UIコンポーネントの改善など、ユーザー体験を大きく向上させる機能開発が目覚ましいです！🚀
+特に目を引くのは、**otodoki3**での大活躍です。テストフレームワークをVitestとPlaywrightへ移行し、Jestテストスイートも追加するなど、品質向上に大きく貢献するテスト整備を徹底されましたね！👏 また、PWA対応や楽曲プール管理、プレイリストへの曲追加、プレビュー自動再生、UIモダン化といったユーザー体験を向上させる新機能の実装や改善にも注力されています。不要なGeminiワークフローの削除も効率化に繋がっています。
 
-[Audicle] では、複数の依存関係アップデートに加え、Web Share Target APIによるモバイル記事共有機能やMedia Session APIでのバックグラウンド再生対応が実現。ArticleCardのアクセシビリティ改善やドキュメント更新も進め、安定性と利便性が向上しましたね！📚
+**Audicle**では、複数回にわたる依存関係のアップデートでシステムの安定性を確保しつつ、Web Share Target APIやMedia Session APIによるバックグラウンド再生対応、ArticleCardのアクセシビリティ改善など、ユーザーの利便性を高める機能追加も積極的に行われました。ドキュメント更新もお見事です✨
 
-[otodoki2] では、ユーザー体験向上とパフォーマンス最適化のための新機能が実装され、[settlemate] ではNext.jsのバージョンアップで開発基盤を常に最新に保つ努力が光ります。✨
+他にも、**otodoki2**ではユーザー体験を向上させる新機能の実装、**settlemate**ではNext.jsのバージョンアップと、幅広いプロジェクトで着実に前進していますね。
 
-チーム全体の活発な活動が、プロジェクトを次なるステージへと着実に押し上げていますね！これからもこの調子で、素晴らしい開発を続けていきましょう！💪
+多岐にわたる重要な改善と新機能開発、本当にお疲れ様でした！この調子で次のサイクルも頑張ってください！
 
 _Total: 240 commits across 8 projects_
 
@@ -115,24 +115,24 @@ _Total: 240 commits across 8 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/5mVt55yfKXh5bWfm6teGEV" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="本当本気" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>本当本気</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/0vFaWaqU8AGed1slnaP1rn" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273f900b0bad230bc0dc085e387" alt="STAR" width="120" />
       </a>
       <br />
-      <sub><strong>#5</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>STAR</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/5mVt55yfKXh5bWfm6teGEV" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="本当本気" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>本当本気</sub>
       <br />
       <sub>BiSH</sub>
     </td>
