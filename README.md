@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Il pleut aujourd'hui☔
-📍 Paris: 6°C
+# 🌍 おはようございます！雨ですね☔
+📍 Kyoto: 2°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -26,7 +26,7 @@
 直近30日間の活動サマリー:
 直近30日間で219件ものコミット、お疲れ様です！👏 Merge pull request #53 from Hiroki-org/52-テスト整備phase1、Merge pull request #18 from Hiroki-org/copilot/setup-test-environment-jest、Implement feature X to enhance user experience and optimize performanceなど、多くの作業を進められました。合計36740行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-_Total: 223 commits across 8 projects_
+_Total: 220 commits across 8 projects_
 
 <table>
   <tr>
@@ -37,7 +37,7 @@ _Total: 223 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 115 commits (51.6%)</sub>
+      <sub>📊 115 commits (52.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -48,7 +48,7 @@ _Total: 223 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 56 commits (25.1%)</sub>
+      <sub>📊 53 commits (24.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 7</sub>
     </td>
@@ -59,7 +59,7 @@ _Total: 223 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 41 commits (18.4%)</sub>
+      <sub>📊 41 commits (18.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
