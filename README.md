@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Buenos Aires: 16°C
+# 🌍 你好！晴天真美☀️
+📍 Beijing: -1°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,19 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で215件ものコミット、お疲れ様です！👏 Merge pull request #53 from Hiroki-org/52-テスト整備phase1、Merge pull request #18 from Hiroki-org/copilot/setup-test-environment-jest、Implement feature X to enhance user experience and optimize performanceなど、多くの作業を進められました。合計36740行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で219件ものコミット、素晴らしい活躍でした！✨
 
-_Total: 222 commits across 8 projects_
+特に`otodoki3`では、VitestとPlaywrightへのテストフレームワーク移行やJestテストスイート追加で品質が大きく向上しましたね！🚀 PWA対応やUIリファクタリングによるUX改善、楽曲プール管理、プレイリスト機能、ランダム曲補充、プレビュー自動再生など、多岐にわたる新機能開発と改善が進みました。
+
+`Audicle`では、Web Share Target API導入でモバイル連携を強化し、ArticleCardのアクセシビリティも改善。依存関係の定期的なアップデートもバッチリです🔧。
+
+`jules-extension`では、セッション作成画面のバリデーション強化とユニットテスト追加で入力品質を向上。ログのサニタイズによるセキュリティ対策も抜かりありません🛡️。
+
+また、`otodoki2`ではユーザー体験向上とパフォーマンス最適化に繋がる新機能実装、お疲れ様でした！
+
+各リポジトリで着実に成果を積み重ね、品質向上から新機能開発まで幅広く貢献されましたね。この調子でこれからも頑張ってください！🎉
+
+_Total: 223 commits across 8 projects_
 
 <table>
   <tr>
@@ -37,7 +47,7 @@ _Total: 222 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 115 commits (51.8%)</sub>
+      <sub>📊 115 commits (51.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -48,7 +58,7 @@ _Total: 222 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 56 commits (25.2%)</sub>
+      <sub>📊 56 commits (25.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 7</sub>
     </td>
@@ -59,7 +69,7 @@ _Total: 222 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 40 commits (18.0%)</sub>
+      <sub>📊 41 commits (18.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
