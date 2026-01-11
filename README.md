@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 おはようございます！雪が降っていますね❄️
-📍 Kyoto: 0°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Buenos Aires: 20°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 2,116 installs | ⭐ No ratings yet | v1.1.8
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 2,120 installs | ⭐ No ratings yet | v1.1.8
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 22 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-12-13%22%2C%222025-12-14%22%2C%222025-12-15%22%2C%222025-12-16%22%2C%222025-12-17%22%2C%222025-12-18%22%2C%222025-12-19%22%2C%222025-12-20%22%2C%222025-12-21%22%2C%222025-12-22%22%2C%222025-12-23%22%2C%222025-12-24%22%2C%222025-12-25%22%2C%222025-12-26%22%2C%222025-12-27%22%2C%222025-12-28%22%2C%222025-12-29%22%2C%222025-12-30%22%2C%222025-12-31%22%2C%222026-01-01%22%2C%222026-01-02%22%2C%222026-01-03%22%2C%222026-01-04%22%2C%222026-01-05%22%2C%222026-01-06%22%2C%222026-01-07%22%2C%222026-01-08%22%2C%222026-01-09%22%2C%222026-01-10%22%2C%222026-01-11%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B1373%2C1404%2C1429%2C1455%2C1475%2C1501%2C1522%2C1533%2C1564%2C1577%2C1603%2C1639%2C1669%2C1699%2C1720%2C1748%2C1774%2C1801%2C1833%2C1847%2C1881%2C1905%2C1935%2C1963%2C1988%2C2023%2C2052%2C2094%2C2109%2C2116%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B15%2C16%2C16%2C16%2C16%2C16%2C16%2C17%2C17%2C17%2C18%2C18%2C19%2C19%2C19%2C19%2C19%2C20%2C20%2C21%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-12-13%22%2C%222025-12-14%22%2C%222025-12-15%22%2C%222025-12-16%22%2C%222025-12-17%22%2C%222025-12-18%22%2C%222025-12-19%22%2C%222025-12-20%22%2C%222025-12-21%22%2C%222025-12-22%22%2C%222025-12-23%22%2C%222025-12-24%22%2C%222025-12-25%22%2C%222025-12-26%22%2C%222025-12-27%22%2C%222025-12-28%22%2C%222025-12-29%22%2C%222025-12-30%22%2C%222025-12-31%22%2C%222026-01-01%22%2C%222026-01-02%22%2C%222026-01-03%22%2C%222026-01-04%22%2C%222026-01-05%22%2C%222026-01-06%22%2C%222026-01-07%22%2C%222026-01-08%22%2C%222026-01-09%22%2C%222026-01-10%22%2C%222026-01-11%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B1373%2C1404%2C1429%2C1455%2C1475%2C1501%2C1522%2C1533%2C1564%2C1577%2C1603%2C1639%2C1669%2C1699%2C1720%2C1748%2C1774%2C1801%2C1833%2C1847%2C1881%2C1905%2C1935%2C1963%2C1988%2C2023%2C2052%2C2094%2C2109%2C2120%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B15%2C16%2C16%2C16%2C16%2C16%2C16%2C17%2C17%2C17%2C18%2C18%2C19%2C19%2C19%2C19%2C19%2C20%2C20%2C21%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,19 +24,17 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で191件ものコミット、素晴らしい活躍でした！🚀 特に大規模な機能開発や品質向上の取り組みが目立ちますね。
+開発者さん、直近30日間でなんと**191件**ものコミット、本当にお疲れ様でした！素晴らしい活動量ですね！✨
 
-**otodoki3** では、Vitest/Playwrightへのテスト環境移行やJestテストスイート導入で品質が大幅に向上しました。PWA対応や楽曲プール管理、プレイリスト機能の実装、UIコンポーネント強化など、プロダクトの中核をなす多数の新機能開発・改善に尽力されています。まさに進化の原動力ですね！✨
+特に`otodoki3`では、テストフレームワークをVitest/PlaywrightやJestへ大規模に移行し、93%という高いカバレッジを達成するなど、品質向上に大きく貢献されました！🚀 PWA対応や楽曲プール管理機能、個人プレイリスト作成・管理機能、ランダム楽曲取得RPCの実装など、ユーザー体験を格段に向上させる新機能が次々と追加されていますね。UIコンポーネントの強化やチュートリアル改善、パフォーマンス最適化にも精力的に取り組んでいました。
 
-**Audicle** では、複数の依存関係アップデートでシステムの健全性を保ちつつ、Web Share Target API追加によるモバイル連携強化や、ArticleCardのアクセシビリティ向上にも貢献。ユーザー体験への細やかな配慮が光ります。🎨
+`Audicle`では、Web Share Target APIの導入でモバイルからの記事共有を可能にし、ArticleCardのアクセシビリティ改善にも注力。ユーザーフレンドリーな改善に加え、多数のnpm依存関係の更新も着実に実施し、システムを常に最新の状態に保っていますね！💡
 
-**jules-extension** では、セッション作成画面の入力バリデーション強化やそのユニットテスト追加で、堅牢なシステム構築を進められました。ログのサニタイズといったセキュリティ面への配慮もさすがです🛡️。
+そして`jules-extension`では、セッション作成画面にインラインバリデーションを追加し、その入力バリデーションに対するユニットテストもきちんと実装。さらにログのセキュリティ強化としてANSIエスケープコードのサニタイズも行われており、堅牢性と品質向上にしっかり取り組んでいます。🔒
 
-**otodoki2** では、ユーザー体験向上とパフォーマンス最適化のための大型機能実装、お疲れ様でした！
+多岐にわたるプロジェクトで、機能開発、品質向上、セキュリティ強化と、本当に幅広い分野で素晴らしい成果を上げていますね！この調子でこれからも頑張ってください！👏
 
-多岐にわたるプロジェクトでこれほど多くの成果を出されており、本当に素晴らしいです！今後のさらなる活躍も楽しみにしています！😊
-
-_Total: 196 commits across 7 projects_
+_Total: 195 commits across 7 projects_
 
 <table>
   <tr>
@@ -47,7 +45,7 @@ _Total: 196 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 115 commits (58.7%)</sub>
+      <sub>📊 115 commits (59.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,7 +56,7 @@ _Total: 196 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 47 commits (24.0%)</sub>
+      <sub>📊 47 commits (24.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 7</sub>
     </td>
@@ -69,7 +67,7 @@ _Total: 196 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 24 commits (12.2%)</sub>
+      <sub>📊 23 commits (11.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
