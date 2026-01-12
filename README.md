@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Lyon: 5°C
+# 🌍 おはよう！曇ってるね☁️
+📍 Hiroshima: 5°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,7 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-この30日間で、あなたは合計178件もの素晴らしいコミットを達成しましたね！🎉 目覚ましい活動内容をまとめました！
-
-特に**otodoki3**では、テスト環境の大幅な強化に取り組まれましたね。VitestやPlaywrightへの移行、Jestテストスイートの追加で品質向上に大きく貢献！✨ PWA対応や楽曲プール管理機能の実装、UIコンポーネントのモダン化、プレイリスト機能の拡充など、ユーザー体験を向上させる新機能が盛りだくさんです。謎曲排除やランダム曲補充といった細やかな改善も光ります。
-
-**Audicle**では、Web Share Target APIでモバイルでの共有をスムーズにし、ArticleCardのアクセシビリティ改善にも注力。定期的な依存関係の更新でプロジェクトを健全に保っています。
-
-**jules-extension**では、セッション作成画面やComposer webviewのバリデーション強化、単体テストの追加で堅牢性を高め、ログのサニタイズでセキュリティ面もバッチリです🛡️。
-
-また、**otodoki2**でもユーザー体験とパフォーマンスを向上させる新機能に取り組まれ、多岐にわたるプロジェクトでその力を発揮していますね。
-
-あなたの広範で質の高い貢献に感謝します！この調子でこれからも素晴らしい開発を続けてください！🚀
+直近30日間で178件ものコミット、お疲れ様です！👏 Merge pull request #53 from Hiroki-org/52-テスト整備phase1、Merge pull request #18 from Hiroki-org/copilot/setup-test-environment-jest、Implement feature X to enhance user experience and optimize performanceなど、多くの作業を進められました。合計36740行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 184 commits across 7 projects_
 
