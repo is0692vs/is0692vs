@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Buenos Aires: 22°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Lyon: 5°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,19 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で178件ものコミット、お疲れ様です！素晴らしい活動量と貢献度ですね！✨
+この30日間で、あなたは合計178件もの素晴らしいコミットを達成しましたね！🎉 目覚ましい活動内容をまとめました！
 
-特に`otodoki3`では、VitestやPlaywrightへのテストフレームワーク移行、Jestの導入で高いテストカバレッジを達成し、品質を大幅に向上させました。PWA対応、楽曲プール管理機能、チュートリアルとオーディオプレーヤー、そして個人プレイリスト作成・管理機能の実装など、ユーザー体験を豊かにする新機能が目白押しです。UIコンポーネントの強化やデータ処理の改善も進みましたね。
+特に**otodoki3**では、テスト環境の大幅な強化に取り組まれましたね。VitestやPlaywrightへの移行、Jestテストスイートの追加で品質向上に大きく貢献！✨ PWA対応や楽曲プール管理機能の実装、UIコンポーネントのモダン化、プレイリスト機能の拡充など、ユーザー体験を向上させる新機能が盛りだくさんです。謎曲排除やランダム曲補充といった細やかな改善も光ります。
 
-`Audicle`では、依存関係を頻繁に更新し、プロジェクトの健全性を維持。モバイル向けにWeb Share Target APIで記事共有を容易にし、ArticleCardのアクセシビリティ改善にも貢献されました。👏
+**Audicle**では、Web Share Target APIでモバイルでの共有をスムーズにし、ArticleCardのアクセシビリティ改善にも注力。定期的な依存関係の更新でプロジェクトを健全に保っています。
 
-`jules-extension`では、セッション作成画面のバリデーション機能や関連するユニットテストを追加し、堅牢性を強化。ログのサニタイズ対応もセキュリティ意識の高さが伺えます。🔒
+**jules-extension**では、セッション作成画面やComposer webviewのバリデーション強化、単体テストの追加で堅牢性を高め、ログのサニタイズでセキュリティ面もバッチリです🛡️。
 
-`otodoki2`では、ユーザー体験向上と性能最適化のための重要な機能Xを実装されました。
+また、**otodoki2**でもユーザー体験とパフォーマンスを向上させる新機能に取り組まれ、多岐にわたるプロジェクトでその力を発揮していますね。
 
-新機能開発から品質向上、セキュリティ強化、そしてプロジェクトメンテナンスまで、多岐にわたるプロジェクトで幅広くご活躍され、チームに多大な貢献をされていますね！今後のさらなる活躍も楽しみにしています！🚀
+あなたの広範で質の高い貢献に感謝します！この調子でこれからも素晴らしい開発を続けてください！🚀
 
-_Total: 190 commits across 7 projects_
+_Total: 184 commits across 7 projects_
 
 <table>
   <tr>
@@ -47,7 +47,7 @@ _Total: 190 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 115 commits (60.5%)</sub>
+      <sub>📊 115 commits (62.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,7 +58,7 @@ _Total: 190 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 43 commits (22.6%)</sub>
+      <sub>📊 40 commits (21.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 7</sub>
     </td>
@@ -69,7 +69,7 @@ _Total: 190 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 22 commits (11.6%)</sub>
+      <sub>📊 19 commits (10.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -106,24 +106,24 @@ _Total: 190 commits across 7 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273781c530b2131180a1dd7ad30" alt="ZUTTO" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>ZUTTO</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/1SlJLYLXORVbyccJlnoJRl" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2736a7a4db44a33d9bc542513c2" alt="MORE THAN LiKE" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>MORE THAN LiKE</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273781c530b2131180a1dd7ad30" alt="ZUTTO" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>ZUTTO</sub>
       <br />
       <sub>BiSH</sub>
     </td>
