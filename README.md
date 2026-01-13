@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Perfect sunny day☀️
-📍 Los Angeles: 13°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Barcelona: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,19 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で172件ものコミット、お疲れ様です！👏 Merge pull request #53 from Hiroki-org/52-テスト整備phase1、Merge pull request #18 from Hiroki-org/copilot/setup-test-environment-jest、Implement feature X to enhance user experience and optimize performanceなど、多くの作業を進められました。合計36740行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+この30日間で合計172件もの素晴らしいコミット、お疲れ様でした！👏 さまざまなプロジェクトで精力的に活動されていますね。
 
-_Total: 175 commits across 7 projects_
+特に`otodoki3`では、VitestやPlaywright、Jestを導入し、テスト環境を大幅に強化されました。PWA対応や楽曲プール管理、個人プレイリスト作成・追加機能など、ユーザー体験を向上させる新機能が盛りだくさん！UIのモダン化や謎曲排除フィルター、プレビュー自動再生機能の実装も素晴らしいです✨
+
+`Audicle`では、依存関係の更新をこまめに行い、Web Share Target APIで共有機能を強化。ArticleCardのアクセシビリティ改善にも貢献されていますね。
+
+また、`jules-extension`ではセッション作成画面のバリデーションやユニットテストの追加で品質を向上させ、ログのサニタイズでセキュリティも強化！
+
+`otodoki2`でも新機能の実装でユーザー体験とパフォーマンスを最適化されました。
+
+どのプロジェクトでも着実に、そして質の高い開発を進められていることがよく分かります。この調子でこれからも頑張ってください！💪
+
+_Total: 165 commits across 7 projects_
 
 <table>
   <tr>
@@ -37,7 +47,7 @@ _Total: 175 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 106 commits (60.6%)</sub>
+      <sub>📊 104 commits (63.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -48,7 +58,7 @@ _Total: 175 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 40 commits (22.9%)</sub>
+      <sub>📊 32 commits (19.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 7</sub>
     </td>
@@ -59,7 +69,7 @@ _Total: 175 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 19 commits (10.9%)</sub>
+      <sub>📊 19 commits (11.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -69,7 +79,65 @@ _Total: 175 commits across 7 projects_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
-🎵 My Top Tracks on Spotify (Recently):
+## 🎵 My Top Tracks on Spotify (Recently)
 
-_Error fetching tracks. Please try again later._
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1c4dCI3yr9sV4NzzOBNuAb" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="My distinction" width="120" />
+      </a>
+      <br />
+      <sub><strong>#1</strong></sub>
+      <br />
+      <sub>My distinction</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/7hpQwS6miuzzUcEx3zOFvt" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="SEE YOU" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>SEE YOU</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1SlJLYLXORVbyccJlnoJRl" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736a7a4db44a33d9bc542513c2" alt="MORE THAN LiKE" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>MORE THAN LiKE</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273781c530b2131180a1dd7ad30" alt="ZUTTO" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>ZUTTO</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/0vFaWaqU8AGed1slnaP1rn" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273f900b0bad230bc0dc085e387" alt="STAR" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>STAR</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+  </tr>
+</table>
 <!-- spotify:end -->
