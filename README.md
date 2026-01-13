@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Paris: 12°C
+# 🌍 Hallo! Bewölkt heute☁️
+📍 Berlin: 3°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,17 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-この30日間で、あなたは172件もの素晴らしいコミットを達成しましたね！🎉 多岐にわたるプロジェクトで活発な活動を見せています。
+直近30日間で合計172件のコミット、素晴らしい成果ですね！🚀 複数のプロジェクトで活発に活動されました。
 
-特に、[otodoki3]ではテスト環境をVitestやPlaywrightに移行し、Jestでのカバレッジも大幅に向上させるなど、品質向上に大きく貢献しました。PWA対応や楽曲プール、個人プレイリスト管理機能の実装、UI改善、そして「謎曲」排除のためのフィルター追加など、ユーザー体験と機能の両面で大きな進化を遂げましたね！
+特に、**otodoki3**ではテストフレームワークをVitestやPlaywrightに移行し、Jestでのカバレッジ向上、PWA対応、楽曲プールや個人プレイリストの管理機能実装など、基盤強化と新機能追加を多く実現されましたね。チュートリアルやUI改善、不適切な楽曲フィルタリングなど、ユーザー体験にも大きく貢献されました。
 
-[Audicle]では、Web Share Target APIでモバイルからの記事共有を可能にし、ArticleCardのアクセシビリティも向上させました。複数の依存関係更新も怠らず、常に最新の状態を保っています。
+**Audicle**では、Dependabotによる依存関係の更新を頻繁に行いつつ、Web Share Target APIでモバイル共有機能を加えたり、ArticleCardのアクセシビリティを向上させたりと、品質向上に取り組まれました。✨
 
-[jules-extension]では、セッション作成画面のインラインバリデーション追加や関連する単体テストの実装、ログのセキュリティ強化（ANSIエスケープコードの除去）といった、堅牢性と品質を高める作業に注力されました。
+また、**jules-extension**ではセッション作成画面のバリデーションや単体テストの追加、ログのサニタイズといった堅牢性やセキュリティ強化を進めました。🛡️ **otodoki2**でもユーザー体験向上とパフォーマンス最適化に貢献されています。
 
-そして、[otodoki2]ではユーザー体験の向上とパフォーマンス最適化に取り組まれましたね！
+機能追加から品質改善まで、本当に充実した30日間だったことと思います。本当にお疲れ様でした！今後のさらなるご活躍も楽しみにしています！😊
 
-これだけの成果を短期間で出すとは本当に素晴らしいです！次の一ヶ月も、あなたの活躍を楽しみにしています！✨
-
-_Total: 163 commits across 7 projects_
+_Total: 162 commits across 7 projects_
 
 <table>
   <tr>
@@ -47,7 +45,7 @@ _Total: 163 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 104 commits (63.8%)</sub>
+      <sub>📊 104 commits (64.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,7 +56,7 @@ _Total: 163 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 30 commits (18.4%)</sub>
+      <sub>📊 29 commits (17.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 7</sub>
     </td>
