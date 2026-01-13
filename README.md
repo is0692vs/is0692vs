@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Hiroshima: 7°C
+# 🌍 Hello! Perfect sunny day☀️
+📍 Los Angeles: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,9 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-今月は合計172件もの素晴らしいコミット、お疲れ様でした！✨ 様々なプロジェクトで目覚ましい進捗がありましたね！
+直近30日間で172件ものコミット、お疲れ様です！👏 Merge pull request #53 from Hiroki-org/52-テスト整備phase1、Merge pull request #18 from Hiroki-org/copilot/setup-test-environment-jest、Implement feature X to enhance user experience and optimize performanceなど、多くの作業を進められました。合計36740行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-特に**otodoki3**では、テストフレームワークをVitestやPlaywrightへ移行し、Jestでのカバレッジを93%まで高めるなど、品質向上に大きく貢献しました。PWA対応や楽曲プール管理機能、個人プレイリスト作成、曲補充ランダムRPCといった新機能の実装に加え、UIのモダン化や「謎曲」排除フィルター、チュートリアル改善など、多岐にわたる機能強化とユーザー体験向上を成し遂げましたね！🎉
-
-**Audicle**では、Web Share Target APIでモバイル記事共有機能を実装し、ArticleCardのアクセシビリティを改善するなど、UX向上に注力しました。また、定期的な依存関係の更新も着実に行われています。
-
-**jules-extension**では、セッション作成画面のインラインバリデーションとユニットテストを追加し、堅牢性を高めました。ログのサニタイズでセキュリティも強化されており、品質へのこだわりが光ります。🛡️
-
-そして**otodoki2**では、ユーザー体験とパフォーマンスを最適化する「機能X」の実装を進めました。
-
-全てのプロジェクトで積極的な開発が進んでおり、その成果が着実に形になっています。この調子でこれからも頑張りましょう！🚀
-
-_Total: 184 commits across 7 projects_
+_Total: 175 commits across 7 projects_
 
 <table>
   <tr>
@@ -47,7 +37,7 @@ _Total: 184 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 115 commits (62.5%)</sub>
+      <sub>📊 106 commits (60.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,7 +48,7 @@ _Total: 184 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 40 commits (21.7%)</sub>
+      <sub>📊 40 commits (22.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 7</sub>
     </td>
@@ -69,7 +59,7 @@ _Total: 184 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 19 commits (10.3%)</sub>
+      <sub>📊 19 commits (10.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -79,65 +69,7 @@ _Total: 184 commits across 7 projects_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
-## 🎵 My Top Tracks on Spotify (Recently)
+🎵 My Top Tracks on Spotify (Recently):
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://open.spotify.com/track/1c4dCI3yr9sV4NzzOBNuAb" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="My distinction" width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>My distinction</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/7hpQwS6miuzzUcEx3zOFvt" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="SEE YOU" width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>SEE YOU</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/1SlJLYLXORVbyccJlnoJRl" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736a7a4db44a33d9bc542513c2" alt="MORE THAN LiKE" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>MORE THAN LiKE</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273781c530b2131180a1dd7ad30" alt="ZUTTO" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>ZUTTO</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/0vFaWaqU8AGed1slnaP1rn" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273f900b0bad230bc0dc085e387" alt="STAR" width="120" />
-      </a>
-      <br />
-      <sub><strong>#5</strong></sub>
-      <br />
-      <sub>STAR</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-  </tr>
-</table>
+_Error fetching tracks. Please try again later._
 <!-- spotify:end -->
