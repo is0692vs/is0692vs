@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 안녕하세요! 맑은 날씨네요☀️
-📍 Seoul: 1°C
+# 🌍 Hello! Rather cloudy today☁️
+📍 London: 9°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -13,9 +13,9 @@
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
-📦 **[pr-cannon](https://github.com/is0692vs/pr-cannon)**: 685 total downloads
+📦 **[pr-cannon](https://github.com/is0692vs/pr-cannon)**: 686 total downloads
 
-![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-12-19%22%2C%222025-12-20%22%2C%222025-12-21%22%2C%222025-12-22%22%2C%222025-12-23%22%2C%222025-12-24%22%2C%222025-12-25%22%2C%222025-12-26%22%2C%222025-12-27%22%2C%222025-12-28%22%2C%222025-12-29%22%2C%222025-12-30%22%2C%222025-12-31%22%2C%222026-01-01%22%2C%222026-01-02%22%2C%222026-01-03%22%2C%222026-01-04%22%2C%222026-01-05%22%2C%222026-01-06%22%2C%222026-01-07%22%2C%222026-01-08%22%2C%222026-01-09%22%2C%222026-01-10%22%2C%222026-01-11%22%2C%222026-01-12%22%2C%222026-01-13%22%2C%222026-01-14%22%2C%222026-01-15%22%2C%222026-01-16%22%2C%222026-01-17%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B676%2C676%2C676%2C676%2C677%2C677%2C677%2C683%2C683%2C683%2C683%2C684%2C684%2C684%2C684%2C684%2C684%2C685%2C685%2C685%2C685%2C685%2C685%2C685%2C685%2C685%2C685%2C685%2C685%2C685%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![Download Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222025-12-19%22%2C%222025-12-20%22%2C%222025-12-21%22%2C%222025-12-22%22%2C%222025-12-23%22%2C%222025-12-24%22%2C%222025-12-25%22%2C%222025-12-26%22%2C%222025-12-27%22%2C%222025-12-28%22%2C%222025-12-29%22%2C%222025-12-30%22%2C%222025-12-31%22%2C%222026-01-01%22%2C%222026-01-02%22%2C%222026-01-03%22%2C%222026-01-04%22%2C%222026-01-05%22%2C%222026-01-06%22%2C%222026-01-07%22%2C%222026-01-08%22%2C%222026-01-09%22%2C%222026-01-10%22%2C%222026-01-11%22%2C%222026-01-12%22%2C%222026-01-13%22%2C%222026-01-14%22%2C%222026-01-15%22%2C%222026-01-16%22%2C%222026-01-17%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22pr-cannon%22%2C%22data%22%3A%5B676%2C676%2C676%2C676%2C677%2C677%2C677%2C683%2C683%2C683%2C683%2C684%2C684%2C684%2C684%2C684%2C684%2C685%2C685%2C685%2C685%2C685%2C685%2C685%2C685%2C685%2C685%2C685%2C685%2C686%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22npm%20Downloads%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- stats:end -->
 
 <!-- active-projects:start -->
@@ -24,19 +24,17 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計140件ものコミット、素晴らしい集中力と生産性ですね！🎉
+直近30日間で140件ものコミット、お疲れ様でした！素晴らしい活動量ですね👏
 
-特に**otodoki3**では、テスト環境の劇的な進化が見られます。VitestとPlaywrightへの移行、Jestの導入でカバレッジも大幅に向上させ、品質向上に大きく貢献しましたね。🚀 PWA対応や楽曲プール管理、個人プレイリスト作成、プレイリストへの曲追加など、ユーザー体験を豊かにする新機能が次々と実装されました。チュートリアルカードやナビゲーションUI、Google認証の改善、そして謎曲排除のフィルタリングなど、細部にわたる改善も光っています。Supabaseテーブルの初期構築やLike/Dislikeボタンの実装も、アプリの基盤をしっかり固めました。
+特に**otodoki3**では、テスト環境の大幅な強化が見られます。VitestやPlaywrightへの移行、Jestテストスイートの導入で、コードの品質と安定性が飛躍的に向上しましたね🚀。PWA対応や楽曲プール管理、個人プレイリストの作成・管理、プレイリストへの曲追加といった主要機能の開発も精力的に進められました。チュートリアルカードやオーディオプレーヤー、ナビゲーションUI、like/dislikeボタン、Google認証の改善など、ユーザー体験を向上させる機能が満載です✨。謎曲排除やGeminiワークフローの削除といったクリーンアップも素晴らしいです🧹。
 
-**Audicle**では、Web Share Target APIの追加でモバイルからの記事共有がスムーズに！Dependabotによる定期的な依存関係の更新も、プロジェクトの健全性を保つ上で大変重要です。
+**Audicle**では、モバイルでの記事共有を可能にするWeb Share Target APIが追加され、利便性が向上しましたね📲。依存関係の定期的な更新もお忘れなく、メンテナンスもバッチリです👍。
 
-**otodoki2**では、ユーザー体験とパフォーマンスを向上させるFeature Xの実装、お疲れ様でした！
+**otodoki2**では、ユーザー体験とパフォーマンスを向上させるFeature Xの実装、大変重要ですね⚙️。そして**jules-extension**では、Webアプリで開くボタンを追加し、他システムとの連携をスムーズにしました🔗。
 
-そして**jules-extension**では「Webアプリで開く」ボタンの追加で、ユーザーの利便性がさらに向上しましたね。
+多岐にわたるプロジェクトで、これだけ多くの成果を出されたことに感銘を受けます！チーム全体の生産性が大いに向上しているのが分かりますね。今後のさらなる活躍も期待しています！😊
 
-様々なリポジトリで、テスト基盤の強化から新機能開発、UI/UXの改善、そしてメンテナンスまで、多岐にわたる重要な貢献がなされています。この調子で、これからも素晴らしい開発を楽しんでいきましょう！✨
-
-_Total: 141 commits across 7 projects_
+_Total: 140 commits across 7 projects_
 
 <table>
   <tr>
@@ -47,7 +45,7 @@ _Total: 141 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 104 commits (73.8%)</sub>
+      <sub>📊 104 commits (74.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,7 +56,7 @@ _Total: 141 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 18 commits (12.8%)</sub>
+      <sub>📊 17 commits (12.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 8</sub>
     </td>
