@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia nublado☁️
-📍 São Paulo: 27°C
+# 🌍 안녕하세요! 맑은 날씨네요☀️
+📍 Seoul: 1°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,17 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で140件ものコミット、素晴らしい活動量ですね！✨
+直近30日間で合計140件ものコミット、素晴らしい集中力と生産性ですね！🎉
 
-otodoki3では、テストフレームワークをVitestとPlaywrightへ刷新し、Jestでのカバレッジを93%に高めるなど、品質向上に大きく貢献しました。PWA対応や、楽曲プール管理機能、個人プレイリスト作成・管理、ランダム曲補充RPCの実装、UIモダン化、ナビゲーション改善、Google認証強化、Supabaseテーブルの初期構築、謎曲排除フィルターなど、ユーザー体験を向上させる重要な開発が着々と進みましたね。
+特に**otodoki3**では、テスト環境の劇的な進化が見られます。VitestとPlaywrightへの移行、Jestの導入でカバレッジも大幅に向上させ、品質向上に大きく貢献しましたね。🚀 PWA対応や楽曲プール管理、個人プレイリスト作成、プレイリストへの曲追加など、ユーザー体験を豊かにする新機能が次々と実装されました。チュートリアルカードやナビゲーションUI、Google認証の改善、そして謎曲排除のフィルタリングなど、細部にわたる改善も光っています。Supabaseテーブルの初期構築やLike/Dislikeボタンの実装も、アプリの基盤をしっかり固めました。
 
-Audicleでは、Dependabotによる依存関係更新でプロジェクトの健全性を保ちつつ、Web Share Target APIを追加し、モバイルからの記事共有機能を実装。連携機能が強化されました。
+**Audicle**では、Web Share Target APIの追加でモバイルからの記事共有がスムーズに！Dependabotによる定期的な依存関係の更新も、プロジェクトの健全性を保つ上で大変重要です。
 
-otodoki2では、ユーザー体験向上とパフォーマンス最適化のための「機能X」を実装。jules-extensionではWebアプリで開くボタンを追加し、他サービスとの連携を強化しています。
+**otodoki2**では、ユーザー体験とパフォーマンスを向上させるFeature Xの実装、お疲れ様でした！
 
-この30日間で、テスト環境の整備から新機能開発、既存機能の改善、インフラ構築、保守まで、幅広い分野で素晴らしい進捗がありました。今後のさらなる活躍も楽しみにしています！🚀
+そして**jules-extension**では「Webアプリで開く」ボタンの追加で、ユーザーの利便性がさらに向上しましたね。
+
+様々なリポジトリで、テスト基盤の強化から新機能開発、UI/UXの改善、そしてメンテナンスまで、多岐にわたる重要な貢献がなされています。この調子で、これからも素晴らしい開発を楽しんでいきましょう！✨
 
 _Total: 141 commits across 7 projects_
 
@@ -93,24 +95,24 @@ _Total: 141 commits across 7 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/7hpQwS6miuzzUcEx3zOFvt" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="SEE YOU" width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>SEE YOU</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/1SlJLYLXORVbyccJlnoJRl" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2736a7a4db44a33d9bc542513c2" alt="MORE THAN LiKE" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#2</strong></sub>
       <br />
       <sub>MORE THAN LiKE</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/7hpQwS6miuzzUcEx3zOFvt" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="SEE YOU" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>SEE YOU</sub>
       <br />
       <sub>BiSH</sub>
     </td>
