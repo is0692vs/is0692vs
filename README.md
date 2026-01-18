@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rainy day☔
-📍 New York: 1°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Bogotá: 15°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,15 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間でなんと140件ものコミット、素晴らしいですね！多岐にわたるプロジェクトで大活躍でした！👏
+直近30日間で合計140コミット、素晴らしい活躍でしたね！🎉
 
-特に**otodoki3**では、テスト環境の大幅な強化が見られますね。VitestやPlaywrightへの移行、Jestの導入でカバレッジ93%達成は圧巻です！✨ PWA対応や楽曲プール管理機能の実装、プレイリスト機能の追加、さらには認証機能の改善やUIのモダン化まで、ユーザー体験を向上させる新機能開発に精力的に取り組んでいます。Supabaseの初期設定も完了し、基盤も着々と固めていますね！
+特に `otodoki3` では、VitestやPlaywright、Jestを用いたテスト基盤の大幅な強化を実施し、品質向上と開発効率アップに大きく貢献されました。PWA対応、楽曲プールや個人プレイリスト管理機能の実装、ナビゲーションUIの刷新、チュートリアルカードとオーディオプレーヤー機能の追加など、ユーザー体験を向上させる新機能開発とUI/UX改善を精力的に進めていますね。Google認証の改善やSupabaseテーブルの初期構築といった基盤整備も抜かりありません！
 
-**Audicle**では、モバイルでの記事共有機能を実装し、Web Share Target APIを活用。ユーザー間の連携をスムーズにしています。また、Dependabotによる定期的な依存関係の更新で、常に最新かつ安全な環境を保っているのも素晴らしいです！♻️
+`Audicle` では、Web Share Target APIを追加してモバイルからの記事共有を可能にし、ユーザーの利便性を向上。依存関係の定期的なアップデートも着実に実施されています。
 
-**jules-extension**では、Webアプリで開くボタンを追加し、他システムとの連携を強化していますね。そして、**otodoki2**でも主要な機能改善によりユーザーエクスペリエンスとパフォーマンスの最適化を進めました。
+`otodoki2` では新たな機能の実装、そして `jules-extension` ではWebアプリ連携ボタンの追加と、それぞれのプロジェクトで重要な進捗が見られます。
 
-たくさんの貢献、本当に素晴らしい成果です！この調子でこれからも頑張ってください！🎉
+多岐にわたるプロジェクトでの素晴らしい貢献、本当に尊敬します！この勢いで、次の期間もさらなる飛躍を期待しています！🚀
 
 _Total: 140 commits across 6 projects_
 
@@ -58,7 +58,7 @@ _Total: 140 commits across 6 projects_
       <br />
       <sub>📊 16 commits (11.4%)</sub>
       <br />
-      <sub>🔷 TypeScript ⭐ 8</sub>
+      <sub>🔷 TypeScript ⭐ 9</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
