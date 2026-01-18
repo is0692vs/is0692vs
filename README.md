@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy weather today☁️
-📍 Los Angeles: 19°C
+# 🌍 你好！今天多云☁️
+📍 Beijing: -3°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,17 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で140件ものコミット、素晴らしい集中力と生産性ですね！🚀
+直近30日間で合計140件ものコミット、お疲れ様です！この期間も精力的な開発活動、素晴らしい成果ですね！👏
 
-**otodoki3**では、テストフレームワークをVitestとPlaywrightに移行し、Jestも導入して大規模なテスト整備を行いましたね。PWA対応や楽曲プール管理機能、個人プレイリスト作成、UIのモダン化とナビゲーション改善、Google認証強化、Supabase基盤構築など、多岐にわたる重要な機能開発と品質向上に大きく貢献されています！✨
+特に「otodoki3」では、VitestやPlaywrightへのテスト環境移行、Jestでのカバレッジ向上といった基盤強化から、PWA対応、楽曲プール・プレイリスト管理機能の実装、UIモダン化、各種認証機能の強化、そしてSupabaseテーブル作成まで、非常に多岐にわたる重要な開発を進めていますね！大規模な変更も多く、目覚ましい活躍です！🚀✨
 
-**Audicle**では、依存関係をこまめに更新してプロジェクトを最新に保ちつつ、Web Share Target APIを追加し、モバイルからの共有機能を強化しましたね。📱
+「Audicle」では、Web Share Target APIを導入しモバイルからの記事共有を実現！定期的な依存関係の更新も怠らず、安定稼働に貢献しています。🌱
+「otodoki2」では、ユーザー体験とパフォーマンスを向上させる新機能Xを実装し、大きな改善をもたらしましたね！💪
+そして「jules-extension」では、Webアプリ連携をスムーズにする便利なボタンを追加しました。連携強化、バッチリですね！👍
 
-**otodoki2**では、ユーザー体験向上とパフォーマンス最適化のための「Feature X」を実装し、大幅な機能改善を進められました。🚀
+この調子で、これからも素敵な開発を続けていきましょう！応援しています！🎉
 
-さらに**jules-extension**では、Webアプリとの連携をスムーズにする「Webアプリで開く」ボタンを追加。ユーザーの利便性を高める素晴らしい改善です！👍
-
-これら全ての活動が、プロジェクトの成長と品質向上に繋がっています。日々の開発、本当にお疲れ様です！これからも素晴らしい成果を楽しみにしています！🎉
-
-_Total: 141 commits across 7 projects_
+_Total: 140 commits across 6 projects_
 
 <table>
   <tr>
@@ -47,7 +45,7 @@ _Total: 141 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 104 commits (73.8%)</sub>
+      <sub>📊 104 commits (74.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,7 +56,7 @@ _Total: 141 commits across 7 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 17 commits (12.1%)</sub>
+      <sub>📊 16 commits (11.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 8</sub>
     </td>
