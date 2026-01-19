@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 你好！今天多云☁️
-📍 Beijing: -11°C
+# 🌍 ¡Hola! Está lloviendo☔
+📍 Bogotá: 17°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,17 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で139件ものコミット、お疲れ様でした！素晴らしい活動量ですね👏
+直近30日間で合計139件ものコミット、本当にお疲れ様でした！素晴らしい活動量ですね👏
 
-**otodoki3**では、テスト環境をVitest/Playwright/Jestへ移行しテストカバレッジを大幅に向上させたことを筆頭に、PWA対応、楽曲プール管理機能、個人プレイリスト作成・曲追加機能、UIのモダン化、ナビゲーション改善、Google認証強化、Supabase連携など、多岐にわたる新機能追加と基盤強化を力強く推進しましたね！まるで新しいアプリを一つ作り上げたかのようです🚀
+**otodoki3**では、テストフレームワークをVitest/PlaywrightやJestへ移行し、網羅的なテスト環境を整備されました。PWA対応や楽曲プール管理機能の実装、個人プレイリストの作成・追加機能、ユーザー認証の強化など、新機能開発が目白押しでしたね！UIのモダン化やナビゲーション改善、Supabase基盤整備も進み、プロダクトが大きく進化しています✨
 
-**Audicle**では、Dependabotによる定期的な依存関係更新に加え、モバイルでの記事共有を可能にするWeb Share Target APIの実装も行い、利便性が向上しました✨
+**Audicle**では、Dependabotによる依存関係の多数更新でライブラリを常に最新に保ちつつ、Web Share Target APIを追加してモバイルからの記事共有機能を拡充されました！
 
-**otodoki2**では、ユーザー体験とパフォーマンスを向上させる新機能の実装に尽力されましたね。
+**otodoki2**では、ユーザーエクスペリエンス向上のための主要な機能実装とパフォーマンス最適化に取り組まれました。
 
-各プロジェクトで着実に前進しており、その熱意と成果に感銘を受けました！この勢いを維持して、さらなる飛躍を楽しみにしています！🎉
+複数のプロジェクトで多岐にわたる重要な改善と新機能開発、本当に素晴らしい成果です！今後の展開も楽しみですね🚀
 
-_Total: 130 commits across 5 projects_
+_Total: 121 commits across 5 projects_
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ _Total: 130 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 104 commits (80.0%)</sub>
+      <sub>📊 95 commits (78.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +56,7 @@ _Total: 130 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 11 commits (8.5%)</sub>
+      <sub>📊 11 commits (9.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 9</sub>
     </td>
@@ -67,7 +67,7 @@ _Total: 130 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/CronHost" target="_blank">CronHost</a></strong></sub>
       <br />
-      <sub>📊 9 commits (6.9%)</sub>
+      <sub>📊 9 commits (7.4%)</sub>
       <br />
       <sub>📄 Unknown </sub>
     </td>
