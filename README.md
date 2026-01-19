@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rather cloudy today☁️
-📍 London: 9°C
+# 🌍 ¡Hola! Día soleado☀️
+📍 Buenos Aires: 18°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,15 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-素晴らしい30日間でした！🎉 直近で139件ものコミット、精力的な開発お疲れ様です！
+直近30日間で139件ものコミット、お疲れ様でした！素晴らしい活動ですね！✨
 
-特に**otodoki3**では、テストフレームワークをVitestとPlaywrightへ移行し、Jestで93%のカバレッジを達成するなど、非常に堅牢なテスト環境を整備されましたね。PWA対応や楽曲プール管理、個人プレイリスト作成、曲の追加・補充機能、謎曲排除フィルタといったユーザー体験を向上させる新機能を次々とリリース。チュートリアルやナビゲーションUIの改善、Google認証強化、Supabaseテーブルの初期設定まで、多岐にわたる基盤構築と機能拡充を進められました。
+特に「otodoki3」では、大規模な機能追加と基盤強化に尽力されました。VitestとPlaywrightへのテストフレームワーク移行や、Jestによる高カバレッジなテストスイート追加で、品質向上の土台をがっちり固めましたね！🚀 PWA対応でユーザー体験を向上させ、楽曲プール管理、個人プレイリスト作成・管理機能、ランダム曲取得、Google認証の改善、ナビゲーションUIの刷新など、多岐にわたる新機能実装と改善が見られます。データベースの初期設定も完了し、開発が大きく前進しましたね！
 
-また、**Audicle**では、モバイルでの記事共有を容易にするWeb Share Target APIを追加し、ユーザー連携を強化。Dependabotによる依存関係の定期的な更新で、常に最新の状態を保つためのメンテナンスも抜かりありませんね。
+また「Audicle」では、Web Share Target APIを追加し、モバイルからの記事共有をスムーズにしました。ユーザーの利便性向上への貢献、素晴らしいです！💡 複数の依存関係更新も着実に行い、プロジェクトの健全性を保っていますね。
 
-**otodoki2**でも、ユーザー体験向上とパフォーマンス最適化のための重要な機能実装に着手され、素晴らしい成果です！
+これらの活動は、プロジェクトを大きく前進させる貴重な貢献ばかりです。この調子で、これからも頑張っていきましょう！💪😊
 
-この調子で、これからも素敵な開発を続けていきましょう！応援しています！🚀
-
-_Total: 140 commits across 6 projects_
+_Total: 139 commits across 6 projects_
 
 <table>
   <tr>
@@ -45,7 +43,7 @@ _Total: 140 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 104 commits (74.3%)</sub>
+      <sub>📊 104 commits (74.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +54,7 @@ _Total: 140 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 16 commits (11.4%)</sub>
+      <sub>📊 15 commits (10.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 9</sub>
     </td>
@@ -67,7 +65,7 @@ _Total: 140 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 10 commits (7.1%)</sub>
+      <sub>📊 10 commits (7.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
