@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはようございます！雪が降っていますね❄️
-📍 Kyoto: 1°C
+# 🌍 Hallo! Sonniger Tag☀️
+📍 Berlin: -1°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,15 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で125件ものコミット、お疲れ様です！👏 Merge pull request #53 from Hiroki-org/52-テスト整備phase1、Merge pull request #18 from Hiroki-org/copilot/setup-test-environment-jest、Merge pull request #41 from Hiroki-org/40-pwa対応など、多くの作業を進められました。合計27852行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で128件ものコミット、素晴らしい集中力と生産性ですね！👏
 
-_Total: 102 commits across 5 projects_
+特に`otodoki3`では、基盤から大きく進化を遂げました。VitestとPlaywrightへのテストフレームワーク移行、Jestでのカバレッジ向上といった堅牢なテスト環境を整備し、品質向上に貢献しましたね。🚀 さらにPWA対応でユーザー体験を向上させ、ナビゲーションUIやディスカバリー画面のカードUI刷新、色調整など、UI/UXのモダン化にも注力しました。個人プレイリスト作成、曲の追加、ライク/ディスライク、さらには謎曲排除ロジックの実装まで、ユーザーがより音楽を楽しめる機能が盛りだくさんです！
+
+一方、`Audicle`ではWeb Share Target APIを追加し、モバイルからの記事共有をスムーズにする機能を実装しました。また、定期的な依存関係の更新も diligent に行い、プロジェクトの健全性を保っていますね。
+
+これらの多岐にわたる活動は、プロジェクトの成長に大きく貢献しています。この調子で、次なる開発も期待しています！😊
+
+_Total: 105 commits across 5 projects_
 
 <table>
   <tr>
@@ -37,7 +43,7 @@ _Total: 102 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 66 commits (64.7%)</sub>
+      <sub>📊 66 commits (62.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -48,7 +54,7 @@ _Total: 102 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 21 commits (20.6%)</sub>
+      <sub>📊 24 commits (22.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
@@ -59,7 +65,7 @@ _Total: 102 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/CronHost" target="_blank">CronHost</a></strong></sub>
       <br />
-      <sub>📊 9 commits (8.8%)</sub>
+      <sub>📊 9 commits (8.6%)</sub>
       <br />
       <sub>📄 Unknown </sub>
     </td>
