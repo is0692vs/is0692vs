@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hallo! Sonniger Tag☀️
-📍 Berlin: 1°C
+# 🌍 おはようございます！雪が降っていますね❄️
+📍 Kyoto: 1°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,9 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で121件ものコミット、お疲れ様です！👏 Merge pull request #53 from Hiroki-org/52-テスト整備phase1、Merge pull request #18 from Hiroki-org/copilot/setup-test-environment-jest、Merge pull request #41 from Hiroki-org/40-pwa対応など、多くの作業を進められました。合計27852行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で125件ものコミット、お疲れ様です！👏 Merge pull request #53 from Hiroki-org/52-テスト整備phase1、Merge pull request #18 from Hiroki-org/copilot/setup-test-environment-jest、Merge pull request #41 from Hiroki-org/40-pwa対応など、多くの作業を進められました。合計27852行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-_Total: 100 commits across 5 projects_
+_Total: 102 commits across 5 projects_
 
 <table>
   <tr>
@@ -37,7 +37,7 @@ _Total: 100 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 68 commits (68.0%)</sub>
+      <sub>📊 66 commits (64.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -48,7 +48,7 @@ _Total: 100 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 17 commits (17.0%)</sub>
+      <sub>📊 21 commits (20.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
@@ -59,7 +59,7 @@ _Total: 100 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/CronHost" target="_blank">CronHost</a></strong></sub>
       <br />
-      <sub>📊 9 commits (9.0%)</sub>
+      <sub>📊 9 commits (8.8%)</sub>
       <br />
       <sub>📄 Unknown </sub>
     </td>
