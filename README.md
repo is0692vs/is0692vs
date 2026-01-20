@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Buenos Aires: 19°C
+# 🌍 G'day! Bit cloudy today☁️
+📍 Sydney: 20°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,17 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で115件ものコミット、お疲れ様です！素晴らしい活躍ですね✨
+直近30日間で合計115件もの素晴らしいコミット、お疲れ様でした！👏多岐にわたる開発活動、本当に頭が下がります。
 
-特に**otodoki3**では、テスト基盤をVitest/Playwrightへ移行し、Jestテストスイート追加で品質が大きく向上しましたね！PWA対応による利便性向上も素晴らしいです。UIのモダン化やナビゲーション、ディスカバリー画面の改善でユーザー体験もぐっと良くなりました。「個人プレイリスト作成」や「プレイリストへの曲追加」といったコア機能の充実、「謎曲排除」や「曲補充ランダムRPC」での楽曲体験の洗練、Google認証改善、チュートリアルやオーディオプレイヤーの機能追加と、多岐にわたる新機能開発、お見事です！👏
+特に`otodoki3`では、テストフレームワークをVitestとPlaywrightへ移行し、Jestで93%のテストカバレッジを達成するなど、開発品質の大幅向上に尽力しましたね！🚀 PWA対応やモダンなUIコンポーネントへの更新、ナビゲーション改善、色調整でユーザー体験も大きく前進しました✨
 
-また、**Audicle**では、Web Share Target APIで記事共有機能を追加し、ユーザー連携がスムーズになりましたね。さらに定期的な依存関係の更新で、システムの安定稼働にも貢献されています。
+また、`otodoki3`では個人プレイリストの作成・追加機能、楽曲の「いいね・よくない」評価保存、ランダム楽曲取得RPCの実装、さらには厳格なアーティスト名フィルターによる「謎曲排除」まで、コンテンツのパーソナライズと質の向上に大きく貢献しています。Google認証の強化も忘れていません！
 
-多岐にわたるプロジェクトで、機能強化、品質向上、ユーザー体験の改善に大きく貢献されましたね！この調子で頑張っていきましょう！🚀
+一方、`Audicle`ではWeb Share Target APIを追加し、モバイルからの記事共有をスムーズにする改善を行いました📱 定期的なnpm依存関係の更新も怠らず、プロジェクトの健全性を保つ素晴らしい取り組みです。
 
-_Total: 115 commits across 5 projects_
+これほど多岐にわたる機能改善と品質向上、本当に素晴らしい活躍でした！今後のさらなる発展が楽しみです！😊
+
+_Total: 109 commits across 5 projects_
 
 <table>
   <tr>
@@ -43,7 +45,7 @@ _Total: 115 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 89 commits (77.4%)</sub>
+      <sub>📊 83 commits (76.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -54,7 +56,7 @@ _Total: 115 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 11 commits (9.6%)</sub>
+      <sub>📊 11 commits (10.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 9</sub>
     </td>
@@ -65,7 +67,7 @@ _Total: 115 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/CronHost" target="_blank">CronHost</a></strong></sub>
       <br />
-      <sub>📊 9 commits (7.8%)</sub>
+      <sub>📊 9 commits (8.3%)</sub>
       <br />
       <sub>📄 Unknown </sub>
     </td>
