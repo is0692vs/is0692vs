@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 안녕하세요! 맑은 날씨네요☀️
-📍 Seoul: -10°C
+# 🌍 Olá! Dia chuvoso☔
+📍 Lisbon: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,18 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**105件**ものコミット、本当に素晴らしい活動量ですね！👏
+直近30日間でなんと**105件**ものコミット、素晴らしい集中力と生産性ですね！👏
 
-特に**otodoki3**では、開発の基盤を強化するテストフレームワーク（Vitest & Playwright）の移行やPWA対応といった大規模な改善を進めました📱。また、UIのモダン化やナビゲーションUIの改善✨、さらに個人プレイリスト作成・楽曲追加機能、Like/Dislikeボタン、そしてランダム曲補充機能など、ユーザー体験を豊かにする新機能が続々と実装されています🎶。Google認証の強化や謎曲排除のフィルター追加も素晴らしいです🔐。
+特に`otodoki3`リポジトリでは、VitestとPlaywrightへのテストフレームワーク移行やPWA対応と、プロジェクトの基盤を大きく強化しました。✨
+UIのモダン化やナビゲーションUI、色調整でユーザー体験も格段に向上したことでしょう！🎨個人プレイリスト作成・管理、プレイリストへの曲追加、ランダムRPC、楽曲のいいね・よくない機能、謎曲排除フィルターなど、新機能も盛りだくさんですね。プレビュー自動再生、チュートリアルカード、認証機能の改善も進みました。まさに機能強化の嵐です！🚀
 
-**Audicle**では、モバイルでの記事共有を可能にするWeb Share Target APIの追加で利便性が向上し、定期的な依存関係のアップデートで安定性もバッチリです📦。
+`Audicle`リポジトリでは、Web Share Target APIの実装でモバイルからの記事共有がスムーズに！📱 また、複数回にわたる依存関係のアップデートで、システムの安定性もバッチリです。👍
 
-**jules-extension**では、プラン内容表示の改善とテスト整備が行われましたね🧪。
+そして`jules-extension`では、プラン内容表示の改善に向けたユーティリティとテストの実装を行いましたね！🌟
 
-多岐にわたるプロジェクトでこれだけの成果を出せるのは流石です！この調子でこれからも素晴らしい開発を続けていきましょう！😊
+この短期間でこれだけ多くの成果を出されたこと、心から尊敬します！これからのさらなる活躍が楽しみです！🎉
 
-_Total: 104 commits across 5 projects_
+_Total: 96 commits across 4 projects_
 
 <table>
   <tr>
@@ -45,7 +46,7 @@ _Total: 104 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 66 commits (63.5%)</sub>
+      <sub>📊 66 commits (68.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,20 +57,20 @@ _Total: 104 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 24 commits (23.1%)</sub>
+      <sub>📊 24 commits (25.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/is0692vs/CronHost" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/is0692vs/CronHost" alt="CronHost" width="100%" />
+      <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/Audicle" alt="Audicle" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/is0692vs/CronHost" target="_blank">CronHost</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 8 commits (7.7%)</sub>
+      <sub>📊 6 commits (6.3%)</sub>
       <br />
-      <sub>📄 Unknown </sub>
+      <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
   </tr>
 </table>
