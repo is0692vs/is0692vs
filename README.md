@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Está nublado☁️
-📍 Mexico City: 13°C
+# 🌍 こんにちは！くもってますね☁️
+📍 Fukuoka: 3°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,18 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で105件ものコミット、素晴らしい成果ですね！日々の活発な開発、本当にお疲れ様です！🚀
+直近30日間で、なんと**105件**ものコミットを重ねられましたね！素晴らしい活動量です👏✨
 
-特に**otodoki3**プロジェクトでは、多岐にわたる大規模な機能強化と品質向上が目覚ましいです。テストフレームワークをVitestとPlaywrightへ移行し、開発基盤を大幅に強化しましたね。PWA対応によってユーザー体験も大きく向上し、UIのモダン化やナビゲーションUIの改善で見た目も使いやすさもアップデートされています✨。プレイリストへの曲追加や個人プレイリスト作成機能、ランダム曲補充RPCの実装で主要機能が充実し、チュートリアルカードやオーディオプレーヤー機能の改善、Like/Dislikeボタンの追加でユーザーインタラクションも豊かになりました。謎曲排除フィルタやGoogle認証の改善、エラーハンドリングも着実に行われ、堅牢性とデータ品質の向上にも貢献していますね！
+特に[otodoki3]では、大規模な刷新が見られます！VitestとPlaywrightへのテストフレームワーク移行で品質が大幅に向上し、PWA対応でユーザー体験も大きく進化しました。UIコンポーネントのモダン化やナビゲーションUIの改善、色調整で見た目も使いやすく進化していますね！👀
+さらに、個人プレイリスト作成や曲の追加、ランダム曲供給、アーティスト名フィルターによる謎曲排除など、プレイリスト機能やコンテンツ供給の強化が目立ちます。Google認証の改善やトラックの「いいね」「よくない」機能もユーザーエンゲージメントを高める重要な一歩です！
 
-**Audicle**では、Web Share Target APIの追加によりモバイルでの記事共有がさらに便利になりました👏。また、複数の依存関係アップデートをこまめに行い、プロジェクトの健全性を維持しているのも素晴らしいです。
+[Audicle]では、Web Share Target APIの追加でモバイルからの記事共有がスムーズになりました📱。定期的な依存関係の更新も複数回行われ、プロジェクトの健全性が保たれていますね。
 
-そして**jules-extension**では、プラン内容表示機能の実装とテストで、重要な機能の品質がしっかりと担保されていますね👍。
+[jules-extension]では、プラン内容表示のユーティリティ実装とテストに尽力されました。
 
-どのプロジェクトも着実に進化しており、その貢献に感謝します！今後のさらなる発展を楽しみにしています！
+多岐にわたるプロジェクトで、新機能開発、UX/UI改善、品質向上、保守作業まで、本当に幅広く貢献されています。この調子でこれからも素晴らしい開発を期待しています！🚀
 
-_Total: 96 commits across 4 projects_
+_Total: 95 commits across 4 projects_
 
 <table>
   <tr>
@@ -45,7 +46,7 @@ _Total: 96 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 66 commits (68.8%)</sub>
+      <sub>📊 66 commits (69.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +57,7 @@ _Total: 96 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/is0692vs/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 24 commits (25.0%)</sub>
+      <sub>📊 23 commits (24.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
