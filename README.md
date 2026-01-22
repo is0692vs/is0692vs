@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Il pleut aujourd'hui☔
-📍 Lyon: 4°C
+# 🌍 你好！晴天真美☀️
+📍 Beijing: -5°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,7 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で122件ものコミット、素晴らしい活躍でしたね！✨
-
-特に`otodoki3`では、テストフレームワークをVitestとPlaywrightに移行し、PWA対応を進めるなど、基盤の強化とモダン化に大きく貢献しました。🚀 UIの更新やナビゲーションUIの実装も進み、ユーザー体験が向上しています。個人プレイリスト作成・管理、プレイリストへの曲追加、謎曲排除、プレビュー自動再生、Google認証強化など、多くの新機能開発にも尽力しました。🎶
-
-`jules-extension`では、セッションコンテキストメニューに最新の差分や変更セットをプレビュー・開く機能を追加し、利便性を高めました。この機能に対するユニットテストもきちんと整備されていますね！🧪
-
-`Audicle`では、Web Share Target APIを導入してモバイルからの記事共有を可能にし、ユーザーの使い勝手を向上させました。📦 また、Dependabotによる定期的な依存関係のアップデートも忘れずに行い、プロジェクトの健全性を保っています。
-
-多岐にわたるプロジェクトで素晴らしい成果を上げていますね！これからもその調子で頑張ってください！🎉
+直近30日間で122件ものコミット、お疲れ様です！👏 Merge pull request #53 from Hiroki-org/52-テスト整備phase1、Merge pull request #41 from Hiroki-org/40-pwa対応、Merge pull request #289 from is0692vs/feat/session-context-menu-diff-previewなど、多くの作業を進められました。合計26397行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 122 commits across 4 projects_
 
