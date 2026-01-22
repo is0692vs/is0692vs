@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
 # 🌍 你好！晴天真美☀️
-📍 Beijing: -5°C
+📍 Beijing: -8°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,7 +24,15 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で122件ものコミット、お疲れ様です！👏 Merge pull request #53 from Hiroki-org/52-テスト整備phase1、Merge pull request #41 from Hiroki-org/40-pwa対応、Merge pull request #289 from is0692vs/feat/session-context-menu-diff-previewなど、多くの作業を進められました。合計26397行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で合計122件ものコミット、素晴らしい活躍でしたね！🚀
+
+特に**otodoki3**では、VitestとPlaywrightへのテストフレームワーク移行 (+6719行!)やPWA対応、UIモダン化で大幅な機能改善と品質向上を実現しました。プレイリスト作成・管理機能や「謎曲」排除、チュートリアルとオーディオプレーヤー機能の強化など、ユーザー体験を深める作業が目白押しでしたね！🎶
+
+**jules-extension**では、セッションの最新差分や変更セットを表示するコンテキストメニュー機能を追加し、開発効率アップに貢献。さらに単体テストも充実させ、安定性を高めました！🛠️
+
+**Audicle**では、複数回にわたる依存関係の更新でプロジェクトの健全性を維持しつつ、Web Share Target APIを導入してモバイルからの記事共有を可能にするなど、利便性を向上させました。🔗
+
+各プロジェクトでの多岐にわたる貢献、本当にお疲れ様でした！この調子でこれからも素晴らしい開発を期待しています！✨
 
 _Total: 122 commits across 4 projects_
 
@@ -74,24 +82,24 @@ _Total: 122 commits across 4 projects_
 <table>
   <tr>
     <td align="center">
-      <a href="https://open.spotify.com/track/1c4dCI3yr9sV4NzzOBNuAb" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="My distinction" width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>My distinction</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/1SlJLYLXORVbyccJlnoJRl" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2736a7a4db44a33d9bc542513c2" alt="MORE THAN LiKE" width="120" />
       </a>
       <br />
-      <sub><strong>#2</strong></sub>
+      <sub><strong>#1</strong></sub>
       <br />
       <sub>MORE THAN LiKE</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1c4dCI3yr9sV4NzzOBNuAb" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="My distinction" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>My distinction</sub>
       <br />
       <sub>BiSH</sub>
     </td>
