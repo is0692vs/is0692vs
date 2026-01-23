@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia chuvoso☔
-📍 São Paulo: 22°C
+# 🌍 こんにちは！あめがふってますね☔
+📍 Fukuoka: 3°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,31 +24,20 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計130件ものコミット、お疲れ様でした！素晴らしい活躍ですね！👏
+直近30日間で合計130件ものコミット、素晴らしい活動量ですね！🚀
 
-特に目立つ活動として、**otodoki3**ではテストフレームワークをVitestとPlaywrightへ移行し、包括的なテスト環境を整備。PWA対応やUIコンポーネントのモダン化、ナビゲーションUIの改善でユーザー体験を大きく向上させましたね！🚀 プレイリストの作成・曲追加・謎曲排除機能の実装、Google認証強化と、多岐にわたる機能開発もお見事です。
+特に、`otodoki3`では大規模なテストフレームワークの移行（Vitest & Playwright）とPWA対応を完了し、アプリの基盤を大幅に強化しました。🎉 さらに、UIのモダン化やナビゲーションUI、チュートリアル・オーディオプレーヤー機能の改善、そして個人プレイリスト作成・追加・管理機能、謎曲排除フィルターの実装など、ユーザー体験を向上させる新機能が続々と追加されていますね！✨ Google認証の改善やLike/Dislikeボタンの実装も光ります。
 
-**jules-extension**では、コンテキストメニューに最新の差分表示や変更セットコマンドを追加し、`sessionArtifacts`モジュールのユニットテストも充実。新機能と品質向上の両面で貢献されています！✨
+`jules-extension`では、セッションコンテキストメニューに最新の差分やチェンジセットを表示する新機能を開発し、さらにそのユニットテストも追加。開発者のワークフローを効率化する素晴らしい取り組みです！💻
 
-**Audicle**では、Web Share Target APIの追加でモバイルからの記事共有を可能に。また、Dependabotによる定期的な依存関係の更新で、プロジェクトの健全性を維持されています。🔧
+`Audicle`では、Web Share Target APIの追加でモバイルからの記事共有を可能にし、ユーザーの利便性を高めました。また、頻繁な依存関係のアップデートにより、プロジェクトの健全性を常に高く保っているのは流石です！📦
 
-どのプロジェクトでも着実に機能改善や品質向上を進めていることがよく分かります。今後のさらなる進化も楽しみにしています！これからも頑張ってください！🎉
+多岐にわたるプロジェクトでこれだけの成果を出されており、今後のさらなる発展が楽しみです！お疲れ様でした！👏
 
-_Total: 125 commits across 4 projects_
+_Total: 114 commits across 4 projects_
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/otodoki3" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/otodoki3" alt="otodoki3" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
-      <br />
-      <sub>📊 59 commits (47.2%)</sub>
-      <br />
-      <sub>🔷 TypeScript </sub>
-    </td>
     <td align="center" width="33%">
       <a href="https://github.com/Hiroki-org/jules-extension" target="_blank">
         <img src="https://opengraph.githubassets.com/1/Hiroki-org/jules-extension" alt="jules-extension" width="100%" />
@@ -56,9 +45,20 @@ _Total: 125 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 58 commits (46.4%)</sub>
+      <sub>📊 58 commits (50.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Hiroki-org/otodoki3" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/otodoki3" alt="otodoki3" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
+      <br />
+      <sub>📊 48 commits (42.1%)</sub>
+      <br />
+      <sub>🔷 TypeScript </sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
@@ -67,7 +67,7 @@ _Total: 125 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 8 commits (6.4%)</sub>
+      <sub>📊 8 commits (7.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -115,24 +115,24 @@ _Total: 125 commits across 4 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273781c530b2131180a1dd7ad30" alt="ZUTTO" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>ZUTTO</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/0vFaWaqU8AGed1slnaP1rn" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273f900b0bad230bc0dc085e387" alt="STAR" width="120" />
       </a>
       <br />
-      <sub><strong>#5</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>STAR</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273781c530b2131180a1dd7ad30" alt="ZUTTO" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>ZUTTO</sub>
       <br />
       <sub>BiSH</sub>
     </td>
