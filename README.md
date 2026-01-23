@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！今日は曇り空ですね☁️
-📍 Osaka: 5°C
+# 🌍 Hello! Perfect sunny day☀️
+📍 Los Angeles: 14°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,17 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-この30日間で、なんと130ものコミットを達成！素晴らしい活動量ですね！🚀
+直近30日間で、なんと130件もの素晴らしいコミット、お疲れ様でした！すごい活動量ですね！🚀
 
-特に、**otodoki3**では大規模なテスト基盤の刷新としてVitestとPlaywrightへの移行を行い、品質向上に大きく貢献しましたね！PWA対応でユーザー体験も向上。プレイリスト作成、曲追加、ランダム取得、Like/Dislikeボタン、そしてナビゲーションやチュートリアルカードなど、多数の新機能とUI/UX改善が目立ちます。Google認証の強化もバッチリです！
+特に[otodoki3]では、テストフレームワークのVitest/Playwrightへの全面移行やPWA対応という大規模な基盤整備に加え、プレイリスト機能の拡充、オーディオプレイヤー機能、Google認証の改善、UIコンポーネントのリファクタリングなど、多岐にわたる新機能開発と品質向上に尽力されましたね。素晴らしい成果です！🎉
 
-**jules-extension**では、コンテキストメニューから最新の差分や変更セットを直接開く新機能を追加し、開発効率アップに繋がりそうです。さらにユニットテストも追加され、品質も向上していますね！✨
+[jules-extension]では、コンテキストメニューに最新の差分や変更セット表示コマンドを追加し、さらにそのユニットテストも追加されるなど、機能拡張と堅牢性の両面を強化されています。素晴らしい完成度です！🌟
 
-**Audicle**では、Web Share Target APIを導入してモバイルからの記事共有を可能にし、ユーザーの利便性を高めました。依存関係のアップデートも怠りなく、プロジェクトの健全性を保っています。
+そして[Audicle]では、Web Share Target APIの実装によるモバイルでの記事共有機能を追加し、ユーザー体験を向上させていますね。また、Dependabotでの依存関係の定期的な更新も怠らず、プロジェクトの健全性を保つ努力、本当に頭が下がります！💪
 
-これだけ多岐にわたる開発と改善、素晴らしい集中力と生産性です！この勢いで、次の期間も頑張っていきましょう！💪
+どのプロジェクトも着実に進化していて感動しました。今後のさらなる活躍も楽しみにしています！これからも一緒に頑張りましょう！😊
 
-_Total: 130 commits across 4 projects_
+_Total: 129 commits across 4 projects_
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ _Total: 130 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 63 commits (48.5%)</sub>
+      <sub>📊 63 commits (48.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +56,7 @@ _Total: 130 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 59 commits (45.4%)</sub>
+      <sub>📊 58 commits (45.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
