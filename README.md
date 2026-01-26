@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia nublado☁️
-📍 Lisbon: 15°C
+# 🌍 ¡Hola! Está lloviendo☔
+📍 Bogotá: 15°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,7 +24,17 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で118件ものコミット、お疲れ様です！👏 Merge pull request #1 from Hiroki-org/initial、Implement core game mechanics and rendering system、Merge pull request #289 from is0692vs/feat/session-context-menu-diff-previewなど、多くの作業を進められました。合計20142行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で、合計118件ものコミット、お疲れ様です！素晴らしい活動量ですね！🚀
+
+**wordcosmo2**では、ゲームの核となるロジックやレンダリングシステム、UI、空間ハッシュの最適化など、大規模な基盤構築を進めましたね！(+5000行超の追加は圧巻です！)✨
+
+**jules-extension**では、コンテキストメニューから最新の差分や変更セットを開く新機能を追加し、単体テストも充実させ、品質向上に貢献しました👏
+
+**Audicle**では、多数の依存関係を更新しつつ、モバイル向けのWeb Share Target APIの実装や、グローバルな音声再生管理機能を追加しましたね。📱🔊
+
+そして**otodoki3**では、UIのモダン化やプレイリスト作成・追加機能の強化、謎曲フィルター、ランダム曲補充RPC、さらにはテストカバレッジ向上と、多岐にわたる改善を次々とリリースしましたね！🥳
+
+どのプロジェクトでも着実に、そして大きく貢献されています。この調子でこれからも頑張ってください！応援しています！🌟
 
 _Total: 109 commits across 5 projects_
 
