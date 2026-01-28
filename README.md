@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Está nublado☁️
-📍 Mexico City: 16°C
+# 🌍 Olá! Dia ensolarado☀️
+📍 São Paulo: 21°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,21 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で109件ものコミット、素晴らしい活躍でした！🚀
+この30日間で118件ものコミット、お疲れ様です！素晴らしい活動量ですね！🚀
 
-特に、**wordcosmo2**ではコアゲームロジック、レンダリングシステム、UIの構築といった基盤開発を一気に進め、新プロジェクトの力強いスタートを切りましたね。🎉
-**jules-extension**では、セッションコンテキストメニューへの最新差分表示機能追加や、セッションアーティファクトの単体テスト拡充など、機能強化と品質向上に貢献しました。✨
-**Audicle**では、Web Share Target APIによるモバイル記事共有機能の実装や、グローバルなオーディオ再生管理機能を追加。多数の依存関係更新も着実にこなしています。
-そして**otodoki3**では、プレイリストの作成・管理・曲追加機能、ランダム曲取得RPCの実装、UIの色調整、そしてテストカバレッジの向上まで、多岐にわたる機能拡充と品質改善を達成しました。💪
+特に注目すべきは、新しいゲームプロジェクト`wordcosmo2`でコアゲームメカニクスとレンダリングシステムを構築したことです。なんと2000行以上のコードを追加し、プロジェクトの基盤をしっかりと築き上げましたね！✨
 
-複数のプロジェクトでこれだけの成果を出されているのは本当に素晴らしいです！この調子でこれからも頑張ってください！💡
+また、`Audicle`では多数の依存関係を最新に保ちつつ、Web Share Target APIを使ったモバイル向け記事共有機能や、グローバルなオーディオ再生管理機能を実装しました。ユーザー体験の向上に貢献していますね！📱
 
-_Total: 108 commits across 6 projects_
+`jules-extension`では、最新の差分や変更セットを表示するコンテキストメニューコマンドを追加し、さらに単体テストも強化しました。堅牢性と使いやすさを両立させる素晴らしい取り組みです！💪
+
+`otodoki3`では、プレイリストの作成・曲追加機能、ランダム曲取得RPCの実装に加え、UIの色調整やテストカバレッジの向上も行いました。多岐にわたる改善、素晴らしいです！🎶
+
+さらに、`gittohabu`ではVite + CRXJS + TypeScriptのChrome拡張機能の雛形を追加し、今後の開発効率アップに貢献しています。新しい技術スタックの導入もバッチリですね！🌟
+
+この調子で、これからも素晴らしい開発を楽しんでください！応援しています！🎉
+
+_Total: 117 commits across 6 projects_
 
 <table>
   <tr>
@@ -44,7 +49,7 @@ _Total: 108 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 59 commits (54.6%)</sub>
+      <sub>📊 59 commits (50.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
@@ -55,7 +60,7 @@ _Total: 108 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/wordcosmo2" target="_blank">wordcosmo2</a></strong></sub>
       <br />
-      <sub>📊 17 commits (15.7%)</sub>
+      <sub>📊 17 commits (14.5%)</sub>
       <br />
       <sub>🦀 Rust </sub>
     </td>
@@ -66,7 +71,7 @@ _Total: 108 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 16 commits (14.8%)</sub>
+      <sub>📊 16 commits (13.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
