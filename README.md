@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hallo! Bewölkt heute☁️
-📍 Berlin: -1°C
+# 🌍 おはよう！曇ってるね☁️
+📍 Sapporo: -6°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,17 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で127件ものコミット、お疲れ様です！👏 Merge pull request #1 from Hiroki-org/initial、Implement core game mechanics and rendering system、Merge pull request #2 from Hiroki-org/copilot/initialize-vite-crxjs-projectなど、多くの作業を進められました。合計20451行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で、なんと132件ものコミット、素晴らしい活動量ですね！✨
 
-_Total: 126 commits across 6 projects_
+[wordcosmo2]では、ゲームの核となるメカニクスとレンダリングシステムの大規模な初期実装を進められ、イベント処理の改善も行われました。素晴らしいスタートです！
+[gittohabu]では、Vite + CRXJS + TypeScriptでのChrome拡張雛形を構築し、ユーザー辞書編集UIも実装。新しい開発の土台がしっかり整っていますね。
+[jules-extension]では、コンテキストメニューに最新の差分や変更セットを表示する新機能を追加し、関連する単体テストも充実。品質向上にも貢献されました。
+[Audicle]では、Web Share Target APIでモバイルからの記事共有を可能にし、PWAのバックグラウンド再生管理機能も実装。たくさんの依存関係更新も着実にこなされましたね。
+[otodoki3]では、プレイリスト作成・曲の追加・ランダム取得機能の実装、UIの色調整、さらにテストカバレッジの向上まで、多岐にわたる機能強化を行っています。
+
+どのプロジェクトも着実に進化しており、大変実り多い一ヶ月でした。本当にお疲れ様でした！👏
+
+_Total: 131 commits across 6 projects_
 
 <table>
   <tr>
@@ -37,7 +45,7 @@ _Total: 126 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 64 commits (50.8%)</sub>
+      <sub>📊 64 commits (48.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
@@ -48,20 +56,20 @@ _Total: 126 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 17 commits (13.5%)</sub>
+      <sub>📊 20 commits (15.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/wordcosmo2" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/wordcosmo2" alt="wordcosmo2" width="100%" />
+      <a href="https://github.com/Hiroki-org/otodoki3" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/otodoki3" alt="otodoki3" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/wordcosmo2" target="_blank">wordcosmo2</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 17 commits (13.5%)</sub>
+      <sub>📊 17 commits (13.0%)</sub>
       <br />
-      <sub>🦀 Rust </sub>
+      <sub>🔷 TypeScript </sub>
     </td>
   </tr>
 </table>
