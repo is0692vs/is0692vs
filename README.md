@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！くもってますね☁️
-📍 Fukuoka: 4°C
+# 🌍 ¡Hola! Está nublado☁️
+📍 Mexico City: 16°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,21 +24,9 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計133件の素晴らしいコミット、お疲れ様でした！👏 様々なプロジェクトで大きな進展がありましたね！
+直近30日間で135件ものコミット、お疲れ様です！👏 Merge pull request #1 from Hiroki-org/initial、Implement core game mechanics and rendering system、Merge pull request #2 from Hiroki-org/copilot/initialize-vite-crxjs-projectなど、多くの作業を進められました。合計20178行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-特に、**wordcosmo2**ではコアゲームメカニクスとレンダリングシステムの初期実装を完了させ、ゲームの基盤をしっかりと築かれました。すごいですね！✨
-
-**gittohabu**ではVite + CRXJS + TypeScriptのChrome拡張雛形を追加し、ユーザー辞書編集UIやGitHub UI向けテキスト置換モードも実装されるなど、機能拡張が目覚ましいです。
-
-**jules-extension**では最新のdiffや変更セットをコンテキストメニューから開く機能を追加し、関連するユニットテストも充実させました。また、プラン整形ユーティリティの実装も進めていますね！
-
-**Audicle**ではWeb Share Target APIを追加してモバイルでの記事共有を容易にし、PWAのバックグラウンド再生管理も実装。さらに、多数の依存関係更新でプロジェクトを常に最新に保っています。
-
-**otodoki3**ではランダムな曲を効率的に取得するRPC関数を追加し、UIの色調整やテストカバレッジ向上にも貢献されました。
-
-どのプロジェクトも着実に進化しており、その多岐にわたる活動に感銘を受けます。これからもこの調子で頑張ってください！応援しています！🎉
-
-_Total: 133 commits across 6 projects_
+_Total: 135 commits across 6 projects_
 
 <table>
   <tr>
@@ -49,7 +37,7 @@ _Total: 133 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 65 commits (48.9%)</sub>
+      <sub>📊 67 commits (49.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
@@ -60,7 +48,7 @@ _Total: 133 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 23 commits (17.3%)</sub>
+      <sub>📊 23 commits (17.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -71,7 +59,7 @@ _Total: 133 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/wordcosmo2" target="_blank">wordcosmo2</a></strong></sub>
       <br />
-      <sub>📊 17 commits (12.8%)</sub>
+      <sub>📊 17 commits (12.6%)</sub>
       <br />
       <sub>🦀 Rust </sub>
     </td>
