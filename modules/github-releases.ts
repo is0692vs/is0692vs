@@ -53,7 +53,7 @@ async function fetchReleasesForRepo(config: ReleaseConfig): Promise<RepoRelease>
     const { owner, repo } = parsed;
 
     try {
-        const url = `https://api.github.com/repos/${owner}/${repo}/releases?per_page=3`;
+        const url = `https://api.github.com/repos/${owner}/${repo}/releases?per_page=30`;
         const response = await fetch(url, { headers: getHeaders() });
 
         if (!response.ok) {
@@ -66,11 +66,38 @@ async function fetchReleasesForRepo(config: ReleaseConfig): Promise<RepoRelease>
             };
         }
 
-        const data = await response.json();
+        const responseText = await response.text();
+        console.log(`📦 Response size: ${responseText.length} bytes for ${owner}/${repo}`);
 
-        // ドラフトとプレリリースを除外
+        let data: any[];
+        try {
+            data = JSON.parse(responseText);
+        } catch (e) {
+            console.warn(`⚠️ Failed to parse JSON for ${owner}/${repo}:`, e);
+            return {
+                repo,
+                displayName: config.displayName,
+                owner,
+                releases: [],
+            };
+        }
+
+        if (!Array.isArray(data)) {
+            console.warn(`⚠️ Unexpected response format for ${owner}/${repo}:`, typeof data);
+            return {
+                repo,
+                displayName: config.displayName,
+                owner,
+                releases: [],
+            };
+        }
+
+        console.log(`📦 Found ${data.length} releases for ${owner}/${repo}`);
+
+        // ドラフトを除外（prereleaseは含める）
+        // 注意: 認証なしのAPIではdraftリリースは返されない（常にfalse相当）
         const releases: Release[] = data
-            .filter((r: any) => !r.draft && !r.prerelease)
+            .filter((r: any) => !r.draft)
             .map((r: any) => ({
                 tagName: r.tag_name,
                 name: r.name || r.tag_name,
@@ -80,6 +107,8 @@ async function fetchReleasesForRepo(config: ReleaseConfig): Promise<RepoRelease>
                 prerelease: r.prerelease,
                 draft: r.draft,
             }));
+
+        console.log(`✅ ${releases.length} releases after filtering`);
 
         return {
             repo,

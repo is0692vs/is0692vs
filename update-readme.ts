@@ -26,9 +26,9 @@ async function main() {
     console.log("🌍 Fetching weather greeting...");
     const weatherGreetingContent = await weatherGreeting();
 
-    // npm統計は一時的に無効化
-    console.log("📊 npm statistics temporarily disabled...");
-    const statsContent = "_npm download statistics temporarily unavailable_";
+    // // npm統計は一時的に無効化
+    // console.log("📊 npm statistics temporarily disabled...");
+    // const statsContent = "_npm download statistics temporarily unavailable_";
 
     // GitHubリリース情報を取得
     console.log("🚀 Fetching GitHub releases...");
