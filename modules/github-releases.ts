@@ -29,17 +29,39 @@ function getHeaders(): HeadersInit {
         : { Accept: "application/vnd.github.v3+json" };
 }
 
+// URLからownerとrepoを抽出する関数
+function parseRepoUrl(url: string): { owner: string; repo: string } | null {
+    const match = url.match(/github\.com\/([^\/]+)\/([^\/]+)/);
+    if (match) {
+        return { owner: match[1], repo: match[2] };
+    }
+    return null;
+}
+
 async function fetchReleasesForRepo(config: ReleaseConfig): Promise<RepoRelease> {
+    const parsed = parseRepoUrl(config.url);
+    if (!parsed) {
+        console.warn(`⚠️ Invalid repository URL: ${config.url}`);
+        return {
+            repo: config.url,
+            displayName: config.displayName,
+            owner: "",
+            releases: [],
+        };
+    }
+
+    const { owner, repo } = parsed;
+
     try {
-        const url = `https://api.github.com/repos/${config.owner}/${config.repo}/releases?per_page=3`;
+        const url = `https://api.github.com/repos/${owner}/${repo}/releases?per_page=3`;
         const response = await fetch(url, { headers: getHeaders() });
 
         if (!response.ok) {
-            console.warn(`⚠️ Failed to fetch releases for ${config.owner}/${config.repo}: ${response.status}`);
+            console.warn(`⚠️ Failed to fetch releases for ${owner}/${repo}: ${response.status}`);
             return {
-                repo: config.repo,
-                displayName: config.displayName || config.repo,
-                owner: config.owner,
+                repo,
+                displayName: config.displayName,
+                owner,
                 releases: [],
             };
         }
@@ -60,17 +82,17 @@ async function fetchReleasesForRepo(config: ReleaseConfig): Promise<RepoRelease>
             }));
 
         return {
-            repo: config.repo,
-            displayName: config.displayName || config.repo,
-            owner: config.owner,
+            repo,
+            displayName: config.displayName,
+            owner,
             releases,
         };
     } catch (error) {
-        console.warn(`⚠️ Error fetching releases for ${config.owner}/${config.repo}:`, error);
+        console.warn(`⚠️ Error fetching releases for ${owner}/${repo}:`, error);
         return {
-            repo: config.repo,
-            displayName: config.displayName || config.repo,
-            owner: config.owner,
+            repo,
+            displayName: config.displayName,
+            owner,
             releases: [],
         };
     }

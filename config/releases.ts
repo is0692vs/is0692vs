@@ -1,30 +1,26 @@
 // config/releases.ts
 export interface ReleaseConfig {
-    owner: string;
-    repo: string;
-    displayName?: string;
+    url: string;
+    displayName: string;
 }
 
 // リリース情報を取得するリポジトリ一覧
+// URLは "https://github.com/owner/repo" の形式
 export const releaseRepos: ReleaseConfig[] = [
     {
-        owner: "is0692vs",
-        repo: "pr-cannon",
+        url: "https://github.com/is0692vs/pr-cannon",
         displayName: "PR Cannon",
     },
     {
-        owner: "is0692vs",
-        repo: "jules-extension",
+        url: "https://github.com/Hiroki-org/jules-extension",
         displayName: "Jules Extension",
     },
     {
-        owner: "is0692vs",
-        repo: "code-mantra",
+        url: "https://github.com/is0692vs/code-mantra",
         displayName: "Code Mantra",
     },
     {
-        owner: "is0692vs",
-        repo: "link-canvas",
+        url: "https://github.com/is0692vs/link-canvas",
         displayName: "Link Canvas",
     },
 ];
