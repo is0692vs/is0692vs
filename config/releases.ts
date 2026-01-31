@@ -7,22 +7,22 @@ export interface ReleaseConfig {
 // リリース情報を取得するリポジトリ一覧
 // URLは "https://github.com/owner/repo" の形式
 export const releaseRepos: ReleaseConfig[] = [
-    {
-        url: "https://github.com/is0692vs/pr-cannon",
-        displayName: "PR Cannon",
-    },
+    // {
+    //     url: "https://github.com/is0692vs/pr-cannon",
+    //     displayName: "PR Cannon",
+    // },
     {
         url: "https://github.com/Hiroki-org/jules-extension",
         displayName: "Jules Extension",
     },
-    {
-        url: "https://github.com/is0692vs/code-mantra",
-        displayName: "Code Mantra",
-    },
-    {
-        url: "https://github.com/is0692vs/link-canvas",
-        displayName: "Link Canvas",
-    },
+    // {
+    //     url: "https://github.com/is0692vs/code-mantra",
+    //     displayName: "Code Mantra",
+    // },
+    // {
+    //     url: "https://github.com/is0692vs/link-canvas",
+    //     displayName: "Link Canvas",
+    // },
 ];
 
 // 表示するリリースの最大数
