@@ -1,13 +1,14 @@
 import "dotenv/config";
 import { readFileSync, writeFileSync, existsSync } from "fs";
-import { npmStats } from "./modules/npm-stats";
-import { generateChartUrl } from "./modules/chart";
+// import { npmStats } from "./modules/npm-stats";
+// import { generateChartUrl } from "./modules/chart";
 import { activeProjects } from "./modules/active-projects";
 import { vscodeStats } from "./modules/vscode-stats";
 import { generateVscodeChartUrl } from "./modules/vscode-chart";
 import { commitReflection } from "./modules/commit-reflection";
 import { getTopTracks } from "./modules/spotify-top-tracks";
 import { weatherGreeting } from "./modules/weather-greeting";
+import { getReleases } from "./modules/github-releases";
 import { GRAPH_DAYS_RANGE } from "./config/days-range";
 
 interface StatsHistory {
@@ -25,41 +26,13 @@ async function main() {
     console.log("🌍 Fetching weather greeting...");
     const weatherGreetingContent = await weatherGreeting();
 
-    console.log("📊 Fetching npm statistics...");
-    const { text, data } = await npmStats();
+    // npm統計は一時的に無効化
+    console.log("📊 npm statistics temporarily disabled...");
+    const statsContent = "_npm download statistics temporarily unavailable_";
 
-    // 統計履歴を読み込み
-    const historyPath = "data/stats-history.json";
-    let history: StatsHistory[] = [];
-
-    if (existsSync(historyPath)) {
-      history = JSON.parse(readFileSync(historyPath, "utf-8"));
-    }
-
-    // 今日の統計を追加
-    const today = new Date().toISOString().split("T")[0];
-    const todayStats: StatsHistory = {
-      date: today,
-      packages: Object.fromEntries(data.map((d) => [d.package, d.downloads])),
-    };
-
-    // 同じ日付のデータがあれば更新、なければ追加
-    const existingIndex = history.findIndex((h) => h.date === today);
-    if (existingIndex >= 0) {
-      history[existingIndex] = todayStats;
-    } else {
-      history.push(todayStats);
-    }
-
-    // 履歴を保存（全期間）
-    writeFileSync(historyPath, JSON.stringify(history, null, 2));
-
-    // グラフ生成用に最新`GRAPH_DAYS_RANGE`日分のデータをスライス
-    const slicedHistory = history.slice(-GRAPH_DAYS_RANGE);
-
-    // グラフURL生成
-    const chartUrl = generateChartUrl(slicedHistory);
-    const statsContent = `${text}\n\n![Download Stats](${chartUrl})`;
+    // GitHubリリース情報を取得
+    console.log("🚀 Fetching GitHub releases...");
+    const releasesContent = await getReleases();
 
     // コミット振り返りの処理
     console.log("🤖 Generating commit reflection...");
@@ -72,6 +45,9 @@ async function main() {
     // Spotify TOP曲の処理
     console.log("🎵 Fetching Spotify top tracks...");
     const spotifyContent = await getTopTracks();
+
+    // 今日の日付を取得
+    const today = new Date().toISOString().split("T")[0];
 
     // VSCode統計履歴を読み込み
     const vscodeHistoryPath = "data/vscode-stats-history.json";
@@ -175,6 +151,12 @@ async function main() {
       `<!-- spotify:start -->\n${spotifyContent}\n<!-- spotify:end -->`
     );
 
+    // github-releases部分を更新
+    readme = readme.replace(
+      /<!-- github-releases:start -->[\s\S]*<!-- github-releases:end -->/,
+      `<!-- github-releases:start -->\n${releasesContent}\n<!-- github-releases:end -->`
+    );
+
     writeFileSync("README.md", readme);
     console.log("✅ README.md updated successfully!");
     console.log("\nUpdated weather greeting:");
@@ -189,6 +171,8 @@ async function main() {
     console.log(spotifyContent);
     console.log("\nUpdated active projects:");
     console.log(activeProjectsContent);
+    console.log("\nUpdated GitHub releases:");
+    console.log(releasesContent);
   } catch (error) {
     console.error("❌ Error updating README:", error);
     process.exit(1);
