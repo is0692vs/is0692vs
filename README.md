@@ -5,7 +5,7 @@
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 2,782 installs | ⭐ 4.5/5 (1 ratings) | v1.2.3
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 2,782 installs | ⭐ 4.5/5 (1 ratings) | v1.2.4
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 34 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,19 +24,21 @@
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で138件ものコミット、本当にお疲れ様でした！素晴らしい活動量ですね🚀
+直近30日間で144件ものコミット、お疲れ様でした！👏素晴らしい活動量ですね！
 
-特に目立った活動としては、`wordcosmo2` でゲームのコアロジック、レンダリング、UIシステムの新規実装を大規模に行われましたね。2000行を超える変更で、プロジェクトの基盤を力強く築き上げ、イベントハンドリングのリファクタリングも進めました！✨
+特に注目すべきは、新規プロジェクト `wordcosmo2` での爆速開発です。ゲームのコアロジックやレンダリングシステム、空間ハッシュの実装を一気に進め、プロジェクトの土台を築き上げましたね！🚀
 
-`gittohabu` では、Vite+CRXJS+TypeScriptを使ったChrome拡張機能の雛形を導入し、開発基盤を整備しました。さらに、ユーザー辞書編集UIやGitHub UI向けテキスト置換モードの追加など、実用的な新機能を次々と実装されていますね！👏
+既存の `jules-extension` では、PRからのブランチチェックアウトや、最新のdiff/changesetをコンテキストメニューから開く機能など、ユーザー体験を向上させる新機能を多数追加しています。テストの充実やCIワークフローのリファクタリングも抜かりなく、品質と開発効率の両面で貢献していますね！✨
 
-`jules-extension` では、最新の差分や変更履歴を開くコンテキストメニューコマンド、セッションツールチップ情報の拡張といった新機能開発が進みました。単体テストの追加、CIワークフローのリファクタリング、そしてツールチップロジックの整理など、品質と開発効率の両面で大きく貢献されていますね！🧪
+`Audicle` では、頻繁な依存関係の更新でプロジェクトを最新の状態に保ちつつ、グローバルなオーディオ再生管理の実装にも取り組んでいます。メンテナンスと機能強化のバランスが素晴らしいです！🔋
 
-`Audicle` では、複数のDependabotによる依存関係更新を行いながら、グローバルオーディオ再生管理の実装を進めました。安定性と機能性の向上が見られます。また、`otodoki3` では、重要なモジュールのテストカバレッジを向上させ、システムの堅牢性を高めています。
+また、`gittohabu` ではVite + CRXJS + TypeScriptを使ったChrome拡張機能の雛形構築と、ユーザー辞書編集UIの実装を進め、新たなプロジェクトの立ち上げを力強くリードしています。🏗️
 
-この30日間で、新規開発から機能改善、品質向上、保守作業まで、多岐にわたるプロジェクトで大きな成果を上げられましたね！これからも素晴らしい開発を続けていきましょう！🔥
+さらに、`otodoki3` ではテストカバレッジの向上に貢献し、プロジェクトの安定性強化に努めています。🌱
 
-_Total: 138 commits across 6 projects_
+多岐にわたるプロジェクトで、新規開発から機能改善、品質向上、メンテナンスまで、幅広く活躍されていますね。この調子でこれからも素晴らしい開発を期待しています！🎉
+
+_Total: 144 commits across 6 projects_
 
 <table>
   <tr>
@@ -47,7 +49,7 @@ _Total: 138 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 73 commits (52.9%)</sub>
+      <sub>📊 79 commits (54.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
@@ -58,7 +60,7 @@ _Total: 138 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 21 commits (15.2%)</sub>
+      <sub>📊 21 commits (14.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -69,7 +71,7 @@ _Total: 138 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/gittohabu" target="_blank">gittohabu</a></strong></sub>
       <br />
-      <sub>📊 17 commits (12.3%)</sub>
+      <sub>📊 17 commits (11.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
