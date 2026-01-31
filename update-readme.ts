@@ -26,9 +26,9 @@ async function main() {
     console.log("🌍 Fetching weather greeting...");
     const weatherGreetingContent = await weatherGreeting();
 
-    // // npm統計は一時的に無効化
-    // console.log("📊 npm statistics temporarily disabled...");
-    // const statsContent = "_npm download statistics temporarily unavailable_";
+    // npm統計は一時的に無効化
+    console.log("📊 npm statistics temporarily disabled...");
+    const statsContent = "_npm download statistics temporarily unavailable_";
 
     // GitHubリリース情報を取得
     console.log("🚀 Fetching GitHub releases...");
@@ -133,11 +133,11 @@ async function main() {
       `<!-- vscode-stats:start -->\n${vscodeContent}\n<!-- vscode-stats:end -->`
     );
 
-    // stats部分を更新
-    readme = readme.replace(
-      /<!-- stats:start -->[\s\S]*<!-- stats:end -->/,
-      `<!-- stats:start -->\n${statsContent}\n<!-- stats:end -->`
-    );
+    // stats部分は一時的にスキップ（npm統計無効化のため）
+    // readme = readme.replace(
+    //   /<!-- stats:start -->[\s\S]*<!-- stats:end -->/,
+    //   `<!-- stats:start -->\n${statsContent}\n<!-- stats:end -->`
+    // );
 
     // active-projects部分を更新（reflectionを含む）
     readme = readme.replace(
@@ -161,8 +161,8 @@ async function main() {
     console.log("✅ README.md updated successfully!");
     console.log("\nUpdated weather greeting:");
     console.log(weatherGreetingContent);
-    console.log("\nUpdated stats:");
-    console.log(statsContent);
+    // console.log("\nUpdated stats:");
+    // console.log(statsContent);
     console.log("\nUpdated VSCode stats:");
     console.log(vscodeContent);
     console.log("\nUpdated commit reflection:");
