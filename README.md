@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはようございます！曇り空のようですね☁️
-📍 Kyoto: 0°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Paris: 7°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,21 +24,18 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間でなんと161件ものコミット、素晴らしい活動量ですね！🚀
+直近30日間で合計172件もの素晴らしいコミット、お疲れ様でした！🎉
 
-特に**wordcosmo2**では、ゲームのコアロジック、レンダリングシステム、UIの基盤を一気に構築し、大規模な新規開発を進められました。約4000行ものコード追加は圧巻です！✨ イベント処理の改善もバッチリですね。
+この期間は、多岐にわたるプロジェクトで大きな進展がありましたね。
+*   **gittohabu** では、GitHub UIの日本語辞書エントリを大幅に拡張し、より直感的なGitHub体験を提供。さらに、Chrome拡張機能の基盤構築やユーザ辞書編集UIの実装にも注力しました。
+*   **wordcosmo2** では、ゲームの核となるロジック、レンダリング、UIシステムといったコアゲームメカニクスの初期実装を精力的に進められました。素晴らしい基盤ができましたね！✨
+*   **jules-extension** では、VS Code拡張機能に多数の新機能を追加！セッションの最新diffや変更セットの表示、PRベースのブランチチェックアウト、さらには「Review Plan...」コンテキストメニューの実装など、開発効率を大きく向上させる機能が盛りだくさんです。テストカバレッジの向上も忘れず行っていますね！
+*   **Audicle** では、多数の依存関係更新と、PWAバックグラウンドでのグローバルオーディオ再生管理機能の実装を進めました。
+*   **otodoki3** では、重要なモジュールのテストカバレッジ向上に貢献しましたね。
 
-**jules-extension**では機能強化が目覚ましく、PRからのブランチチェックアウト機能や、最新の差分表示、レビュープラン機能など、開発を加速させる新機能が多数追加されました。テストの拡充やCIの改善、バグ修正も抜かりなく、品質向上にも貢献されていますね！💪
+この1ヶ月間も、多岐にわたるプロジェクトで確かな成果を上げ、コードベースを着実に進化させています。この調子で次の1ヶ月も頑張っていきましょう！🚀
 
-**gittohabu**では、Vite + CRXJS + TypeScriptのモダンなChrome拡張機能の雛形を導入し、さらにユーザー辞書編集UIも実装。新たな開発の基盤と機能が着々と整っていますね。🌟
-
-**Audicle**では、PWAのバックグラウンド再生管理機能の実装に加え、多数の依存関係アップデートをしっかりこなし、システムの安定性を保たれています。🍃
-
-**otodoki3**ではテストカバレッジの向上に努め、コードの信頼性を高める素晴らしい取り組みです。👍
-
-新規開発から機能拡張、品質改善、運用まで、多岐にわたるプロジェクトで目覚ましい貢献をされていますね！この調子でこれからも素晴らしい開発を続けていきましょう！🎉
-
-_Total: 154 commits across 6 projects_
+_Total: 165 commits across 6 projects_
 
 <table>
   <tr>
@@ -49,20 +46,9 @@ _Total: 154 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 87 commits (56.5%)</sub>
+      <sub>📊 87 commits (52.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/Audicle" alt="Audicle" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
-      <br />
-      <sub>📊 21 commits (13.6%)</sub>
-      <br />
-      <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Hiroki-org/gittohabu" target="_blank">
@@ -71,9 +57,20 @@ _Total: 154 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/gittohabu" target="_blank">gittohabu</a></strong></sub>
       <br />
-      <sub>📊 19 commits (12.3%)</sub>
+      <sub>📊 30 commits (18.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/Audicle" alt="Audicle" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
+      <br />
+      <sub>📊 21 commits (12.7%)</sub>
+      <br />
+      <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
   </tr>
 </table>
