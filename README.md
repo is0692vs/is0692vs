@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Foggy and cloudy☁️
-📍 San Francisco: 11°C
+# 🌍 おはようございます！曇り空のようですね☁️
+📍 Kyoto: 0°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,21 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で159件ものコミット、お疲れ様です！👏 Merge pull request #1 from Hiroki-org/initial、Implement core game mechanics and rendering system、Merge pull request #2 from Hiroki-org/copilot/initialize-vite-crxjs-projectなど、多くの作業を進められました。合計19694行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間でなんと161件ものコミット、素晴らしい活動量ですね！🚀
 
-_Total: 152 commits across 6 projects_
+特に**wordcosmo2**では、ゲームのコアロジック、レンダリングシステム、UIの基盤を一気に構築し、大規模な新規開発を進められました。約4000行ものコード追加は圧巻です！✨ イベント処理の改善もバッチリですね。
+
+**jules-extension**では機能強化が目覚ましく、PRからのブランチチェックアウト機能や、最新の差分表示、レビュープラン機能など、開発を加速させる新機能が多数追加されました。テストの拡充やCIの改善、バグ修正も抜かりなく、品質向上にも貢献されていますね！💪
+
+**gittohabu**では、Vite + CRXJS + TypeScriptのモダンなChrome拡張機能の雛形を導入し、さらにユーザー辞書編集UIも実装。新たな開発の基盤と機能が着々と整っていますね。🌟
+
+**Audicle**では、PWAのバックグラウンド再生管理機能の実装に加え、多数の依存関係アップデートをしっかりこなし、システムの安定性を保たれています。🍃
+
+**otodoki3**ではテストカバレッジの向上に努め、コードの信頼性を高める素晴らしい取り組みです。👍
+
+新規開発から機能拡張、品質改善、運用まで、多岐にわたるプロジェクトで目覚ましい貢献をされていますね！この調子でこれからも素晴らしい開発を続けていきましょう！🎉
+
+_Total: 154 commits across 6 projects_
 
 <table>
   <tr>
@@ -37,7 +49,7 @@ _Total: 152 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 87 commits (57.2%)</sub>
+      <sub>📊 87 commits (56.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
@@ -48,7 +60,7 @@ _Total: 152 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 21 commits (13.8%)</sub>
+      <sub>📊 21 commits (13.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -59,7 +71,7 @@ _Total: 152 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/gittohabu" target="_blank">gittohabu</a></strong></sub>
       <br />
-      <sub>📊 17 commits (11.2%)</sub>
+      <sub>📊 19 commits (12.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
