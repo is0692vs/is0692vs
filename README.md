@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！雨の日ですね☔
-📍 Tokyo: 4°C
+# 🌍 ¡Hola! Día soleado☀️
+📍 Buenos Aires: 26°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -22,17 +22,21 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、合計152回の素晴らしいコミットを達成しましたね！お疲れ様です！👏
+直近30日間で**154件**ものコミット、お疲れ様です！素晴らしい活動量ですね👏
 
-特に注目すべきは、大規模な新規開発から既存プロジェクトの改善まで多岐にわたる活動です。
+特に注目すべきは以下の点です。
 
-*   **wordcosmo2** では、ゲームのコアメカニクスとレンダリングシステムを一気に実装し、新たな世界観を構築しましたね。イベント処理のリファクタリングも抜かりありません！🎮
-*   **jules-extension** では、多機能な拡張機能へと進化を遂げました。PRベースのブランチチェックアウトや、セッションコンテキストメニューへの最新差分表示、さらには「Review Plan」機能の追加とテスト実装など、ユーザー体験を向上させる新機能が盛りだくさんです！✨
-*   **gittohabu** では、ViteとCRXJS、TypeScriptを活用したChrome拡張機能の雛形を構築し、ユーザ辞書編集UIの実装も進めました。新規プロジェクトの基盤作りも着々と進行中ですね。
-*   **Audicle** では、多数の依存関係を最新の状態に保ちつつ、グローバルな音声再生管理機能の実装に着手しました。堅牢なシステムを維持するための努力が光ります。
-*   **otodoki3** では、テストカバレッジを向上させるためのコミットが見られ、品質への意識の高さがうかがえます。
+**wordcosmo2**では、ゲームのコアメカニクスとレンダリングシステムの土台を力強く構築しましたね！新しいプロジェクトの心臓部を作り上げた形です✨
 
-この30日間で、あなたは非常に多くの価値を創造し、各プロジェクトを大きく前進させました。この調子でこれからも素晴らしい開発を続けてください！応援しています！🚀
+**jules-extension**では、PRからのブランチチェックアウト、Diff/Changeset表示、Review Planといった便利なコンテキストメニュー機能が続々追加され、さらにテスト強化やCIワークフローのリファクタリングで品質と開発効率も向上しましたね🚀
+
+**Audicle**では、依存関係の定期的な更新でプロジェクトの健全性を保ちつつ、PWAのバックグラウンド再生管理といったユーザー体験を高める重要な改善を進めましたね🎧
+
+**gittohabu**では、Vite+CRXJS+TypeScriptのChrome拡張雛形を整備し、さらにユーザー辞書編集機能も実装。新プロジェクトの基盤と主要機能を一気に固めましたね🛠️
+
+**otodoki3**では、重要なモジュールのテストカバレッジ向上に貢献。堅牢なシステムづくりに繋がりますね🛡️
+
+多岐にわたるプロジェクトで、新機能開発から品質改善、基盤整備まで幅広く貢献されており、その多才さに感服します！これからも素晴らしい開発を期待しています！😊
 
 _Total: 150 commits across 6 projects_
 
@@ -143,23 +147,5 @@ _Total: 150 commits across 6 projects_
 <!-- github-releases:start -->
 ## 🚀 Recent Releases
 
-<details>
-<summary>
-<strong>Code Mantra</strong> <a href="https://github.com/is0692vs/code-mantra/releases/tag/v1.1.9-publish">v1.1.9-publish</a> · Oct 31, 2025
-</summary>
-
-_No release notes provided_
-
-[View on GitHub](https://github.com/is0692vs/code-mantra/releases/tag/v1.1.9-publish)
-</details>
-
-<details>
-<summary>
-<strong>Link Canvas</strong> <a href="https://github.com/is0692vs/link-canvas/releases/tag/v1.0.2">v1.0.2</a> · Oct 30, 2025
-</summary>
-
-_No release notes provided_
-
-[View on GitHub](https://github.com/is0692vs/link-canvas/releases/tag/v1.0.2)
-</details>
+_No recent releases found_
 <!-- github-releases:end -->
