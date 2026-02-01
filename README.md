@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Lima: 25°C
+# 🌍 Hello! Cloudy skies today☁️
+📍 New York: -7°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 2,812 installs | ⭐ 4.5/5 (1 ratings) | v1.2.5
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 2,813 installs | ⭐ 4.5/5 (1 ratings) | v1.2.5
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 35 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-01-03%22%2C%222026-01-04%22%2C%222026-01-05%22%2C%222026-01-06%22%2C%222026-01-07%22%2C%222026-01-08%22%2C%222026-01-09%22%2C%222026-01-10%22%2C%222026-01-11%22%2C%222026-01-12%22%2C%222026-01-13%22%2C%222026-01-14%22%2C%222026-01-15%22%2C%222026-01-16%22%2C%222026-01-17%22%2C%222026-01-18%22%2C%222026-01-19%22%2C%222026-01-20%22%2C%222026-01-21%22%2C%222026-01-22%22%2C%222026-01-23%22%2C%222026-01-24%22%2C%222026-01-25%22%2C%222026-01-26%22%2C%222026-01-27%22%2C%222026-01-28%22%2C%222026-01-29%22%2C%222026-01-30%22%2C%222026-01-31%22%2C%222026-02-01%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B1905%2C1935%2C1963%2C1988%2C2023%2C2052%2C2094%2C2109%2C2143%2C2162%2C2197%2C2243%2C2272%2C2316%2C2341%2C2356%2C2384%2C2424%2C2475%2C2510%2C2542%2C2571%2C2600%2C2627%2C2690%2C2706%2C2733%2C2774%2C2797%2C2812%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C23%2C23%2C23%2C24%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C31%2C31%2C31%2C32%2C34%2C34%2C35%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-01-03%22%2C%222026-01-04%22%2C%222026-01-05%22%2C%222026-01-06%22%2C%222026-01-07%22%2C%222026-01-08%22%2C%222026-01-09%22%2C%222026-01-10%22%2C%222026-01-11%22%2C%222026-01-12%22%2C%222026-01-13%22%2C%222026-01-14%22%2C%222026-01-15%22%2C%222026-01-16%22%2C%222026-01-17%22%2C%222026-01-18%22%2C%222026-01-19%22%2C%222026-01-20%22%2C%222026-01-21%22%2C%222026-01-22%22%2C%222026-01-23%22%2C%222026-01-24%22%2C%222026-01-25%22%2C%222026-01-26%22%2C%222026-01-27%22%2C%222026-01-28%22%2C%222026-01-29%22%2C%222026-01-30%22%2C%222026-01-31%22%2C%222026-02-01%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B1905%2C1935%2C1963%2C1988%2C2023%2C2052%2C2094%2C2109%2C2143%2C2162%2C2197%2C2243%2C2272%2C2316%2C2341%2C2356%2C2384%2C2424%2C2475%2C2510%2C2542%2C2571%2C2600%2C2627%2C2690%2C2706%2C2733%2C2774%2C2797%2C2813%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C23%2C23%2C23%2C24%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C31%2C31%2C31%2C32%2C34%2C34%2C35%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,21 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと185件ものコミットを重ねられましたね！素晴らしい活動量です！👏✨
+直近30日間で、185件もの素晴らしいコミット、お疲れ様でした！🎉 多岐にわたるプロジェクトで活発な開発が伺えますね。
 
-特に目立った活躍をいくつかご紹介します。
+特に、
+- **gittohabu** では、GitHub UI用の日本語辞書エントリを大幅に拡張し、より直感的な体験を提供するための基盤を強化しました。Vite + CRXJS + TypeScriptのChrome拡張雛形やユーザー辞書編集UIの実装も進んでいますね！
+- **network-sandbox** では、Go/Rust/Pythonワーカーやカスタムロードバランサー、React可視化を備えた分散システム学習環境を構築。単体テスト追加やPRフィードバック対応で完成度を高めました。素晴らしい進捗です！🚀
+- **wordcosmo2** では、コアゲームメカニクスとレンダリングシステムを実装し、新たなゲーム体験の創造に向けて大きな一歩を踏み出しましたね。
+- **jules-extension** では、最新の差分や変更セットを確認できるコンテキストメニューや、PRセッションのブランチチェックアウトオプションを追加し、開発効率向上に貢献しました。単体テストも充実させ、品質も向上！
+- **Audicle** では、多数のnpm依存関係のアップデートやPWAのグローバルオーディオ再生管理の実装を進めました。
 
-**gittohabu** では、GitHub UIの日本語体験を大幅に向上させるため、カテゴリ別の辞書ファイルを大量に追加・拡張されましたね！🌐 さらに、Chrome拡張の新たな開発基盤を構築し、ユーザ辞書編集UIの実装や、既存の翻訳の品質向上にも取り組まれました。細部へのこだわりが光ります！💡
-
-**network-sandbox** では、Go, Rust, Pythonを駆使した分散システム学習環境を構築されました。ロードバランサー、リアルタイム可視化クライアント、モニタリングまで揃った大規模なシステムを実装し、さらに詳細なユニットテストも追加。バグ修正やレビュー対応、ドキュメント整備にも尽力され、学習環境としての完成度を高めましたね！🚀
-
-**wordcosmo2** では、ゲームの核となるロジックとレンダリングシステムを華麗に実装されました。ゲーム開発の初期フェーズで土台をしっかりと築き上げられたのは素晴らしいです！🎮
-
-**jules-extension** では、最新の差分や変更セットの表示、PRがあるセッションのブランチチェックアウト機能など、開発効率を高めるコンテキストメニューの新機能を追加されましたね！ユーザー体験を考えた機能拡張、お見事です！🛠️
-
-**Audicle** では、多数の依存関係を効率的に更新し、プロジェクトの健全性を保ちつつ、PWAのバックグラウンド再生管理という重要な機能にも着手されました。堅実なメンテナンス作業も素晴らしい成果です！🎵
-
-この30日間も多岐にわたるプロジェクトで素晴らしい進捗を見せてくれました。今後のさらなるご活躍を楽しみにしています！🎉
+複数のプロジェクトで機能開発から環境構築、品質向上まで幅広く取り組んでおり、その多才さに感銘を受けます！これからもこの調子で頑張ってください！✨
 
 _Total: 177 commits across 7 projects_
 
@@ -83,67 +78,9 @@ _Total: 177 commits across 7 projects_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
-## 🎵 My Top Tracks on Spotify (Recently)
+🎵 My Top Tracks on Spotify (Recently):
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://open.spotify.com/track/1SlJLYLXORVbyccJlnoJRl" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736a7a4db44a33d9bc542513c2" alt="MORE THAN LiKE" width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>MORE THAN LiKE</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/1c4dCI3yr9sV4NzzOBNuAb" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="My distinction" width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>My distinction</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/7hpQwS6miuzzUcEx3zOFvt" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="SEE YOU" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>SEE YOU</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/0vFaWaqU8AGed1slnaP1rn" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273f900b0bad230bc0dc085e387" alt="STAR" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>STAR</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273781c530b2131180a1dd7ad30" alt="ZUTTO" width="120" />
-      </a>
-      <br />
-      <sub><strong>#5</strong></sub>
-      <br />
-      <sub>ZUTTO</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-  </tr>
-</table>
+_Error fetching tracks. Please try again later._
 <!-- spotify:end -->
 
 <!-- github-releases:start -->
