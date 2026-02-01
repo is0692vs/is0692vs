@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy skies today☁️
-📍 New York: -7°C
+# 🌍 Hello! Cloudy day☁️
+📍 Chicago: -2°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、185件もの素晴らしいコミット、お疲れ様でした！🎉 多岐にわたるプロジェクトで活発な開発が伺えますね。
+直近30日間で185件もの素晴らしいコミット、お疲れ様でした！✨ 多岐にわたるプロジェクトで精力的に活動されていますね！
 
-特に、
-- **gittohabu** では、GitHub UI用の日本語辞書エントリを大幅に拡張し、より直感的な体験を提供するための基盤を強化しました。Vite + CRXJS + TypeScriptのChrome拡張雛形やユーザー辞書編集UIの実装も進んでいますね！
-- **network-sandbox** では、Go/Rust/Pythonワーカーやカスタムロードバランサー、React可視化を備えた分散システム学習環境を構築。単体テスト追加やPRフィードバック対応で完成度を高めました。素晴らしい進捗です！🚀
-- **wordcosmo2** では、コアゲームメカニクスとレンダリングシステムを実装し、新たなゲーム体験の創造に向けて大きな一歩を踏み出しましたね。
-- **jules-extension** では、最新の差分や変更セットを確認できるコンテキストメニューや、PRセッションのブランチチェックアウトオプションを追加し、開発効率向上に貢献しました。単体テストも充実させ、品質も向上！
-- **Audicle** では、多数のnpm依存関係のアップデートやPWAのグローバルオーディオ再生管理の実装を進めました。
+`gittohabu`では、GitHub UIの日本語辞書エントリを大幅に拡張し、使いやすさを大きく向上させました。カテゴリ別の辞書ファイル追加や複数形対応など、きめ細やかな改善が光ります。さらに、Chrome拡張の雛形追加やユーザ辞書編集UIの実装、翻訳の一貫性修正にも取り組まれ、機能性と品質の両面で大きく前進しましたね！
 
-複数のプロジェクトで機能開発から環境構築、品質向上まで幅広く取り組んでおり、その多才さに感銘を受けます！これからもこの調子で頑張ってください！✨
+`network-sandbox`では、Go/Rust/Pythonワーカー、カスタムロードバランサー、Reactクライアントを組み込んだ大規模な分散システム学習環境を実装！単体テストの追加、Dockerビルドの修正、PRレビューフィードバックへの対応、そしてスワッパブルアーキテクチャの導入など、プロジェクトの基盤と安定性を高める多大な貢献がありました。🚀
+
+`wordcosmo2`では、ゲームのコアメカニクスとレンダリングシステムの初期実装に着手。世界管理、イベント処理、空間ハッシュなど、今後のゲーム開発の土台がしっかりと築かれました！
+
+`jules-extension`では、最新の差分や変更セットのプレビュー、PRのあるセッションからのブランチチェックアウトといった便利なコンテキストメニューオプションを追加。ユーザー体験の向上に貢献し、単体テストの拡充も素晴らしいです！
+
+`Audicle`では、複数のnpm依存関係の更新と、グローバルなオーディオ再生管理機能の実装を進められました。プロジェクトの健全性と機能性を保つ重要な作業ですね。
+
+どのプロジェクトでも質の高い成果を出されており、本当に素晴らしい活動サマリーです！これからもその勢いで頑張ってください！👏
 
 _Total: 177 commits across 7 projects_
 
@@ -78,9 +81,67 @@ _Total: 177 commits across 7 projects_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
-🎵 My Top Tracks on Spotify (Recently):
+## 🎵 My Top Tracks on Spotify (Recently)
 
-_Error fetching tracks. Please try again later._
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1SlJLYLXORVbyccJlnoJRl" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736a7a4db44a33d9bc542513c2" alt="MORE THAN LiKE" width="120" />
+      </a>
+      <br />
+      <sub><strong>#1</strong></sub>
+      <br />
+      <sub>MORE THAN LiKE</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1c4dCI3yr9sV4NzzOBNuAb" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="My distinction" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>My distinction</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/7hpQwS6miuzzUcEx3zOFvt" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="SEE YOU" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>SEE YOU</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/0vFaWaqU8AGed1slnaP1rn" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273f900b0bad230bc0dc085e387" alt="STAR" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>STAR</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273781c530b2131180a1dd7ad30" alt="ZUTTO" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>ZUTTO</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+  </tr>
+</table>
 <!-- spotify:end -->
 
 <!-- github-releases:start -->
