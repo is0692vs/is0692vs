@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Hiroshima: 3°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Bogotá: 10°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -9,7 +9,7 @@
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 34 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-01-02%22%2C%222026-01-03%22%2C%222026-01-04%22%2C%222026-01-05%22%2C%222026-01-06%22%2C%222026-01-07%22%2C%222026-01-08%22%2C%222026-01-09%22%2C%222026-01-10%22%2C%222026-01-11%22%2C%222026-01-12%22%2C%222026-01-13%22%2C%222026-01-14%22%2C%222026-01-15%22%2C%222026-01-16%22%2C%222026-01-17%22%2C%222026-01-18%22%2C%222026-01-19%22%2C%222026-01-20%22%2C%222026-01-21%22%2C%222026-01-22%22%2C%222026-01-23%22%2C%222026-01-24%22%2C%222026-01-25%22%2C%222026-01-26%22%2C%222026-01-27%22%2C%222026-01-28%22%2C%222026-01-29%22%2C%222026-01-30%22%2C%222026-01-31%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B1881%2C1905%2C1935%2C1963%2C1988%2C2023%2C2052%2C2094%2C2109%2C2143%2C2162%2C2197%2C2243%2C2272%2C2316%2C2341%2C2356%2C2384%2C2424%2C2475%2C2510%2C2542%2C2571%2C2600%2C2627%2C2690%2C2706%2C2733%2C2774%2C2797%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C23%2C23%2C23%2C24%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C31%2C31%2C31%2C32%2C34%2C34%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-01-03%22%2C%222026-01-04%22%2C%222026-01-05%22%2C%222026-01-06%22%2C%222026-01-07%22%2C%222026-01-08%22%2C%222026-01-09%22%2C%222026-01-10%22%2C%222026-01-11%22%2C%222026-01-12%22%2C%222026-01-13%22%2C%222026-01-14%22%2C%222026-01-15%22%2C%222026-01-16%22%2C%222026-01-17%22%2C%222026-01-18%22%2C%222026-01-19%22%2C%222026-01-20%22%2C%222026-01-21%22%2C%222026-01-22%22%2C%222026-01-23%22%2C%222026-01-24%22%2C%222026-01-25%22%2C%222026-01-26%22%2C%222026-01-27%22%2C%222026-01-28%22%2C%222026-01-29%22%2C%222026-01-30%22%2C%222026-01-31%22%2C%222026-02-01%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B1905%2C1935%2C1963%2C1988%2C2023%2C2052%2C2094%2C2109%2C2143%2C2162%2C2197%2C2243%2C2272%2C2316%2C2341%2C2356%2C2384%2C2424%2C2475%2C2510%2C2542%2C2571%2C2600%2C2627%2C2690%2C2706%2C2733%2C2774%2C2797%2C2797%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C22%2C23%2C23%2C23%2C24%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C31%2C31%2C31%2C32%2C34%2C34%2C34%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,15 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間でなんと174件ものコミット、お疲れ様でした！素晴らしい活動量ですね👏
+直近30日間で、あなたは合計174件ものコミットを重ね、素晴らしい活動を見せてくれましたね！お疲れ様です！🚀
 
-特に[gittohabu]では、GitHub UI用の日本語辞書エントリを大幅に拡張し、9つのカテゴリで約600もの辞書を追加されました。既存辞書の翻訳一貫性や誤マッチ防止の改善、Chrome拡張の基盤構築、ユーザー辞書編集UIの実装と、多角的に日本語体験を向上させましたね！🌟
+特に、**gittohabu**ではGitHub UIの日本語辞書を大幅に拡張し（+4786行、+4769行）、9つのカテゴリにわたる大量の用語で日本語環境を強化しました。さらにChrome拡張の基盤構築、ユーザー辞書編集UIの実装、翻訳の品質向上も素晴らしいです。
 
-[jules-extension]でも大活躍！最新diffや変更セット表示、PRからのブランチチェックアウト、セッション情報のツールチップ拡張、そして「Review Plan」メニュー追加と、開発者体験を大きく向上させる新機能が次々と生まれました。テストカバレッジ向上にも貢献されていますね。🚀
+**jules-extension**では、セッションの最新差分や変更セット表示、PRからのブランチチェックアウト、そして「Review Plan」といった便利なコンテキストメニュー機能を多数追加し、開発ワークフローを大きく改善しましたね！セッションツールチップの情報も充実させ、単体テストも拡充されました。
 
-さらに、[wordcosmo2]ではコアゲームメカニクスとレンダリングシステムの初期実装を完了させ、プロジェクトの基盤を築きました。 [network-sandbox]ではCodeRabbitによる大規模な単体テストを追加し、品質向上に大きく貢献！[Audicle]では依存関係のアップデート、[otodoki3]ではテストカバレッジの向上に取り組まれました。💪
+また、**wordcosmo2**でゲームのコアロジックやレンダリングシステムを構築し（+2028行、+2011行）、**network-sandbox**ではCodeRabbitによる大規模な単体テスト（+3359行）を追加しています。
 
-これほど多くのプロジェクトで、機能開発から品質改善、保守まで幅広い貢献をされており、本当に素晴らしいです！今後の更なるご活躍を楽しみにしています！🎉
+**Audicle**では依存関係を多数アップデートしつつ、グローバルなオーディオ再生管理機能も実装。**otodoki3**ではテストカバレッジを向上させるなど、多岐にわたるプロジェクトで確実な進捗がありました。
+
+どのリポジトリでも質・量ともに圧倒的な成果です。この勢いで、これからも開発を楽しんでいきましょう！✨
 
 _Total: 167 commits across 7 projects_
 
@@ -199,7 +201,7 @@ _Total: 167 commits across 7 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.3-publish">v1.2.3-publish</a> · Yesterday
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.3-publish">v1.2.3-publish</a> · 2 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.2.3-publish -->
