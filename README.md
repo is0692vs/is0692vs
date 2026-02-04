@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia chuvoso☔
-📍 Lisbon: 16°C
+# 🌍 Hello! Perfect sunny day☀️
+📍 Los Angeles: 19°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,20 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**214件**ものコミット、素晴らしい集中力と生産性ですね！🚀
-特に目立つ活動として、複数のプロジェクトで大きな進展がありました。
+直近30日間で、あなたは合計214件のコミットを記録しましたね！素晴らしい集中力です🚀
 
-**network-sandbox**では、分散システム学習環境の初期実装に尽力し、ワーカー設定プロキシ、Go/Rust/Pythonワーカー、Goカスタムロードバランサーといったコア機能を構築されました。大量のコード追加と単体テストの実装から、プロジェクトの立ち上げと主要機能の確立に大きく貢献されたことが伺えます！💡
+特に**network-sandbox**では、Go/Rust/Pythonワーカーやロードバランサー、React可視化を含む分散システム学習環境を大規模に実装しました。単体テストの追加や設定プロキシング機能の実装など、多岐にわたる開発でプロジェクトの核を築き上げていますね！✨
 
-**gittohabu**では、GitHub UIの日本語辞書エントリを大幅に拡張し、さらに包括的なCtrl+hover解説を追加しましたね。ユーザーのGitHub体験をより豊かにするための多大な努力、素晴らしいです！また、Vite + CRXJS + TypeScriptのChrome拡張雛形も追加し、今後の開発基盤を築きました。✨
+**gittohabu**では、GitHub UIの日本語辞書エントリを大幅に拡張し、さらに300以上の包括的なCtrl+hover解説を追加するなど、ユーザー体験を大きく向上させる機能強化を進めました。マージに伴うコード調整も迅速に対応されましたね！🌍
 
-**wordcosmo2**では、ゲームのコアメカニクスとレンダリングシステムを見事に実装されました。新しいプロジェクトの本格始動、これからの展開が楽しみです！🎮
+新しいプロジェクトの**wordcosmo2**では、ゲームのコアロジック、レンダリング、UIシステムを一気に構築し、素晴らしいスタートを切りました！🎮
 
-**jules-extension**では、セッションコンテキストメニューに最新の差分プレビュー機能を追加し、ユーザーエクスペリエンスを向上させました。素晴らしい改善です！👍
+**jules-extension**では、コンテキストメニューに最新の差分や変更セットを表示する機能を追加し、ユーザーの利便性を高めましたね。💡
 
-**Audicle**では、定期的な依存関係の更新をしっかり実施。プロジェクトの健全性を保つための重要な保守作業、お疲れ様でした！🔧
+また、**Audicle**では依存関係のバージョンアップを継続的に行い、プロジェクトの健全性を保つ努力も怠りません。🌱
 
-どのプロジェクトでも素晴らしい成果ですね！この調子で、これからも開発を楽しんでいきましょう！💪
+多岐にわたるプロジェクトで着実に成果を上げられているのは本当に素晴らしいです！この調子でこれからも頑張ってください！💪
 
 _Total: 207 commits across 8 projects_
 
@@ -109,22 +108,11 @@ _Total: 207 commits across 8 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/0vFaWaqU8AGed1slnaP1rn" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273f900b0bad230bc0dc085e387" alt="STAR" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>STAR</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/2xMcCB4mpqdZWDCuwEbC1t" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273f900b0bad230bc0dc085e387" alt="CAN WE STiLL BE??" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>CAN WE STiLL BE??</sub>
       <br />
@@ -135,9 +123,20 @@ _Total: 207 commits across 8 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="SEE YOU" width="120" />
       </a>
       <br />
-      <sub><strong>#5</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>SEE YOU</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/0vFaWaqU8AGed1slnaP1rn" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273f900b0bad230bc0dc085e387" alt="STAR" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>STAR</sub>
       <br />
       <sub>BiSH</sub>
     </td>
@@ -176,7 +175,7 @@ _Total: 207 commits across 8 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.4-publish">v1.2.4-publish</a> · 3 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.4-publish">v1.2.4-publish</a> · 4 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.2.4-publish -->
@@ -190,7 +189,7 @@ _Total: 207 commits across 8 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.4">v1.2.4</a> · 3 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.4">v1.2.4</a> · 4 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.2.4 -->
