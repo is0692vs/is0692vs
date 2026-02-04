@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Partly cloudy today☁️
-📍 Miami: 14°C
+# 🌍 おはよう！曇ってるね☁️
+📍 Hiroshima: 9°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,9 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で215件ものコミット、素晴らしい生産性でしたね！🚀
+直近30日間で216件ものコミット、お疲れ様です！👏 Merge pull request #10 from Hiroki-org/time-scale-adjustment、chore: add package-lock.json and ignore build output、fix: merge main branchなど、多くの作業を進められました。合計98110行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-*   **network-sandbox** では、分散システム学習環境を構築。ワーカー設定やテスト追加、モニタリング機能まで、大規模な新規開発をリード！✨
-*   **gittohabu** では、GitHub UIの日本語辞書とCtrl+hover解説を大幅拡張し、ユーザー体験を大きく向上。マージ対応やChrome拡張基盤整備も着実にこなしました！🛠️
-*   **wordcosmo2** では、コアゲームメカニクスとレンダリングシステムの初期実装を完了。新規プロジェクトの立ち上げ、お見事です！🎮
-*   **jules-extension** では、コンテキストメニューに最新の差分表示機能を追加し、利便性を向上させました。
-*   **Audicle** では、複数の依存関係を更新し、プロジェクトの健全性維持に貢献しました。
-
-多岐にわたるプロジェクトで、新機能開発から基盤整備まで、目覚ましい活躍でした！今後のさらなる活躍も期待しています！💪
-
-_Total: 208 commits across 8 projects_
+_Total: 209 commits across 8 projects_
 
 <table>
   <tr>
@@ -45,7 +37,7 @@ _Total: 208 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 84 commits (40.4%)</sub>
+      <sub>📊 84 commits (40.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
@@ -56,7 +48,7 @@ _Total: 208 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/gittohabu" target="_blank">gittohabu</a></strong></sub>
       <br />
-      <sub>📊 43 commits (20.7%)</sub>
+      <sub>📊 43 commits (20.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -67,7 +59,7 @@ _Total: 208 commits across 8 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 23 commits (11.1%)</sub>
+      <sub>📊 24 commits (11.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
