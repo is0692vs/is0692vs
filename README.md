@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Barcelona: 15°C
+# 🌍 こんにちは！雨の日ですね☔
+📍 Osaka: 7°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,18 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**227件**ものコミット、お疲れ様でした！素晴らしい活動量ですね！✨
+直近30日間で、あなたは合計227件ものコミットを重ね、素晴らしい活躍を見せてくれました！💪
 
-特に目を引くのは、**network-sandbox**での分散システム学習環境の大規模な実装です。Go/Rust/Pythonワーカーやロードバランサー、Reactによる可視化、Prometheus/Grafanaでのモニタリングといった核心機能が次々と追加され、基盤も強固になりましたね。💪
+特に「network-sandbox」では、分散システム学習環境の大規模な実装に注力しましたね！Go/Rust/PythonワーカーやGoカスタムロードバランサー、Reactリアルタイム可視化クライアント、Prometheus/Grafanaモニタリングなど、非常に多岐にわたる機能を構築し、約3万行ものコードを追加する大仕事でした。🎉
 
-また、**gittohabu**ではGitHub UIの体験向上に大きく貢献されました。日本語辞書を9つのカテゴリで大幅に拡張し、複数形対応やCtrl+hoverによる300件以上の詳細な解説を追加。ユーザーの理解を深める素晴らしい機能ですね！Vite+CRXJSのChrome拡張雛形導入も抜かりなし！🚀
+「gittohabu」では、GitHub UIの日本語辞書を大幅に拡張し、さらに全UI要素に対する包括的なCtrl+hover解説機能を追加。約1万8千行の追加で、より使いやすいGitHub体験を実現しました！マージ対応やパフォーマンス改善も着実に進めています。✨
 
-**wordcosmo2**では、Rust製のゲームの核となるロジックとレンダリングシステムが実装され、ゲーム開発の重要な一歩を踏み出しました。
-**jules-extension**では最新の差分や変更セットを扱うコンテキストメニューが追加され、利便性が向上しましたね。
-**otodoki3**では`SelectTrackModal`のレンダリングパフォーマンス最適化を実施し、ユーザー体験の向上に寄与。
-**Audicle**ではnpm依存関係を多数更新し、プロジェクトの健全性を維持されました。
+「wordcosmo2」では、ゲームの核となるメカニクスとレンダリングシステムの初期実装を完了させ、ゲームの基礎を着々と築いています。🚀 「jules-extension」では最新の差分と変更セットのコンテキストメニューを追加し、開発効率向上に貢献。また「otodoki3」ではSelectTrackModalのレンダリングパフォーマンスを大きく改善しました。👍
 
-多岐にわたるプロジェクトでこれほどの成果を出されているのは本当に素晴らしいです！今後の更なるご活躍を楽しみにしています！🎉
+「Audicle」では、依存関係の定期的なアップデートを実施し、プロジェクトの安定性と健全性を保っていますね。
+
+どのプロジェクトも着実に進化しており、あなたの貢献は本当に素晴らしいです！この調子でこれからも頑張ってください！🌟
 
 _Total: 220 commits across 8 projects_
 
@@ -148,7 +147,7 @@ _Total: 220 commits across 8 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.6-publish">v1.2.6-publish</a> · Today
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.6-publish">v1.2.6-publish</a> · Yesterday
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.2.6-publish -->
@@ -161,7 +160,7 @@ _Total: 220 commits across 8 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.6">v1.2.6</a> · Today
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.6">v1.2.6</a> · Yesterday
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.2.6 -->
