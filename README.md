@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Madrid: 7°C
+# 🌍 G'day! Rainy weather☔
+📍 Sydney: 19°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,7 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計247コミットと、目覚ましい活躍をされましたね！素晴らしいです👏
-
-特に注目すべきは、
-- **network-sandbox**では、分散システム学習環境の基盤を構築し、ワーカー設定のプロキシ実装やCodeRabbitによるユニットテスト導入など、多くの機能追加と品質向上に貢献されました。
-- **gittohabu**では、GitHub UIの日本語辞書エントリを大幅に拡張し、さらにCtrl+hoverによる包括的な解説も追加。日本語ユーザー体験の向上に尽力されましたね🚀 また、Vite+CRXJSのChrome拡張雛形を導入し、開発基盤も強化しています。
-- **Audicle**では、Jestを使ったAudioCacheのユニットテストを導入し、アプリケーションの安定性向上に貢献。
-- **wordcosmo2**では、ゲームのコアメカニクスとレンダリングシステムの実装を進められ、プロジェクトの重要な立ち上げフェーズを牽引されました。
-- **jules-extension**では、コンテキストメニューに最新のdiffと変更セットを表示する便利な機能を追加。
-- **otodoki3**では、SelectTrackModalのレンダリングパフォーマンスを最適化し、ユーザー体験を向上させています。
-
-多岐にわたるプロジェクトで、新機能開発からパフォーマンス改善、基盤強化まで幅広く貢献されており、その積極的な姿勢には感銘を受けます。これからもその情熱で開発を楽しんでくださいね！✨
+直近30日間で247件ものコミット、お疲れ様です！👏 Merge pull request #10 from Hiroki-org/time-scale-adjustment、chore: add package-lock.json and ignore build output、Merge pull request #496 from Hiroki-org/testing-audio-cache-6081456492604386957など、多くの作業を進められました。合計107039行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 240 commits across 9 projects_
 
@@ -147,7 +137,7 @@ _Total: 240 commits across 9 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.6-publish">v1.2.6-publish</a> · 4 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.6-publish">v1.2.6-publish</a> · 5 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.2.6-publish -->
@@ -160,7 +150,7 @@ _Total: 240 commits across 9 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.6">v1.2.6</a> · 4 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.6">v1.2.6</a> · 5 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.2.6 -->
