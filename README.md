@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！あめがふってますね☔
-📍 Fukuoka: 11°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Barcelona: 12°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で242件ものコミット、お疲れ様です！👏 Merge pull request #10 from Hiroki-org/time-scale-adjustment、chore: add package-lock.json and ignore build output、Merge pull request #496 from Hiroki-org/testing-audio-cache-6081456492604386957など、多くの作業を進められました。合計107039行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で246件もの素晴らしいコミット、お疲れ様でした！🎉
 
-_Total: 235 commits across 9 projects_
+**network-sandbox**では、Go/Rust/Pythonワーカー、カスタムロードバランサーを含む分散システム学習環境を実装。ワーカー設定プロキシ化、単体テストも追加と、大規模開発を推進！🚀
+
+**gittohabu**では、GitHub UIの日本語辞書エントリを大幅に拡張し、Ctrl+hoverでの詳細解説を網羅的に追加。Vite+CRXJS拡張雛形整備で、ユーザー体験向上へ貢献！🇯🇵
+
+**Audicle**では、JestセットアップとAudioCacheの単体テストを追加し品質向上へ。🧪 **wordcosmo2**では、コアゲームメカニクスとレンダリングシステムを構築。🎮 **jules-extension**では、コンテキストメニューに最新差分や変更セットのコマンドを追加し機能向上。✨ **otodoki3**では、SelectTrackModalのレンダリングパフォーマンスを最適化し、ユーザー体験改善に貢献！⚡️
+
+多岐にわたるプロジェクトでの活発な貢献、素晴らしいです。今後のさらなる活躍も期待しています！🌟
+
+_Total: 239 commits across 9 projects_
 
 <table>
   <tr>
@@ -37,7 +45,7 @@ _Total: 235 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 90 commits (38.3%)</sub>
+      <sub>📊 90 commits (37.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 9</sub>
     </td>
@@ -48,7 +56,7 @@ _Total: 235 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/gittohabu" target="_blank">gittohabu</a></strong></sub>
       <br />
-      <sub>📊 43 commits (18.3%)</sub>
+      <sub>📊 43 commits (18.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -59,7 +67,7 @@ _Total: 235 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 38 commits (16.2%)</sub>
+      <sub>📊 42 commits (17.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
