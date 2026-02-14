@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 你好！今天多云☁️
-📍 Beijing: 11°C
+# 🌍 こんにちは！あめがふってますね☔
+📍 Fukuoka: 11°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,18 +24,7 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと**242件**ものコミットを達成しましたね！素晴らしい集中力と生産性です！🚀
-
-特に注目すべきは、大規模な新規開発と既存プロジェクトの機能強化、そして品質向上への貢献です。
-
-*   **[network-sandbox]** では、分散システム学習環境の壮大な実装を進めましたね！ワーカープロキシ設定、ユニットテストの追加、ビルドプロセスの改善など、基盤をしっかりと築き上げました。大量のコード追加からも、その熱意が伝わってきます！✨
-*   **[gittohabu]** では、GitHub UIの日本語辞書エントリとCtrl+hover解説を大幅に拡充し、ユーザー体験を大きく向上させました。また、Vite+CRXJS+TypeScriptのChrome拡張雛形を追加するなど、将来を見据えた基盤整備も抜かりありません！🎌
-*   **[Audicle]** では、Jestを使ったAudioCacheのユニットテストを追加し、品質向上に貢献。さらに、依存関係のアップデートも実施し、プロジェクトを最新の状態に保っています！✅
-*   **[wordcosmo2]** では、ゲームのコアメカニクスとレンダリングシステムの初期実装を完了させ、新しいプロジェクトの力強いスタートを切りました！🎮
-*   **[jules-extension]** では、最新の差分や変更セットを表示するコンテキストメニュー機能を追加し、ユーザーの利便性を高めましたね！💡
-*   **[otodoki3]** では、`SelectTrackModal` のレンダリングパフォーマンスを最適化し、ユーザー体験の向上に貢献しました！🚀
-
-これだけ多岐にわたるプロジェクトで、これほどの成果を出せるのは本当に素晴らしいことです！この調子でこれからも素晴らしい開発を続けていきましょう！お疲れ様でした！🥳
+直近30日間で242件ものコミット、お疲れ様です！👏 Merge pull request #10 from Hiroki-org/time-scale-adjustment、chore: add package-lock.json and ignore build output、Merge pull request #496 from Hiroki-org/testing-audio-cache-6081456492604386957など、多くの作業を進められました。合計107039行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 235 commits across 9 projects_
 
@@ -200,7 +189,7 @@ _Total: 235 commits across 9 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.4-publish">v1.2.4-publish</a> · 1 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.4-publish">v1.2.4-publish</a> · 2 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.2.4-publish -->
