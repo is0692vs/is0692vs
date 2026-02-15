@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia nublado☁️
-📍 Lisbon: 14°C
+# 🌍 Hello! Cloudy skies today☁️
+📍 New York: 3°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,23 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で258件ものコミット、素晴らしい活躍ぶりですね！✨ 多岐にわたるプロジェクトで精力的に開発を進められたことがよく分かります。
+直近30日間で、なんと267件ものコミット、お疲れ様でした！素晴らしい活動量ですね👏
 
-特に**network-sandbox**では、分散システム学習環境の初期実装を進め、ワーカー構成のプロキシ化やPrometheus/Grafanaでのモニタリングといった大規模な機能追加を実現されましたね！環境構築とユニットテストの整備もバッチリです。
+まず目を引くのは、`network-sandbox`での大規模な進捗です。分散システム学習環境の核となるワーカー設定のプロキシ化や標準化、Go/Rust/Pythonワーカーやロードバランサー、Prometheus/Grafana監視までを実装されました。さらにCodeRabbitによる単体テスト追加も行い、プロジェクトの基盤が強固になりましたね！🚀
 
-**gittohabu**では、GitHub UIの日本語辞書エントリを大幅に拡張し、さらに300以上の包括的なCtrl+hover解説を追加。ユーザー体験を格段に向上させる素晴らしい改善です！マージ作業やプロジェクト基盤の整備も丁寧に進められました。
+次に`gittohabu`では、GitHub UIのユーザー体験を大幅に向上させました。日本語辞書エントリをカテゴリ別に大幅拡張し、さらに300を超える包括的なCtrl+hover解説も追加！Vite+CRXJS+TypeScriptのChrome拡張雛形も整備し、開発の効率化にも貢献しています✨
 
-**Audicle**ではJestのセットアップとAudioCacheの単体テストを追加し、品質向上に貢献されています🧪。
+`Audicle`ではJestを使ったAudioCacheの単体テスト環境を導入し、品質向上への一歩を踏み出しました。`github-user-summary`ではNext.jsアプリをTailwind CSSでスタイリッシュに初期化し、見栄えの良いスタートを切りましたね。🎨
 
-**paper-tools**では、コアパッケージとスクレイパーを含む初期モノレポのセットアップを完了し、今後の開発基盤を確立しました。
+また、`paper-tools`では初期モノレポセットアップを完了させ、DBLP/Crossref/OpenCitations APIクライアントやスクレイパーを含む堅牢な基盤を構築。そして`wordcosmo2`では、コアゲームロジックとレンダリングシステムの本格的な実装に着手されています。🎮
 
-**wordcosmo2**では、ゲームのコアメカニクスとレンダリングシステムの初期実装を達成！重要な一歩を踏み出しましたね🎮。
+多岐にわたるプロジェクトで、これだけ多くの成果を出されたこと、本当に素晴らしいです！今後の更なる発展が楽しみですね！👍
 
-そして**jules-extension**では、最新の差分と変更セットのコンテキストメニューコマンドを追加し、機能性を向上させました。
-
-複数のプロジェクトにわたる大規模な機能追加、改善、品質向上への取り組み、本当に素晴らしいです！この調子で、次なる開発も大いに期待しています！🚀
-
-_Total: 251 commits across 10 projects_
+_Total: 243 commits across 10 projects_
 
 <table>
   <tr>
@@ -51,7 +47,7 @@ _Total: 251 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 91 commits (36.3%)</sub>
+      <sub>📊 91 commits (37.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 9</sub>
     </td>
@@ -62,7 +58,7 @@ _Total: 251 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 43 commits (17.1%)</sub>
+      <sub>📊 43 commits (17.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
@@ -73,7 +69,7 @@ _Total: 251 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/gittohabu" target="_blank">gittohabu</a></strong></sub>
       <br />
-      <sub>📊 43 commits (17.1%)</sub>
+      <sub>📊 43 commits (17.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
