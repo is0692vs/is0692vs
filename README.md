@@ -251,11 +251,3 @@ _Total: 281 commits across 10 projects_
 <!-- github-releases:end -->
 
 ---
-
-## Organizations
-
-Many of my products and projects are hosted in this organization:
-
-[![Hiroki-org](https://img.shields.io/badge/GitHub-Hiroki--org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hiroki-org)
-
-Check out more projects at **[github.com/Hiroki-org](https://github.com/Hiroki-org)**
