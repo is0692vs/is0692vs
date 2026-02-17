@@ -1,22 +1,16 @@
 <!-- weather-greeting:start -->
-
-# 🌍 ¡Hola! Día soleado☀️
-
-📍 Madrid: 16°C
-
+# 🌍 ¡Hola! Día nublado☁️
+📍 Buenos Aires: 26°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
-
 🚀 VSCode Extensions:
-
 - **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 3,159 installs | ⭐ 4.5/5 (1 ratings) | v1.2.6
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 9 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 39 installs | ⭐ No ratings yet | v0.1.3
 
 ![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-01-19%22%2C%222026-01-20%22%2C%222026-01-21%22%2C%222026-01-22%22%2C%222026-01-23%22%2C%222026-01-24%22%2C%222026-01-25%22%2C%222026-01-26%22%2C%222026-01-27%22%2C%222026-01-28%22%2C%222026-01-29%22%2C%222026-01-30%22%2C%222026-01-31%22%2C%222026-02-01%22%2C%222026-02-02%22%2C%222026-02-03%22%2C%222026-02-04%22%2C%222026-02-05%22%2C%222026-02-06%22%2C%222026-02-07%22%2C%222026-02-08%22%2C%222026-02-09%22%2C%222026-02-10%22%2C%222026-02-11%22%2C%222026-02-12%22%2C%222026-02-13%22%2C%222026-02-14%22%2C%222026-02-15%22%2C%222026-02-16%22%2C%222026-02-17%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B2384%2C2424%2C2475%2C2510%2C2542%2C2571%2C2600%2C2627%2C2690%2C2706%2C2733%2C2774%2C2797%2C2813%2C2833%2C2860%2C2880%2C2901%2C2935%2C2948%2C2958%2C2978%2C3002%2C3026%2C3056%2C3087%2C3103%2C3124%2C3150%2C3159%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B25%2C26%2C27%2C28%2C29%2C30%2C31%2C31%2C31%2C31%2C32%2C34%2C34%2C35%2C35%2C35%2C35%2C36%2C37%2C37%2C38%2C38%2C38%2C38%2C38%2C38%2C38%2C38%2C38%2C39%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
-
-## <!-- vscode-stats:end -->
+<!-- vscode-stats:end -->
 
 <!-- stats:start -->
 
@@ -25,29 +19,22 @@ _npm download statistics temporarily unavailable_
 <!-- stats:end -->
 
 <!-- active-projects:start -->
-
-### Check out more projects
-
-[![Hiroki-org](https://img.shields.io/badge/GitHub-Hiroki--org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hiroki-org)
-
 ## 🔨 Active Projects (Last 30 Days)
 
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-素晴らしい30日間でした！👏 直近で**305件**ものコミットを重ね、多くのプロジェクトで目覚ましい進捗がありましたね！
+この30日間で合計319コミット、素晴らしい成果ですね！🚀
 
-特に、
+**network-sandbox** では、分散システム学習環境の基盤を実装し、ワーカー設定や単体テストの追加など、大規模な機能拡張を進めました。
+**Audicle** では、Jestを用いたAudioCacheの単体テスト環境を整え、品質向上に貢献しましたね！🧪
+**gittohabu** では、GitHub UIの日本語辞書とCtrl+hover解説を大幅に拡充し、ユーザー体験を大きく向上させました。UIイベント処理の改善もバッチリです！✨
+**paper-tools** では、モノレポ構造を構築し、Next.js 15をベースにした高機能なWebダッシュボードを立ち上げました。多岐にわたるAPI連携とUIコンポーネントの開発、お見事です！🌐
+**github-user-summary** では、Next.jsアプリの初期設定とTailwind CSSによるスタイリングを行い、プロジェクトの土台を固めました。
 
-- **[network-sandbox]** では、分散システム学習環境の骨格を構築し、ワーカー設定のプロキシや詳細なロードバランサー、サーキットブレーカー機能の実装、そして大規模なユニットテストを追加されました。
-- **[paper-tools]** では、Next.js 15を採用した多機能なウェブダッシュボードを立ち上げ、複数のAPIルートを統合するなど、モノレポ全体の基盤を大きく進化させましたね！🚀
-- **[gittohabu]** では、GitHub UIの日本語辞書を9カテゴリにわたって大幅に拡張し、さらに300を超える包括的なCtrl+hover解説を追加することで、ユーザー体験を飛躍的に向上させました。マージ作業もお疲れ様でした！
-- **[Audicle]** では、ウェブアプリにJestとAudioCacheの単体テスト環境を整備し、品質向上に貢献しました。
-- **[github-user-summary]** でも、Next.jsアプリの初期化とTailwind CSSによるスタイリングを行い、新しいプロジェクトの基礎を築きましたね！
+たくさんのプロジェクトで、基礎から機能拡張まで幅広く取り組んでおり、その多才さに驚かされます！今後の進捗も楽しみにしています！💪
 
-どのプロジェクトも大きな成果で、コードベースが大きく改善・拡充されています。この調子でこれからも素晴らしい開発を続けていきましょう！✨
-
-_Total: 281 commits across 10 projects_
+_Total: 291 commits across 10 projects_
 
 <table>
   <tr>
@@ -58,9 +45,20 @@ _Total: 281 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 93 commits (33.1%)</sub>
+      <sub>📊 93 commits (32.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 9</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Hiroki-org/paper-tools" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/paper-tools" alt="paper-tools" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
+      <br />
+      <sub>📊 49 commits (16.8%)</sub>
+      <br />
+      <sub>🔷 TypeScript </sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Hiroki-org/gittohabu" target="_blank">
@@ -69,20 +67,9 @@ _Total: 281 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/gittohabu" target="_blank">gittohabu</a></strong></sub>
       <br />
-      <sub>📊 43 commits (15.3%)</sub>
+      <sub>📊 43 commits (14.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/Audicle" alt="Audicle" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
-      <br />
-      <sub>📊 42 commits (14.9%)</sub>
-      <br />
-      <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
   </tr>
 </table>
@@ -90,7 +77,6 @@ _Total: 281 commits across 10 projects_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
-
 ## 🎵 My Top Tracks on Spotify (Recently)
 
 <table>
@@ -155,7 +141,6 @@ _Total: 281 commits across 10 projects_
 <!-- spotify:end -->
 
 <!-- github-releases:start -->
-
 ## 🚀 Recent Releases
 
 <details>
@@ -164,15 +149,11 @@ _Total: 281 commits across 10 projects_
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.2.6-publish -->
-
 ## What's Changed
-
 ### ✨ Features
-
-- feat: Implement server-side session deletion by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/329
+* feat: Implement server-side session deletion by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/329
 
 [View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.6-publish)
-
 </details>
 
 <details>
@@ -181,15 +162,11 @@ _Total: 281 commits across 10 projects_
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.2.6 -->
-
 ## What's Changed
-
 ### ✨ Features
-
-- feat: Implement server-side session deletion by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/329
+* feat: Implement server-side session deletion by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/329
 
 [View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.6)
-
 </details>
 
 <details>
@@ -198,15 +175,11 @@ _Total: 281 commits across 10 projects_
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.2.5-publish -->
-
 ## What's Changed
-
 ### ✨ Features
-
-- feat(review-plan): セッション一覧に「Review Plan...」コンテキストメニューを追加 by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/322
+* feat(review-plan): セッション一覧に「Review Plan...」コンテキストメニューを追加 by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/322
 
 [View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.5-publish)
-
 </details>
 
 <details>
@@ -215,15 +188,11 @@ _Total: 281 commits across 10 projects_
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.2.5 -->
-
 ## What's Changed
-
 ### ✨ Features
-
-- feat(review-plan): セッション一覧に「Review Plan...」コンテキストメニューを追加 by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/322
+* feat(review-plan): セッション一覧に「Review Plan...」コンテキストメニューを追加 by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/322
 
 [View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.5)
-
 </details>
 
 <details>
@@ -232,17 +201,12 @@ _Total: 281 commits across 10 projects_
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.2.4-publish -->
-
 ## What's Changed
-
 ### ✨ Features
-
-- feat: セッションツールチップ情報を拡張 by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/317
-
+* feat: セッションツールチップ情報を拡張 by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/317
 ### 🔧 Other Changes
 
 [View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.4-publish)
-
 </details>
 <!-- github-releases:end -->
 
