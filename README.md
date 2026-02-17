@@ -26,10 +26,6 @@ _npm download statistics temporarily unavailable_
 
 <!-- active-projects:start -->
 
-## Organizations
-
-Many of my products and projects are hosted in this organization:
-
 ### Check out more projects
 
 [![Hiroki-org](https://img.shields.io/badge/GitHub-Hiroki--org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hiroki-org)
