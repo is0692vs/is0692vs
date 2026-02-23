@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rainy day☔
-📍 London: 12°C
+# 🌍 Hello! Sunny and warm☀️
+📍 Miami: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと295件もの素晴らしいコミットを達成しましたね！精力的な活動、お見事です👏。
+直近30日間で295件ものコミット、素晴らしい生産性です！🚀
 
-特に注目すべきは、[network-sandbox]での大規模な開発です。Go/Rust/Pythonワーカー、カスタムロードバランサー、Reactクライアント、Prometheus/Grafanaを含む分散システム学習環境の基盤を実装し、テスト環境も整備しました。
+**network-sandbox** では、Go/Rust/Pythonワーカー、ロードバランサー、React可視化を含む分散システム学習環境を構築し、単体テストも追加されました。大規模な実装、お疲れ様です！
 
-また、[gittohabu]ではGitHub UIの日本語辞書エントリを大幅に拡張し、さらに包括的なCtrl+hover解説を追加することで、ユーザー体験を大きく向上させましたね✨。
+**gittohabu** では、mainブランチ統合に加え、GitHub UI用の日本語辞書エントリを大幅拡張。300を超える包括的なCtrl+hover解説も実装し、ユーザー体験を大きく向上させましたね！✨
 
-[paper-tools]では、Next.js 15、React 19、Tailwind CSS v4を採用したモダンなWebダッシュボードを立ち上げ、初期モノレポのセットアップも完了させました。
+**paper-tools** では、Next.js 15 기반のWebダッシュボード（5ページ、8APIルート）を立ち上げ、コア・スクレイパーパッケージを含む初期モノレポもセットアップ完了。今後の発展が楽しみです！🔬
 
-その他、[Audicle]ではJestテスト環境を整備し、[github-user-summary]ではNext.jsアプリの初期化と基盤構築を進めるなど、多岐にわたるプロジェクトで重要な貢献をされています。
+**Audicle** では、JestセットアップとAudioCacheの単体テストを追加し、品質向上に貢献。
 
-これだけ多くのプロジェクトで、機能開発から基盤構築まで幅広く手掛けるあなたの推進力には脱帽です！これからもこの調子で頑張りましょう🚀！
+**github-user-summary** では、Next.jsアプリの初期化とスタイリング基盤を構築しました。
+
+多岐にわたるプロジェクトでの精力的な活動、本当に素晴らしい！この勢いで頑張りましょう！💪
 
 _Total: 267 commits across 10 projects_
 
