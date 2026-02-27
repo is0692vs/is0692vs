@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！雨の日ですね☔
-📍 Osaka: 14°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Madrid: 11°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,34 +24,22 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で268件ものコミット、素晴らしい集中力と生産性ですね！🚀
+直近30日間で、なんと274ものコミットを達成しましたね！素晴らしい集中力と生産性です🚀✨
 
-[network-sandbox] では、分散システム学習環境の実装を大きく進められました。Go/Rust/Pythonワーカー、Goカスタムロードバランサー、Reactリアルタイム可視化クライアントの実装に加え、ワーカー構成の標準化やユニットテストの追加など、多岐にわたる機能強化を行いましたね！
+特に注目すべき活動は以下の通りです。
 
-[gittohabu] では、GitHub UI用の日本語辞書エントリを大幅に拡張し、さらに300以上の包括的なCtrl+hover解説を追加されました。これにより、ユーザー体験を格段に向上させる素晴らしい改善が実現しました✨。テキストノード処理の最適化も行われました。
+*   **network-sandbox** では、分散システム学習環境の大規模な機能実装に尽力しましたね。ワーカーの構成プロキシ化、Go/Rust/Pythonワーカー、各種ロードバランサー、リアルタイム可視化クライアントなど、多岐にわたるコンポーネントを構築し、単体テストも追加しました。素晴らしいプロジェクトの立ち上げです！
+*   **gittohabu** では、GitHub UI向けの日本語辞書を9つのカテゴリで大幅に拡張し、使いやすさを大きく向上させました。メインブランチとのマージやパフォーマンス最適化にも取り組み、堅牢なシステムを追求していますね🛠️。
+*   **paper-tools** では、Next.jsベースのウェブダッシュボードを立ち上げ、既存の全パッケージを統合する壮大な取り組みを開始しました。pnpmワークスペースによるモノレポ基盤構築も進み、今後の発展が楽しみです💻。
+*   **github-user-summary** では、Next.jsアプリの初期化に加え、Vitestによる69ものユニットテストとGitHub ActionsのCIワークフローをセットアップし、品質保証体制を固めましたね🧪。
+*   **Audicle** では、Jestテスト環境の構築とAudioCacheのユニットテストを追加し、堅牢な開発基盤を築きました。
 
-[paper-tools] では、Next.jsを用いた新しいウェブダッシュボードを立ち上げ、複数のAPIルートを統合。また、coreやscraperパッケージを含む初期モノレポセットアップを行い、今後の大規模開発の強力な基盤を築かれました。
+各プロジェクトで、機能追加からテスト、インフラ構築まで幅広い分野で大きな進捗がありましたね。その努力と貢献に心から敬意を表します。この調子で、これからも素晴らしい開発を楽しんでいきましょう！💪🎉
 
-[Audicle] ではJestセットアップとAudioCacheのユニットテストを追加し、プロダクトの品質向上に貢献されました。
-[github-user-summary] ではNext.jsアプリの初期化とTailwind CSSによるデザイン基盤を構築されました。
-
-多方面での活躍、本当に素晴らしいです！この調子で、さらなるプロダクトの進化を楽しみにしています！🎉
-
-_Total: 252 commits across 10 projects_
+_Total: 250 commits across 10 projects_
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/gittohabu" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/gittohabu" alt="gittohabu" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/gittohabu" target="_blank">gittohabu</a></strong></sub>
-      <br />
-      <sub>📊 55 commits (21.8%)</sub>
-      <br />
-      <sub>🔷 TypeScript </sub>
-    </td>
     <td align="center" width="33%">
       <a href="https://github.com/Hiroki-org/jules-extension" target="_blank">
         <img src="https://opengraph.githubassets.com/1/Hiroki-org/jules-extension" alt="jules-extension" width="100%" />
@@ -59,7 +47,7 @@ _Total: 252 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 55 commits (21.8%)</sub>
+      <sub>📊 57 commits (22.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 9</sub>
     </td>
@@ -70,7 +58,18 @@ _Total: 252 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 50 commits (19.8%)</sub>
+      <sub>📊 50 commits (20.0%)</sub>
+      <br />
+      <sub>🔷 TypeScript </sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Hiroki-org/gittohabu" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/gittohabu" alt="gittohabu" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/Hiroki-org/gittohabu" target="_blank">gittohabu</a></strong></sub>
+      <br />
+      <sub>📊 47 commits (18.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
