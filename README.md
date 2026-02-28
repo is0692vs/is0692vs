@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia nublado☁️
-📍 Lisbon: 15°C
+# 🌍 Hello! Rather cloudy today☁️
+📍 London: 10°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,21 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、あなたは合計**307**件ものコミットを重ね、多岐にわたるプロジェクトで素晴らしい成果を出しました！✨
+直近30日間で**312件**ものコミット、素晴らしい集中力と生産性でした！👏 主要な活動を振り返ってみましょう。
 
-特に目を引く活動をいくつかご紹介します。
+特に大規模な開発が進みましたね。**network-sandbox**では、Go/Rust/Pythonワーカーやロードバランサー、Reactクライアントを含む本格的な分散システム学習環境を実装し、ワーカー設定プロキシ化や単体テストも導入しました。🚀
 
-*   **[network-sandbox]** では、分散システム学習環境の基盤を実装し、Go/Rust/Pythonワーカー、ロードバランサー、リアルタイム可視化など、大規模な機能を構築しましたね！ワーカー設定やユニットテストも追加され、システム全体が大きく前進しました。
-*   **[gittohabu]** では、GitHub UIの日本語辞書エントリを大幅に拡張し、使いやすさを飛躍的に向上させました。マージ対応やパフォーマンス改善も着実に進め、ユーザー体験を高めています。
-*   **[paper-tools]** では、Next.jsと最新技術スタックを用いたWebダッシュボードを立ち上げ、複合的な情報アクセスと管理を可能にしましたね！🚀 検索、グラフ、レコメンドなど、多機能なAPIルートも整備しました。
-*   **[github-user-summary]** では、Next.jsアプリの初期化からTailwind CSSの導入、さらにVitestによる網羅的なユニットテストとGitHub Actions CIのセットアップまで、開発基盤を堅牢にしました！
-*   **[Audicle]** では、Jestを用いたユニットテスト環境を整備し、AudioCacheの品質向上に大きく貢献しましたね！
+**paper-tools**では、Next.js 15, React 19, Tailwind CSS v4を基盤とした高機能なWebダッシュボードを新規に立ち上げ、既存パッケージとの連携を強化しましたね。🎨
 
-この30日間で、基盤の構築から機能拡充、品質向上まで、様々な側面からプロジェクトを力強く推進されていることがよく分かります。精力的な開発、本当にお疲れ様でした！これからもあなたの活躍を楽しみにしています！🎉
+**gittohabu**では、GitHub UI向けの日本語辞書エントリを大幅に拡張し、9つのカテゴリで約600もの翻訳を追加。日本語ユーザーにとってさらに使いやすい体験を提供しました。素晴らしい改善です！🎌
 
-_Total: 294 commits across 10 projects_
+**github-user-summary**では、Next.jsアプリの初期設定に加え、Vitestによるユニットテスト導入とGitHub ActionsでのCIワークフロー構築を行い、開発の品質と効率を大きく向上させました。✅
+
+そして、**Audicle**ではJestのセットアップとAudioCacheの単体テストを追加し、テスト体制を強化しました。🧪
+
+多岐にわたるプロジェクトで、新機能開発、品質向上、開発基盤の整備と、本当に多くの成果を出されました。この調子でこれからも素晴らしい開発を続けてください！お疲れ様でした！✨
+
+_Total: 299 commits across 10 projects_
 
 <table>
   <tr>
@@ -47,7 +49,7 @@ _Total: 294 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 70 commits (23.8%)</sub>
+      <sub>📊 70 commits (23.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 9</sub>
     </td>
@@ -58,7 +60,7 @@ _Total: 294 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 61 commits (20.7%)</sub>
+      <sub>📊 61 commits (20.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -69,7 +71,7 @@ _Total: 294 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/gittohabu" target="_blank">gittohabu</a></strong></sub>
       <br />
-      <sub>📊 46 commits (15.6%)</sub>
+      <sub>📊 46 commits (15.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
