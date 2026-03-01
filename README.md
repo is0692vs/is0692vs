@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Beautiful clear day☀️
-📍 Toronto: -10°C
+# 🌍 おはよう！曇ってるね☁️
+📍 Sapporo: -2°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で355ものコミット、大変お疲れ様でした！素晴らしいペースで多くのプロジェクトを進められましたね！👏
+直近30日間で**355件**ものコミット、お疲れ様でした！👏 素晴らしい活動量ですね！🚀
 
-特に注目すべき活動をいくつかご紹介します。
-**[network-sandbox]** では、worker設定プロキシや分散システム学習環境の実装など、大規模な新機能開発とユニットテストの追加に大きく貢献されました。
-**[OpenShelf]** では、VitestとGitHub Actionsを導入し、堅牢なテストとCI環境を整備されましたね！🚀
-**[Audicle]** でもJestを使ったテストセットアップとAudioCacheの単体テストを追加し、品質向上に尽力されています🧪。
-**[gittohabu]** では、GitHub UIの日本語辞書エントリを大幅に拡張し、ユーザー体験を大きく向上させました。複数の大型マージと競合解決も見事です🛠️。
-**[paper-tools]** では、Next.js 15をベースとした多機能なWebダッシュボードを新規構築し、今後の開発の基盤を築かれました🌐。
-**[github-user-summary]** では、Next.jsアプリの初期化からVitestによるユニットテスト、GitHub ActionsでのCIセットアップまで、着実に開発を進められていますね✨。
+この期間、特に複数のプロジェクトで大規模な機能開発や基盤整備に尽力されました。
 
-これまでの力強い貢献に感謝します！この調子で、これからも開発を楽しんでいきましょう！応援しています！🎉
+*   **network-sandbox**では、ワーカー設定のプロキシ実装や分散システム学習環境の構築といった大規模な新機能開発を進め、初期セットアップやユニットテスト追加も行われましたね。
+*   **paper-tools**では、Next.jsを基盤としたWebダッシュボードを立ち上げ、既存パッケージとの連携を進める壮大なプロジェクトに着手！🎨
+*   **gittohabu**では、GitHub UI用の日本語辞書エントリを大幅に拡張し、ユーザー体験を向上。マージの競合解決や安定性向上にも貢献されています。
+*   **OpenShelf**と**github-user-summary**では、VitestやJestといったモダンなテストフレームワークを導入し、GitHub ActionsによるCI環境を整備。品質保証体制を強化されました。
+*   **Audicle**でも、JestのセットアップとAudioCacheの単体テストをしっかり追加されています。
+
+広範囲にわたる新機能開発、大規模な基盤構築、そして徹底した品質改善、素晴らしい成果です！今後のさらなる活躍も期待しています！✨
 
 _Total: 329 commits across 10 projects_
 
@@ -128,15 +128,15 @@ _Total: 329 commits across 10 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/1c4dCI3yr9sV4NzzOBNuAb" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="My distinction" width="120" />
+      <a href="https://open.spotify.com/track/76uBxDb9lOG1dl98UfN46b" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27345ab9f67d6dcd6d85d81df86" alt="赤い糸 - Album Mix" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>My distinction</sub>
+      <sub>赤い糸 - Album Mix</sub>
       <br />
-      <sub>BiSH</sub>
+      <sub>KOBUKURO</sub>
     </td>
   </tr>
 </table>
