@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Madrid: 14°C
+# 🌍 Hello! Cloudy day☁️
+📍 Chicago: -1°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,23 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で344件もの素晴らしいコミット、お疲れ様でした！👏 大量のコード変更から、非常に精力的に活動されていたことが伝わってきますね！
+直近30日間で344件ものコミット、素晴らしいペースですね！✨
 
-主要な活動としては、まず**network-sandbox**でワーカー設定のプロキシ化や分散システム学習環境の実装、そして多くのテスト追加が行われました。大規模な機能追加で、プロジェクトが大きく前進しましたね！
+**network-sandbox** では、worker設定プロキシや分散システム学習環境の実装といった大規模な新機能開発と、堅牢性を高める単体テストを追加されましたね！🚀
 
-次に、**OpenShelf**ではVitestとGitHub Actionsを導入し、テストとCI環境をしっかりと整備されました。品質向上に大きく貢献する素晴らしい一歩です！✨
+また、**OpenShelf**、**Audicle**、そして**github-user-summary** では、VitestやJestを用いたユニットテストの導入に加え、GitHub ActionsによるCI環境の整備も進められました。これにより、プロジェクトの品質と安定性が大きく向上しましたね！✅
 
-**Audicle**では、JestのセットアップとAudioCacheの単体テストが追加され、システムの堅牢性がさらに高まりました。
+**gittohabu** では、GitHub UIの日本語辞書を大幅に拡張し、より直感的なユーザー体験を提供。マージ対応も着実にこなされています！🇯🇵
 
-**gittohabu**では、頻繁なマージ対応に加え、GitHub UI用の日本語辞書エントリを大幅に拡張されました。ユーザー体験の向上に大きく寄与する改善ですね！
+そして、**paper-tools** ではNext.jsベースのWebダッシュボードを爆速開発！検索、グラフ、レコメンドなど多岐にわたる機能が統合され、プロジェクト全体を牽引する素晴らしい成果です。🎉
 
-そして、**paper-tools**では、Next.js 15、React 19、Tailwind CSS v4などを採用したWebダッシュボードが追加され、複数のパッケージが統合されました。これはプロジェクトの核となる大きな進展です！
+新機能開発、基盤構築、品質向上と、多岐にわたる重要な貢献をされており、そのパワフルな活動に感銘を受けます。今月も本当にお疲れ様でした！次なる一歩も楽しみにしています！🌟
 
-さらに、**github-user-summary**でもNext.jsアプリの初期化とTailwind CSSの導入、そしてVitestを使ったユニットテストとGitHub ActionsによるCIがセットアップされ、開発基盤が強固になりました。
-
-多岐にわたるプロジェクトで、新機能開発からテスト・CI整備、大規模な基盤構築まで、素晴らしい成果を上げています。この調子でこれからも頑張ってください！🚀
-
-_Total: 282 commits across 10 projects_
+_Total: 276 commits across 10 projects_
 
 <table>
   <tr>
@@ -51,7 +47,7 @@ _Total: 282 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 66 commits (23.4%)</sub>
+      <sub>📊 66 commits (23.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -62,7 +58,7 @@ _Total: 282 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 63 commits (22.3%)</sub>
+      <sub>📊 57 commits (20.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 9</sub>
     </td>
@@ -73,7 +69,7 @@ _Total: 282 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 46 commits (16.3%)</sub>
+      <sub>📊 46 commits (16.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
