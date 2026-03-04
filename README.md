@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Hiroshima: 4°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Lyon: 9°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,18 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で376ものコミットを重ね、素晴らしい活動を見せてくれましたね！👏 広範なプロジェクトで重要な貢献をされています。
+直近30日間でなんと377件ものコミット、素晴らしい活躍ぶりですね！🚀
 
-特に **[paper-tools]** では、Next.js 15やReact 19、Tailwind CSS v4を採用した包括的なWebダッシュボードの開発に注力し、モノレポ構成の確立やコア・スクレイパーパッケージの整備も進めました。大規模な機能追加ですね！
-**[network-sandbox]** ではworker機能のプロキシ化を実装し、システムの基盤を大きく強化しました。
-**[OpenShelf]**、**[Audicle]**、そして **[github-user-summary]** では、VitestやJestといったテストフレームワークを導入し、GitHub ActionsによるCI環境を整備することで、開発の品質と効率を飛躍的に向上させています。🚀 特に **[github-user-summary]** では新規アプリの基盤構築と同時にテストを充実させる堅実な姿勢が見事です。
-**[gittohabu]** では、GitHub UIのCtrl+hover機能の包括的な拡張や、マージ時の競合解決・バグ修正を行い、ユーザーエクスペリエンスの向上に尽力されました。
+**network-sandbox** では、worker設定プロキシの大規模な機能追加とビルド環境の整備を進められました。
+**OpenShelf** では、VitestとGitHub Actionsを導入し、テスト・CI環境をしっかり構築！品質向上に大きく貢献されています。
+**Audicle** では、JestでのテストセットアップとAudioCacheの単体テストを追加し、堅牢性を高めています。
+**gittohabu** では、GitHub UI向けのCtrl+hover機能を追加し、メインブランチのマージやテキストノード処理の最適化にも取り組まれました。着実な改善です✨
+特に印象的なのは、**paper-tools** でのNext.js Webダッシュボードの立ち上げです。複数のAPIルートを持つ複雑なダッシュボードや、モノレポ化、著者プロファイラ機能の追加と、大規模な開発を一気に推進されましたね！👏
+**github-user-summary** でも、Next.jsアプリの初期化から、VitestとGitHub Actionsによる堅固なユニットテスト・CI環境の構築まで、土台を固める重要な作業をこなされました。
 
-Webアプリケーション開発からテスト・CI環境の構築、既存プロジェクトの機能拡張と改善まで、多岐にわたる分野で精力的に活動されており、その生産性の高さに感銘を受けます。これからもその勢いで素晴らしい成果を出し続けてください！✨
+この短期間での多岐にわたるプロジェクトでの貢献、本当に素晴らしい成果です！今後のさらなる発展が楽しみですね！🙌
 
-_Total: 349 commits across 10 projects_
+_Total: 350 commits across 10 projects_
 
 <table>
   <tr>
@@ -44,7 +46,7 @@ _Total: 349 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 114 commits (32.7%)</sub>
+      <sub>📊 114 commits (32.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -55,7 +57,7 @@ _Total: 349 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 70 commits (20.1%)</sub>
+      <sub>📊 71 commits (20.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 9</sub>
     </td>
