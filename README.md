@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Ciao! Giornata nuvolosa☁️
-📍 Rome: 14°C
+# 🌍 Hello! Cloudy skies today☁️
+📍 New York: 3°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で361件ものコミット、素晴らしい集中力と生産性ですね！🎉
+30日間で合計361件ものコミット、素晴らしい集中力と生産性です！🚀
 
-特に目立った活動としては、複数のリポジトリで大規模な開発と品質向上への取り組みが見受けられます。
+**network-sandbox** では、ワーカー設定プロキシ機能の大規模な実装と、開発環境の整備を進めましたね。
+**OpenShelf** では、VitestとGitHub Actionsを導入し、テスト・CI環境を大幅に強化。品質向上への貢献が光ります。
+**Audicle** では、Jestを使ったテストセットアップとAudioCacheの単体テストを追加し、アプリの堅牢性を高めました。
+**gittohabu** では、Ctrl+hover機能の拡充やテキストノード処理の最適化など、多数の改善と新機能開発を積極的に進めています。
+**paper-tools** では、Next.js 15ベースのWebダッシュボード開発、モノレポの初期セットアップ、著者プロファイラのCLIとWeb画面追加など、非常に多角的な貢献をされましたね✨。
+**github-user-summary** では、Next.jsアプリの初期化に加え、VitestによるユニットテストとGitHub ActionsでのCI環境を構築し、開発基盤を盤石にしています！
 
-**network-sandbox** では、ワーカー設定のプロキシ化や標準化といった大規模な機能追加と調整を実施されました。
-
-**OpenShelf**、**Audicle**、そして **github-user-summary** では、それぞれVitestやJestを使ったユニットテストの導入、GitHub ActionsによるCI環境の整備に力を入れ、プロジェクトの信頼性と開発効率を大きく高めましたね。👏
-
-**gittohabu** では、mainブランチとのマージ競合解消やテキストノード処理の最適化、さらにはGitHub UI向けに包括的なCtrl+hover機能を追加するなど、既存機能の安定化とユーザー体験向上に貢献されました。
-
-そして、**paper-tools** ではNext.js 15をベースとしたWebダッシュボードの追加や、コアパッケージを含むモノレポの初期セットアップ、著者プロファイラの開発と、多岐にわたる大規模な新規プロジェクトに着手されており、目覚ましい進捗です！🚀 **github-user-summary** でもNext.jsアプリの初期化やテスト・CIの整備を同時に進め、プロジェクトの基盤を磐石にされました。
-
-これだけ多くのプロジェクトで多角的に貢献されているのは本当に素晴らしいです。この調子で、今後のさらなる活躍を期待しています！😊
+この短期間での多岐にわたる開発活動は目覚ましいです。今後のさらなる活躍も楽しみにしています！💪
 
 _Total: 334 commits across 10 projects_
 
@@ -149,7 +146,7 @@ _Total: 334 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.8-publish">v1.2.8-publish</a> · 4 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.8-publish">v1.2.8-publish</a> · 5 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.2.8-publish -->
@@ -163,7 +160,7 @@ _Total: 334 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.8">v1.2.8</a> · 4 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.8">v1.2.8</a> · 5 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.2.8 -->
