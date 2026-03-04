@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy skies today☁️
-📍 New York: 3°C
+# 🌍 Hello! Tropical rain shower☔
+📍 Miami: 23°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-30日間で合計361件ものコミット、素晴らしい集中力と生産性です！🚀
+直近30日間で合計361件ものコミット、素晴らしいペースですね！✨
 
-**network-sandbox** では、ワーカー設定プロキシ機能の大規模な実装と、開発環境の整備を進めましたね。
-**OpenShelf** では、VitestとGitHub Actionsを導入し、テスト・CI環境を大幅に強化。品質向上への貢献が光ります。
-**Audicle** では、Jestを使ったテストセットアップとAudioCacheの単体テストを追加し、アプリの堅牢性を高めました。
-**gittohabu** では、Ctrl+hover機能の拡充やテキストノード処理の最適化など、多数の改善と新機能開発を積極的に進めています。
-**paper-tools** では、Next.js 15ベースのWebダッシュボード開発、モノレポの初期セットアップ、著者プロファイラのCLIとWeb画面追加など、非常に多角的な貢献をされましたね✨。
-**github-user-summary** では、Next.jsアプリの初期化に加え、VitestによるユニットテストとGitHub ActionsでのCI環境を構築し、開発基盤を盤石にしています！
+**[paper-tools]** では、Next.js Webダッシュボード開発やモノレポ構築、著者プロファイラ機能追加と、複数の大規模プロジェクトを進められました。
+**[network-sandbox]** では、worker configuration proxyingといった基盤となる機能強化に大きく貢献されています。
+**[OpenShelf]** と **[github-user-summary]** では、VitestとGitHub Actionsを用いた堅牢なテスト・CI環境を整備されましたね！
+**[Audicle]** ではJestでの単体テストを導入し、品質向上に努められました。
+**[gittohabu]** では、GitHub UIへの包括的なCtrl+hover機能の追加や、マージ・パフォーマンス改善に尽力されました。
 
-この短期間での多岐にわたる開発活動は目覚ましいです。今後のさらなる活躍も楽しみにしています！💪
+多岐にわたるプロジェクトで活発に開発を進められており、その素晴らしい貢献に感謝いたします！これからもその調子で頑張ってください！🚀
 
 _Total: 334 commits across 10 projects_
 
