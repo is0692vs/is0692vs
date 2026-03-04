@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Lyon: 14°C
+# 🌍 Hello! Foggy and cloudy☁️
+📍 San Francisco: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと361件ものコミットを重ね、素晴らしい活動量ですね！👏 主要な活動として、複数のリポジトリで基盤強化から新機能開発まで幅広く取り組まれました。
+直近30日間で361コミット、素晴らしいペースですね！👏
 
-**network-sandbox**では、ワーカー設定のプロキシ実装や標準化、依存関係の整理でシステムの安定性を向上。**OpenShelf**では、VitestとGitHub Actionsを導入し、テスト・CI環境を見事に整備されました✨。**Audicle**では、JestセットアップとAudioCacheのユニットテスト追加で品質を保証。
+様々なプロジェクトで目覚ましい進捗が見られます。
+**network-sandbox** では、worker設定のプロキシ化など大規模な機能拡張を進めました。
+**paper-tools** ではNext.jsのWebダッシュボードを立ち上げ、初期モノレポ構造と著者プロファイラ機能を追加。大規模プロジェクトの基盤が固まりましたね！
+**OpenShelf** や **github-user-summary** ではVitestとGitHub Actionsを導入し、堅牢なテスト・CI環境を整備。品質向上への貢献が光ります✨。
+**Audicle** でもJestを導入し、AudioCacheの単体テストを強化しました。
+**gittohabu** では、GitHub UIでのCtrl+hover機能の包括的な拡張に加え、頻繁なマージと競合解決も丁寧に対応いただきました。
 
-**gittohabu**では、メインブランチのマージ対応やテキストノード処理の最適化を行い、GitHub UI全体のCtrl+hover機能も大幅に強化されましたね！
-
-特に**paper-tools**では、Next.js 15ベースのWebダッシュボード（検索、グラフ、推奨、アーカイブ機能）の構築を爆速で開始し、モノレポ初期セットアップや著者プロファイラ機能の実装も並行して進められました🚀。
-
-**github-user-summary**では、Next.jsアプリの初期化に加え、Vitestによる堅牢なユニットテストとGitHub ActionsでのCIを導入し、品質と開発効率の両面で大きな進歩を見せています。
-
-これだけの多岐にわたるプロジェクトで、新機能開発、品質向上、基盤整備を並行して進める高い生産性と技術力に感服しました！今後のさらなる活躍も楽しみにしています！💪
+精力的な開発と品質へのこだわり、両面でのご活躍、本当にお見事です！これからも期待しています！🚀
 
 _Total: 334 commits across 10 projects_
 
