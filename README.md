@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！大雪だね❄️
-📍 Sapporo: 1°C
+# 🌍 Olá! Dia nublado☁️
+📍 Lisbon: 14°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 3,550 installs | ⭐ 4.5/5 (2 ratings) | v1.3.0
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 3,564 installs | ⭐ 4.5/5 (2 ratings) | v1.3.1
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 10 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 41 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-02-04%22%2C%222026-02-05%22%2C%222026-02-06%22%2C%222026-02-07%22%2C%222026-02-08%22%2C%222026-02-09%22%2C%222026-02-10%22%2C%222026-02-11%22%2C%222026-02-12%22%2C%222026-02-13%22%2C%222026-02-14%22%2C%222026-02-15%22%2C%222026-02-16%22%2C%222026-02-17%22%2C%222026-02-18%22%2C%222026-02-19%22%2C%222026-02-20%22%2C%222026-02-21%22%2C%222026-02-22%22%2C%222026-02-23%22%2C%222026-02-24%22%2C%222026-02-25%22%2C%222026-02-26%22%2C%222026-02-27%22%2C%222026-02-28%22%2C%222026-03-01%22%2C%222026-03-02%22%2C%222026-03-03%22%2C%222026-03-04%22%2C%222026-03-05%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B2880%2C2901%2C2935%2C2948%2C2958%2C2978%2C3002%2C3026%2C3056%2C3087%2C3103%2C3124%2C3150%2C3170%2C3194%2C3218%2C3241%2C3257%2C3279%2C3291%2C3330%2C3369%2C3411%2C3433%2C3455%2C3482%2C3510%2C3537%2C3550%2C3550%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C10%2C10%2C10%2C10%2C10%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B35%2C36%2C37%2C37%2C38%2C38%2C38%2C38%2C38%2C38%2C38%2C38%2C38%2C39%2C39%2C39%2C39%2C39%2C39%2C39%2C39%2C40%2C40%2C40%2C40%2C40%2C40%2C41%2C41%2C41%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-02-04%22%2C%222026-02-05%22%2C%222026-02-06%22%2C%222026-02-07%22%2C%222026-02-08%22%2C%222026-02-09%22%2C%222026-02-10%22%2C%222026-02-11%22%2C%222026-02-12%22%2C%222026-02-13%22%2C%222026-02-14%22%2C%222026-02-15%22%2C%222026-02-16%22%2C%222026-02-17%22%2C%222026-02-18%22%2C%222026-02-19%22%2C%222026-02-20%22%2C%222026-02-21%22%2C%222026-02-22%22%2C%222026-02-23%22%2C%222026-02-24%22%2C%222026-02-25%22%2C%222026-02-26%22%2C%222026-02-27%22%2C%222026-02-28%22%2C%222026-03-01%22%2C%222026-03-02%22%2C%222026-03-03%22%2C%222026-03-04%22%2C%222026-03-05%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B2880%2C2901%2C2935%2C2948%2C2958%2C2978%2C3002%2C3026%2C3056%2C3087%2C3103%2C3124%2C3150%2C3170%2C3194%2C3218%2C3241%2C3257%2C3279%2C3291%2C3330%2C3369%2C3411%2C3433%2C3455%2C3482%2C3510%2C3537%2C3550%2C3564%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C10%2C10%2C10%2C10%2C10%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B35%2C36%2C37%2C37%2C38%2C38%2C38%2C38%2C38%2C38%2C38%2C38%2C38%2C39%2C39%2C39%2C39%2C39%2C39%2C39%2C39%2C40%2C40%2C40%2C40%2C40%2C40%2C41%2C41%2C41%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,17 +24,18 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で358件ものコミット、お疲れ様です！素晴らしい成果ですね✨
+直近30日間で383件ものコミット、素晴らしいですね！大変活発な開発状況が伺えます✨
 
-**OpenShelf**ではVitestとGitHub Actionsを導入し、テスト・CI環境を大幅に強化されましたね！機能開発の安定性を高める重要な貢献です。
-**Audicle**でもJestとAudioCacheの単体テストをしっかり整備され、品質向上に貢献されています。
-**paper-tools**では、Next.jsベースのWebダッシュボードを新規開発し、複数のパッケージを含むモノレポ化や、著者プロファイラのCLI・Web画面を追加されましたね。大規模な機能開発、お見事です！
-そして**github-user-summary**では、Next.jsアプリの立ち上げから、Vitestでのユニットテスト、GitHub Actions CI、認証済みダッシュボード、年間レビュー機能、さらにデータ取得、UIコンポーネント、SVG可視化、OGP生成まで、多岐にわたる重要な機能を一気に実装され、プロジェクトの土台を築き上げました。素晴らしい開発スピードです🚀
-**otodoki3**では重複テストの統合と、SelectTrackModalのレンダリング性能改善に取り組まれ、効率化とUX向上に貢献されていますね。
+特に目立った活動は以下の通りです。
+*   **OpenShelf** では、VitestとGitHub Actionsを導入し、テスト・CI環境を大幅に強化しましたね！🚀 さらに、組織管理機能（CRUD、メンバー、論文関連付け）のAPIとフロントエンド実装、テストも完遂されており、機能面でも大きく前進しました。
+*   **paper-tools** では、Next.js 15+React 19+Tailwind CSS v4を基盤とした高機能なWebダッシュボードが新設され、モノレポ構造の初期セットアップも完了。著者プロファイラCLIとWeb画面の追加も進行中です！
+*   **github-user-summary** では、Next.jsアプリの初期化やVitestによるユニットテスト、GitHub Actions CIの整備が進み、認証付きダッシュボードと年間振り返りページの追加も実現しましたね。
+*   **Audicle** では、Jestを用いたAudioCacheのユニットテスト環境が整備されました。
+*   **otodoki3** では、複数の重複テストPRの統合を見事に完了されました。
 
-多岐にわたるプロジェクトで、テスト・CIの整備から大規模な新規機能開発、パフォーマンス改善まで、本当に多くの重要な貢献をされています。この調子でこれからも頑張ってください！💪
+テスト環境の整備から大規模な新機能開発、既存機能の強化まで、多岐にわたるプロジェクトで素晴らしい貢献をされています。この勢いで、これからもさらなる進化を楽しみにしています！応援しています！💪
 
-_Total: 350 commits across 10 projects_
+_Total: 378 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +46,7 @@ _Total: 350 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 114 commits (32.6%)</sub>
+      <sub>📊 120 commits (31.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +57,7 @@ _Total: 350 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 71 commits (20.3%)</sub>
+      <sub>📊 96 commits (25.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 9</sub>
     </td>
@@ -67,7 +68,7 @@ _Total: 350 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 66 commits (18.9%)</sub>
+      <sub>📊 66 commits (17.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -145,6 +146,34 @@ _Total: 350 commits across 10 projects_
 
 <details>
 <summary>
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.1">v1.3.1</a> · Today
+</summary>
+
+<!-- Release notes generated using configuration in .github/release.yml at v1.3.1 -->
+## What's Changed
+### ✨ Features
+* ⚡ [performance] Consolidated performance optimizations by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/356
+### 🔧 Other Changes
+
+[View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.1)
+</details>
+
+<details>
+<summary>
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.1-publish">v1.3.1-publish</a> · Today
+</summary>
+
+<!-- Release notes generated using configuration in .github/release.yml at v1.3.1-publish -->
+## What's Changed
+### ✨ Features
+* ⚡ [performance] Consolidated performance optimizations by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/356
+### 🔧 Other Changes
+
+[View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.1-publish)
+</details>
+
+<details>
+<summary>
 <strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.0">v1.3.0</a> · Today
 </summary>
 
@@ -183,34 +212,6 @@ _Total: 350 commits across 10 projects_
 ### 🔧 Other Changes
 
 [View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.8-publish)
-</details>
-
-<details>
-<summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.8">v1.2.8</a> · 5 days ago
-</summary>
-
-<!-- Release notes generated using configuration in .github/release.yml at v1.2.8 -->
-## What's Changed
-### ✨ Features
-* feat: enhance PR creation notification by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/340
-### 🔧 Other Changes
-
-[View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.8)
-</details>
-
-<details>
-<summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.7-publish">v1.2.7-publish</a> · 1 weeks ago
-</summary>
-
-<!-- Release notes generated using configuration in .github/release.yml at v1.2.7-publish -->
-## What's Changed
-### ✨ Features
-* ⚡ Optimize branch cache comparison to be order-independent by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/327
-### 🔧 Other Changes
-
-[View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.2.7-publish)
 </details>
 <!-- github-releases:end -->
 
