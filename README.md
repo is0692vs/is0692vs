@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Rainy weather☔
-📍 Sydney: 24°C
+# 🌍 你好！晴天真美☀️
+📍 Beijing: -2°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で386件ものコミット、お疲れ様です！素晴らしい生産性ですね！👏
+直近30日間で**386件**ものコミット、本当に素晴らしい活躍ぶりですね！🚀 広範囲にわたるプロジェクトで、目覚ましい進捗が見られます。
 
-特に目立つ活動として、複数のプロジェクトで大きな進展がありました。
+特に、**paper-tools** では、Next.js 15 を基盤とした多機能なWebダッシュボードを構築し、モノレポ化と著者プロファイラ機能も追加しましたね。大規模な開発、お見事です！
 
-まず、**[paper-tools]** では、Next.jsを基盤とした高機能なWebダッシュボードを構築しましたね。これは検索、グラフ、レコメンド、アーカイブ機能を統合し、プロジェクト全体の連携を強化する重要な一歩です。初期モノレポ構造のセットアップや著者プロファイラCLI・Web画面の追加も着実に進めています。🚀
+**github-user-summary** では、Next.js アプリの初期化から、Vitest によるユニットテスト、GitHub Actions での CI セットアップ、さらに認証済みダッシュボードページまで、堅牢な基盤と新機能を同時に展開しました。
 
-**[github-user-summary]** では、Next.jsアプリの初期化から始まり、Vitestを使ったユニットテストとGitHub ActionsによるCI環境を整備。さらに認証済みダッシュボードページと年次レビュー機能を追加し、アプリの基盤と機能の両面を大きく向上させました。🛡️
+**Audicle** では Jest を導入し、AudioCache の単体テストを追加。品質向上への意識、素晴らしいです！🧪
 
-**[OpenShelf]** では、組織管理機能（CRUD、メンバー、論文関連付け）をAPI、フロントエンド、テスト含めて実装し、アプリの基盤を強化。また、メタデータ生成と動的OGP画像エンドポイントも追加し、情報の可視性と共有性を高めました。🌐
+**OpenShelf** では、動的なOGP画像生成や、組織管理機能（CRUD、メンバー、論文関連付け）の開発を進め、アプリの魅力と実用性を大きく高めました。🏢
 
-**[Audicle]** では、JestのセットアップとAudioCacheのユニットテストを導入し、品質向上に貢献しています。**[otodoki3]** でも重複テストの統合を行い、テストカバレッジの整理を進めました。💡
+そして、**otodoki3** では、重複テストの統合により、テストスイートの効率化に貢献しました。
 
-多岐にわたるプロジェクトで、新機能開発、テスト環境整備、基盤強化と、見事な貢献の数々です。この調子でこれからも素晴らしい開発を続けていきましょう！🎉
+多岐にわたる技術領域でこれほどの成果を出せるのは、本当に素晴らしいです！今後のさらなるご活躍も楽しみにしています！✨
 
 _Total: 423 commits across 10 projects_
 
@@ -203,7 +203,7 @@ _Total: 423 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.0">v1.3.0</a> · Yesterday
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.0">v1.3.0</a> · 2 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.0 -->
