@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Lyon: 11°C
+# 🌍 おはよう！大雪だね❄️
+📍 Sapporo: 1°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で386コミット、素晴らしい活動量ですね！✨
+直近30日間でなんと386件ものコミット、素晴らしい開発のペースですね！🚀
 
-[paper-tools]では、Next.js Webダッシュボードを立ち上げ、モノレポ基盤を構築。著者プロファイラのCLIとWeb機能も開発し、大規模な新機能開発に注力しましたね！🚀
-[github-user-summary]では、Next.jsアプリの基盤を整えつつ、VitestでのユニットテストとGitHub ActionsによるCI/CDを強化。認証付きダッシュボードページも追加し、機能と品質を両立させました！📈
-[Audicle]では、JestセットアップとAudioCacheの単体テストを導入し、安定性向上に貢献しましたね！🧪
-[OpenShelf]では、組織管理機能（CRUD、メンバー、論文関連付け）をAPIからフロントエンドまで実装。メタデータ生成や動的OGP画像も追加し、機能と表現力を高めました！🏢
-[otodoki3]では、重複テストの統合を進め、テストカバレッジの整理に尽力しましたね！
+各リポジトリで主要な進捗が見られます。
 
-この30日間で、基盤構築から新機能開発、品質向上まで多岐にわたるプロジェクトで素晴らしい成果を出されました。これからもこの勢いで頑張っていきましょう！💪
+*   **Audicle** では、JestのセットアップとAudioCacheの単体テストを導入し、品質向上に貢献されていますね。
+*   **paper-tools** では、Next.jsのWebダッシュボードの追加、初期モノレポ構造の確立、著者プロファイラのCLIとWeb画面の実装と、大規模な基盤構築と機能追加を精力的に進めています！🎉
+*   **github-user-summary** では、Next.jsアプリの初期化とスタイル設定、Vitestを用いたユニットテストとGitHub Actions CIの導入、さらに認証済みダッシュボードページやYear-in-review機能を追加し、アプリの基盤とユーザー体験を大きく強化しました。
+*   **OpenShelf** では、メタデータ生成と動的OGP画像のエンドポイントを追加し、視覚的な魅力も向上。また、Org Management機能のAPIとフロントエンド実装、さらにはユニットテストまで完遂され、組織管理の重要なマイルストーンを達成しましたね！🏢
+*   **otodoki3** では、重複テストの統合を行い、テストコードの効率化に貢献されました。
+
+たくさんの挑戦と成果、本当にお疲れ様でした！この調子でこれからも素晴らしい開発を続けていきましょう！😊
 
 _Total: 425 commits across 10 projects_
 
@@ -199,7 +201,7 @@ _Total: 425 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.0">v1.3.0</a> · 2 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.0">v1.3.0</a> · 3 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.0 -->
