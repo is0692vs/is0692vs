@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Il pleut aujourd'hui☔
-📍 Lyon: 15°C
+# 🌍 Olá! Dia nublado☁️
+📍 Lisbon: 15°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計386コミット、素晴らしい開発活動ですね！👏
+直近30日間で**386件**ものコミット、大変お疲れ様でした！驚くほどの活動量ですね！🚀
 
-[paper-tools]では、Next.js 15 Webダッシュボード構築や全パッケージ統合、モノレポ化、著者プロファイラCLI/Web画面追加と、プロジェクトの機能と基盤が大きく強化されました。🚀
+特に注目すべきは、大規模な機能追加や基盤構築の数々です。
+**paper-tools** では、Next.js Webダッシュボードの大規模開発、初期モノレポ構造の構築、著者プロファイラのCLI/Web画面追加と、多岐にわたる基盤構築と機能追加を力強く進められました！✨
+**github-user-summary** では、Next.jsアプリの基盤構築からVitestでのユニットテストとGitHub Actions CIの導入、さらに認証済みダッシュボードやYear-in-Review機能まで追加しましたね！素晴らしい！👏
+**OpenShelf** では、動的なOGP画像生成でコンテンツ共有を強化し、組織管理機能ではCRUD操作、メンバー管理、論文関連付けまで幅広く実装し、テストも万全ですね！💡
+**Audicle** では、Jestの導入とAudioCacheの単体テストをしっかり追加し、品質向上に大きく貢献しました！🧪
+**otodoki3** では、重複テストの統合により、テストコードの整理と効率化に貢献しましたね！🎯
 
-[github-user-summary]では、Next.jsアプリ基盤構築、VitestによるユニットテストとGitHub Actions CI導入、さらに認証済みダッシュボードページ実装と、品質向上・機能拡張に貢献しました。🧪📊
-
-[OpenShelf]では、組織管理機能（CRUD、メンバー、論文関連付け）のAPIからフロントエンド、テストまで一貫して開発。OGP画像エンドポイントも追加されましたね。🏢🖼️
-
-[Audicle]ではJestとAudioCacheのユニットテストを導入し、[otodoki3]ではテスト統合を実施するなど、品質向上に着手しています。🎶✅
-
-多岐にわたるプロジェクトで活発な開発、素晴らしいです！この勢いで次の目標も達成していきましょう！💪
+様々なプロジェクトで、堅実な品質向上から革新的な機能追加まで、幅広く取り組んでいらっしゃるのがよくわかります。今後のさらなる活躍も期待しています！😊
 
 _Total: 419 commits across 10 projects_
 
