@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Está lloviendo☔
-📍 Bogotá: 13°C
+# 🌍 Olá! Dia nublado☁️
+📍 Lisbon: 12°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと386件ものコミットを達成しましたね！素晴らしい生産性と集中力です！🚀
+直近30日間で386件もの素晴らしいコミット、お疲れ様でした！🎉 複数のプロジェクトで目覚ましい進捗が見られますね！
 
-特に目立った活動としては、
-**[paper-tools]** では、Next.js 15とReact 19を基盤としたWebダッシュボードを大々的に開発しましたね。初期モノレポのセットアップや、著者プロファイラのCLIとWeb画面の追加も進行し、プロジェクトの核となる部分が大きく進化しました！
-**[github-user-summary]** では、Next.jsアプリの初期化に加え、Vitestを使った69ものユニットテストを導入し、GitHub Actions CIをセットアップ。品質と開発効率の向上に大きく貢献しました。さらに、認証済みダッシュボードやYear-in-review機能の追加も素晴らしいです！✨
-**[OpenShelf]** では、組織管理機能（CRUD、メンバー、論文関連付け）のAPI、フロントエンド、ユニットテストまでを一貫して実装し、非常に堅牢な新機能を追加しました。メタデータ生成と動的なOGP画像エンドポイントの実装もバッチリです！
-**[Audicle]** では、Jestのセットアップとオーディオキャッシュのユニットテストを追加し、テスト体制を強化。**[otodoki3]** では複数のテストPRを統合され、各プロジェクトの品質と保守性が着実に向上していますね。
+**[Audicle]** では、JestのセットアップとAudioCacheのユニットテストを大規模に追加し、コードの品質と信頼性を飛躍的に向上させました。素晴らしい成果です！🧪
 
-これまでの努力が、各プロジェクトの成長に繋がる素晴らしい成果を生み出しています。この調子で、これからも精力的な活動を期待しています！🎉
+**[paper-tools]** では、Next.jsを基盤とした包括的なWebダッシュボードの構築と、モノレポ化に着手しましたね。主要パッケージの統合や著者プロファイラ機能の実装も進み、プロジェクトの基盤と機能が大きく強化されました。🚀
+
+**[github-user-summary]** では、Next.jsアプリの初期化、Vitestによるユニットテスト導入、GitHub ActionsでのCIセットアップを通じて、開発体制を盤石にしました。認証済みダッシュボードや年次レビュー機能も加わり、ユーザー体験が大きく向上しています。✨
+
+**[OpenShelf]** では、メタデータ生成と動的OGP画像のエンドポイントを追加し、共有時の表現力を高めました。さらに、組織管理機能（CRUD、メンバー、論文関連付け）のAPIとフロントエンドを構築し、大規模な利用にも対応できる強固な基盤を築きましたね。🏢
+
+**[otodoki3]** では、複数のテストを統合し、テストカバレッジの整理と改善に貢献しました。
+
+全体的に、新機能開発、テスト・CIの強化、そしてプロジェクト基盤の整備と、多岐にわたる重要な活動を展開されました。今後のさらなる発展が非常に楽しみです！この調子で頑張ってください！💪
 
 _Total: 419 commits across 10 projects_
 
@@ -58,7 +62,7 @@ _Total: 419 commits across 10 projects_
       <br />
       <sub>📊 99 commits (23.6%)</sub>
       <br />
-      <sub>🔷 TypeScript ⭐ 9</sub>
+      <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Hiroki-org/paper-tools" target="_blank">
@@ -115,26 +119,26 @@ _Total: 419 commits across 10 projects_
       <sub>KOBUKURO</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/4NsjXRISDlnpenvQwBOaSM" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="stereo future" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>stereo future</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/3psd8lP4CrIa2F31cf0YQs" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2737afc65236fc2cc752d32baf6" alt="生きがい" width="120" />
       </a>
       <br />
-      <sub><strong>#5</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>生きがい</sub>
       <br />
       <sub>SUPER BEAVER</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/4NsjXRISDlnpenvQwBOaSM" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="stereo future" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>stereo future</sub>
+      <br />
+      <sub>BiSH</sub>
     </td>
   </tr>
 </table>
@@ -199,7 +203,7 @@ _Total: 419 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.0">v1.3.0</a> · 3 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.0">v1.3.0</a> · 4 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.0 -->
