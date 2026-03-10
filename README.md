@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia chuvoso☔
-📍 Lisbon: 11°C
+# 🌍 おはようございます！曇り空のようですね☁️
+📍 Kyoto: 4°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,7 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で380件ものコミット、お疲れ様です！👏 Merge pull request #496 from Hiroki-org/testing-audio-cache-6081456492604386957、Merge pull request #4 from Hiroki-org/feat/web-dashboard、feat(web): add Next.js web dashboard packageなど、多くの作業を進められました。合計75898行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で**380件**ものコミット、お疲れ様でした！素晴らしい活動量ですね！
+
+各リポジトリでの主な作業内容は以下の通りです。
+
+*   **Audicle**では、JestとAudioCacheのユニットテスト導入により、コードの信頼性が大きく向上しましたね！🧪
+*   **paper-tools**では、Next.js Webダッシュボードの構築や、コアパッケージを含む初期モノレポ化、著者プロファイラ機能の追加など、プロジェクトの土台と機能が大きく前進しました🚀
+*   **github-user-summary**では、Next.jsアプリの初期化からVitestによるユニットテスト、GitHub ActionsでのCIセットアップ、さらに認証済みダッシュボードページや年次レビュー機能の実装まで、開発基盤とユーザー機能が充実しましたね！✨
+*   **OpenShelf**では、メタデータ生成と動的OG画像、組織管理機能（CRUD、メンバー、論文関連付け）が実装され、プラットフォームの機能性が大きく強化されました！🏢
+*   **otodoki3**では、重複するテストPRを統合し、テストカバレッジの整理と効率化を進めましたね！✅
+
+多岐にわたるプロジェクトで、基盤構築から新機能開発、品質向上まで精力的に取り組まれており、その熱意と生産性には感服します！これからも素晴らしい成果を楽しみにしています！🎉
 
 _Total: 419 commits across 10 projects_
 
