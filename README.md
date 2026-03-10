@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはようございます！曇り空のようですね☁️
-📍 Kyoto: 4°C
+# 🌍 Hallo! Bewölkt heute☁️
+📍 Berlin: 17°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,21 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**380件**ものコミット、お疲れ様でした！素晴らしい活動量ですね！
+直近30日間で、なんと380件もの素晴らしいコミット、お疲れ様でした！🎉 大量のコード変更から、あなたの精力的な活動が伺えますね！
 
-各リポジトリでの主な作業内容は以下の通りです。
+特に目を引くのは、複数のプロジェクトでの大規模な機能追加と基盤強化です。
 
-*   **Audicle**では、JestとAudioCacheのユニットテスト導入により、コードの信頼性が大きく向上しましたね！🧪
-*   **paper-tools**では、Next.js Webダッシュボードの構築や、コアパッケージを含む初期モノレポ化、著者プロファイラ機能の追加など、プロジェクトの土台と機能が大きく前進しました🚀
-*   **github-user-summary**では、Next.jsアプリの初期化からVitestによるユニットテスト、GitHub ActionsでのCIセットアップ、さらに認証済みダッシュボードページや年次レビュー機能の実装まで、開発基盤とユーザー機能が充実しましたね！✨
-*   **OpenShelf**では、メタデータ生成と動的OG画像、組織管理機能（CRUD、メンバー、論文関連付け）が実装され、プラットフォームの機能性が大きく強化されました！🏢
-*   **otodoki3**では、重複するテストPRを統合し、テストカバレッジの整理と効率化を進めましたね！✅
+まず、**Audicle**では、Jestによるテスト環境を整備し、AudioCacheの単体テストを導入して品質向上に貢献しましたね！🧪
 
-多岐にわたるプロジェクトで、基盤構築から新機能開発、品質向上まで精力的に取り組まれており、その熱意と生産性には感服します！これからも素晴らしい成果を楽しみにしています！🎉
+**paper-tools**では、Next.jsを基盤とした画期的なWebダッシュボードを立ち上げ、モノレポ化も推進。さらに、著者プロファイラCLIとWeb画面も追加し、機能が大幅に拡充されました！🚀
+
+**github-user-summary**では、Next.jsアプリを初期化し、Vitestを用いたユニットテストとGitHub ActionsによるCIを導入。さらに認証済みダッシュボードページも追加し、開発の土台とユーザー体験が大きく向上しています！✨
+
+**OpenShelf**では、メタデータ生成と動的OG画像のエンドポイントを追加し、表現力を強化。加えて、組織管理機能（CRUD、メンバー、論文関連付け）も実装し、大規模な機能拡張を成し遂げました。🏢
+
+そして、**otodoki3**では、複数の重複テストPRを統合し、テストカバレッジの整理と効率化に尽力しましたね。👍
+
+多岐にわたるプロジェクトで、新機能開発、テスト環境の整備、基盤の強化と、非常に多忙ながらも素晴らしい成果を上げています。この勢いで、これからもどんどん開発を進めていきましょう！応援しています！💪
 
 _Total: 419 commits across 10 projects_
 
@@ -106,26 +110,26 @@ _Total: 419 commits across 10 projects_
       <sub>KOBUKURO</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/2xMcCB4mpqdZWDCuwEbC1t" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273f900b0bad230bc0dc085e387" alt="CAN WE STiLL BE??" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>CAN WE STiLL BE??</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273af62372ee43fe1e854d0bce5" alt="TEST ME" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>TEST ME</sub>
       <br />
       <sub>CHANMINA</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/2xMcCB4mpqdZWDCuwEbC1t" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273f900b0bad230bc0dc085e387" alt="CAN WE STiLL BE??" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>CAN WE STiLL BE??</sub>
+      <br />
+      <sub>BiSH</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/3psd8lP4CrIa2F31cf0YQs" target="_blank">
@@ -147,7 +151,7 @@ _Total: 419 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.2">v1.3.2</a> · 4 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.2">v1.3.2</a> · 5 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.2 -->
@@ -160,7 +164,7 @@ _Total: 419 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.2-publish">v1.3.2-publish</a> · 4 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.2-publish">v1.3.2-publish</a> · 5 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.2-publish -->
