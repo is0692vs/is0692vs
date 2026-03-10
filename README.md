@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！お天気ですね☀️
-📍 Fukuoka: 3°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Paris: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で380件ものコミット、本当にお疲れ様です！素晴らしい活動量ですね！👏
+直近30日間、素晴らしい活躍でした！合計380件ものコミット、お疲れ様です👏
 
-主な活動として、**Audicle**ではJestセットアップとAudioCacheの単体テストを導入し、品質を向上させました🧪。
-**paper-tools**ではNext.jsベースのWebダッシュボードと初期モノレポを構築し、著者プロファイラCLIとWeb画面を追加。プロジェクトの基盤が大きく進化しました🚀。
-**github-user-summary**ではNext.jsアプリの初期化、Vitestでのユニットテスト、GitHub Actions CIを導入し、堅牢性を強化。認証済みダッシュボードや年次レビュー機能も追加されました✨。
-**OpenShelf**では組織管理機能（CRUD、メンバー、論文関連付け）とメタデータ生成、動的OGP画像エンドポイントを実装し、多機能なシステムが構築されました🏢。
-さらに、**otodoki3**では重複テストPRを統合し、テストカバレッジの整理と効率化を図りましたね🛠️。
+特に大きな動きとして、**paper-tools** ではNext.jsを用いた本格的なWebダッシュボードを構築し、全パッケージを統合する大きな一歩を踏み出しましたね。初期モノレポのセットアップや著者プロファイラのCLI・Web画面追加も素晴らしいです！
 
-多様なプロジェクトで大きな進展があり、それぞれの機能追加や基盤強化に大きく貢献されています。この調子でこれからも頑張ってください！🎉
+**github-user-summary** では、VitestによるユニットテストとGitHub ActionsのCIを導入し、品質向上に大きく貢献されました。認証済みダッシュボードページの追加も魅力的です。
+
+**Audicle** ではJest環境のセットアップとAudioCacheの単体テストを追加し、堅牢性が増しましたね。
+
+**OpenShelf** では組織管理機能（CRUD、メンバー、論文関連付け）のAPIとフロントエンドを構築、さらにメタデータ生成と動的OGP画像のエンドポイントを追加と、機能拡充が目覚ましいです✨。
+
+**otodoki3** ではテストカバレッジの統合作業、お見事でした。
+
+多岐にわたるプロジェクトで、新機能開発からテスト・CI/CD環境の整備まで、本当に精力的に取り組んでいらっしゃる様子が伺えます。今後のさらなる進化も楽しみにしています！🚀
 
 _Total: 419 commits across 10 projects_
 
@@ -199,7 +203,7 @@ _Total: 419 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.0">v1.3.0</a> · 5 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.0">v1.3.0</a> · 6 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.0 -->
