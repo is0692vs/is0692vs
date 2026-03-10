@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはようございます！素敵な晴れ日ですね☀️
-📍 Kyoto: 4°C
+# 🌍 こんにちは！お天気ですね☀️
+📍 Fukuoka: 3°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-この30日間で、なんと380件ものコミットを達成しましたね！素晴らしい集中力と生産性です👏
+直近30日間で380件ものコミット、本当にお疲れ様です！素晴らしい活動量ですね！👏
 
-**Audicle**では、WebアプリのJestセットアップとAudioCacheのユニットテスト導入を進め、コード品質の向上に貢献しました。
-**paper-tools**では、Next.js Webダッシュボードの開発、初期モノレポ構造の構築、著者プロファイラCLIとWeb画面の追加と、大規模な機能追加が目立ちますね！未来を見据えた開発が進行中です🚀
-**github-user-summary**では、Next.jsアプリの初期化とスタイリング、VitestによるユニットテストとGitHub Actions CIの構築、認証済みダッシュボードと年次レビュー機能の開発と、基盤から新機能まで幅広く手掛けられました。
-**OpenShelf**では、メタデータ生成と動的OGイメージ機能の追加、さらには組織管理機能のAPI、フロントエンド、テストと、多角的な開発が進んでいますね🏢。
-**otodoki3**では、重複テストの統合と整理を行い、テストカバレッジの健全化に尽力しました。
+主な活動として、**Audicle**ではJestセットアップとAudioCacheの単体テストを導入し、品質を向上させました🧪。
+**paper-tools**ではNext.jsベースのWebダッシュボードと初期モノレポを構築し、著者プロファイラCLIとWeb画面を追加。プロジェクトの基盤が大きく進化しました🚀。
+**github-user-summary**ではNext.jsアプリの初期化、Vitestでのユニットテスト、GitHub Actions CIを導入し、堅牢性を強化。認証済みダッシュボードや年次レビュー機能も追加されました✨。
+**OpenShelf**では組織管理機能（CRUD、メンバー、論文関連付け）とメタデータ生成、動的OGP画像エンドポイントを実装し、多機能なシステムが構築されました🏢。
+さらに、**otodoki3**では重複テストPRを統合し、テストカバレッジの整理と効率化を図りましたね🛠️。
 
-どのプロジェクトも着実に進化しており、その貢献は計り知れません。本当にお疲れ様でした！これからも期待しています！✨
+多様なプロジェクトで大きな進展があり、それぞれの機能追加や基盤強化に大きく貢献されています。この調子でこれからも頑張ってください！🎉
 
 _Total: 419 commits across 10 projects_
 
@@ -77,9 +77,67 @@ _Total: 419 commits across 10 projects_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
-🎵 My Top Tracks on Spotify (Recently):
+## 🎵 My Top Tracks on Spotify (Recently)
 
-_Error fetching tracks. Please try again later._
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/track/2nmsiRuex1h5uMoAI1s3uS" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27303eaa91568bdb976b7adb362" alt="MONSTERS" width="120" />
+      </a>
+      <br />
+      <sub><strong>#1</strong></sub>
+      <br />
+      <sub>MONSTERS</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/76uBxDb9lOG1dl98UfN46b" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27345ab9f67d6dcd6d85d81df86" alt="赤い糸 - Album Mix" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>赤い糸 - Album Mix</sub>
+      <br />
+      <sub>KOBUKURO</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273af62372ee43fe1e854d0bce5" alt="TEST ME" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>TEST ME</sub>
+      <br />
+      <sub>CHANMINA</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/2xMcCB4mpqdZWDCuwEbC1t" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273f900b0bad230bc0dc085e387" alt="CAN WE STiLL BE??" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>CAN WE STiLL BE??</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/3psd8lP4CrIa2F31cf0YQs" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2737afc65236fc2cc752d32baf6" alt="生きがい" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>生きがい</sub>
+      <br />
+      <sub>SUPER BEAVER</sub>
+    </td>
+  </tr>
+</table>
 <!-- spotify:end -->
 
 <!-- github-releases:start -->
