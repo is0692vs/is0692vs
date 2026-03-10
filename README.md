@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Beautiful sunny day☀️
-📍 New York: 12°C
+# 🌍 ¡Hola! Día soleado☀️
+📍 Buenos Aires: 20°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**380件**ものコミット、素晴らしい活動量ですね！🎉 多岐にわたるプロジェクトで大きな進展が見られます。
+直近30日間で**380件**ものコミット、素晴らしいですね！多岐にわたるプロジェクトで活発な開発が進められました。
 
-*   **Audicle**: JestセットアップとAudioCache単体テスト導入で品質向上！🧪
-*   **paper-tools**: Next.js Webダッシュボード、初期モノレポ、著者プロファイラCLI/Web追加など大規模開発進行中。✨
-*   **github-user-summary**: Next.js初期化、Vitest/GitHub Actions CI導入、認証ダッシュボード/Year-in-Review機能拡充。🚀
-*   **OpenShelf**: メタデータ・動的OGP対応、組織管理機能（API/F/テスト）開発でシステムの核を強化。🏢
-*   **otodoki3**: 重複テスト統合、コード整理と健全性維持に尽力。🧹
+特に、**paper-tools**ではNext.js 15を採用した多機能なウェブダッシュボードを立ち上げ、モノレポ構造の初期セットアップや著者プロファイラ機能も追加されました。これは大規模な新機能開発ですね！
+**github-user-summary**では、Next.jsアプリの初期化、Vitestによる堅牢なユニットテストとGitHub Actions CIの導入、さらに認証済みダッシュボードや年次レビュー機能を追加し、システムの基盤と機能を大きく強化しましたね。🚀
+**OpenShelf**では、メタデータ生成と動的OGP画像の対応でSEOを強化し、🏢組織管理機能（CRUD、メンバー、論文連携）もAPIとフロントエンド、テスト込みで導入されました。ユーザー体験向上と機能拡張に貢献しています！
+**Audicle**では、JestのセットアップとAudioCacheの単体テストを追加し、品質向上に力を入れましたね。🧪
+また、**otodoki3**では重複するテストPRを統合し、効率化を進めています。
 
-多岐にわたるプロジェクトで素晴らしい成果です！この調子で開発を楽しんでいきましょう！応援しています！🙌
+この短期間でこれだけの成果を出されたこと、本当に素晴らしいです！今後のさらなる進展も楽しみにしています！✨
 
 _Total: 419 commits across 10 projects_
 
@@ -171,7 +171,7 @@ _Total: 419 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.1">v1.3.1</a> · 4 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.1">v1.3.1</a> · 5 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.1 -->
@@ -185,7 +185,7 @@ _Total: 419 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.1-publish">v1.3.1-publish</a> · 4 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.1-publish">v1.3.1-publish</a> · 5 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.1-publish -->
