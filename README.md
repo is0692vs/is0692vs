@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Hiroshima: 6°C
+# 🌍 你好！晴天真美☀️
+📍 Beijing: 8°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,18 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間でなんと382件ものコミット、素晴らしい集中力ですね！🚀
+直近30日間で382件のコミット、お疲れ様です！素晴らしい活動量ですね！✨
 
-**Audicle**では、JestセットアップとAudioCacheのユニットテストを追加し、品質向上に大きく貢献されました。🧪
-**paper-tools**では、Next.jsのWebダッシュボードの大規模追加、初期モノレポセットアップ、そして著者プロファイラCLIやWeb画面の実装と、主要な機能拡充を一気に進めましたね！🌟
-**github-user-summary**では、Next.jsアプリの初期化だけでなく、Vitestでのユニットテスト導入、GitHub Actions CIセットアップ、さらには認証済みダッシュボードページも追加。開発の基礎固めと機能拡張が見事です！💡
-**OpenShelf**では、メタデータ生成と動的OG画像への対応を進め、さらに組織管理機能（CRUD、メンバー、論文関連付け）をAPIからフロントエンド、テストまで一貫して開発されました。大規模機能の実装、お見事です！🏢
-そして**otodoki3**では重複テストPRの統合を行い、テストの効率化に貢献されましたね。🧹
+特に目立つ活動としては、
+[paper-tools]では、Next.jsのウェブダッシュボードを統合し、モノレポセットアップ、著者プロファイラCLIとWeb画面を追加と、大規模な機能拡張を進めましたね！🚀
+[github-user-summary]では、Next.jsアプリの初期化からVitestによるユニットテスト、GitHub Actions CIを導入し、認証済みダッシュボードページも追加。システムの堅牢性と機能が大きく向上しました。💪
+[OpenShelf]では、メタデータ生成、動的OGイメージに加え、組織管理（CRUD、メンバー、論文関連付け）機能を実装。ユーザー体験を豊かにする重要な作業でした！🏢
+[Audicle]では、JestセットアップとAudioCacheのユニットテストを追加し、コード品質の向上に貢献。🧪
+[otodoki3]では、重複テストPRの統合を行い、テストカバレッジの整理と効率化を図りましたね。✅
 
-多岐にわたるプロジェクトでこれだけの成果を出せるのは本当に素晴らしいです！次なる活躍も楽しみにしています！✨
+多岐にわたるプロジェクトで、新機能開発、品質向上、テスト強化と、本当に多忙な30日間でしたね。この調子でこれからも素晴らしい開発を期待しています！応援しています！🎉
 
-_Total: 430 commits across 10 projects_
+_Total: 428 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +46,7 @@ _Total: 430 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 152 commits (35.3%)</sub>
+      <sub>📊 152 commits (35.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +57,7 @@ _Total: 430 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 111 commits (25.8%)</sub>
+      <sub>📊 109 commits (25.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
@@ -67,7 +68,7 @@ _Total: 430 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 73 commits (17.0%)</sub>
+      <sub>📊 73 commits (17.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -174,7 +175,7 @@ _Total: 430 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.2">v1.3.2</a> · 5 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.2">v1.3.2</a> · 6 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.2 -->
@@ -187,7 +188,7 @@ _Total: 430 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.2-publish">v1.3.2-publish</a> · 5 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.2-publish">v1.3.2-publish</a> · 6 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.2-publish -->
