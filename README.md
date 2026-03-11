@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 안녕하세요! 맑은 날씨네요☀️
-📍 Seoul: 7°C
+# 🌍 おはよう！曇ってるね☁️
+📍 Hiroshima: 6°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で381件ものコミット、お疲れ様です！👏 Merge pull request #496 from Hiroki-org/testing-audio-cache-6081456492604386957、Merge pull request #4 from Hiroki-org/feat/web-dashboard、feat(web): add Next.js web dashboard packageなど、多くの作業を進められました。合計75898行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間でなんと382件ものコミット、素晴らしい集中力ですね！🚀
 
-_Total: 437 commits across 10 projects_
+**Audicle**では、JestセットアップとAudioCacheのユニットテストを追加し、品質向上に大きく貢献されました。🧪
+**paper-tools**では、Next.jsのWebダッシュボードの大規模追加、初期モノレポセットアップ、そして著者プロファイラCLIやWeb画面の実装と、主要な機能拡充を一気に進めましたね！🌟
+**github-user-summary**では、Next.jsアプリの初期化だけでなく、Vitestでのユニットテスト導入、GitHub Actions CIセットアップ、さらには認証済みダッシュボードページも追加。開発の基礎固めと機能拡張が見事です！💡
+**OpenShelf**では、メタデータ生成と動的OG画像への対応を進め、さらに組織管理機能（CRUD、メンバー、論文関連付け）をAPIからフロントエンド、テストまで一貫して開発されました。大規模機能の実装、お見事です！🏢
+そして**otodoki3**では重複テストPRの統合を行い、テストの効率化に貢献されましたね。🧹
+
+多岐にわたるプロジェクトでこれだけの成果を出せるのは本当に素晴らしいです！次なる活躍も楽しみにしています！✨
+
+_Total: 430 commits across 10 projects_
 
 <table>
   <tr>
@@ -37,7 +45,7 @@ _Total: 437 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 152 commits (34.8%)</sub>
+      <sub>📊 152 commits (35.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -48,7 +56,7 @@ _Total: 437 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 111 commits (25.4%)</sub>
+      <sub>📊 111 commits (25.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
@@ -59,7 +67,7 @@ _Total: 437 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 73 commits (16.7%)</sub>
+      <sub>📊 73 commits (17.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
