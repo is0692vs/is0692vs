@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy today☁️
-📍 Toronto: 0°C
+# 🌍 ¡Hola! Día soleado☀️
+📍 Madrid: 15°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-素晴らしい一ヶ月でしたね！直近30日間でなんと382件ものコミットを達成、精力的な活動が目を引きます。🎉
+直近30日間で合計382コミット、素晴らしい開発活動でしたね！✨
 
-特に**paper-tools**では、Next.jsベースのWebダッシュボードを一気に構築し、検索、グラフ、レコメンド機能などを統合。初期モノレポのセットアップや著者プロファイラCLI・Web画面も追加し、大規模な新機能開発と基盤整備を進められましたね！🚀
+特に目立った活動としては、複数のリポジトリで大規模な機能追加や基盤構築が進みました。
 
-**github-user-summary**では、Next.jsアプリの初期化とスタイリングに加え、VitestとGitHub Actionsによるユニットテスト・CI環境を構築。認証済みダッシュボードや年間のまとめ機能も追加し、機能と品質の両面で大きく前進しました！✨
+*   **[paper-tools]** では、Next.jsを使ったWebダッシュボードの統合や、初期モノレポのセットアップ、著者プロファイラCLIとWeb画面の追加と、まさにプロジェクトの骨格を築く大活躍でしたね！🚀
+*   **[github-user-summary]** では、Next.jsアプリの初期化からTailwind CSSの導入、VitestによるユニットテストとGitHub ActionsでのCIセットアップ、さらに認証付きダッシュボードページの追加と、品質と機能の両面で大きく前進しました。🧪
+*   **[Audicle]** では、JestのセットアップとAudioCacheのユニットテストを追加し、堅牢性向上に貢献しました。
+*   **[OpenShelf]** では、メタデータ生成と動的なOGP画像エンドポイントの追加、さらには組織管理機能（CRUD、メンバー、論文関連付け）の実装と、ユーザー体験と管理機能の充実を着実に進めています。🏢
+*   **[otodoki3]** では、重複するテストPRの統合作業で、プロジェクトの健全性維持に尽力されました。💡
 
-また、**OpenShelf**では動的なOGP画像生成や、組織のCRUD・メンバー・論文関連付けといった強力な組織管理機能を実装。**Audicle**ではJestとAudioCacheの単体テストを導入し、堅牢性を高めています。**otodoki3**では重複テストの統合でコードベースを整理されました。多岐にわたるプロジェクトでの素晴らしい貢献です！👏
+多岐にわたるプロジェクトでこれほど多くの価値ある貢献をされたことに感銘を受けます。この調子で、これからも素晴らしい成果を楽しみにしています！🎉
 
-_Total: 421 commits across 10 projects_
+_Total: 439 commits across 10 projects_
 
 <table>
   <tr>
@@ -43,7 +47,7 @@ _Total: 421 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 152 commits (36.1%)</sub>
+      <sub>📊 171 commits (39.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -54,7 +58,7 @@ _Total: 421 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 102 commits (24.2%)</sub>
+      <sub>📊 102 commits (23.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
@@ -65,7 +69,7 @@ _Total: 421 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 73 commits (17.3%)</sub>
+      <sub>📊 73 commits (16.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -124,15 +128,15 @@ _Total: 421 commits across 10 projects_
       <sub>SUPER BEAVER</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/2nmsiRuex1h5uMoAI1s3uS" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27303eaa91568bdb976b7adb362" alt="MONSTERS" width="120" />
+      <a href="https://open.spotify.com/track/1yn3Io5ULS4jLPSNvgZTpH" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2731585bc2b81079c7dbc404d1d" alt="燦然 - Sanzen" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>MONSTERS</sub>
+      <sub>燦然 - Sanzen</sub>
       <br />
-      <sub>BiSH</sub>
+      <sub>SUPER BEAVER</sub>
     </td>
   </tr>
 </table>
