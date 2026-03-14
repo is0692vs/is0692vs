@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Bit cloudy today☁️
-📍 Sydney: 17°C
+# 🌍 ¡Hola! Está nublado☁️
+📍 Mexico City: 20°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**420件**ものコミット、素晴らしい開発ペースでした！お疲れ様です！👏
+直近30日間で**445件**もの素晴らしいコミット、お疲れ様です！🚀 本当に精力的に開発を進められていますね。
 
-特に、複数のプロジェクトで大きな進展が見られましたね。
+*   **OpenShelf** では、ユーザー検索のパフォーマンス最適化に大きく貢献されましたね！ キャッシングや配列処理の改善で、ユーザー体験が向上したことでしょう。また、PPT/PPTXファイルのディープバリデーション機能強化や、論文閲覧トラッキング、著者限定統計機能の追加で、サービスがより豊かになりました👏
+*   **paper-tools** では、Next.js Webダッシュボードという大規模な新機能の追加に取り組まれましたね。これにより、論文関連ツールの統合的なハブが誕生しました！✨ さらに、Web UIの全面的な刷新、モノレポ構造の構築、著者プロファイラ機能の導入と、まさにプロジェクトを大きく前進させる内容ばかりです。
+*   **github-user-summary** では、Next.jsアプリの初期化と環境構築を着実に進められました。Vitestによるユニットテスト導入とGitHub ActionsでのCIセットアップは、今後の開発の品質と効率を大きく高めるでしょう！多数のマージ作業もこなし、安定化にも貢献されています👍
 
-**OpenShelf** では、パフォーマンス最適化（キャッシング、URLクリーンアップなど）や、PPT/PPTXファイルの高度な検証機能を追加されましたね！🚀 さらに、論文閲覧統計の追跡やUI・アーキテクチャの改善も進め、ユーザー体験向上に大きく貢献しました。
+この30日間で、多岐にわたる重要なプロジェクトで、パフォーマンス改善から新機能開発、基盤構築まで、本当に多くの成果を生み出しました。この勢いで、次の期間も素晴らしい成果を期待しています！😊
 
-**paper-tools** では、Next.js Webダッシュボードを新設し、Monorepo構成への移行も完了。✨ 最新の技術スタック（Next.js 15, React 19, Tailwind CSS v4）でWeb UIを大幅に刷新し、著者プロファイラ機能も追加されました。未来を見据えた素晴らしい進化です！
-
-**github-user-summary** では、Next.jsアプリの初期化と基盤構築を堅実に進め、VitestによるユニットテストとGitHub ActionsでのCI環境を整備。🛡️ コード品質と開発効率の向上に注力した成果が出ています！
-
-この短期間での多岐にわたる機能開発と品質向上、本当に素晴らしいです！これからも頑張ってください！🎉
-
-_Total: 588 commits across 10 projects_
+_Total: 616 commits across 10 projects_
 
 <table>
   <tr>
@@ -47,7 +43,7 @@ _Total: 588 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 253 commits (43.0%)</sub>
+      <sub>📊 255 commits (41.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,18 +54,18 @@ _Total: 588 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 122 commits (20.7%)</sub>
+      <sub>📊 122 commits (19.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/paper-tools" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/paper-tools" alt="paper-tools" width="100%" />
+      <a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/github-user-summary" alt="github-user-summary" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 91 commits (15.5%)</sub>
+      <sub>📊 101 commits (16.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
