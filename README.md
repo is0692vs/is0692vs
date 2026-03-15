@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Lima: 22°C
+# 🌍 おはよう！曇ってるね☁️
+📍 Hiroshima: 10°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**449件**ものコミット、素晴らしい集中力と成果ですね！🚀
+直近30日間で**454件**ものコミット、本当に素晴らしいですね！🎉 各プロジェクトで目覚ましい進捗が見られます。
 
-**OpenShelf** では、パフォーマンス最適化（キャッシング、配列処理など）やディープバリデーションの解決、そしてテストカバレッジ80%達成と閾値設定など、システムの中核を強化する作業に尽力されました。論文閲覧トラッキングや著者限定統計機能の追加も、ユーザー体験向上に大きく貢献しそうです！📈
+*   **[paper-tools]** では、Next.js Webダッシュボードの大規模な新規開発を行い、UI/UXの大幅刷新、モノレポ基盤構築、著者プロファイラ機能の追加など、プロジェクトの可能性を大きく広げました！🚀
+*   **[OpenShelf]** では、パフォーマンス最適化やPR49での深いPPT/PPTX検証機能強化、さらにはテストカバレッジ80%達成で品質と安定性を大きく向上させましたね。素晴らしい取り組みです！💪
+*   **[github-user-summary]** では、Next.jsアプリの初期化と同時に、Vitestによるユニットテスト導入やGitHub ActionsでのCI環境を整備し、堅牢な開発基盤を築かれました。多くのブランチ統合もお疲れ様でした！✨
 
-**paper-tools** では、Next.js Webダッシュボードの立ち上げと、それに伴う多彩なAPIルートや共有コンポーネントの実装、さらには初期モノレポ構造の構築とVitestによるテスト導入まで、大規模な開発を一気に進められました。Web UIのプレミアムデザインへのオーバーホールも素晴らしいですね！✨
+これだけの多岐にわたる貢献、心から拍手を送ります。今後も更なる飛躍を楽しみにしています！🌟
 
-**github-user-summary** では、Next.jsアプリの初期化と基盤構築に始まり、Vitestを使ったユニットテストの網羅的な追加とGitHub ActionsによるCIセットアップを完了させました。多くのブランチマージ対応もお疲れ様でした！✅
-
-どのプロジェクトも着実に進化しており、その多岐にわたる活動に感銘を受けました！この調子でこれからも素晴らしい開発を続けてください！応援しています！🎉
-
-_Total: 629 commits across 10 projects_
+_Total: 637 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +43,7 @@ _Total: 629 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 264 commits (42.0%)</sub>
+      <sub>📊 267 commits (41.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +54,7 @@ _Total: 629 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 122 commits (19.4%)</sub>
+      <sub>📊 122 commits (19.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
@@ -67,7 +65,7 @@ _Total: 629 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 101 commits (16.1%)</sub>
+      <sub>📊 101 commits (15.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -145,7 +143,7 @@ _Total: 629 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.4">v1.3.4</a> · Today
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.4">v1.3.4</a> · Yesterday
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.4 -->
@@ -158,7 +156,7 @@ _Total: 629 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.4-publish">v1.3.4-publish</a> · Today
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.4-publish">v1.3.4-publish</a> · Yesterday
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.4-publish -->
