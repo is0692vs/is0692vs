@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 おはようございます！曇り空のようですね☁️
-📍 Kyoto: 5°C
+# 🌍 こんにちは！くもってますね☁️
+📍 Fukuoka: 7°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 3,756 installs | ⭐ 4.5/5 (2 ratings) | v1.3.4
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 3,766 installs | ⭐ 4.5/5 (2 ratings) | v1.3.4
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 12 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 43 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-02-14%22%2C%222026-02-15%22%2C%222026-02-16%22%2C%222026-02-17%22%2C%222026-02-18%22%2C%222026-02-19%22%2C%222026-02-20%22%2C%222026-02-21%22%2C%222026-02-22%22%2C%222026-02-23%22%2C%222026-02-24%22%2C%222026-02-25%22%2C%222026-02-26%22%2C%222026-02-27%22%2C%222026-02-28%22%2C%222026-03-01%22%2C%222026-03-02%22%2C%222026-03-03%22%2C%222026-03-04%22%2C%222026-03-05%22%2C%222026-03-06%22%2C%222026-03-07%22%2C%222026-03-08%22%2C%222026-03-09%22%2C%222026-03-10%22%2C%222026-03-11%22%2C%222026-03-12%22%2C%222026-03-13%22%2C%222026-03-14%22%2C%222026-03-15%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B3103%2C3124%2C3150%2C3170%2C3194%2C3218%2C3241%2C3257%2C3279%2C3291%2C3330%2C3369%2C3411%2C3433%2C3455%2C3482%2C3510%2C3537%2C3550%2C3571%2C3588%2C3606%2C3616%2C3634%2C3667%2C3687%2C3707%2C3734%2C3756%2C3756%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C10%2C10%2C10%2C10%2C11%2C11%2C11%2C11%2C11%2C11%2C11%2C11%2C11%2C12%2C12%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B38%2C38%2C38%2C39%2C39%2C39%2C39%2C39%2C39%2C39%2C39%2C40%2C40%2C40%2C40%2C40%2C40%2C41%2C41%2C41%2C41%2C41%2C41%2C41%2C41%2C41%2C41%2C41%2C43%2C43%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-02-14%22%2C%222026-02-15%22%2C%222026-02-16%22%2C%222026-02-17%22%2C%222026-02-18%22%2C%222026-02-19%22%2C%222026-02-20%22%2C%222026-02-21%22%2C%222026-02-22%22%2C%222026-02-23%22%2C%222026-02-24%22%2C%222026-02-25%22%2C%222026-02-26%22%2C%222026-02-27%22%2C%222026-02-28%22%2C%222026-03-01%22%2C%222026-03-02%22%2C%222026-03-03%22%2C%222026-03-04%22%2C%222026-03-05%22%2C%222026-03-06%22%2C%222026-03-07%22%2C%222026-03-08%22%2C%222026-03-09%22%2C%222026-03-10%22%2C%222026-03-11%22%2C%222026-03-12%22%2C%222026-03-13%22%2C%222026-03-14%22%2C%222026-03-15%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B3103%2C3124%2C3150%2C3170%2C3194%2C3218%2C3241%2C3257%2C3279%2C3291%2C3330%2C3369%2C3411%2C3433%2C3455%2C3482%2C3510%2C3537%2C3550%2C3571%2C3588%2C3606%2C3616%2C3634%2C3667%2C3687%2C3707%2C3734%2C3756%2C3766%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C9%2C10%2C10%2C10%2C10%2C11%2C11%2C11%2C11%2C11%2C11%2C11%2C11%2C11%2C12%2C12%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B38%2C38%2C38%2C39%2C39%2C39%2C39%2C39%2C39%2C39%2C39%2C40%2C40%2C40%2C40%2C40%2C40%2C41%2C41%2C41%2C41%2C41%2C41%2C41%2C41%2C41%2C41%2C41%2C43%2C43%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,17 +24,13 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計454件ものコミット、大変活発な活動でしたね！素晴らしいです✨
+直近30日間でなんと454件ものコミット、お疲れ様です！🚀素晴らしい活動量ですね！
 
-各リポジトリでの主な活動を振り返ってみましょう。
+*   **OpenShelf** では、ファイルバリデーション強化、キャッシュ・URLクリーンアップなどの大規模パフォーマンス最適化を達成。テストカバレッジ80%達成で品質も向上！
+*   **paper-tools** では、Next.js 15と最新技術を用いたWebダッシュボード新規開発が進行中！Monorepo初期セットアップ、UIプレミアムデザイン刷新、著者プロファイラ追加など、広範な機能構築を進められました。
+*   **github-user-summary** では、Next.jsアプリの初期構築と多数の機能改善をメインブランチに統合。VitestによるユニットテストとGitHub Actions CI導入で、品質と開発効率を向上させました。
 
-**OpenShelf** では、大規模なパフォーマンス最適化に精力的に取り組んでいましたね。特にキャッシングやURLクリーンアップ、配列処理など多岐にわたる改善でユーザー体験が大きく向上したことでしょう。また、PPT/PPTXファイルの深いバリデーション強化や、テストカバレッジ80%達成と閾値設定により、品質面でも着実に向上させていますね。
-
-**paper-tools** では、まさに目覚ましい進捗がありました！Next.jsベースのWebダッシュボードを新規開発し、Cytoscape.jsなど最新技術を盛り込んだ素晴らしいUIを構築。モノレポ構造の初期セットアップから、コア・スクレイパー・ビジュアライザー・レコメンダー・ドリルダウンといった各種パッケージを整備しました。著者プロファイラのCLIとWeb画面追加、さらにグラスモーフィズムを取り入れたプレミアムデザインへのUI刷新など、非常に多くの新機能と改善を実現しましたね！🚀
-
-**github-user-summary** では、Next.jsアプリの初期化を進め、Tailwind CSSを導入したモダンな基盤を構築していました。そして何よりも、Vitestによる広範なユニットテストの追加とGitHub ActionsでのCI/CDセットアップは、今後の開発の安定性と効率性を大きく高めるでしょう。品質向上への意識が素晴らしいです！
-
-どのプロジェクトでも、新機能開発、パフォーマンス最適化、そして品質向上と、多方面で素晴らしい成果を出していますね。この調子でこれからも頑張ってください！🎉
+各プロジェクトで目覚ましい進捗が見られ、多岐にわたる技術的挑戦をされていますね。今後のさらなる発展がとても楽しみです！💪✨
 
 _Total: 639 commits across 10 projects_
 
@@ -117,15 +113,15 @@ _Total: 639 commits across 10 projects_
       <sub>KOBUKURO</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/3psd8lP4CrIa2F31cf0YQs" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2737afc65236fc2cc752d32baf6" alt="生きがい" width="120" />
+      <a href="https://open.spotify.com/track/1c4dCI3yr9sV4NzzOBNuAb" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="My distinction" width="120" />
       </a>
       <br />
       <sub><strong>#4</strong></sub>
       <br />
-      <sub>生きがい</sub>
+      <sub>My distinction</sub>
       <br />
-      <sub>SUPER BEAVER</sub>
+      <sub>BiSH</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/2xMcCB4mpqdZWDCuwEbC1t" target="_blank">
