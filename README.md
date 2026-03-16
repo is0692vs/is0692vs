@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy today☁️
-📍 Toronto: 10°C
+# 🌍 こんにちは！くもってますね☁️
+📍 Fukuoka: 12°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,18 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計454件ものコミット、素晴らしい活躍ぶりですね！🚀
+直近30日間で、なんと454件ものコミットを重ねましたね！素晴らしい活動量です👏✨
+各リポジトリでの主要な活動内容をまとめてご紹介します。
 
-**OpenShelf** では、大量のパフォーマンス最適化や高度なファイル検証機能の統合、そしてテストカバレッジを80%達成し品質向上にも大きく貢献しましたね！ユーザー体験とシステムの安定性を高める努力、お見事です✨
+**OpenShelf** では、大規模なパフォーマンス最適化に尽力しましたね！キャッシングや配列処理、URLクリーンアップで大幅な速度向上を実現し、ディープなファイル検証ロジックの統合も完了。品質面ではテストカバレッジを80%まで高め、堅牢なシステムへと強化しました。
 
-**paper-tools** では、Next.jsを用いたWebダッシュボードの構築をはじめ、モダンなWeb UI/UXの大幅な改善、モノレポ基盤の初期セットアップ、そして著者プロファイラ機能の実装と、多岐にわたる新機能開発に尽力されました。今後の展開が非常に楽しみです！💡
+**paper-tools** では、まさに新規開発の嵐でしたね！Next.jsベースのWebダッシュボードを新設し、検索・グラフ・レコメンド・アーカイブといった多岐にわたる機能を統合しました。UI/UXもプレミアムデザインやグラスモーフィズムを取り入れて大幅に刷新。初期モノレポの構築から、core、scraperパッケージの実装、著者プロファイラ機能の追加まで、プロジェクトの基盤と未来を大きく築き上げましたね🚀
 
-**github-user-summary** では、Next.jsアプリの立ち上げから、ユニットテストの追加、GitHub ActionsによるCI/CD環境の構築、複数のブランチ統合によるプロジェクトの健全性維持と、プロジェクトの品質と開発効率を大きく向上させる堅牢な基盤作りを行いました。🛠️
+**github-user-summary** では、Next.jsアプリの初期化と、Tailwind CSSを使ったモダンな基盤を構築しました。並行して進められた複数の機能開発をメインブランチに統合しつつ、Vitestを使ったユニットテストの導入とGitHub ActionsによるCI/CDパイプラインを整備し、品質と開発効率の向上に大きく貢献しましたね💡
 
-多岐にわたるプロジェクトで目覚ましい成果を上げており、その積極的な貢献に心から感謝します！これからも素晴らしい開発を期待しています！😊
+各リポジトリで重要な進捗がたくさん見られ、その情熱と成果に感銘を受けます。この調子でこれからも頑張っていきましょう！応援しています🎉
 
-_Total: 639 commits across 10 projects_
+_Total: 636 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +46,7 @@ _Total: 639 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 269 commits (42.1%)</sub>
+      <sub>📊 269 commits (42.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +57,7 @@ _Total: 639 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 122 commits (19.1%)</sub>
+      <sub>📊 122 commits (19.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
@@ -67,7 +68,7 @@ _Total: 639 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 101 commits (15.8%)</sub>
+      <sub>📊 101 commits (15.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -104,11 +105,22 @@ _Total: 639 commits across 10 projects_
       <sub>CHANMINA</sub>
     </td>
     <td align="center">
+      <a href="https://open.spotify.com/track/5BtCZAPpqRW74K9Fme7IE6" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736fe3a6609a96447bd8c1e09d" alt="Primitive" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>Primitive</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
       <a href="https://open.spotify.com/track/1c4dCI3yr9sV4NzzOBNuAb" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="My distinction" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>My distinction</sub>
       <br />
@@ -119,22 +131,11 @@ _Total: 639 commits across 10 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b27345ab9f67d6dcd6d85d81df86" alt="赤い糸 - Album Mix" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#5</strong></sub>
       <br />
       <sub>赤い糸 - Album Mix</sub>
       <br />
       <sub>KOBUKURO</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/3psd8lP4CrIa2F31cf0YQs" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2737afc65236fc2cc752d32baf6" alt="生きがい" width="120" />
-      </a>
-      <br />
-      <sub><strong>#5</strong></sub>
-      <br />
-      <sub>生きがい</sub>
-      <br />
-      <sub>SUPER BEAVER</sub>
     </td>
   </tr>
 </table>
