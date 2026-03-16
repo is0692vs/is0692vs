@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Snowy day❄️
-📍 Chicago: -5°C
+# 🌍 Hello! Cloudy today☁️
+📍 Toronto: 10°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-素晴らしいですね！直近30日間で合計454件ものコミット、大変活発な開発状況です！🚀
+直近30日間で合計454件ものコミット、素晴らしい活躍ぶりですね！🚀
 
-特に[paper-tools]では、Next.jsベースのWebダッシュボードを新規開発し、Cytoscape.jsなど最新技術を盛り込んだ大規模な機能追加を行いましたね！モノレポ化やUI/UXの大幅なリファクタリングも進め、著者プロファイラなど革新的な機能もリリース。素晴らしい推進力です！✨
+**OpenShelf** では、大量のパフォーマンス最適化や高度なファイル検証機能の統合、そしてテストカバレッジを80%達成し品質向上にも大きく貢献しましたね！ユーザー体験とシステムの安定性を高める努力、お見事です✨
 
-[OpenShelf]では、大規模なパフォーマンス最適化や、深いファイル検証ロジックの統合、そしてテストカバレッジ80%達成と品質向上に大きく貢献されました。システムの安定性と効率が大幅に向上したことでしょう。💪
+**paper-tools** では、Next.jsを用いたWebダッシュボードの構築をはじめ、モダンなWeb UI/UXの大幅な改善、モノレポ基盤の初期セットアップ、そして著者プロファイラ機能の実装と、多岐にわたる新機能開発に尽力されました。今後の展開が非常に楽しみです！💡
 
-また、[github-user-summary]では、Next.jsアプリの基盤を構築し、VitestによるユニットテストとGitHub ActionsでのCI環境を整備。新規プロジェクトの土台を固める重要な作業、お疲れ様でした！🛠️
+**github-user-summary** では、Next.jsアプリの立ち上げから、ユニットテストの追加、GitHub ActionsによるCI/CD環境の構築、複数のブランチ統合によるプロジェクトの健全性維持と、プロジェクトの品質と開発効率を大きく向上させる堅牢な基盤作りを行いました。🛠️
 
-複数のプロジェクトで大規模な開発と品質改善を両立されており、その多才さと努力に頭が下がります。今後の更なる活躍を期待しています！🎉
+多岐にわたるプロジェクトで目覚ましい成果を上げており、その積極的な貢献に心から感謝します！これからも素晴らしい開発を期待しています！😊
 
 _Total: 639 commits across 10 projects_
 
@@ -104,37 +104,37 @@ _Total: 639 commits across 10 projects_
       <sub>CHANMINA</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/76uBxDb9lOG1dl98UfN46b" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27345ab9f67d6dcd6d85d81df86" alt="赤い糸 - Album Mix" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>赤い糸 - Album Mix</sub>
-      <br />
-      <sub>KOBUKURO</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/1c4dCI3yr9sV4NzzOBNuAb" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="My distinction" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>My distinction</sub>
       <br />
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/2xMcCB4mpqdZWDCuwEbC1t" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273f900b0bad230bc0dc085e387" alt="CAN WE STiLL BE??" width="120" />
+      <a href="https://open.spotify.com/track/76uBxDb9lOG1dl98UfN46b" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27345ab9f67d6dcd6d85d81df86" alt="赤い糸 - Album Mix" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>赤い糸 - Album Mix</sub>
+      <br />
+      <sub>KOBUKURO</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/3psd8lP4CrIa2F31cf0YQs" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2737afc65236fc2cc752d32baf6" alt="生きがい" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>CAN WE STiLL BE??</sub>
+      <sub>生きがい</sub>
       <br />
-      <sub>BiSH</sub>
+      <sub>SUPER BEAVER</sub>
     </td>
   </tr>
 </table>
