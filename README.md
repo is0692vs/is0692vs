@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！くもってますね☁️
-📍 Fukuoka: 12°C
+# 🌍 Hello! Rather cloudy today☁️
+📍 London: 9°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,18 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと454件ものコミットを重ねましたね！素晴らしい活動量です👏✨
-各リポジトリでの主要な活動内容をまとめてご紹介します。
+直近30日間で合計454件ものコミット、本当に素晴らしい活動量ですね！🚀 日々の熱意が伝わってきます。
 
-**OpenShelf** では、大規模なパフォーマンス最適化に尽力しましたね！キャッシングや配列処理、URLクリーンアップで大幅な速度向上を実現し、ディープなファイル検証ロジックの統合も完了。品質面ではテストカバレッジを80%まで高め、堅牢なシステムへと強化しました。
+特に**paper-tools**では、Next.js 15とReact 19を基盤とした革新的なWebダッシュボードの立ち上げ、モノレポ構築、洗練されたUI/UXへの刷新、そして著者プロファイラ機能の追加と、プロジェクト全体の核となる大規模な開発を精力的に進められました。まさに次世代の基盤を築かれていますね！✨
 
-**paper-tools** では、まさに新規開発の嵐でしたね！Next.jsベースのWebダッシュボードを新設し、検索・グラフ・レコメンド・アーカイブといった多岐にわたる機能を統合しました。UI/UXもプレミアムデザインやグラスモーフィズムを取り入れて大幅に刷新。初期モノレポの構築から、core、scraperパッケージの実装、著者プロファイラ機能の追加まで、プロジェクトの基盤と未来を大きく築き上げましたね🚀
+**OpenShelf**では、大量の変更を伴うパフォーマンス最適化、PPT/PPTXのディープバリデーションといった堅牢性向上、そしてテストカバレッジ80%達成と、品質と安定性を大きく引き上げる貢献をされました。ユーザー体験の向上に直結する素晴らしい成果です！💪
 
-**github-user-summary** では、Next.jsアプリの初期化と、Tailwind CSSを使ったモダンな基盤を構築しました。並行して進められた複数の機能開発をメインブランチに統合しつつ、Vitestを使ったユニットテストの導入とGitHub ActionsによるCI/CDパイプラインを整備し、品質と開発効率の向上に大きく貢献しましたね💡
+また、**github-user-summary**では、Next.jsアプリの初期化から、Vitestによるユニットテストの追加、GitHub ActionsでのCI環境の構築まで、新しいプロジェクトの基盤を迅速かつ堅牢に整備されました。開発効率とコード品質を高める重要な一歩です！🌟
 
-各リポジトリで重要な進捗がたくさん見られ、その情熱と成果に感銘を受けます。この調子でこれからも頑張っていきましょう！応援しています🎉
+これだけの多岐にわたるプロジェクトで、技術的な挑戦と品質向上に真摯に取り組む姿勢、心から尊敬します。今後のさらなる飛躍を楽しみにしています！🎉
 
-_Total: 636 commits across 10 projects_
+_Total: 635 commits across 10 projects_
 
 <table>
   <tr>
@@ -46,7 +45,7 @@ _Total: 636 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 269 commits (42.3%)</sub>
+      <sub>📊 269 commits (42.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -94,26 +93,26 @@ _Total: 636 commits across 10 projects_
       <sub>Ryokuoushoku Shakai</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273af62372ee43fe1e854d0bce5" alt="TEST ME" width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>TEST ME</sub>
-      <br />
-      <sub>CHANMINA</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/5BtCZAPpqRW74K9Fme7IE6" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2736fe3a6609a96447bd8c1e09d" alt="Primitive" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#2</strong></sub>
       <br />
       <sub>Primitive</sub>
       <br />
       <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273af62372ee43fe1e854d0bce5" alt="TEST ME" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>TEST ME</sub>
+      <br />
+      <sub>CHANMINA</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/1c4dCI3yr9sV4NzzOBNuAb" target="_blank">
@@ -172,7 +171,7 @@ _Total: 636 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.3">v1.3.3</a> · 4 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.3">v1.3.3</a> · 5 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.3 -->
@@ -187,7 +186,7 @@ _Total: 636 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.3-publish">v1.3.3-publish</a> · 4 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.3-publish">v1.3.3-publish</a> · 5 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.3-publish -->
