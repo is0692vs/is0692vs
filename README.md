@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！お天気ですね☀️
-📍 Fukuoka: 13°C
+# 🌍 G'day! Rainy weather☔
+📍 Sydney: 23°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で450件ものコミット、素晴らしいペースですね！👏 各プロジェクトで多岐にわたる重要な改善を進めていただきました。
+直近30日間で**450件**ものコミット、お疲れ様でした！素晴らしい活動量ですね！🚀
 
-特に、
-*   **OpenShelf** では、OSVスキャナーの安定化や依存パッケージの更新、そしてセキュリティアラートの解消といった、システムの堅牢性と最新性を保つための重要な取り組みに大きく貢献されましたね！🔒✨
-*   **paper-tools** では、Next.jsベースのWebダッシュボードという大規模な新機能を導入し、UI/UXの洗練とアーキテクチャの改善にも注力。ユーザー体験を大きく向上させる素晴らしい作業です！🚀
-*   **github-user-summary** では、Next.jsアプリの基盤構築とTailwind CSSによるスタイリングを行い、さらにユニットテストとGitHub ActionsによるCIを導入して、開発の品質と効率を大きく高めました。これは今後の開発の大きな支えになりますね！🛠️
+特に目立つ活動として、複数のリポジトリで重要な進捗が見られます。
+*   **OpenShelf**では、OSVスキャナーの安定化や依存関係の大規模な更新、セキュリティアラートの解消、そしてCIの修正など、システムの安定性とセキュリティ強化に大きく貢献されました。大量のコード変更を伴う難易度の高い作業、流石です！✨
+*   **paper-tools**では、Next.js 15とReact 19を基盤とした画期的なWebダッシュボードを新規開発！🚀 検索、グラフ表示、レコメンドなど多機能なページとAPIルートを実装し、Web UIとアーキテクチャの大幅な改善も進められましたね。ユーザー体験を向上させる素晴らしい新機能です！
+*   **github-user-summary**では、Next.jsアプリの初期化から始まり、ユニットテストの追加とGitHub ActionsによるCI環境のセットアップまで、堅牢な開発基盤を築かれました。他にも複数のマージを通じて、機能改善やパフォーマンス最適化にも取り組まれており、多方面での活躍が光ります！💡
 
-様々なプロジェクトで積極的な開発をされており、その影響力は計り知れません。本当にお疲れ様でした！これからも期待しています！😊
+全体として、新機能開発から基盤の強化、そしてセキュリティと安定性の向上まで、幅広い分野で大きな成果を上げられました。今後の更なる活躍を期待しています！素晴らしい一ヶ月でした！💪
 
-_Total: 748 commits across 10 projects_
+_Total: 744 commits across 10 projects_
 
 <table>
   <tr>
@@ -44,7 +44,7 @@ _Total: 748 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 383 commits (51.2%)</sub>
+      <sub>📊 386 commits (51.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -55,7 +55,7 @@ _Total: 748 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 124 commits (16.6%)</sub>
+      <sub>📊 124 commits (16.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
@@ -66,7 +66,7 @@ _Total: 748 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 101 commits (13.5%)</sub>
+      <sub>📊 101 commits (13.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
