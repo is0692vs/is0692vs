@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！いい天気だね☀️
-📍 Hiroshima: 8°C
+# 🌍 こんにちは！雨の日ですね☔
+📍 Tokyo: 10°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**450件**ものコミット、お疲れ様でした！素晴らしい活動量ですね👏
+直近30日間でなんと450件ものコミット、お疲れ様でした！👏 素晴らしい活動量ですね！
 
-特に目立ったのは、以下のリポジトリでのご活躍です。
+特に目立った活動は以下の通りです。
+*   **OpenShelf**では、依存パッケージの更新、セキュリティアラートの解消、OSVスキャナー入力の安定化、CIの修正など、システムの安定化と保守に大きく貢献しましたね。堅牢な基盤作り、ありがとうございます！
+*   **paper-tools**では、Next.jsベースのWebダッシュボードを新規開発し、Cytoscape.jsを統合したグラフビューやS2推薦機能、Notion連携など、革新的な機能が盛りだくさん！✨ UI/UXの洗練にも力を入れられましたね。
+*   **github-user-summary**では、Next.jsアプリの初期化、Tailwind CSSでのスタイリング、そして重要なユニットテストの追加とGitHub ActionsによるCI環境のセットアップまで、開発基盤を着実に強化されています。複数のブランチマージもこなし、多くの機能が統合されました。
 
-*   **[OpenShelf]** では、セキュリティアラートの解消や依存パッケージの大規模な更新、CIの安定化に大きく貢献されました。scanner inputの安定化やAPIワークスペースの依存関係更新など、堅牢性向上に尽力されたことがうかがえますね！
-*   **[paper-tools]** では、Next.js Webダッシュボードの追加という大きな新機能開発を推進されました！🎨 全パッケージを統合する素晴らしいダッシュボードが形になり、UI/アーキテクチャの改善にも取り組まれたようです。
-*   **[github-user-summary]** では、Next.jsアプリの初期化やTailwind CSS導入といった基盤構築、そしてユニットテストの追加とGitHub ActionsによるCIのセットアップを完了されました✨ 品質向上に向けた重要な一歩ですね。
+多岐にわたるプロジェクトで素晴らしい成果を上げていますね！この調子で、今後の活躍も楽しみにしています！🚀
 
-各プロジェクトで多岐にわたる重要なタスクを精力的にこなされており、チームへの貢献度が非常に高いです。この調子で、今後も素晴らしい開発を期待しています！🚀
-
-_Total: 744 commits across 10 projects_
+_Total: 730 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +44,7 @@ _Total: 744 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 386 commits (51.9%)</sub>
+      <sub>📊 386 commits (52.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +55,7 @@ _Total: 744 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 124 commits (16.7%)</sub>
+      <sub>📊 124 commits (17.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
@@ -67,7 +66,7 @@ _Total: 744 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 101 commits (13.6%)</sub>
+      <sub>📊 96 commits (13.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
