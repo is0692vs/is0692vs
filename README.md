@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hallo! Sonniger Tag☀️
-📍 Berlin: 15°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Madrid: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間でなんと418件ものコミット、お疲れ様です！素晴らしい活動量ですね！
+直近30日間で418件ものコミット、お疲れ様でした！素晴らしい活動量ですね！✨
 
-[OpenShelf]では、OSVスキャナーの安定化や多数の依存パッケージの更新、セキュリティアラートの解消、APIワークスペースの依存関係調整、Vitestのバージョン統一、そしてCI/CDの安定化に大きく貢献しました。大規模なメンテナンス作業、見事です！🎉
+まず**OpenShelf**では、大量の変更を伴う依存関係の更新やセキュリティアラートの解消、OSVスキャナーの安定化、CIの修正など、システムの安定性とセキュリティ向上に大きく貢献されました。非常に重要な作業でしたね。
 
-[paper-tools]では、Web UI/UXの大幅な刷新やアーキテクチャの改善を進め、より洗練されたユーザー体験を提供しましたね。さらに、著者プロファイラCLIとWeb画面の追加と、ビジュアライザーの最適化も行いました。✨
+次に**paper-tools**では、Web UIとアーキテクチャの大幅な改善、プレミアムデザインやガラスモーフィズムの導入で、ユーザー体験が大きく向上したことでしょう！🤩 さらに著者プロファイラ機能の追加も行い、機能面も強化されました。
 
-[github-user-summary]では、ユニットテストの導入とGitHub Actions CIのセットアップを精力的に行い、コード品質と開発プロセスの信頼性を高めました。
+そして**github-user-summary**では、ユニットテストの導入とGitHub ActionsによるCI/CD環境のセットアップを完了させ、開発の品質と効率が飛躍的に向上しました。これからの開発がさらにスムーズになりますね！🚀
 
-各プロジェクトの品質向上と新機能開発に尽力され、本当に素晴らしい成果です！今後の活躍も楽しみにしています！👏
+多岐にわたるプロジェクトで、機能追加から品質向上、セキュリティ強化まで、本当に素晴らしい成果です！この調子で頑張っていきましょう！💪
 
-_Total: 748 commits across 10 projects_
+_Total: 746 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ _Total: 748 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 413 commits (55.2%)</sub>
+      <sub>📊 413 commits (55.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
