@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Mexico City: 9°C
+# 🌍 Hello! Beautiful sunny day☀️
+📍 New York: 4°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,14 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で386件ものコミット、素晴らしい成果ですね！🎉 大変精力的に活動されました。
+直近30日間でなんと386件ものコミット、素晴らしい活躍ぶりですね！🚀
 
-特に、以下のリポジトリで大きな進捗が見られますね。
-*   **github-user-summary** では、合計3000行以上の追加・変更を含む大規模なユニットテストとGitHub Actions CIの導入を完了させ、品質向上に大きく貢献しました！🧪 認証済みダッシュボードやYear-in-Review機能の追加に加え、多くのPR統合やUI整理、競合解消にも尽力されました。
-*   **paper-tools** では、Web UIをプレミアムデザイン、グラスモーフィズムを取り入れたAppShellレイアウトへと大幅にリファクタリングし、魅力的なユーザー体験を提供していますね。✨ さらに、「著者プロファイラ」のCLIとWeb画面という新機能も追加され、機能拡充が大いに進みました。
-*   **OpenShelf** では、依存関係の大規模な更新やAPIワークスペースの整備、そしてVitestを使ったテスト設定など、プロジェクトの安定性と近代化を推進されました。🛠️
-*   **otodoki3** では、多数の重複テストPRを効率的に統合し、テストカバレッジの整理・最適化を見事に達成しましたね！
+*   **OpenShelf**では、依存関係のアップデートやAPIワークスペースの整備、Vitestを使ったテスト設定など、プロジェクトの土台をしっかりと固めてくださいました。安定稼働に向けた大切な作業、お見事です！
+*   **paper-tools**では、Web UIをプレミアムデザインやAppShellレイアウトで大幅に刷新し、ユーザー体験をぐっと向上させましたね！✨ さらに、著者プロファイラのCLIとWeb画面、API機能と、強力な新機能の開発も進めています。素晴らしい進化です！
+*   **github-user-summary**では、たくさんのPRの統合や競合解消に力を入れ、コードベースの整理に貢献しました。特に、Vitestでのユニットテスト導入とGitHub Actions CIのセットアップは、品質向上と開発効率アップに大きく貢献するでしょう！👏 認証済みダッシュボードやYear-in-Reviewといったユーザー向けの魅力的な新機能も追加し、サービス価値を高めています。
+*   **otodoki3**では、複数のテストPRを統合し、テストコードの整理と効率化を図りましたね。堅牢なシステムを保つための地道な努力、頭が下がります！
 
-全体として、テストによる品質向上、魅力的な新機能開発、そして大規模なUI/UX改善まで、多岐にわたる分野で大活躍でした。これからもその勢いで、素晴らしい開発を続けてください！🚀
+この30日間も、多岐にわたるプロジェクトで積極的な開発・改善を行っていただき、本当にありがとうございます！この調子で、これからも素敵な開発を楽しんでください！😊
 
 _Total: 755 commits across 10 projects_
 
@@ -145,7 +144,7 @@ _Total: 755 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.4">v1.3.4</a> · 5 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.4">v1.3.4</a> · 6 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.4 -->
@@ -158,7 +157,7 @@ _Total: 755 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.4-publish">v1.3.4-publish</a> · 5 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.4-publish">v1.3.4-publish</a> · 6 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.4-publish -->
