@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！素晴らしい晴れですね☀️
-📍 Osaka: 13°C
+# 🌍 Hello! Rather cloudy today☁️
+📍 London: 7°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**401件**ものコミット、素晴らしい集中力と生産性です！📈
+直近30日間でなんと401件ものコミット、素晴らしい開発活動ですね！🚀
 
-特に活発だったのは、**github-user-summary**ですね。認証済みダッシュボードやYear-in-Review機能を追加し、プロフィールカードのドラッグ&ドロップ編集、README用画像エンドポイントなど、新機能が続々登場しました。複数のPR統合やUI整理も進められましたね！
+[OpenShelf]では、依存関係の更新、APIワークスペース整備、テスト設定見直しで基盤強化に貢献しました。
+[paper-tools]では、Web UIをプレミアムデザインに刷新し、ガラスモーフィズムを取り入れるなど、ユーザー体験を大きく向上！著者プロファイラCLIとWeb画面の新機能追加も目立ちますね。
+[github-user-summary]では、UI/性能改善、多数のPR統合と競合解消を実施。認証済みダッシュボード、Year-in-Review、README用プロフィールカードエンドポイント、D&Dレイアウト編集機能など、魅力的な新機能を次々とリリースしています！✨
+[jules-extension]ではUIの改善と性能最適化を、[otodoki3]では重複テストの統合を進め、品質向上に貢献しました。
 
-**paper-tools**では、Web UIを大幅に刷新し、プレミアムなデザインやガラスモーフィズムを導入。著者プロファイラのCLIとWeb画面の追加も実現されました✨
+多岐にわたるプロジェクトで素晴らしい成果です！この勢いで開発を楽しんでいきましょう！🎉
 
-**OpenShelf**では、API関連の依存関係更新やVitestでのテスト調整を通じて、基盤安定化に貢献しています。
-
-さらに、**jules-extension**ではUIの改善とパフォーマンス最適化、**otodoki3**では複数の重複テストPRを統合し、コード品質向上に貢献しました。
-
-多岐にわたるプロジェクトで、機能強化、UI/UX改善、基盤整備と、着実に成果を積み上げていますね。この勢いを維持して、さらなる素晴らしい開発を楽しみにしています！🚀
-
-_Total: 826 commits across 10 projects_
+_Total: 827 commits across 10 projects_
 
 <table>
   <tr>
@@ -47,7 +44,7 @@ _Total: 826 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 444 commits (53.8%)</sub>
+      <sub>📊 444 commits (53.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,7 +55,7 @@ _Total: 826 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 169 commits (20.5%)</sub>
+      <sub>📊 170 commits (20.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 10</sub>
     </td>
