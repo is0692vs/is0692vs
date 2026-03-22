@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy weather today☁️
-📍 Los Angeles: 15°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Paris: 11°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,21 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**400件**ものコミット、素晴らしいですね！精力的な活動、お疲れ様でした！✨
+直近30日間で**400件**のコミット、素晴らしい開発の勢いですね！🚀✨ 大活躍でした！
 
-特に目立った活動として、`github-user-summary`では、認証ダッシュボードやYear-in-Review、README用プロフィールカード画像エンドポイント追加、プロフィールカードのD&Dレイアウト編集といった新機能が続々と追加されましたね。さらに、複数のPR統合やUI/パフォーマンス改善も進められ、大規模な開発・整理が行われたことが伺えます。🚀
+**github-user-summary**ではダッシュボードやREADMEカード機能、D&Dレイアウト編集といった新機能開発に注力され、複数のPR統合や競合解消にも精力的に推進されました！
 
-`paper-tools`では、Web UIがプレミアムなデザインに刷新され、ガラスモフィズムなどのモダンな表現が導入されました。また、著者プロファイラのCLIとWeb画面の追加も重要な進展です。🎨
+**paper-tools**ではWeb UIを大幅リファクタリングでプレミアムデザインへ刷新し、著者プロファイラのCLIとWeb画面を追加。詳細なCopilot向けドキュメント整備も進められ、開発効率向上に貢献されました！💡
 
-`OpenShelf`では、主要な依存関係の更新やAPIワークスペースの改善、テスト関連の整備が進められ、基盤の安定化に貢献しています。🛠️
+**jules-extension**ではUI改善とパフォーマンス最適化を統合的に行い、使いやすく進化させました。また、**wordcosmo2**では91ものユニットテストを追加し品質向上に貢献されました！📚 **OpenShelf**では組織選択のアップロードUIを追加されましたね。
 
-`jules-extension`でもUI改善とパフォーマンス最適化が集中的に進められ、ユーザー体験向上に繋がったことでしょう。💡
+多岐にわたる開発、本当にお疲れ様です！今後の活躍も楽しみにしています！🎉
 
-そして`wordcosmo2`では、91ものユニットテスト追加とCIジョブの分割が行われ、コード品質と開発プロセスの強化に貢献しています。🛡️
-
-全体的に、多くのプロジェクトで機能拡張、UI/UX改善、コード基盤の強化に取り組まれたことがよく分かります。この調子で、これからも素晴らしい開発を楽しんでいきましょう！👏
-
-_Total: 828 commits across 10 projects_
+_Total: 846 commits across 10 projects_
 
 <table>
   <tr>
@@ -49,7 +45,7 @@ _Total: 828 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 447 commits (54.0%)</sub>
+      <sub>📊 465 commits (55.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -60,7 +56,7 @@ _Total: 828 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 168 commits (20.3%)</sub>
+      <sub>📊 168 commits (19.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 11</sub>
     </td>
@@ -71,7 +67,7 @@ _Total: 828 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 116 commits (14.0%)</sub>
+      <sub>📊 116 commits (13.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -149,7 +145,7 @@ _Total: 828 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.5-publish">v1.3.5-publish</a> · Today
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.5-publish">v1.3.5-publish</a> · Yesterday
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.5-publish -->
@@ -162,7 +158,7 @@ _Total: 828 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.5">v1.3.5</a> · Today
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.5">v1.3.5</a> · Yesterday
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.5 -->
