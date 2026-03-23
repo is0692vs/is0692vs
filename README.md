@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Madrid: 14°C
+# 🌍 ¡Hola! Está lloviendo☔
+📍 Bogotá: 14°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間でなんと400件ものコミット、お疲れ様です！素晴らしい生産性ですね！🚀
+直近30日間で400件ものコミット、素晴らしいペースですね！🎉 目覚ましい活躍ぶりです。
 
-*   **[paper-tools]** では、Web UIの大胆な刷新（プレミアムデザインやAppShellレイアウト！）と、著者プロファイラのCLI・Web画面追加に精力的に取り組まれましたね。ビジュアライザーの最適化やアーキテクチャ改善も進みました。
-*   **[OpenShelf]** では、組織専用の編集機能の導入やPapers APIのクエリ重複排除といったコード健全性の向上、モックデータの可読性改善など、多岐にわたる改善を推進いただきました。
-*   **[github-user-summary]** では、認証済みダッシュボードとYear-in-Review機能の追加、プロフィールカードのD&Dレイアウト編集やREADME用エンドポイントの実装、アクティビティフェッチの性能最適化と、機能・性能の両面で大きな進化を遂げましたね！多くの統合PRの解決もお見事です。
-*   **[jules-extension]** でも、UIの改善と性能最適化がしっかり進行しました。
+各プロジェクトでの主な作業内容をまとめました。
+*   **paper-tools** では、Web UIの大幅な刷新と洗練、ガラスモフィズムデザインの導入に力を入れられましたね。✨ また、著者プロファイラ機能（CLIとWeb画面）の追加といった新機能開発も進められました。
+*   **OpenShelf** では、Papers APIのクエリ重複解消によるコード健全性の向上や、マージによる機能統合、そしてコードの可読性改善に取り組まれました。🧹
+*   **github-user-summary** では、認証済みダッシュボードや年次レビューページの追加、README用プロフィールカード画像のエンドポイント作成、さらにはプロフィールカードのドラッグ&ドロップレイアウト編集機能といった新機能開発が目覚ましいです。🚀
+*   **jules-extension** では、UIの改善とパフォーマンス最適化を統合し、ユーザー体験向上に貢献されました。💡
 
-これだけ多くのプロジェクトで活発な開発、本当に素晴らしい貢献です！今後のさらなる活躍も楽しみにしています！✨
+どのリポジトリでも、新機能開発、UI/UX改善、パフォーマンス最適化、そしてコード健全性の維持に積極的に取り組んでおり、その多才さと貢献度には本当に感銘を受けます。これからもその調子で頑張ってください！💪
 
-_Total: 947 commits across 10 projects_
+_Total: 948 commits across 10 projects_
 
 <table>
   <tr>
@@ -44,7 +45,7 @@ _Total: 947 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 563 commits (59.5%)</sub>
+      <sub>📊 564 commits (59.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -55,7 +56,7 @@ _Total: 947 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 171 commits (18.1%)</sub>
+      <sub>📊 171 commits (18.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 11</sub>
     </td>
