@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Está lloviendo☔
-📍 Bogotá: 14°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Lima: 21°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,20 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で400件ものコミット、素晴らしいペースですね！🎉 目覚ましい活躍ぶりです。
+直近30日間で、なんと400件ものコミットを重ねられましたね！素晴らしい活動量です👏
 
-各プロジェクトでの主な作業内容をまとめました。
-*   **paper-tools** では、Web UIの大幅な刷新と洗練、ガラスモフィズムデザインの導入に力を入れられましたね。✨ また、著者プロファイラ機能（CLIとWeb画面）の追加といった新機能開発も進められました。
-*   **OpenShelf** では、Papers APIのクエリ重複解消によるコード健全性の向上や、マージによる機能統合、そしてコードの可読性改善に取り組まれました。🧹
-*   **github-user-summary** では、認証済みダッシュボードや年次レビューページの追加、README用プロフィールカード画像のエンドポイント作成、さらにはプロフィールカードのドラッグ&ドロップレイアウト編集機能といった新機能開発が目覚ましいです。🚀
-*   **jules-extension** では、UIの改善とパフォーマンス最適化を統合し、ユーザー体験向上に貢献されました。💡
+この期間は特に複数のプロジェクトで精力的に取り組まれました。
+[github-user-summary] では、認証済みダッシュボードや「年間のまとめ」機能、プロフィールカードのドラッグ&ドロップ編集、README用カード画像エンドポイントといった、ユーザー体験を向上させる多くの新機能を追加。コードベースの統合や競合解消も大変スムーズでした。
 
-どのリポジトリでも、新機能開発、UI/UX改善、パフォーマンス最適化、そしてコード健全性の維持に積極的に取り組んでおり、その多才さと貢献度には本当に感銘を受けます。これからもその調子で頑張ってください！💪
+[paper-tools] では、Web UIの大規模な刷新（プレミアムデザインやAppShellレイアウト）とアーキテクチャ改善が進められましたね。さらに著者プロファイラCLIとWeb画面の追加、ビジュアライザーの最適化も着実に実施されています。
 
-_Total: 948 commits across 10 projects_
+[OpenShelf] では、組織限定編集機能の完了や、Papers APIのクエリ重複排除という重要なリファクタリング、モックデータの可読性向上に貢献されました。
+
+また、[jules-extension] でもUI改善とパフォーマンス最適化を統合的に進められました。
+
+どのプロジェクトでも、質の高い開発と積極的な改善が光っています。その多才さと精力的な活動に感銘を受けます！これからもこの調子で、さらなる高みを目指してくださいね！🚀
+
+_Total: 981 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +48,7 @@ _Total: 948 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 564 commits (59.5%)</sub>
+      <sub>📊 597 commits (60.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +59,7 @@ _Total: 948 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 171 commits (18.0%)</sub>
+      <sub>📊 171 commits (17.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 11</sub>
     </td>
@@ -67,7 +70,7 @@ _Total: 948 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 116 commits (12.2%)</sub>
+      <sub>📊 116 commits (11.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -82,26 +85,26 @@ _Total: 948 commits across 10 projects_
 <table>
   <tr>
     <td align="center">
-      <a href="https://open.spotify.com/track/6cnTc9TUiWPnORVWCRdwXD" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273d56f3fb57a99e93fcd22eac9" alt="風に乗る" width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>風に乗る</sub>
-      <br />
-      <sub>Ryokuoushoku Shakai</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/5BtCZAPpqRW74K9Fme7IE6" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2736fe3a6609a96447bd8c1e09d" alt="Primitive" width="120" />
       </a>
       <br />
-      <sub><strong>#2</strong></sub>
+      <sub><strong>#1</strong></sub>
       <br />
       <sub>Primitive</sub>
       <br />
       <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/6cnTc9TUiWPnORVWCRdwXD" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273d56f3fb57a99e93fcd22eac9" alt="風に乗る" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>風に乗る</sub>
+      <br />
+      <sub>Ryokuoushoku Shakai</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe" target="_blank">
