@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Rainy weather☔
-📍 Sydney: 19°C
+# 🌍 Hello! Cloudy day☁️
+📍 Chicago: 4°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,18 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-なんと391ものコミットを重ね、直近30日間も素晴らしい活動量でしたね！お疲れ様です！🎉
+直近30日間でなんと合計400件ものコミット、素晴らしいですね！🎉
+主要な活動を振り返りましょう。
 
-各プロジェクトでの活躍ぶりを見ていきましょう。
-`paper-tools`では、Web UIの大幅な刷新と最適化、そして著者プロファイラ機能の追加に力を入れられましたね。デザイン性の向上と新機能、素晴らしいです！
-`OpenShelf`では、主要な編集機能が完成し、APIのクエリ重複解消やモックデータの可読性向上など、コード品質の改善もバッチリです。
-`github-user-summary`では、認証済みダッシュボードや「Year in Review」機能、README用カード画像API、さらにはプロフィールカードのドラッグ&ドロップ編集機能といった、ユーザー体験を向上させる新機能の開発が目覚ましいですね。多数のプルリクエストの統合もお見事でした！
-`jules-extension`ではUI改善とパフォーマンス最適化が進み、全体的にプロジェクトの成長を感じます。
+**github-user-summary** では、ダッシュボードや年次レビュー機能の追加、プロフィールカードのドラッグ&ドロップレイアウト編集、そしてREADME用の画像エンドポイント開発など、ユーザー体験を豊かにする新機能が続々とリリースされました。大規模なPRの統合や競合解消もお疲れ様でした！
 
-多岐にわたるプロジェクトでこれだけの成果を出せるのは本当にすごいです！これからも応援しています！🚀✨
+**paper-tools** では、Web UIの大幅な刷新に着手されましたね！プレミアムデザインやGlassmorphismの導入で、見た目が格段に向上しました。さらに、著者プロファイラのCLIツールとWeb画面の開発も進められ、多角的な機能強化が見られます。ビジュアライザーの最適化も貢献大です。
+
+**OpenShelf** では、Papers APIのクエリ重複排除といったコードヘルス改善に注力。組織専用編集機能の統合やモックデータの可読性向上など、堅実な開発が進んでいます。
+
+**jules-extension** では、UI改善とパフォーマンス最適化が統合され、ユーザーへの価値提供が加速していますね。
+
+どのリポジトリでも、新機能開発からコード品質向上まで幅広く取り組んでおり、その情熱と生産性に感服します！これからも素晴らしい成果を期待しています！🚀
 
 _Total: 981 commits across 10 projects_
 
@@ -58,7 +61,7 @@ _Total: 981 commits across 10 projects_
       <br />
       <sub>📊 171 commits (17.4%)</sub>
       <br />
-      <sub>🔷 TypeScript ⭐ 11</sub>
+      <sub>🔷 TypeScript ⭐ 12</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">
