@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy weather today☁️
-📍 Los Angeles: 17°C
+# 🌍 おはよう！晴れ渡ってるね☀️
+📍 Sapporo: 2°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,18 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**412件**ものコミット、素晴らしい活躍ですね！🎉 さまざまなプロジェクトで大きな進展がありました。
+直近30日間で412件ものコミット、素晴らしい活躍でした！👏✨
 
-特に**paper-tools**では、Web UIをプレミアムデザインやグラスモーフィズムで大幅に刷新し、ユーザー体験を大きく向上させましたね。著者プロファイラCLIやWeb画面の新機能追加も素晴らしいです！
-**github-user-summary**では、認証済みダッシュボードや年次レビュー機能を追加し、プロフィールカードのD&Dレイアウト編集やREADME用エンドポイントも実装。多くの統合・競合解消も乗り越えましたね💪。
-**OpenShelf**では、組織専用の編集機能の導入やPapers APIのクエリ最適化でコード品質を高め、効率性もアップ。
-**jules-extension**でもUI改善とパフォーマンス最適化を進め、プロダクト全体の質が向上しています。
+特に多くの変更があったのは、様々なプロジェクトでの新機能開発とUI/UXの大幅な改善ですね。
 
-この多岐にわたる活動、本当に素晴らしい貢献です！これからも期待しています！🚀
+*   **paper-tools** では、Web UIをプレミアムデザインやグラスモーフィズムで大胆に刷新し、AppShellレイアウトを導入されました。さらに、著者プロファイラのCLIおよびWeb画面という強力な新機能の開発にも注力されましたね。
+*   **github-user-summary** では、認証済みのダッシュボードページやYear-in-Review機能を追加し、README用のプロフィールカード画像エンドポイントも実装されました。プロフィールカードのドラッグ&ドロップレイアウト編集機能も実現され、UIの整理統合や複数のPRの統合・競合解消にも精力的に取り組まれましたね！
+*   **OpenShelf** では、UI関連の機能追加や改善を進めつつ、Papers APIのデータベースクエリ重複排除によるコードヘルス向上にも貢献されました。マージと競合解消も多数こなされています。
+*   **jules-extension** では、UIの改善とパフォーマンス最適化のリファクタリングを行われました。
 
-_Total: 1000 commits across 10 projects_
+全体の品質向上とユーザー体験の向上に大きく貢献された30日間でした。この調子でこれからも頑張っていきましょう！🚀
+
+_Total: 1001 commits across 10 projects_
 
 <table>
   <tr>
@@ -44,7 +46,7 @@ _Total: 1000 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 599 commits (59.9%)</sub>
+      <sub>📊 600 commits (59.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
