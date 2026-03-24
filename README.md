@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Beautiful sunny day☀️
-📍 San Francisco: 9°C
+# 🌍 Ciao! Giornata soleggiata☀️
+📍 Rome: 17°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,21 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**400件**ものコミット、大変お疲れ様でした！👏 活発な開発が素晴らしいですね！
+直近30日間で400件ものコミット、素晴らしいですね！👏 多岐にわたるプロジェクトで活発に活動されていますね。
 
-主な活動を振り返ってみましょう。
+特に目立った活動としては、
+*   **[paper-tools]** では、Web UIの刷新とアーキテクチャ改善に力を入れられましたね！✨ ガラスモーフィズムデザインの導入やAppShellレイアウトへの変更、さらに著者プロファイラのCLIとWeb画面の追加など、ユーザー体験を大きく向上させる機能開発を進められました。
+*   **[github-user-summary]** では、認証済みダッシュボードやYear-in-Review機能、プロフィールカードのドラッグ&ドロップレイアウト編集機能の実装、README用画像エンドポイントの追加、そして複数のPRの統合と競合解消にご尽力されました。🚀 新機能の追加とコードの健全性維持、お疲れ様です！
+*   **[OpenShelf]** では、Papers APIのデータベースクエリ重複解消によるコード品質向上や、組織専用の編集機能の進捗、モックデータの可読性改善に取り組まれましたね。📚 バックエンドの堅牢性向上と機能拡張に貢献されています。
+*   **[jules-extension]** では、UI改善とパフォーマンス最適化の統合を進められましたね！💡
 
-**paper-tools**では、Web UIの抜本的な刷新とアーキテクチャの改善に注力されましたね。✨ プレミアムデザインやAppShellレイアウトの導入、さらに著者プロファイラのCLIとWeb画面の追加と開発も精力的に進め、ユーザー体験を大きく向上させる機能が充実しました！🚀
+どのプロジェクトも着実に進化しており、その貢献に頭が下がります。この調子でこれからも素晴らしい開発を続けてください！応援しています！💪
 
-**OpenShelf**では、主要な機能追加とコード品質向上に取り組まれました。特にPapers APIのデータベースクエリ重複を解消し、モックデータの可読性も改善するなど、システムの安定性と保守性向上に貢献していますね。💡
-
-**github-user-summary**では、認証済みダッシュボードページや「Year-in-Review」機能、プロフィールカードのドラッグ＆ドロップレイアウト編集機能など、多くの新機能を導入されました。🎉 また、多数のプルリクエストを統合し、競合解消やUI整理にも尽力されており、プロジェクトの健全性を保つ上で非常に重要な役割を果たしました。🛠️
-
-**jules-extension**では、UIの改善とパフォーマンスの最適化を進め、より使いやすく快適な拡張機能へと進化させましたね。📈
-
-多岐にわたるプロジェクトで、新機能開発からUI/UX改善、コード品質向上まで、幅広く貢献されました。この調子で今後も素晴らしい開発を続けてください！💪
-
-_Total: 981 commits across 10 projects_
+_Total: 983 commits across 10 projects_
 
 <table>
   <tr>
@@ -49,7 +45,7 @@ _Total: 981 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 597 commits (60.9%)</sub>
+      <sub>📊 599 commits (60.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
