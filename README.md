@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Partly cloudy today☁️
-📍 Miami: 27°C
+# 🌍 안녕하세요! 맑은 날씨네요☀️
+📍 Seoul: 6°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,7 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、素晴らしい412件ものコミット、お疲れ様でした！🚀
-
-特に、**OpenShelf**ではJWTキャッシュの⚡1300倍パフォーマンス改善という大規模な成果を出されましたね！リファクタリングやCI/マージ競合の解消にも精力的に取り組まれていました。
-
-**paper-tools**では、Web UIの✨プレミアムデザインへの刷新や、ガラスモーフィズムを取り入れたオーバーホールを実施。さらに、著者プロファイラCLIとWeb画面の追加という新機能開発も進められました。
-
-**github-user-summary**では、認証ダッシュボードページや年次レビュー機能の追加、そして複数のPR（#38～#48、#57, #68, #70）の統合・競合解消、UI整理に尽力されました。📦
-
-**jules-extension**でも、UI改善とパフォーマンス最適化を統合され、プロダクトの質向上に貢献されています。
-
-各リポジトリで多岐にわたる重要な改善や新機能開発を迅速に進められ、その熱意と努力に感銘を受けます。これからもその素晴らしい勢いで、さらなる活躍を期待しています！🎉
+直近30日間で412件ものコミット、お疲れ様です！👏 Merge pull request #216 from Hiroki-org/perf/jwt-cache-10169464070222234140、Merge remote-tracking branch 'origin/main' into perf/jwt-cache-10169464070222234140、chore: resolve main merge conflicts for PR #216など、多くの作業を進められました。合計155713行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 1060 commits across 10 projects_
 
