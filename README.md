@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Bogotá: 9°C
+# 🌍 Hello! Cloudy weather today☁️
+📍 Los Angeles: 17°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-お疲れ様です！直近30日間でなんと397件ものコミット、素晴らしい集中力と成果ですね！👏
+直近30日間で397件ものコミット、大変お疲れ様でした！素晴らしい活動量ですね👏
 
-**OpenShelf**では、JWTキャッシュの⚡1300倍パフォーマンス改善に大きく貢献されました。設定ページのリファクタリングやマージの調整、CI関連の修正も精力的に進められていますね。
-**paper-tools**では、Web UI/UXの大幅な改良に加え、✨著者プロファイラ機能のCLI版とWeb版を新たに開発。ユーザー体験の向上に尽力されたことが伝わります！
-**github-user-summary**では、認証済みダッシュボードページとYear-in-Review機能を追加し、ユーザー体験を豊かにしましたね。複数のPR統合や競合解消作業も完璧にこなされています。
-**jules-extension**でもUI改善とパフォーマンス最適化を実施し、全体の品質向上に貢献されています。
+特に**OpenShelf**では、JWTキャッシュの大規模なパフォーマンス改善で⚡️1300倍もの高速化を達成し、多くのマージ対応やリファクタリングも進められました。紙の閲覧体験が飛躍的に向上しそうです！
 
-様々なプロジェクトで多岐にわたる重要な改善や新機能開発を推進され、本当に素晴らしい活躍です！今後のさらなる飛躍も楽しみにしています！🚀
+**paper-tools**では、Web UIをプレミアムデザインやグラスモーフィズムで大胆に刷新し、ユーザー体験を向上。さらに著者プロファイラのCLIとWeb画面を追加し、新機能も積極的に開発されていますね📚。
 
-_Total: 1060 commits across 10 projects_
+**github-user-summary**では、認証済みダッシュボードやYear-in-Review機能を追加し、ユーザーに新しい価値を提供しました📊。複数のPRの統合やUI整理、パフォーマンス最適化にも尽力されています。
+
+**jules-extension**でもUI改善とパフォーマンス最適化に取り組まれ、全体的に質の高い開発が進んでいます🚀。多岐にわたるプロジェクトで素晴らしい成果を出されており、今後のさらなる活躍も楽しみにしています！
+
+_Total: 1061 commits across 10 projects_
 
 <table>
   <tr>
@@ -44,7 +45,7 @@ _Total: 1060 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 659 commits (62.2%)</sub>
+      <sub>📊 660 commits (62.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
