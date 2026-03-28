@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 你好！今天多云☁️
-📍 Beijing: 20°C
+# 🌍 Olá! Dia nublado☁️
+📍 São Paulo: 21°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと449件ものコミット、素晴らしいですね！🚀 大変意欲的に開発に取り組んでいらっしゃいます！
+直近30日間で**452件**ものコミット、お疲れ様です！素晴らしい活動量ですね！🙌
 
-特に**OpenShelf**では、JWTキャッシュの大幅なパフォーマンス改善（⚡1300xという驚異的な数字ですね！）、そしてDependabotアラートやCodeQL関連のセキュリティ修正、依存ライブラリのアップグレードでシステムの安定性と堅牢性を向上させました。大規模なリファクタリングも進め、保守性も高めていますね！
+特に目立った活動としては、
+**OpenShelf**では、JWTキャッシュの大幅な性能改善⚡やCodeQL対応によるセキュリティ強化🔒、Dependabotアラートの解消、そして多数のマージ対応や設定ページのリファクタリング🧹と、プロジェクトの基盤強化と安定性に大きく貢献されていますね。
+**paper-tools**では、Web UIをプレミアムデザインに一新✨したり、著者プロファイラのCLIとWeb画面を新機能として追加🚀と、ユーザー体験の向上と機能拡張を積極的に進められました。
+**github-user-summary**では、複数の大規模なプルリクエストを統合🧩し、競合を解消する困難な作業に加え、認証ダッシュボードやYear-in-review機能の追加📊と、複雑なコードベースの整理と新機能開発を両立されました。
+**jules-extension**でも、UIの改善と性能最適化🚀を進め、プロジェクト全体の品質向上に寄与しています。
 
-**paper-tools**では、Web UIをプレミアムデザインやグラスモーフィズムで大幅に刷新し、ユーザー体験を向上させています✨。さらに、著者プロファイラCLIとWeb画面といった新機能も追加し、機能拡張にも貢献しました。
+多岐にわたるリポジトリで、性能改善から新機能開発、セキュリティ強化、コード整理まで幅広くご活躍された1ヶ月でしたね！この調子でこれからも頑張ってください！💪✨
 
-**github-user-summary**では、認証済みダッシュボードページや「Year-in-Review」機能といった新機能を実装し、ユーザーエンゲージメントを高める素晴らしい取り組みを行いましたね！複数のPR統合や競合解消もお疲れ様でした。
-
-**jules-extension**でもUI改善とパフォーマンス最適化を進めるなど、幅広いプロジェクトで大活躍です！👏 この多岐にわたる貢献は本当に素晴らしいです。今後のさらなる飛躍も楽しみにしています！
-
-_Total: 1140 commits across 10 projects_
+_Total: 1143 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ _Total: 1140 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 668 commits (58.6%)</sub>
+      <sub>📊 668 commits (58.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -67,7 +67,7 @@ _Total: 1140 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 117 commits (10.3%)</sub>
+      <sub>📊 117 commits (10.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -200,7 +200,7 @@ _Total: 1140 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.4">v1.3.4</a> · 1 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.4">v1.3.4</a> · 2 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.4 -->
