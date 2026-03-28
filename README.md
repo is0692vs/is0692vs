@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Hiroshima: 11°C
+# 🌍 おはようございます！曇り空のようですね☁️
+📍 Kyoto: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-今月も素晴らしい活動、お疲れ様でした！🎉 直近30日間でなんと合計452件ものコミットを達成しましたね。すごい生産性です！
+直近30日間で**合計452件**もの素晴らしいコミット、本当にお疲れ様でした！精力的な活動、尊敬します！💪✨
 
-特にOpenShelfでは、JWTキャッシュのパフォーマンスを⚡1300倍も改善するという目覚ましい成果を出されました。セキュリティ面でもDependabotやCodeQLの修正で堅牢性が増し、大規模なリファクタリングでコード品質も向上しました。
+特に目立った活動としては、
+*   **OpenShelf**では、JWTキャッシュのパフォーマンスを劇的に向上させ、サービスの高速化に大きく貢献しましたね！また、DependabotアラートやCodeQL言語ミスマッチといったセキュリティ修正にも取り組み、システムの安定性を高めました。OrgSettingsPageのコンポーネント抽出によるリファクタリングも進められました。
+*   **paper-tools**では、Web UIをプレミアムデザインやガラスモーフィズムで洗練させ、アーキテクチャも改善されました。さらに、著者プロファイラのCLIとWeb画面を追加し、新機能も積極的に開発されましたね。
+*   **github-user-summary**では、複数のPRを統合しUI改善を図るとともに、認証済みダッシュボードページや「Year-in-Review」機能を追加するなど、ユーザー体験の向上に尽力しました。
+*   **jules-extension**では、UIの改善とパフォーマンス最適化に取り組まれました。
 
-paper-toolsでは、Web UIを全面的に刷新し、ガラスモルフィズムやAppShellといった最新デザインを取り入れてユーザー体験を大幅に向上させましたね。さらに著者プロファイラのCLIとWeb画面も追加され、機能面も充実しています。
-
-github-user-summaryでは、複数のPRを統合し、競合を解消しながらパフォーマンス最適化にも注力。認証済みダッシュボードやYear-in-Review機能といった新しい魅力的な機能も追加されました。
-
-jules-extensionでもUI改善とパフォーマンス最適化を進め、全体の品質向上に貢献。
-
-様々なプロジェクトで、パフォーマンス改善、セキュリティ強化、UI/UX向上、そして新機能開発と、多岐にわたる素晴らしい貢献をされました。これからのご活躍も楽しみにしています！✨
+多岐にわたるプロジェクトで、パフォーマンス改善、セキュリティ強化、新機能開発、UI/UXの洗練と、本当に充実した30日間でしたね！今後の更なる活躍を期待しています！🚀🌟
 
 _Total: 1143 commits across 10 projects_
 
@@ -147,7 +145,7 @@ _Total: 1143 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.6-publish">v1.3.6-publish</a> · Today
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.6-publish">v1.3.6-publish</a> · Yesterday
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.6-publish -->
