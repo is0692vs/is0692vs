@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Ciao! Giornata nuvolosa☁️
-📍 Rome: 16°C
+# 🌍 Hello! Foggy and cloudy☁️
+📍 San Francisco: 15°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-お疲れ様です！直近30日間でなんと**453件**ものコミットを達成され、素晴らしい活動量ですね！🚀
+直近30日間で、なんと453件ものコミットを達成しましたね！素晴らしい活動量です！🚀
 
-特に目立った活動として、
+特に、複数のリポジトリで目覚ましい進捗が見られます。
 
-*   **OpenShelf**では、JWTキャッシュを⚡️1300倍も改善する大規模なパフォーマンス最適化を行われました。セキュリティ関連のDependabotアラートやCodeQLの問題解決、複数の重要issue (#219, #241)への対応、設定ページの大規模なリファクタリングと、多岐にわたる修正・改善を進められましたね。
-*   **paper-tools**では、Web UIを✨プレミアムデザインへと大幅に刷新し、ガラスモーフィズムを取り入れるなど、ユーザー体験向上に大きく貢献されました。また、著者プロファイラのCLIとWeb画面という新機能も追加されました。
-*   **github-user-summary**では、複数のPull Requestを効率的に統合し、競合解消やパフォーマンス最適化に関連する作業を進められました。
-*   **jules-extension**でも、UIの改善とパフォーマンス最適化に向けたリファクタリングを進めるなど、幅広いプロジェクトで活躍されています。
+*   **OpenShelf** では、JWTキャッシュの大幅な改善でパフォーマンスを飛躍的に向上させました⚡。CodeQLによるセキュリティ修正やDependabotアラートへの迅速な対応でシステムの堅牢性を高め、複数の重要イシューも解決しています🐛。さらに、組織設定ページのリファクタリングでコード品質も向上させていますね🧹。
+*   **paper-tools** では、Web UIとアーキテクチャの大規模な改良を実施し、プレミアムデザインへの刷新でユーザー体験を大きく向上させました🎨。著者プロファイラの新機能追加も素晴らしいです！
+*   **github-user-summary** では、多数のPRを統合し、競合を解消しながら機能改善を進めていますね📦。
+*   **jules-extension** でも、UIの改善とパフォーマンスの最適化に取り組んでおり、多岐にわたるプロジェクトでその力を発揮しています💡。
 
-パフォーマンス、セキュリティ、UI/UX、新機能開発と、様々な分野で精力的な取り組みです！今後のさらなる活躍も楽しみにしています！🌟
+これだけ多くの領域で、機能追加、パフォーマンス向上、セキュリティ強化、コード品質向上に取り組んでいるのは本当に素晴らしいです！この調子でこれからも開発を楽しんでいきましょう！🎉
 
 _Total: 1170 commits across 10 projects_
 
@@ -160,7 +160,7 @@ _Total: 1170 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.6">v1.3.6</a> · Yesterday
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.6">v1.3.6</a> · 2 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.6 -->
