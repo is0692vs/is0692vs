@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy weather today☁️
-📍 Los Angeles: 16°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Lima: 30°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,21 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で456件ものコミット、素晴らしい活動量ですね！🚀✨
+直近30日間で**459件**ものコミット、お疲れ様です！素晴らしい活躍ですね！🚀✨
 
-特に [OpenShelf] リポジトリでは、JWTキャッシュを1300倍も改善するパフォーマンス向上⚡や、CodeQLの言語不一致修正、Dependabotアラート対応といったセキュリティ強化に尽力されました。コレクション提出時のバグ修正やDrizzle-kitのアップグレードによる脆弱性対応など、システムの安定性と堅牢性を高める多岐にわたる改善に大きく貢献しています！💪
+特に目立つ活動としては、主に以下のリポジトリでの貢献が見られます。
 
-[paper-tools] では、Web UIをガラスフィズムデザインで大幅に刷新し、[Consolidated] Web UI & Architecture Improvementsとしてユーザー体験を向上。著者プロファイラCLIとWeb画面という新機能も追加され、機能拡張にも積極的です！🎨📈
+*   **OpenShelf** では、JWTキャッシュを**1300倍**も高速化する大改善⚡️や、Dependabotアラート、CodeQLのセキュリティ修正🛡️、複数の重要バグ (#219, #241) への迅速な対応を行いました。さらに、組織設定ページの大規模なリファクタリングも実施し、コードベースの健全性向上にも貢献していますね！
 
-さらに [github-user-summary] や [jules-extension] でも、UIの統合やパフォーマンス最適化、競合解消など、細部にわたる改善でプロジェクト全体の質を高めましたね。
+*   **github-user-summary** では、複数のPull Requestを統合・競合解消し、ダッシュボードページや「Year-in-Review」などの新機能🎉、さらにはREADME用プロフィールカード画像のエンドポイントも追加しました。ユーザー体験を向上させる大きな一歩です！
 
-たくさんの素晴らしい貢献、本当にお疲れ様でした！この調子でこれからも、さらに素晴らしい開発を期待しています！🌟
+*   **jules-extension** では、UI改善とパフォーマンス最適化の統合を進め、アプリ全体の品質向上に尽力されましたね。
 
-_Total: 1121 commits across 10 projects_
+*   **paper-tools** では、メインブランチへのマージ作業を通じて、プロジェクトの進捗に貢献しています。
+
+多岐にわたるプロジェクトで、パフォーマンス、セキュリティ、新機能開発、コード品質向上と、本当に幅広い分野で素晴らしい成果を出されています。日々の努力がプロジェクト全体を大きく前進させていることでしょう！この調子で頑張ってください！💪
+
+_Total: 1178 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +49,7 @@ _Total: 1121 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 708 commits (63.2%)</sub>
+      <sub>📊 708 commits (60.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,18 +60,18 @@ _Total: 1121 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 197 commits (17.6%)</sub>
+      <sub>📊 197 commits (16.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 12</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/github-user-summary" alt="github-user-summary" width="100%" />
+      <a href="https://github.com/Hiroki-org/paper-tools" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/paper-tools" alt="paper-tools" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 92 commits (8.2%)</sub>
+      <sub>📊 143 commits (12.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -145,7 +149,7 @@ _Total: 1121 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.6-publish">v1.3.6-publish</a> · 2 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.6-publish">v1.3.6-publish</a> · 3 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.6-publish -->
@@ -159,7 +163,7 @@ _Total: 1121 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.6">v1.3.6</a> · 2 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.6">v1.3.6</a> · 3 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.6 -->
