@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rather cloudy today☁️
-📍 London: 16°C
+# 🌍 Ciao! Giornata nuvolosa☁️
+📍 Rome: 11°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと439件ものコミットを達成され、活発な開発状況が伺えますね！素晴らしいです！🎉
+直近30日間で439件ものコミット、素晴らしい成果ですね！日々の開発活動、本当にお疲れ様です！👏
 
-特に**OpenShelf**では、JWTキャッシュの大規模なパフォーマンス改善で⚡️システムを高速化されたのが印象的です。また、CodeQLやDependabotのアラートに対応し、セキュリティ強化にも大きく貢献。複数の重要issueを解決し、依存ライブラリの更新やOrgSettingsPageのリファクタリングも進められました。多くのマージ作業や競合解消もこなされ、プロジェクトの安定稼働と品質向上に尽力されていますね！
+特に目立った活動としては、複数の主要プロジェクトでの貢献が見られます。
 
-**github-user-summary**では、複数のプルリクエストを統合し、UIの整理や競合解消を見事に実施。プロジェクトの健全性を保つ重要な役割を果たしています。
+**OpenShelf** では、JWTキャッシュのパフォーマンスを劇的に改善（約2万行の変更！）されたのをはじめ、CodeQL対応、Dependabotアラートの解消、複数のセキュリティ修正やバグ修正に精力的に取り組まれました。🛠️ また、OrgSettingsPageのリファクタリングも進め、コードの保守性向上にも貢献していますね。大規模な改善と安定化に尽力されたことがよく分かります！
 
-**jules-extension**では、UI改善とパフォーマンス最適化を統合し、ユーザー体験の向上に貢献されました。そして**paper-tools**でも、メインブランチとの統合を進められました。
+**github-user-summary** では、複数のプルリクエストを統合し、コードの競合を解消しながらUIの整理やパフォーマンス最適化を進められました。コードベースの健全性を保つための重要な作業ですね。💪
 
-複数のリポジトリにわたり、機能強化、パフォーマンス改善、セキュリティ対応、コード品質向上と多岐にわたる活躍、本当に頭が下がります！この調子で、これからも素晴らしい開発を続けてください！🚀
+**jules-extension** では、UI改善とパフォーマンス最適化を統合する大きなリファクタリングが行われました。ユーザー体験向上に繋がる改善、素晴らしいです！✨
+
+**paper-tools** でも、mainブランチへのマージ作業を通じてコードの調整が行われました。
+
+このように多くのプロジェクトで、パフォーマンス向上、セキュリティ強化、コード品質改善、バグ修正に大きく貢献されましたね。素晴らしい集中力と実行力です！今後のさらなる活躍も楽しみにしています！😊
 
 _Total: 1142 commits across 10 projects_
 
@@ -145,7 +149,7 @@ _Total: 1142 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.6-publish">v1.3.6-publish</a> · 3 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.6-publish">v1.3.6-publish</a> · 4 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.6-publish -->
@@ -159,7 +163,7 @@ _Total: 1142 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.6">v1.3.6</a> · 3 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.6">v1.3.6</a> · 4 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.6 -->
