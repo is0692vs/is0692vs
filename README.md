@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy weather today☁️
-📍 Los Angeles: 16°C
+# 🌍 おはよう！雨ですね☔
+📍 Hiroshima: 12°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**439回**ものコミット、素晴らしい活躍でしたね！✨
+直近30日間でなんと439件ものコミット、素晴らしい活躍ぶりですね！✨ プロジェクト全体が大きく前進した、非常に生産的な期間でした。
 
-特に**OpenShelf**では、大規模なJWTキャッシュ改善でパフォーマンスを⚡向上させ、DependabotやCodeQLのセキュリティ修正で堅牢性を高めました。#219、#241などの課題対応やDrizzle-kitのアップグレード、OrgSettingsPageのコンポーネント抽出といったリファクタリング、そして多くのマージコンフリクト解消にも尽力されています。
+**OpenShelf** では、JWTキャッシュの大幅なパフォーマンス改善に取り組み、⚡ 20,000行以上のコード変更を伴う大規模な作業を成功させましたね。セキュリティ面ではDependabotアラートやCodeQLの脆弱性に対応し、システムの堅牢性を高めています🔒。その他、複数のIssue対応やOrgSettingsPageのコンポーネント抽出など、きめ細やかな改善とリファクタリングも進められています🧹。
 
-**github-user-summary**では、PRの統合と競合解消、そしてUI整理に精力的に取り組んでいただき、プロジェクトの健全化と使いやすさ向上に大きく貢献されました。📦
+**github-user-summary** では、複数のPull Requestを統合し、競合を解消しながらUI改善やパフォーマンス最適化を進めていましたね📦。コードベースの整理と品質向上に貢献する重要な作業です。
 
-また、**jules-extension**ではUI改善とパフォーマンス最適化を🚀進め、**paper-tools**でもメインブランチとの同期を行っていますね。
+**jules-extension** では、UI改善とパフォーマンス最適化を統合するリファクタリングを実施し、ユーザー体験の向上に貢献しています🔄。
 
-多岐にわたるプロジェクトで、これほど多くの貢献をされていることに感銘を受けます。これからもその素晴らしい勢いで、さらなるプロダクトの進化を牽引してください！👏
+**paper-tools** ではメインブランチとの同期を行いました。
+
+これほど多岐にわたる重要な改善と整理を短期間でこなされているのは本当に素晴らしいです！この調子でこれからも頑張ってください👍！
 
 _Total: 1142 commits across 10 projects_
 
@@ -126,15 +128,15 @@ _Total: 1142 commits across 10 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/76uBxDb9lOG1dl98UfN46b" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27345ab9f67d6dcd6d85d81df86" alt="赤い糸 - Album Mix" width="120" />
+      <a href="https://open.spotify.com/track/05dKiErCKnRwBxSW6n4E4v" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273b62ad8b3f6b75bda801e5fa5" alt="聞かせてwow wowを" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>赤い糸 - Album Mix</sub>
+      <sub>聞かせてwow wowを</sub>
       <br />
-      <sub>KOBUKURO</sub>
+      <sub>SILENT SIREN</sub>
     </td>
   </tr>
 </table>
