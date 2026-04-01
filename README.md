@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rather cloudy today☁️
-📍 London: 13°C
+# 🌍 Hello! Cloudy today☁️
+📍 Toronto: 3°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計439件ものコミット、素晴らしい成果ですね！👏 多岐にわたるプロジェクトで精力的に活動されています。
+直近30日間で**439件**ものコミット、お疲れ様です！素晴らしい活動量ですね👏
 
-特に「OpenShelf」では、JWTキャッシュを1300倍も高速化する大パフォーマンス改善を達成しましたね！🚀 セキュリティ関連のDependabotアラートやCodeQL対応、バグ修正、そしてOrgSettingsPageのコンポーネント抽出といった大規模なリファクタリングにも尽力され、システムの安定稼働と品質向上に大きく貢献されています。
+特に**OpenShelf**では、JWTキャッシュの大幅な改善でパフォーマンスを⚡向上させましたね！2万行を超える変更は圧巻です。DependabotやCodeQL関連の修正でセキュリティ面も💪強化し、プロジェクトの安全性を高めました。さらに、OrgSettingsPageからのコンポーネント抽出によるリファクタリング、課題（#219, #241）への対応、各種依存関係のアップデートなど、多岐にわたる品質向上に貢献されています。
 
-「github-user-summary」では、複数のプルリクエストの統合やUIの整理、競合解消を見事にこなし、開発の流れをスムーズにしました。📦 また、「jules-extension」では、UI改善とパフォーマンス最適化のリファクタリングで、ユーザー体験向上に貢献しましたね！✨
+**github-user-summary**では、複数のPR統合やUI整理統合、競合解消に尽力し、コードベースをきれいに保ちましたね✨
 
-「paper-tools」でも、堅実にメインブランチとのマージ作業を進め、プロジェクトを支えていらっしゃいます。
+**jules-extension**では、UI改善とパフォーマンス最適化を進め、ユーザー体験の向上に貢献しました🚀
 
-これだけの多様なタスクをこなし、多くのコードを改善・追加されたのは本当に素晴らしい集中力と生産性です。この勢いを維持して、さらなる活躍を期待しています！💪
+**paper-tools**でも、メインブランチのマージ作業を着実に進めました。
 
-_Total: 1142 commits across 10 projects_
+大規模な改修から細かな改善、セキュリティ対応まで多岐にわたる貢献、本当に素晴らしいです。この勢いを維持して、これからもプロジェクトを前進させていきましょう！これからも応援しています！💪
+
+_Total: 1140 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +47,7 @@ _Total: 1142 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 656 commits (57.4%)</sub>
+      <sub>📊 656 commits (57.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +58,7 @@ _Total: 1142 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 203 commits (17.8%)</sub>
+      <sub>📊 201 commits (17.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 12</sub>
     </td>
