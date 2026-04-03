@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Beautiful sunny day☀️
-📍 San Francisco: 14°C
+# 🌍 Hello! Cloudy today☁️
+📍 Toronto: 21°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,21 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと439件もの素晴らしいコミットを達成しましたね！驚くべき集中力と生産性です！🚀
+直近30日間で、なんと439件ものコミットを達成しましたね！素晴らしい集中力と生産性です！🚀✨
 
-特に多岐にわたる活動が見られます。
-*   **OpenShelf** では、JWTキャッシュの⚡1300倍パフォーマンス改善という驚異的な成果を出しました！セキュリティ関連のDependabotアラート対応やCodeQLの修正で安全性も強化。論文のMarkdown説明欄の追加や、論文統計API・分析機能の追加といった新機能開発も進めました。組織設定ページのリファクタリング、複数の課題解決、CI/CDの改善も素晴らしいです！
-*   **github-user-summary** では、複数のPull Requestの統合と競合解消に尽力し、コードベースの健全化とUIの整理統合を進めましたね。
-*   **jules-extension** では、UI改善とパフォーマンス最適化を同時に実現し、ユーザー体験向上に貢献しました。
-*   **paper-tools** では、リファクタリングを通じてコード品質の向上を図りました。
+特に目立った活動として、
 
-多大な変更を通じて、システム全体のパフォーマンス、セキュリティ、機能性、そして保守性を大きく向上させています。この調子でこれからも素晴らしい開発を続けていきましょう！🎉
+*   **OpenShelf** では、JWTキャッシュの大幅なパフォーマンス改善（2万行超の変更！）や、Dependabotアラート、CodeQLの課題解決といったセキュリティ強化に貢献しました。また、論文のMarkdown説明欄の追加や論文統計APIの開発など、新機能の実装も進め、ユーザー体験の向上と機能拡張に大きく貢献していますね！👏さらに、大規模なリファクタリングやマージコンフリクトの解決にも尽力され、コードベースの健全性維持にも貢献しています。
 
-_Total: 1112 commits across 10 projects_
+*   **github-user-summary** では、複数のPull Requestを統合し、UIの改善や整理、そして度重なる競合解消に取り組まれました。複雑な作業を粘り強くこなし、プロジェクトの進行をスムーズにしましたね！
+
+*   **jules-extension** では、UI改善とパフォーマンス最適化を同時に推進し、より使いやすい拡張機能への進化を後押ししています。
+
+*   **paper-tools** では、DOIの正規化に関するリファクタリングを進め、システムの基盤強化を図っています。
+
+多岐にわたるプロジェクトで、パフォーマンス改善、セキュリティ強化、新機能開発、リファクタリング、そして複雑なマージ作業まで、本当に多くの成果を出されました。あなたの tireless な努力が、各プロダクトの品質と成長に大きく貢献していることは間違いありません！これからも素晴らしい開発を楽しみにしています！🎉
+
+_Total: 1097 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +49,7 @@ _Total: 1112 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 634 commits (57.0%)</sub>
+      <sub>📊 634 commits (57.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +60,7 @@ _Total: 1112 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 195 commits (17.5%)</sub>
+      <sub>📊 180 commits (16.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 12</sub>
     </td>
@@ -67,7 +71,7 @@ _Total: 1112 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 145 commits (13.0%)</sub>
+      <sub>📊 145 commits (13.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
