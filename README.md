@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 おはようございます！雨ですね☔
-📍 Kyoto: 16°C
+# 🌍 ¡Hola! Día soleado☀️
+📍 Buenos Aires: 19°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 4,102 installs | ⭐ 4.5/5 (2 ratings) | v1.3.6
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 4,108 installs | ⭐ 4.5/5 (2 ratings) | v1.3.6
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 12 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 44 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-03-06%22%2C%222026-03-07%22%2C%222026-03-08%22%2C%222026-03-09%22%2C%222026-03-10%22%2C%222026-03-11%22%2C%222026-03-12%22%2C%222026-03-13%22%2C%222026-03-14%22%2C%222026-03-15%22%2C%222026-03-16%22%2C%222026-03-17%22%2C%222026-03-18%22%2C%222026-03-19%22%2C%222026-03-20%22%2C%222026-03-21%22%2C%222026-03-22%22%2C%222026-03-23%22%2C%222026-03-24%22%2C%222026-03-25%22%2C%222026-03-26%22%2C%222026-03-27%22%2C%222026-03-28%22%2C%222026-03-29%22%2C%222026-03-30%22%2C%222026-03-31%22%2C%222026-04-01%22%2C%222026-04-02%22%2C%222026-04-03%22%2C%222026-04-04%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B3588%2C3606%2C3616%2C3634%2C3667%2C3687%2C3707%2C3734%2C3756%2C3770%2C3788%2C3808%2C3833%2C3842%2C3856%2C3894%2C3905%2C3922%2C3937%2C3950%2C3969%2C3984%2C4002%2C4024%2C4033%2C4053%2C4072%2C4077%2C4093%2C4102%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B11%2C11%2C11%2C11%2C11%2C11%2C11%2C11%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B41%2C41%2C41%2C41%2C41%2C41%2C41%2C41%2C43%2C43%2C43%2C43%2C43%2C43%2C43%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-03-06%22%2C%222026-03-07%22%2C%222026-03-08%22%2C%222026-03-09%22%2C%222026-03-10%22%2C%222026-03-11%22%2C%222026-03-12%22%2C%222026-03-13%22%2C%222026-03-14%22%2C%222026-03-15%22%2C%222026-03-16%22%2C%222026-03-17%22%2C%222026-03-18%22%2C%222026-03-19%22%2C%222026-03-20%22%2C%222026-03-21%22%2C%222026-03-22%22%2C%222026-03-23%22%2C%222026-03-24%22%2C%222026-03-25%22%2C%222026-03-26%22%2C%222026-03-27%22%2C%222026-03-28%22%2C%222026-03-29%22%2C%222026-03-30%22%2C%222026-03-31%22%2C%222026-04-01%22%2C%222026-04-02%22%2C%222026-04-03%22%2C%222026-04-04%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B3588%2C3606%2C3616%2C3634%2C3667%2C3687%2C3707%2C3734%2C3756%2C3770%2C3788%2C3808%2C3833%2C3842%2C3856%2C3894%2C3905%2C3922%2C3937%2C3950%2C3969%2C3984%2C4002%2C4024%2C4033%2C4053%2C4072%2C4077%2C4093%2C4108%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B11%2C11%2C11%2C11%2C11%2C11%2C11%2C11%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B41%2C41%2C41%2C41%2C41%2C41%2C41%2C41%2C43%2C43%2C43%2C43%2C43%2C43%2C43%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,19 +24,21 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**439件**ものコミット、本当にお疲れ様でした！素晴らしい活動量ですね！✨
+直近30日間で、合計439件ものコミット、素晴らしい集中力と生産性ですね！📈
 
-特に**OpenShelf**では、JWTキャッシュの⚡パフォーマンスを大幅に改善したり、複数のPRやmainブランチとの大規模なマージ競合を🚀見事に解消されています。セキュリティ面でも、CodeQLの修正やDependabotアラートへの迅速な対応、ロックファイルの同期を通じて品質向上に貢献。さらに、既存のIssue対応（#219, #241）やOrgSettingsPageのリファクタリング、論文のMarkdown説明欄追加、論文統計APIと著者分析の追加といった、多岐にわたる機能改善・保守作業も進められましたね！
+特に活発だったのは、複数のリポジトリにわたる多岐にわたる活動です。
 
-**github-user-summary**では、複数のPRを統合して競合を解消し、UIの整理統合も積極的に行われました。コードベースの健全性を保ちつつ、機能の発展に寄与しています。
+**OpenShelf** では、JWTキャッシュのパフォーマンスを劇的に改善し、アプリの応答性を向上させましたね！⚡️ セキュリティ面では、Dependabotアラートの解消やCodeQLワークフローの修正を通じて、堅牢性を高める素晴らしい取り組みです。また、論文のMarkdown説明欄追加や論文統計トラッキングAPIの開発といった新機能で、ユーザー体験を豊かにしています。UIのリファクタリングや多数のバグ修正、CI/CDの改善にも注力され、プロジェクト全体の品質向上に大きく貢献されています。
 
-**jules-extension**では、UIの改善とパフォーマンスの最適化を通じて、ユーザー体験の向上に力を入れました。
+**github-user-summary** では、複数のPull Requestの統合と大規模な競合解消を見事にこなし、UIの整理やリファクタリングも進めていただきました。コードベースを健全に保つための重要な作業ですね。💪
 
-**paper-tools**では、mainブランチへのマージ作業も行われましたね。
+**jules-extension** では、UI改善とパフォーマンス最適化を統合し、ユーザーにとってより快適な操作性を提供されています。🚀
 
-このように、様々なリポジトリでパフォーマンス改善、セキュリティ強化、機能追加、そしてコード整理と、幅広い領域で大きく貢献されています。この多岐にわたる活躍、素晴らしいの一言です！今後も期待しています！😊
+**paper-tools** でも、リファクタリングを着実に推進しており、今後の開発の基盤を強化していますね。
 
-_Total: 1056 commits across 10 projects_
+これだけ多くの領域で、改善・新機能開発・品質向上に貢献されており、本当に頭が下がります。この調子で、今後の活躍も期待しています！お疲れ様でした！✨
+
+_Total: 1053 commits across 10 projects_
 
 <table>
   <tr>
@@ -47,7 +49,7 @@ _Total: 1056 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 605 commits (57.3%)</sub>
+      <sub>📊 602 commits (57.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,7 +60,7 @@ _Total: 1056 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 168 commits (15.9%)</sub>
+      <sub>📊 168 commits (16.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 12</sub>
     </td>
@@ -69,7 +71,7 @@ _Total: 1056 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 145 commits (13.7%)</sub>
+      <sub>📊 145 commits (13.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -117,26 +119,26 @@ _Total: 1056 commits across 10 projects_
       <sub>CHANMINA</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/05dKiErCKnRwBxSW6n4E4v" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273b62ad8b3f6b75bda801e5fa5" alt="聞かせてwow wowを" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>聞かせてwow wowを</sub>
-      <br />
-      <sub>SILENT SIREN</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/1c4dCI3yr9sV4NzzOBNuAb" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="My distinction" width="120" />
       </a>
       <br />
-      <sub><strong>#5</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>My distinction</sub>
       <br />
       <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/05dKiErCKnRwBxSW6n4E4v" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273b62ad8b3f6b75bda801e5fa5" alt="聞かせてwow wowを" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>聞かせてwow wowを</sub>
+      <br />
+      <sub>SILENT SIREN</sub>
     </td>
   </tr>
 </table>
