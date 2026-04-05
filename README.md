@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Bogotá: 14°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Lyon: 22°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-今月も素晴らしい活動でしたね！直近30日間でなんと合計439件ものコミットを達成しました👏多岐にわたるプロジェクトで大活躍でした！
+直近30日間で、なんと439件ものコミットを重ねましたね！素晴らしい活動量です👏
 
-特に**OpenShelf**では、JWTキャッシュの大幅な改善でパフォーマンスを飛躍的に向上させました⚡️。CodeQLやDependabotのセキュリティ警告に対応し、システムの堅牢性も強化🛡️。さらに、論文のMarkdown説明欄追加や、論文統計追跡API・著者分析機能といった新機能の実装も進められましたね✨📈。バグ修正や大規模なリファクタリング、複雑なマージ競合の解決もお疲れ様でした！
+特に[OpenShelf]では、大規模なJWTキャッシュ改善によりパフォーマンスを⚡1300倍に向上させ、ユーザー体験を劇的に改善しました。また、DependabotやCodeQL関連のセキュリティ修正🔒、複数のissue (#219, #241)への対応、OrgSettingsPageのリファクタリング🧹と、システムの健全性と保守性向上に注力しましたね。さらに、論文のMarkdown説明欄追加や、論文統計追跡APIと著者アナリティクスといった魅力的な新機能✨も開発し、サービスを大きく前進させています。
 
-**github-user-summary**では、複数のPull Requestを統合し、UI整理や競合解消に精力的に取り組みました📦。
+[github-user-summary]では、複数のPRの統合・競合解消📦やUI整理、パフォーマンス最適化に尽力。複雑な変更をまとめ上げ、プロジェクトを前に進める重要な役割を果たしました！
 
-**jules-extension**では、UIの改善とパフォーマンス最適化を進め、ユーザー体験の向上に貢献しましたね✨🚀。
+[jules-extension]でもUI改善とパフォーマンス最適化✨を進め、拡張機能の使いやすさと速さに磨きをかけましたね。
 
-**paper-tools**でも、着実にリファクタリングを進めています。
+そして[paper-tools]ではDOIの正規化リファクタリング🔄に着手し、コードベースの整理に貢献しています。
 
-これら全てが、チーム全体の生産性とプロダクト品質の向上に繋がっています。素晴らしい貢献に感謝します！これからも頑張りましょう！🚀
+各リポジトリで安定性、パフォーマンス、新機能開発、コード品質向上と、バランスの取れた素晴らしい成果を上げています。この調子で頑張りましょう！🚀
 
-_Total: 1052 commits across 10 projects_
+_Total: 1050 commits across 10 projects_
 
 <table>
   <tr>
@@ -47,7 +47,7 @@ _Total: 1052 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 602 commits (57.2%)</sub>
+      <sub>📊 600 commits (57.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
