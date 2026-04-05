@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！お天気ですね☀️
-📍 Fukuoka: 15°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Madrid: 24°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,13 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、あなたは合計439件ものコミットを重ね、活発な開発を続けましたね！素晴らしい活動量です！👏
+直近30日間で、なんと**439件**ものコミット、お疲れ様でした！素晴らしい活動量でプロジェクトを大きく前進させましたね！🚀
 
-特に目立つのは、**OpenShelf**での大規模な改善です。JWTキャッシュの導入により、`authorizePaperAccess`のパフォーマンスを劇的に向上させました⚡。また、DependabotやCodeQL関連のセキュリティアラートに迅速に対応し、複数の重要なイシュー (#219, #241) も解決。論文のMarkdown説明欄追加機能や統計追跡APIの開発、そしてOrgSettingsPageのリファクタリングも進め、機能追加とコード品質向上に大きく貢献していますね！✨
+特に**OpenShelf**では、JWTキャッシュの大幅なパフォーマンス改善や、CodeQL・Dependabotアラート対応によるセキュリティ強化、複数の不具合修正に精力的に取り組まれました。また、論文統計トラッキングAPIの追加やMarkdown説明欄の実装、組織設定ページのリファクタリングなど、新機能開発と品質向上に大きく貢献していますね！💡
 
-**github-user-summary**では、複数のプルリクエストを統合し、度重なる競合を巧みに解消しながら、UIの整理統合を進めました📦。**jules-extension**でも、UI改善とパフォーマンス最適化のリファクタリングをしっかりと実施。**paper-tools**では、リファクタリング作業を行いました。
+**github-user-summary**では、多数のプルリクエストの統合やUI整理、複雑なマージ競合の解消を見事にこなし、コードベースの健全性を保ちながら機能改善を進めています。お見事です！👏
 
-様々なリポジトリで、新機能開発、パフォーマンス改善、セキュリティ強化、コード品質向上、そして複雑なマージ競合の解決まで、多岐にわたる重要なタスクを見事にこなしています。この集中力と生産性は本当に素晴らしいです！これからも頑張ってください！🚀
+**jules-extension**では、UI改善とパフォーマンス最適化を統合し、ユーザー体験の向上に貢献しました。そして**paper-tools**でも、メインブランチとのマージを通じてプロジェクトの整合性を維持されています。
+
+各リポジトリで質の高い開発を継続されており、その貢献は計り知れません。この調子でこれからも素晴らしい開発を続けていきましょう！✨
 
 _Total: 1029 commits across 10 projects_
 
@@ -113,26 +115,26 @@ _Total: 1029 commits across 10 projects_
       <sub>CHANMINA</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/1c4dCI3yr9sV4NzzOBNuAb" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="My distinction" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>My distinction</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/05dKiErCKnRwBxSW6n4E4v" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273b62ad8b3f6b75bda801e5fa5" alt="聞かせてwow wowを" width="120" />
       </a>
       <br />
-      <sub><strong>#5</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>聞かせてwow wowを</sub>
       <br />
       <sub>SILENT SIREN</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1c4dCI3yr9sV4NzzOBNuAb" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273c6dd72262bccee4d429f7b28" alt="My distinction" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>My distinction</sub>
+      <br />
+      <sub>BiSH</sub>
     </td>
   </tr>
 </table>
