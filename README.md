@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Lima: 22°C
+# 🌍 G'day! Rainy weather☔
+📍 Sydney: 15°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと439件ものコミットを達成しました！素晴らしい活動量です！💪
+直近30日間で、なんと439件ものコミットを達成しましたね！素晴らしい活動量です！👏
 
-特に目立った活動は以下の通りです。
+**OpenShelf**では、authorizePaperAccessにおけるJWTキャッシュの大幅なパフォーマンス改善⚡や、複数のセキュリティ脆弱性修正🛡️（Dependabot、CodeQL）に尽力されました。さらに、既存課題の解決（#219, #241）やOrgSettingsPageのリファクタリング🧹に加え、論文のMarkdown説明欄追加📝、論文統計APIと著者アナリティクス導入📊といった新機能開発も着実に進んでいます。
 
-**OpenShelf**では、JWTキャッシュのパフォーマンスを劇的に改善し、システム全体の応答性を向上させましたね。⚡️ また、CodeQLやDependabotのセキュリティ警告に対応し、脆弱性対策とCI/CDフローの安定化にも尽力されました。論文のMarkdown説明欄の追加や、論文統計API・著者分析機能の実装といった新機能開発も進められ、OrgSettingsPageのリファクタリングでコード品質も向上。多岐にわたる改善、お見事です！✨
+**github-user-summary**では、複数のプルリクエスト統合📦や競合解消に粘り強く取り組み、UIの整理統合にも大きく貢献されました。
 
-**github-user-summary**では、複数のPR統合や競合解消に精力的に取り組み、UIの整理統合やコードの健全性向上に貢献されました。📦
+また、**jules-extension**ではUI改善とパフォーマンス最適化✨を、**paper-tools**ではDOI正規化のリファクタリングを行っています。
 
-さらに、**jules-extension**ではUIとパフォーマンスの統合的な改善を、**paper-tools**ではDOI正規化のリファクタリングを進めていますね。🚀
-
-どのプロジェクトも着実に進化しており、その貢献はチームにとって非常に価値のあるものです。この調子で頑張っていきましょう！🌟
+多岐にわたるプロジェクトで、パフォーマンス向上、セキュリティ強化、新機能開発、そしてコードの整理・統合に精力的に取り組む姿勢は本当に素晴らしいです！この調子でこれからも頑張ってください！🎉
 
 _Total: 1029 commits across 10 projects_
 
