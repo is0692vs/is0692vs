@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia nublado☁️
-📍 São Paulo: 25°C
+# 🌍 ¡Hola! Día soleado☀️
+📍 Barcelona: 22°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと**420件**ものコミット！素晴らしい活動量ですね！✨多岐にわたるプロジェクトで大活躍されています。
+直近30日間で**420件**ものコミット、お疲れ様でした！素晴らしい活動量ですね！✨
 
-特に、**OpenShelf**では新機能開発が目覚ましく進みましたね！論文のMarkdown説明欄の追加、RSSフィード（Atom 1.0）の実装（TSK-466）、Paper StatsトラッキングAPIや著者アナリティクスの導入、GitHubバッジAPIの開発など、ユーザー体験とデータ活用を大きく向上させる機能が続々と追加されました。さらに、既存課題（#219, #241）やDependabotアラートへの対応で品質改善にも貢献しましたね！
+**OpenShelf**では、大規模なブランチ統合に加え、Dependabot対応やCodeQLの修正といった安定性向上に取り組まれました。また、論文の統計追跡APIや著者分析機能、Markdown説明欄の追加、そしてRSSフィード（Atom 1.0）やGitHubバッジAPIの実装など、多岐にわたる新機能開発・改善を精力的に進められていますね！🚀
 
-**github-user-summary**では、複数のPR統合、競合解消、UI整理統合に尽力し、プロジェクトの整理とパフォーマンス最適化を大きく進めました。大規模なコードベースの健全性を保つ努力、素晴らしいです！🚀
+**github-user-summary**では、複数のプルリクエストを統合し、競合解消やUIの整理統合に尽力されました。プロジェクト全体のコードベースをより健全に保つための重要な作業、お見事です！💪
 
-また、**jules-extension**ではUI改善とパフォーマンス最適化のリファクタリングを行い、より快適な利用体験を提供しました。**paper-tools**ではDOIの正規化リファクタリングにより、データ処理の基盤を強化しましたね。🛠️
+**jules-extension**では、UI改善とパフォーマンス最適化のリファクタリングが進められ、ユーザー体験の向上に貢献されています。
 
-日々の活発な開発と改善への貢献、本当に素晴らしいです！これからも頑張ってください！🌟
+**paper-tools**でも、DOI正規化に関するリファクタリング作業が行われるなど、各プロジェクトで着実に前進していますね。
 
-_Total: 1047 commits across 10 projects_
+この期間の皆さんの貢献が、各プロダクトの大きな進化に繋がっています。これからもこの調子で、最高の開発を続けていきましょう！🎉
+
+_Total: 1045 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +47,7 @@ _Total: 1047 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 618 commits (59.0%)</sub>
+      <sub>📊 618 commits (59.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +58,7 @@ _Total: 1047 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 167 commits (16.0%)</sub>
+      <sub>📊 166 commits (15.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 12</sub>
     </td>
