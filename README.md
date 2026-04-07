@@ -1,11 +1,11 @@
 <!-- weather-greeting:start -->
-# 🌍 Ciao! Giornata soleggiata☀️
-📍 Rome: 15°C
+# 🌍 おはようございます！素敵な晴れ日ですね☀️
+📍 Kyoto: 6°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 4,157 installs | ⭐ 4.5/5 (2 ratings) | v1.3.6
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 4,157 installs | ⭐ 4.5/5 (2 ratings) | v1.3.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 12 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 44 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,17 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、素晴らしい449件ものコミットを重ねられましたね！🙌 大変精力的な活動、お疲れ様です！
+直近30日間で**449件**ものコミット、お疲れ様でした！素晴らしい活動量ですね！✨
 
-特に主要な活動としては、**OpenShelf**プロジェクトで多くの進展がありました。論文のMarkdown説明欄追加、RSS/Atomフィードの実装、論文統計・著者分析機能の追加など、新機能開発に大きく貢献されていますね。大規模なマージや依存関係の更新、ステージング環境の整備・安定化にも注力し、プロジェクト全体の品質向上と機能強化に尽力されました。
+特に**OpenShelf**では、論文のMarkdown説明欄の追加やRSSフィードの実装（TSK-466）といった新機能開発が進みました。論文統計トラッキングAPIと分析機能の追加、定期的なstaging/mainブランチのマージ、依存関係の更新も頻繁に行われ、プロジェクトの安定稼働と進化に大きく貢献されています！🚀
 
-**github-user-summary**では、複数の大規模なPR統合と競合解消に尽力し、コードベースの整理とUIの改善を進められました。パフォーマンス最適化にも繋がる重要な作業でしたね。
+**github-user-summary**では、複数のPull Requestを統合・競合解消する大規模な取り組みが見られます。UIの整理統合、パフォーマンス最適化、コードの健全化にも精力的に取り組み、プロダクトの品質向上が目覚ましいです！🌟
 
-さらに、**jules-extension**ではUI改善とパフォーマンス最適化のリファクタリングを、**paper-tools**ではDOI正規化のリファクタリングを実施。
+**jules-extension**では、UI改善とパフォーマンス最適化のリファクタリングを推進し、ユーザー体験の向上に貢献。**paper-tools**でも、DOI正規化のリファクタリングを進めていただきました。
 
-多岐にわたるリポジトリで、新機能開発からコード品質向上、パフォーマンス改善まで、本当に素晴らしい貢献です！これからもこの勢いで頑張っていきましょう！✨
+様々なリポジトリで、新機能開発から運用、大規模なリファクタリングまで、多岐にわたる重要な貢献をされており、チームにとって非常に頼りになる存在です。この調子で、今後の活躍も楽しみにしています！これからも一緒に頑張りましょう！💪
 
-_Total: 1120 commits across 10 projects_
+_Total: 1135 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ _Total: 1120 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 668 commits (59.6%)</sub>
+      <sub>📊 683 commits (60.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +56,7 @@ _Total: 1120 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 161 commits (14.4%)</sub>
+      <sub>📊 161 commits (14.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 12</sub>
     </td>
@@ -67,7 +67,7 @@ _Total: 1120 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 143 commits (12.8%)</sub>
+      <sub>📊 143 commits (12.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
