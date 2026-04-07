@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
 # 🌍 ¡Hola! Día soleado☀️
-📍 Barcelona: 20°C
+📍 Mexico City: 19°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,14 +24,7 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-素晴らしい活動報告です！直近30日間でなんと**419件**ものコミットを重ね、精力的に開発に取り組まれましたね！👏
-
-特に変更行数の多かった主要な活動をまとめると、
-*   **OpenShelf** では、論文のMarkdown説明欄の追加や、RSS/Atomフィードの実装、さらには論文統計APIの追加といった新機能開発に注力されました。依存関係の更新や、`main`と`staging`間の重要なマージも複数行われ、プロジェクトの安定と進化に大きく貢献されていますね！🚀
-*   **github-user-summary** では、多数のPRを統合し、UIの整理統合や競合解消に尽力されました。大規模なコードベースの健全化と整理、パフォーマンス最適化に向けた基盤固め、お見事です！✨
-*   **jules-extension** ではUIの改善とパフォーマンス最適化を、**paper-tools** ではリファクタリングを進められました。
-
-様々なプロジェクトで新機能開発からコードベースの改善まで、多岐にわたる活躍、本当に素晴らしいです！これからもその勢いで開発を楽しんでいきましょう！💪
+直近30日間で387件ものコミット、お疲れ様です！👏 Merge main into staging、Merge branch 'main' into fix/consolidated-prs-latest、Merge branch 'main' into testing/year-in-review-utils-16584521533216652745など、多くの作業を進められました。合計44612行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 1085 commits across 10 projects_
 
