@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！くもってますね☁️
-📍 Fukuoka: 12°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Barcelona: 17°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
