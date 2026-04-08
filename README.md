@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rather cloudy today☁️
-📍 London: 23°C
+# 🌍 Hello! Beautiful clear day☀️
+📍 Toronto: -2°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと449ものコミットを達成されました！素晴らしい活動量ですね👏
+直近30日間で、なんと449件もの素晴らしいコミットがありましたね！🎉 大変精力的な活動、お疲れ様です！
 
-特に、**OpenShelf**では大規模なマージが目立ちました。論文のMarkdown説明欄追加やRSS/Atomフィードの実装（TSK-466関連）、論文統計APIと著者分析機能の追加など、新機能開発に積極的に取り組んでいましたね。Stagingブランチとの連携や依存関係の更新も着実に行われています。
+特に多くの変更が見られたのは以下のプロジェクトです。
 
-**github-user-summary**では、複数のPull Requestを統合し、多くの競合を解決する作業に尽力されました。UIの整理統合やパフォーマンス最適化も進められ、プロジェクトの健全性が向上していますね！✨
+*   **OpenShelf** では、`feat/issue-273-paper-stats` で論文統計追跡APIと著者分析の機能追加、`copilot/add-markdown-description-field-again` でMarkdown説明欄の実装、そして `feat/rss-feed` でRSSフィード（Atom 1.0）の実装と、ユーザーにとって嬉しい新機能の開発が盛んでしたね！また、`staging` や `main` ブランチの精力的なマージ作業や、`dependabot/npm_and_yarn` での依存関係の更新も着実に進められており、プロジェクト全体の安定性向上に大きく貢献しています。
 
-**jules-extension**ではUI改善とパフォーマンス最適化に集中し、より良いユーザー体験を提供するための努力が見られます。
+*   **github-user-summary** では、`fix/consolidated-prs-latest` や `code-health/extract-card-generator-modal` で複数のPull Requestの統合と競合解消、UIの整理統合が行われ、コードの健全性と使いやすさが大きく向上しました。`perf-optimize-fetch-activity` ではパフォーマンス最適化も進み、ユーザー体験がさらに向上していることでしょう！🚀
 
-そして、**paper-tools**ではDOI正規化のリファクタリングに着手。地道ながらも重要な基盤整備を進めています。
+*   **jules-extension** では `fix/consolidated-pr-updates` によりUI改善とパフォーマンス最適化のリファクタリングが進み、よりスムーズな動作が期待できます。
 
-これだけの多様なプロジェクトで、多岐にわたる重要な作業を精力的にこなされており、本当に素晴らしいです！今後のさらなるご活躍も楽しみにしています！🚀
+*   **paper-tools** では `refactor/normalize-doi` でDOIの正規化リファクタリングが進められましたね。
+
+これだけ多くのプロジェクトで多岐にわたる改善と新機能開発を進めるのは本当に素晴らしいです！これからもこの勢いで頑張っていきましょう！💪✨
 
 _Total: 1135 commits across 10 projects_
 
