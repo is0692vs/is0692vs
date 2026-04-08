@@ -1,11 +1,11 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Beautiful clear day☀️
-📍 Toronto: -2°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Barcelona: 15°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 4,165 installs | ⭐ 4.5/5 (2 ratings) | v1.3.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 4,165 installs | ⭐ 4.5/5 (2 ratings) | v1.3.6
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 12 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 44 installs | ⭐ No ratings yet | v0.1.3
 
@@ -24,19 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと449件もの素晴らしいコミットがありましたね！🎉 大変精力的な活動、お疲れ様です！
+素晴らしい活動量ですね！直近30日間で449件ものコミットを重ね、多岐にわたるプロジェクトで大きな進展がありました。🚀
 
-特に多くの変更が見られたのは以下のプロジェクトです。
+特に**OpenShelf**では、論文のMarkdown説明欄追加、RSSフィード（Atom 1.0）の実装、論文統計追跡APIと著者分析機能の開発など、主要な機能追加に大いに貢献されました。大規模なブランチ統合や依存関係の更新も着実に進められていますね！
 
-*   **OpenShelf** では、`feat/issue-273-paper-stats` で論文統計追跡APIと著者分析の機能追加、`copilot/add-markdown-description-field-again` でMarkdown説明欄の実装、そして `feat/rss-feed` でRSSフィード（Atom 1.0）の実装と、ユーザーにとって嬉しい新機能の開発が盛んでしたね！また、`staging` や `main` ブランチの精力的なマージ作業や、`dependabot/npm_and_yarn` での依存関係の更新も着実に進められており、プロジェクト全体の安定性向上に大きく貢献しています。
+**github-user-summary**では、複数のPR統合と競合解消に精力的に取り組み、UIの整理統合やパフォーマンス最適化、コード整理など、プロダクトの品質向上に尽力されたことがうかがえます。🛠️
 
-*   **github-user-summary** では、`fix/consolidated-prs-latest` や `code-health/extract-card-generator-modal` で複数のPull Requestの統合と競合解消、UIの整理統合が行われ、コードの健全性と使いやすさが大きく向上しました。`perf-optimize-fetch-activity` ではパフォーマンス最適化も進み、ユーザー体験がさらに向上していることでしょう！🚀
+**jules-extension**では、UI改善とパフォーマンス最適化のリファクタリングを進め、ユーザー体験の向上に貢献。また**paper-tools**でも、DOI正規化のリファクタリングといった基盤改善にしっかり取り組んでいました。💡
 
-*   **jules-extension** では `fix/consolidated-pr-updates` によりUI改善とパフォーマンス最適化のリファクタリングが進み、よりスムーズな動作が期待できます。
-
-*   **paper-tools** では `refactor/normalize-doi` でDOIの正規化リファクタリングが進められましたね。
-
-これだけ多くのプロジェクトで多岐にわたる改善と新機能開発を進めるのは本当に素晴らしいです！これからもこの勢いで頑張っていきましょう！💪✨
+日々の継続的な努力と、広範囲にわたる技術的な貢献、本当に素晴らしい成果です！今後のさらなる活躍も楽しみにしています！✨
 
 _Total: 1135 commits across 10 projects_
 
