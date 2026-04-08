@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Ciao! Giornata soleggiata☀️
-📍 Rome: 20°C
+# 🌍 안녕하세요! 오늘은 흐린 날씨네요☁️
+📍 Seoul: 12°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -107,26 +107,26 @@ _Total: 1135 commits across 10 projects_
       <sub>CHANMINA</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/3psd8lP4CrIa2F31cf0YQs" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2737afc65236fc2cc752d32baf6" alt="生きがい" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>生きがい</sub>
-      <br />
-      <sub>SUPER BEAVER</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/05dKiErCKnRwBxSW6n4E4v" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273b62ad8b3f6b75bda801e5fa5" alt="聞かせてwow wowを" width="120" />
       </a>
       <br />
-      <sub><strong>#5</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>聞かせてwow wowを</sub>
       <br />
       <sub>SILENT SIREN</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/3psd8lP4CrIa2F31cf0YQs" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2737afc65236fc2cc752d32baf6" alt="生きがい" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>生きがい</sub>
+      <br />
+      <sub>SUPER BEAVER</sub>
     </td>
   </tr>
 </table>
