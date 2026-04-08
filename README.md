@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
 # 🌍 안녕하세요! 오늘은 흐린 날씨네요☁️
-📍 Seoul: 12°C
+📍 Seoul: 7°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
