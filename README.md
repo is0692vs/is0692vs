@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 안녕하세요! 비가 오는 날이네요☔
-📍 Seoul: 10°C
+# 🌍 Olá! Dia nublado☁️
+📍 Lisbon: 15°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,18 +24,9 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと450ものコミットを達成しましたね！素晴らしい集中力と多大な貢献が見て取れます！👏
+直近30日間で450件ものコミット、お疲れ様です！👏 🧪 Add unit tests for RemoteAudioSynthesizer in Chrome Extension (#647)、Merge branch 'main' into fix/consolidated-prs-latest、Merge branch 'main' into testing/year-in-review-utils-16584521533216652745など、多くの作業を進められました。合計44105行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-各プロジェクトで素晴らしい貢献が見られます。
-**Audicle**では、Chrome拡張機能の`RemoteAudioSynthesizer`に単体テストを追加し、品質と信頼性を大きく向上させました🧪。
-**github-user-summary**では、複数のPRの統合や競合解消に精力的に取り組み、UI整理やコードの健全性向上に大きく貢献されましたね✨。大規模なマージ作業、大変な作業お疲れ様でした！
-**jules-extension**では、UI改善とパフォーマンス最適化の統合を進め、ユーザー体験の向上に寄与しました🚀。
-**OpenShelf**では、TSK-466に関連するRSS/Atomフィードの新機能開発と拡張を行い、コンテンツ配信能力を高めました📰。また、依存関係の更新やstagingからmainへのプロモーションマージも多数行い、安定したリリースサイクルを支えました🔧。
-**paper-tools**でも、DOI正規化のリファクタリングを進め、システムの基盤を強化していますね💪。
-
-これだけ多くのプロジェクトで活発に活動されているのは本当に素晴らしいです。この調子で、これからも素晴らしい開発を楽しんでいきましょう！🌟
-
-_Total: 1153 commits across 10 projects_
+_Total: 1164 commits across 10 projects_
 
 <table>
   <tr>
@@ -46,7 +37,7 @@ _Total: 1153 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 700 commits (60.7%)</sub>
+      <sub>📊 711 commits (61.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -57,7 +48,7 @@ _Total: 1153 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 161 commits (14.0%)</sub>
+      <sub>📊 161 commits (13.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 12</sub>
     </td>
@@ -68,7 +59,7 @@ _Total: 1153 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 143 commits (12.4%)</sub>
+      <sub>📊 143 commits (12.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
