@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Buenos Aires: 15°C
+# 🌍 Olá! Dia ensolarado☀️
+📍 Lisbon: 20°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -96,22 +96,11 @@ _Total: 1156 commits across 10 projects_
       <sub>Ryokuoushoku Shakai</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273af62372ee43fe1e854d0bce5" alt="TEST ME" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>TEST ME</sub>
-      <br />
-      <sub>CHANMINA</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/05dKiErCKnRwBxSW6n4E4v" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273b62ad8b3f6b75bda801e5fa5" alt="聞かせてwow wowを" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>聞かせてwow wowを</sub>
       <br />
@@ -122,11 +111,22 @@ _Total: 1156 commits across 10 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b27331de4bcc9f38137474313dd4" alt="絶対アイドル辞めないで" width="120" />
       </a>
       <br />
-      <sub><strong>#5</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>絶対アイドル辞めないで</sub>
       <br />
       <sub>=LOVE</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/3psd8lP4CrIa2F31cf0YQs" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2737afc65236fc2cc752d32baf6" alt="生きがい" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>生きがい</sub>
+      <br />
+      <sub>SUPER BEAVER</sub>
     </td>
   </tr>
 </table>
