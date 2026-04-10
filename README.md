@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Hiroshima: 15°C
+# 🌍 Olá! Dia nublado☁️
+📍 São Paulo: 21°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,7 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で450件ものコミット、お疲れ様です！👏 🧪 Add unit tests for RemoteAudioSynthesizer in Chrome Extension (#647)、Merge branch 'main' into fix/consolidated-prs-latest、Merge branch 'main' into testing/year-in-review-utils-16584521533216652745など、多くの作業を進められました。合計42865行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で合計450件ものコミット、本当にお疲れ様でした！👏素晴らしい活動量ですね。
+
+**Audicle**では、Chrome拡張機能のテストカバレッジを大幅に改善し、品質と信頼性を向上させましたね！🧪✨
+
+**github-user-summary**では、複数のPRの統合や競合解消、UIの整理統合といった大規模なコードベースのメンテナンスに尽力されました。💪プロジェクトの健全性維持に大きく貢献しています！🛠️
+
+**OpenShelf**では、ステージングからのプロモートや依存関係の更新を頻繁に行いつつ、RSSフィード拡張という新機能開発も進めていらっしゃいましたね。🚀ユーザー体験の向上に繋がる素晴らしい進捗です！🌟
+
+**paper-tools**でもリファクタリングを通じてコードベースの改善を進め、未来に向けた土台を固めています。🏗️
+
+そして**jules-extension**では依存関係の更新により、プロジェクトを常に最新の状態に保っています。セキュリティと安定性の維持、素晴らしいです！🔒
+
+多岐にわたるプロジェクトでの精力的な活動、本当に素晴らしいです！これからもその勢いで、さらなる成果を楽しみにしています！🎉
 
 _Total: 1156 commits across 10 projects_
 
@@ -164,7 +176,7 @@ _Total: 1156 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.6-publish">v1.3.6-publish</a> · 1 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.6-publish">v1.3.6-publish</a> · 2 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.6-publish -->
@@ -178,7 +190,7 @@ _Total: 1156 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.6">v1.3.6</a> · 1 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.6">v1.3.6</a> · 2 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.6 -->
