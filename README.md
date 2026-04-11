@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Hiroshima: 15°C
+# 🌍 你好！今天多云☁️
+📍 Beijing: 19°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、あなたは合計449件ものコミットを行い、大活躍でしたね！🚀
-特に目を引く活動が盛りだくさんです。
+直近30日間で**449件**ものコミット、素晴らしい集中力と生産性ですね！お疲れ様です！🚀
 
-[Audicle]では、Chrome ExtensionのRemoteAudioSynthesizerに単体テストを追加し、品質と信頼性向上に大きく貢献しました🧪✨。
-[github-user-summary]では、複数のPRを統合・競合解消し、UI整理も進めるなど、大規模なコードベースの整理に尽力しましたね📦。
-[OpenShelf]では、RSSフィード拡張や論文ナビゲーションといった新機能開発を進めつつ、多数のブランチ統合や依存関係の更新も着実に実施していました👏。
-[paper-tools]では、DOIの正規化を行うリファクタリングで、コード基盤をより強固にしています🛠️。
-また、[jules-extension]では、GitHub Actions関連の依存関係を更新し、プロジェクトの健全性を保っていますね。
+特に注目すべきは、大規模なコードベースの改善と新機能開発です。
 
-多岐にわたるプロジェクトで素晴らしい貢献、お疲れ様でした！🎉
+*   **Audicle**では、Chrome拡張機能の`RemoteAudioSynthesizer`に単体テストを追加し、Jestのセットアップを行うことでテストカバレッジと信頼性を大きく向上させました。品質への意識、素晴らしいです！🧪
+*   **github-user-summary**では、複数のブランチやPRの統合、競合解消、UI整理に精力的に取り組んでいらっしゃいますね。大規模なマージ作業を丁寧にこなし、コードの健全性を保つ努力が光ります！💡
+*   **OpenShelf**では、`staging`ブランチからの`main`へのプロモーションを何度も行い、安定したリリースサイクルを維持しています。さらに、RSSフィードの拡張や論文ナビゲーションの新機能開発にも力を入れ、ユーザー体験の向上に大きく貢献されていますね！✨
+*   **paper-tools**ではDOI正規化のリファクタリングを、**jules-extension**ではGitHub Actionsの依存関係更新を実施し、プロジェクト全体のメンテナンスにも抜かりがありません。🛠️
+
+この30日間で、テスト導入、大規模な統合、新機能開発、安定稼働のためのデプロイ推進と、多岐にわたる重要なタスクを達成されました。日々の努力が着実にプロジェクトを前進させていますね！今後のさらなる活躍も楽しみにしています！👏
 
 _Total: 1156 commits across 10 projects_
 
@@ -201,7 +201,7 @@ _Total: 1156 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.5-publish">v1.3.5-publish</a> · 2 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.5-publish">v1.3.5-publish</a> · 3 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.5-publish -->
