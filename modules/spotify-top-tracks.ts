@@ -1,5 +1,6 @@
 import { spotifyConfig, SPOTIFY_TOP_TRACKS_LIMIT } from "../config/spotify";
 import { DAYS_RANGE } from "../config/days-range";
+import { fetchWithRetry } from "./fetch-retry";
 
 interface SpotifyImage {
     url: string;
@@ -49,7 +50,7 @@ async function refreshAccessToken(): Promise<string> {
     params.append("refresh_token", refreshToken);
 
     try {
-        const response = await fetch("https://accounts.spotify.com/api/token", {
+        const response = await fetchWithRetry("https://accounts.spotify.com/api/token", {
             method: "POST",
             headers: {
                 "Content-Type": "application/x-www-form-urlencoded",
@@ -86,7 +87,7 @@ export async function getTopTracks(): Promise<string> {
         url.searchParams.append("time_range", "short_term");
         url.searchParams.append("limit", SPOTIFY_TOP_TRACKS_LIMIT.toString());
 
-        const response = await fetch(url.toString(), {
+        const response = await fetchWithRetry(url.toString(), {
             headers: {
                 Authorization: `Bearer ${accessToken}`,
             },

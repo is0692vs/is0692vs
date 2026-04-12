@@ -1,5 +1,6 @@
 import { releaseRepos, MAX_RELEASES_DISPLAY, MAX_RELEASE_NOTE_LENGTH, type ReleaseConfig } from "../config/releases";
 import { githubUsername } from "../config/github";
+import { fetchWithRetry } from "./fetch-retry";
 
 interface Release {
     tagName: string;
@@ -54,7 +55,7 @@ async function fetchReleasesForRepo(config: ReleaseConfig): Promise<RepoRelease>
 
     try {
         const url = `https://api.github.com/repos/${owner}/${repo}/releases?per_page=30`;
-        const response = await fetch(url, { headers: getHeaders() });
+        const response = await fetchWithRetry(url, { headers: getHeaders() });
 
         if (!response.ok) {
             console.warn(`⚠️ Failed to fetch releases for ${owner}/${repo}: ${response.status}`);

@@ -1,4 +1,5 @@
 import { vscodeExtensions, type VscodeExtensionConfig } from "../config/extensions";
+import { fetchWithRetry } from "./fetch-retry";
 
 interface VscodeStatsHistory {
   date: string;
@@ -41,7 +42,7 @@ async function fetchExtensionStats(
     assetTypes: ["Microsoft.VisualStudio.Code.WebResources|Markdown"],
   };
 
-  const response = await fetch(url, {
+  const response = await fetchWithRetry(url, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",

@@ -1,5 +1,6 @@
 import { weatherCities, type CityConfig } from "../config/weather-cities";
 import { openWeatherConfig } from "../config/openweather";
+import { fetchWithRetry } from "./fetch-retry";
 
 interface ForecastItem {
     dt: number;
@@ -37,7 +38,7 @@ async function fetchWeather(
         const controller = new AbortController();
         const timeoutId = setTimeout(() => controller.abort(), 5000); // 5秒タイムアウト
 
-        const response = await fetch(url, {
+        const response = await fetchWithRetry(url, {
             signal: controller.signal,
         });
 

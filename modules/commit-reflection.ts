@@ -1,6 +1,7 @@
 import { githubUsername } from "../config/github";
 import { geminiApiKey, geminiModel } from "../config/gemini";
 import { COMMIT_DAYS_RANGE } from "../config/days-range";
+import { fetchWithRetry } from "./fetch-retry";
 
 interface Commit {
   commit: {
@@ -40,7 +41,7 @@ async function getRepositories(): Promise<Array<{ name: string; owner: string }>
       throw new Error("GH_PAT is not set");
     }
 
-    const response = await fetch(url, {
+    const response = await fetchWithRetry(url, {
       headers: {
         Authorization: `token ${process.env.GH_PAT}`,
         Accept: "application/vnd.github.v3+json",
@@ -74,7 +75,7 @@ async function getRepositories(): Promise<Array<{ name: string; owner: string }>
       headers.Authorization = `token ${process.env.GH_PAT}`;
     }
 
-    const response = await fetch(url, { headers });
+    const response = await fetchWithRetry(url, { headers });
 
     if (!response.ok) {
       throw new Error(`Failed to fetch repositories (Public Fallback): ${response.statusText}`);
@@ -110,7 +111,7 @@ async function getLastNDaysCommits(): Promise<Commit[]> {
       try {
         const url = `https://api.github.com/repos/${repo.owner}/${repo.name}/commits?since=${since}&author=${githubUsername}&per_page=100`;
 
-        const response = await fetch(url, {
+        const response = await fetchWithRetry(url, {
           headers: {
             Authorization: `token ${process.env.GH_PAT}`,
             Accept: "application/vnd.github.v3+json",
@@ -129,7 +130,7 @@ async function getLastNDaysCommits(): Promise<Commit[]> {
               if (!commitSha) continue;
 
               const detailUrl = `https://api.github.com/repos/${repo.owner}/${repo.name}/commits/${commitSha}`;
-              const detailResponse = await fetch(detailUrl, {
+              const detailResponse = await fetchWithRetry(detailUrl, {
                 headers: {
                   Authorization: `token ${process.env.GH_PAT}`,
                   Accept: "application/vnd.github.v3+json",
@@ -254,7 +255,7 @@ ${commitMessages}
     ],
   };
 
-  const response = await fetch(
+  const response = await fetchWithRetry(
     `https://generativelanguage.googleapis.com/v1beta/models/${geminiModel}:generateContent?key=${geminiApiKey}`,
     {
       method: "POST",

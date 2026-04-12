@@ -1,6 +1,7 @@
 import { githubUsername } from "../config/github";
 import { COMMIT_DAYS_RANGE } from "../config/days-range";
 import { geminiModel } from "../config/gemini";
+import { fetchWithRetry } from "./fetch-retry";
 
 interface Repository {
   name: string;
@@ -40,7 +41,7 @@ async function fetchUserRepos(): Promise<Repository[]> {
       throw new Error("GH_PAT is not set");
     }
 
-    const response = await fetch(url, { headers: getHeaders() });
+    const response = await fetchWithRetry(url, { headers: getHeaders() });
 
     if (!response.ok) {
       throw new Error(`Failed to fetch repositories (Authenticated)`);
@@ -58,7 +59,7 @@ async function fetchUserRepos(): Promise<Repository[]> {
     // ここでは簡易的に、getHeaders()を使う。もしトークンが無効ならこれも死ぬが、
     // GITHUB_TOKEN (Actions) の場合、user/reposは403 forbiddenだが users/xxx/reposは200 OKになるはず。
 
-    const response = await fetch(url, { headers: getHeaders() });
+    const response = await fetchWithRetry(url, { headers: getHeaders() });
 
     if (!response.ok) {
       throw new Error(`Failed to fetch repositories (Fallback)`);
@@ -86,7 +87,7 @@ async function getCommitCount(
 
     while (true) {
       const url = `https://api.github.com/repos/${owner}/${repoName}/commits?since=${since}&author=${githubUsername}&per_page=${perPage}&page=${page}`;
-      const response = await fetch(url, { headers: getHeaders() });
+      const response = await fetchWithRetry(url, { headers: getHeaders() });
       if (!response.ok) break;
 
       const commits = await response.json();

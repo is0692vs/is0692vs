@@ -1,4 +1,5 @@
 import { npmPackages, type NpmPackageConfig } from "../config/packages";
+import { fetchWithRetry } from "./fetch-retry";
 
 interface NpmStats {
   package: string;
@@ -8,7 +9,7 @@ interface NpmStats {
 
 async function getPackageCreatedDate(packageName: string): Promise<string> {
   const url = `https://registry.npmjs.org/${packageName}`;
-  const response = await fetch(url);
+  const response = await fetchWithRetry(url);
 
   if (!response.ok) {
     throw new Error(`Failed to fetch package info for ${packageName}`);
@@ -21,7 +22,7 @@ async function getPackageCreatedDate(packageName: string): Promise<string> {
 async function getTotalDownloads(packageName: string, createdDate: string): Promise<number> {
   const now = new Date().toISOString().split('T')[0];
   const url = `https://api.npmjs.org/downloads/range/${createdDate}:${now}/${packageName}`;
-  const response = await fetch(url);
+  const response = await fetchWithRetry(url);
 
   if (!response.ok) {
     throw new Error(`Failed to fetch download stats for ${packageName}`);
