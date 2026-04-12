@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！晴れ渡ってるね☀️
-📍 Sapporo: 4°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Madrid: 9°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 4,250 installs | ⭐ 4.5/5 (2 ratings) | v1.3.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 4,252 installs | ⭐ 4.5/5 (2 ratings) | v1.3.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 12 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 44 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-03-14%22%2C%222026-03-15%22%2C%222026-03-16%22%2C%222026-03-17%22%2C%222026-03-18%22%2C%222026-03-19%22%2C%222026-03-20%22%2C%222026-03-21%22%2C%222026-03-22%22%2C%222026-03-23%22%2C%222026-03-24%22%2C%222026-03-25%22%2C%222026-03-26%22%2C%222026-03-27%22%2C%222026-03-28%22%2C%222026-03-29%22%2C%222026-03-30%22%2C%222026-03-31%22%2C%222026-04-01%22%2C%222026-04-02%22%2C%222026-04-03%22%2C%222026-04-04%22%2C%222026-04-05%22%2C%222026-04-06%22%2C%222026-04-07%22%2C%222026-04-08%22%2C%222026-04-09%22%2C%222026-04-10%22%2C%222026-04-11%22%2C%222026-04-12%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B3756%2C3770%2C3788%2C3808%2C3833%2C3842%2C3856%2C3894%2C3905%2C3922%2C3937%2C3950%2C3969%2C3984%2C4002%2C4024%2C4033%2C4053%2C4072%2C4077%2C4093%2C4108%2C4122%2C4140%2C4157%2C4172%2C4198%2C4219%2C4234%2C4250%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B43%2C43%2C43%2C43%2C43%2C43%2C43%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-03-14%22%2C%222026-03-15%22%2C%222026-03-16%22%2C%222026-03-17%22%2C%222026-03-18%22%2C%222026-03-19%22%2C%222026-03-20%22%2C%222026-03-21%22%2C%222026-03-22%22%2C%222026-03-23%22%2C%222026-03-24%22%2C%222026-03-25%22%2C%222026-03-26%22%2C%222026-03-27%22%2C%222026-03-28%22%2C%222026-03-29%22%2C%222026-03-30%22%2C%222026-03-31%22%2C%222026-04-01%22%2C%222026-04-02%22%2C%222026-04-03%22%2C%222026-04-04%22%2C%222026-04-05%22%2C%222026-04-06%22%2C%222026-04-07%22%2C%222026-04-08%22%2C%222026-04-09%22%2C%222026-04-10%22%2C%222026-04-11%22%2C%222026-04-12%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B3756%2C3770%2C3788%2C3808%2C3833%2C3842%2C3856%2C3894%2C3905%2C3922%2C3937%2C3950%2C3969%2C3984%2C4002%2C4024%2C4033%2C4053%2C4072%2C4077%2C4093%2C4108%2C4122%2C4140%2C4157%2C4172%2C4198%2C4219%2C4234%2C4252%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B43%2C43%2C43%2C43%2C43%2C43%2C43%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**合計464件**もの素晴らしいコミット、お疲れ様でした！🎉
+直近30日間で、なんと**464件**ものコミット、素晴らしい活躍ぶりですね！✨ 主要な活動をリポジトリごとに見ていきましょう。
 
-**Audicle**では、Chrome拡張機能の`RemoteAudioSynthesizer`にJestを用いた単体テストを追加し、テストカバレッジとモジュールの信頼性を大きく向上させましたね🧪✨
+まず、**Audicle**では、Chrome拡張機能の品質向上が目覚ましいですね。特にRemoteAudioSynthesizerのユニットテストをJestで追加し、テストカバレッジを大幅に改善しました。安定性と信頼性向上に大きく貢献しています！🧪
 
-**github-user-summary**では、メインブランチへの活発なマージが頻繁に行われています。UIコンポーネントの改善やパフォーマンス最適化、そして年間レビューユーティリティのテスト関連など、ユーザー体験と機能強化の両面で精力的な開発が進んでいることが伺えます。
+次に、**github-user-summary**では、複数のブランチを`main`に統合する作業が頻繁に行われていました。`CardGenerator.tsx`や`ThemeController.tsx`といったコンポーネントの改善、フェッチ処理のパフォーマンス最適化など、精力的に取り組まれていたことが伺えます。🚀
 
-最も多くのコミットがあった**paper-tools**では、コードの健全性向上（DOI解決の堅牢化、Notion連携の活用、BibTeX一括コピーなど）や、プロパティ検索・レコメンダーのパフォーマンス最適化に注力されました。DBLP著者検索、OpenAlexクライアント、アーカイブ機能など、多岐にわたるテストの追加も積極的に行われており、品質と機能の両面で大きく前進しています。Jules関連のブランチでの機能開発や自動化も活発ですね！
+そして、特に活動が活発だったのは**paper-tools**です。DOI解決の堅牢化やバグ修正、プロパティ検索やレコメンダーの並行処理最適化といったパフォーマンス改善に力を入れましたね。さらに、DBLP著者検索やOpenAlexクライアント、アーカイブ機能など、多岐にわたるテストを追加し、システムの信頼性を高めました。BibTeXの一括コピー機能のコード健全性向上や、多数の`jules`関連機能の統合も見受けられ、機能強化と安定化の両面で大いに貢献しています！📚💡
 
-多岐にわたるプロジェクトで、品質向上、機能開発、パフォーマンス改善を着実に進めているのは本当に素晴らしいです！これからもこの勢いで、素晴らしい開発を続けていきましょう！🚀
+全体を通して、品質向上、パフォーマンス改善、新機能統合といった、多岐にわたる重要なタスクをこなし、プロジェクトの成長を力強く推進してくれました。日々の努力に感謝します！これからも一緒に頑張りましょう！🎉
 
 _Total: 1205 commits across 10 projects_
 
