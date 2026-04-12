@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy today☁️
-📍 Toronto: 5°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Lima: 25°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,18 +24,9 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと449ものコミットを達成しましたね！素晴らしい生産性です👏。
+直近30日間で449件ものコミット、お疲れ様です！👏 🧪 Add unit tests for RemoteAudioSynthesizer in Chrome Extension (#647)、Merge branch 'main' into fix/consolidated-prs-latest、Merge branch 'main' into testing/year-in-review-utils-16584521533216652745など、多くの作業を進められました。合計62700行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-特に目立つ活動を見ていきましょう。
-[Audicle]では、Chrome拡張機能のRemoteAudioSynthesizerに対し、Jestを用いたユニットテストを追加されました。テストカバレッジが向上し、オーディオ合成モジュールの信頼性アップに大きく貢献しましたね🧪。
-
-[github-user-summary]では、複数のブランチマージを通して、機能の修正、テストの強化、パフォーマンスの最適化など、幅広い改善が行われました。プロジェクトの安定性と機能性の向上に繋がっています✨。
-
-そして[paper-tools]では、コードの健全性向上、パフォーマンスの最適化、テストの追加、不具合修正など、非常に多岐にわたる重要な作業が集中して行われましたね。DOI解決のロバスト性向上、プロパティ検索の最適化、DBLP検索のテスト追加、OpenAlexクライアントのテスト、BibTeX一括コピーの改善、APIキーの修正など、一つ一つがプロジェクトの品質と使いやすさを大きく前進させるものばかりです🚀。
-
-このように、各プロジェクトで品質向上、安定化、機能強化に尽力されていることがよく分かります。この調子で、これからも素晴らしい開発を楽しんでいきましょう！💪
-
-_Total: 1166 commits across 10 projects_
+_Total: 1182 commits across 10 projects_
 
 <table>
   <tr>
@@ -46,7 +37,7 @@ _Total: 1166 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 628 commits (53.9%)</sub>
+      <sub>📊 644 commits (54.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -57,7 +48,7 @@ _Total: 1166 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 206 commits (17.7%)</sub>
+      <sub>📊 206 commits (17.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -68,7 +59,7 @@ _Total: 1166 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 183 commits (15.7%)</sub>
+      <sub>📊 183 commits (15.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 12</sub>
     </td>
@@ -78,67 +69,9 @@ _Total: 1166 commits across 10 projects_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
-## 🎵 My Top Tracks on Spotify (Recently)
+🎵 My Top Tracks on Spotify (Recently):
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://open.spotify.com/track/5BtCZAPpqRW74K9Fme7IE6" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736fe3a6609a96447bd8c1e09d" alt="Primitive" width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>Primitive</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/6cnTc9TUiWPnORVWCRdwXD" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273d56f3fb57a99e93fcd22eac9" alt="風に乗る" width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>風に乗る</sub>
-      <br />
-      <sub>Ryokuoushoku Shakai</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/05dKiErCKnRwBxSW6n4E4v" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273b62ad8b3f6b75bda801e5fa5" alt="聞かせてwow wowを" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>聞かせてwow wowを</sub>
-      <br />
-      <sub>SILENT SIREN</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/2iFegucLSbIncYLOJVxnSU" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27331de4bcc9f38137474313dd4" alt="絶対アイドル辞めないで" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>絶対アイドル辞めないで</sub>
-      <br />
-      <sub>=LOVE</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/3psd8lP4CrIa2F31cf0YQs" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2737afc65236fc2cc752d32baf6" alt="生きがい" width="120" />
-      </a>
-      <br />
-      <sub><strong>#5</strong></sub>
-      <br />
-      <sub>生きがい</sub>
-      <br />
-      <sub>SUPER BEAVER</sub>
-    </td>
-  </tr>
-</table>
+_Error fetching tracks. Please try again later._
 <!-- spotify:end -->
 
 <!-- github-releases:start -->
