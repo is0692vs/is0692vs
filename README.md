@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Lima: 25°C
+# 🌍 Hello! Rainy day☔
+📍 San Francisco: 11°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で449件ものコミット、お疲れ様です！👏 🧪 Add unit tests for RemoteAudioSynthesizer in Chrome Extension (#647)、Merge branch 'main' into fix/consolidated-prs-latest、Merge branch 'main' into testing/year-in-review-utils-16584521533216652745など、多くの作業を進められました。合計62700行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で、合計452件もの素晴らしいコミットを達成しましたね！🎉
 
-_Total: 1182 commits across 10 projects_
+特に目立った活動としては、**Audicle**ではChrome拡張機能の`RemoteAudioSynthesizer`に単体テストを導入し、テストカバレッジと信頼性を大幅に向上させました🧪。これは今後の安定稼働に大きく貢献しますね！
+
+また、**github-user-summary**では、メインブランチへの統合が頻繁に行われ、複数の機能改善ブランチがスムーズにマージされました。これにより、プロジェクトの安定性とコードベースの整合性が保たれています👏。
+
+そして、**paper-tools**では、最も多くのコミットが見られましたね！DOIの解決の堅牢化、プロパティ検索の最適化、DBLP検索の著者検索機能のテスト追加など、コードヘルスの改善からパフォーマンス向上、新機能のテストまで、多岐にわたる重要な改善と機能追加が進められました🚀。特に多くの「Merge branch 'main'」コミットからは、継続的な開発と品質維持への強いコミットメントが感じられます！
+
+皆さんの熱心な取り組みが、プロジェクトの進化を加速させています。この調子でこれからも素晴らしい開発を続けていきましょう！💪
+
+_Total: 1194 commits across 10 projects_
 
 <table>
   <tr>
@@ -37,7 +45,7 @@ _Total: 1182 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 644 commits (54.5%)</sub>
+      <sub>📊 653 commits (54.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -48,7 +56,7 @@ _Total: 1182 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 206 commits (17.4%)</sub>
+      <sub>📊 206 commits (17.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -59,7 +67,7 @@ _Total: 1182 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 183 commits (15.5%)</sub>
+      <sub>📊 183 commits (15.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 12</sub>
     </td>
@@ -69,9 +77,67 @@ _Total: 1182 commits across 10 projects_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
-🎵 My Top Tracks on Spotify (Recently):
+## 🎵 My Top Tracks on Spotify (Recently)
 
-_Error fetching tracks. Please try again later._
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/track/5BtCZAPpqRW74K9Fme7IE6" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736fe3a6609a96447bd8c1e09d" alt="Primitive" width="120" />
+      </a>
+      <br />
+      <sub><strong>#1</strong></sub>
+      <br />
+      <sub>Primitive</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/6cnTc9TUiWPnORVWCRdwXD" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273d56f3fb57a99e93fcd22eac9" alt="風に乗る" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>風に乗る</sub>
+      <br />
+      <sub>Ryokuoushoku Shakai</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/05dKiErCKnRwBxSW6n4E4v" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273b62ad8b3f6b75bda801e5fa5" alt="聞かせてwow wowを" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>聞かせてwow wowを</sub>
+      <br />
+      <sub>SILENT SIREN</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/2iFegucLSbIncYLOJVxnSU" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27331de4bcc9f38137474313dd4" alt="絶対アイドル辞めないで" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>絶対アイドル辞めないで</sub>
+      <br />
+      <sub>=LOVE</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/3psd8lP4CrIa2F31cf0YQs" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2737afc65236fc2cc752d32baf6" alt="生きがい" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>生きがい</sub>
+      <br />
+      <sub>SUPER BEAVER</sub>
+    </td>
+  </tr>
+</table>
 <!-- spotify:end -->
 
 <!-- github-releases:start -->
@@ -79,7 +145,7 @@ _Error fetching tracks. Please try again later._
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.7">v1.3.7</a> · 4 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.7">v1.3.7</a> · 5 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.7 -->
@@ -92,7 +158,7 @@ _Error fetching tracks. Please try again later._
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.7-publish">v1.3.7-publish</a> · 4 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.7-publish">v1.3.7-publish</a> · 5 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.7-publish -->
