@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Beautiful sunny day☀️
-📍 Sydney: 17°C
+# 🌍 Hallo! Es regnet☔
+📍 Berlin: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
