@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy skies today☁️
-📍 New York: 17°C
+# 🌍 おはよう！曇ってるね☁️
+📍 Hiroshima: 16°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,21 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で464件ものコミット、お疲れ様です！👏 🧪 Add unit tests for RemoteAudioSynthesizer in Chrome Extension (#647)、merge: sync staging into PR405 branch、Merge pull request #414 from Hiroki-org/stagingなど、多くの作業を進められました。合計70093行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で**464件**ものコミット、素晴らしい活動量ですね！🚀 日々の努力がプロジェクトの進化に繋がっています。
 
-_Total: 1199 commits across 10 projects_
+主要な作業内容を振り返ってみましょう。
+
+まず、**[Audicle]** では、Chrome拡張機能の品質を飛躍的に向上させました。特にRemoteAudioSynthesizerの単体テストをJestで広範囲にわたって追加し、機能の堅牢性を高めていますね✨。
+
+**[OpenShelf]** では、ステージングからメインブランチへのマージを複数回行い、リリースに向けた準備を進めました。さらに、ファイルアップロードの並列処理を最適化することでパフォーマンス改善にも大きく貢献されています！🌟
+
+**[github-user-summary]** では、メインブランチへのマージを通じて、機能の修正やテストの拡充、そして活動データのフェッチ処理のパフォーマンス最適化など、広範囲にわたる改善を進めていますね。様々な改善が着実に進んでいるのがわかります💪。
+
+そして、最も多くのコミットが見られた**[paper-tools]** では、コード健全性の向上、DOI解決のロバスト化、プロパティ検索のパフォーマンス最適化、DBLP検索やアーカイブ機能、OpenAlexクライアントのテスト拡充など、非常に多岐にわたる開発が行われています。品質と機能の両面で大きな進歩が見られます👏。
+
+これだけの多岐にわたるプロジェクトで、目覚ましい活動を展開されており、本当に素晴らしいです。この調子で次なる成果も期待しています！😊
+
+_Total: 1194 commits across 10 projects_
 
 <table>
   <tr>
@@ -37,7 +49,7 @@ _Total: 1199 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 675 commits (56.3%)</sub>
+      <sub>📊 692 commits (58.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -48,7 +60,7 @@ _Total: 1199 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 206 commits (17.2%)</sub>
+      <sub>📊 206 commits (17.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -96,26 +108,26 @@ _Total: 1199 commits across 10 projects_
       <sub>Ryokuoushoku Shakai</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/2iFegucLSbIncYLOJVxnSU" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27331de4bcc9f38137474313dd4" alt="絶対アイドル辞めないで" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>絶対アイドル辞めないで</sub>
-      <br />
-      <sub>=LOVE</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
       <br />
       <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/2iFegucLSbIncYLOJVxnSU" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27331de4bcc9f38137474313dd4" alt="絶対アイドル辞めないで" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>絶対アイドル辞めないで</sub>
+      <br />
+      <sub>=LOVE</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/05dKiErCKnRwBxSW6n4E4v" target="_blank">
