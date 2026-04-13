@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Madrid: 9°C
+# 🌍 Ciao! Giornata piovosa☔
+📍 Rome: 17°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 4,252 installs | ⭐ 4.5/5 (2 ratings) | v1.3.7
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 4,258 installs | ⭐ 4.5/5 (2 ratings) | v1.3.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 12 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 44 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-03-14%22%2C%222026-03-15%22%2C%222026-03-16%22%2C%222026-03-17%22%2C%222026-03-18%22%2C%222026-03-19%22%2C%222026-03-20%22%2C%222026-03-21%22%2C%222026-03-22%22%2C%222026-03-23%22%2C%222026-03-24%22%2C%222026-03-25%22%2C%222026-03-26%22%2C%222026-03-27%22%2C%222026-03-28%22%2C%222026-03-29%22%2C%222026-03-30%22%2C%222026-03-31%22%2C%222026-04-01%22%2C%222026-04-02%22%2C%222026-04-03%22%2C%222026-04-04%22%2C%222026-04-05%22%2C%222026-04-06%22%2C%222026-04-07%22%2C%222026-04-08%22%2C%222026-04-09%22%2C%222026-04-10%22%2C%222026-04-11%22%2C%222026-04-12%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B3756%2C3770%2C3788%2C3808%2C3833%2C3842%2C3856%2C3894%2C3905%2C3922%2C3937%2C3950%2C3969%2C3984%2C4002%2C4024%2C4033%2C4053%2C4072%2C4077%2C4093%2C4108%2C4122%2C4140%2C4157%2C4172%2C4198%2C4219%2C4234%2C4252%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B43%2C43%2C43%2C43%2C43%2C43%2C43%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-03-15%22%2C%222026-03-16%22%2C%222026-03-17%22%2C%222026-03-18%22%2C%222026-03-19%22%2C%222026-03-20%22%2C%222026-03-21%22%2C%222026-03-22%22%2C%222026-03-23%22%2C%222026-03-24%22%2C%222026-03-25%22%2C%222026-03-26%22%2C%222026-03-27%22%2C%222026-03-28%22%2C%222026-03-29%22%2C%222026-03-30%22%2C%222026-03-31%22%2C%222026-04-01%22%2C%222026-04-02%22%2C%222026-04-03%22%2C%222026-04-04%22%2C%222026-04-05%22%2C%222026-04-06%22%2C%222026-04-07%22%2C%222026-04-08%22%2C%222026-04-09%22%2C%222026-04-10%22%2C%222026-04-11%22%2C%222026-04-12%22%2C%222026-04-13%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B3770%2C3788%2C3808%2C3833%2C3842%2C3856%2C3894%2C3905%2C3922%2C3937%2C3950%2C3969%2C3984%2C4002%2C4024%2C4033%2C4053%2C4072%2C4077%2C4093%2C4108%2C4122%2C4140%2C4157%2C4172%2C4198%2C4219%2C4234%2C4252%2C4258%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B43%2C43%2C43%2C43%2C43%2C43%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,17 +24,18 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと**464件**ものコミット、素晴らしい活躍ぶりですね！✨ 主要な活動をリポジトリごとに見ていきましょう。
+お疲れ様です！直近30日間でなんと**464件**もの素晴らしいコミットを達成しましたね！🎉 大変活発な開発状況で、目覚ましい成果です。
 
-まず、**Audicle**では、Chrome拡張機能の品質向上が目覚ましいですね。特にRemoteAudioSynthesizerのユニットテストをJestで追加し、テストカバレッジを大幅に改善しました。安定性と信頼性向上に大きく貢献しています！🧪
+主な活動を見てみましょう。
+[Audicle]では、Chrome拡張機能の`RemoteAudioSynthesizer`にユニットテストを導入し、テストカバレッジと信頼性を大きく向上させました。コードの品質向上に貢献する素晴らしい取り組みですね！🧪
 
-次に、**github-user-summary**では、複数のブランチを`main`に統合する作業が頻繁に行われていました。`CardGenerator.tsx`や`ThemeController.tsx`といったコンポーネントの改善、フェッチ処理のパフォーマンス最適化など、精力的に取り組まれていたことが伺えます。🚀
+[github-user-summary]では、複数の重要なブランチをメインブランチにマージし、発生したコンフリクトも適切に解決してプロジェクトの統合を進めました。安定稼働への貢献、ありがとうございます！🤝
 
-そして、特に活動が活発だったのは**paper-tools**です。DOI解決の堅牢化やバグ修正、プロパティ検索やレコメンダーの並行処理最適化といったパフォーマンス改善に力を入れましたね。さらに、DBLP著者検索やOpenAlexクライアント、アーカイブ機能など、多岐にわたるテストを追加し、システムの信頼性を高めました。BibTeXの一括コピー機能のコード健全性向上や、多数の`jules`関連機能の統合も見受けられ、機能強化と安定化の両面で大いに貢献しています！📚💡
+そして、[paper-tools]では特に精力的な活動が見受けられますね！多数のマージコミットから、パフォーマンス最適化、コード品質の改善、重要なテストの追加、そしてDOI解決やAPIキー関連のバグ修正まで、幅広い側面でプロジェクトを進化させていることがわかります。日々の地道な努力が、着実にシステムの堅牢性と機能性を高めていますね！🚀
 
-全体を通して、品質向上、パフォーマンス改善、新機能統合といった、多岐にわたる重要なタスクをこなし、プロジェクトの成長を力強く推進してくれました。日々の努力に感謝します！これからも一緒に頑張りましょう！🎉
+これだけ多くの変更を管理し、質の高いコードを維持するのは本当に大変なことです。あなたの献身的な努力がプロジェクトを大きく前進させています。これからもこの調子で頑張ってください！応援しています！💪✨
 
-_Total: 1205 commits across 10 projects_
+_Total: 1208 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +46,7 @@ _Total: 1205 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 653 commits (54.2%)</sub>
+      <sub>📊 653 commits (54.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -67,7 +68,7 @@ _Total: 1205 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 183 commits (15.2%)</sub>
+      <sub>📊 186 commits (15.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 12</sub>
     </td>
@@ -104,26 +105,26 @@ _Total: 1205 commits across 10 projects_
       <sub>Ryokuoushoku Shakai</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/05dKiErCKnRwBxSW6n4E4v" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273b62ad8b3f6b75bda801e5fa5" alt="聞かせてwow wowを" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>聞かせてwow wowを</sub>
-      <br />
-      <sub>SILENT SIREN</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/2iFegucLSbIncYLOJVxnSU" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b27331de4bcc9f38137474313dd4" alt="絶対アイドル辞めないで" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>絶対アイドル辞めないで</sub>
       <br />
       <sub>=LOVE</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/05dKiErCKnRwBxSW6n4E4v" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273b62ad8b3f6b75bda801e5fa5" alt="聞かせてwow wowを" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>聞かせてwow wowを</sub>
+      <br />
+      <sub>SILENT SIREN</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/3psd8lP4CrIa2F31cf0YQs" target="_blank">
