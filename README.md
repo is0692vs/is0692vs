@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Perfect sunny day☀️
-📍 Los Angeles: 11°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Lyon: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,7 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと426件ものコミット、お疲れ様です！素晴らしい活動量ですね👏
-
-まず、**Audicle**では、Chrome拡張機能の`RemoteAudioSynthesizer`に単体テストが追加され、大幅なテストカバレッジ向上とモジュールの信頼性強化に貢献しましたね！🧪✨
-
-次に、**OpenShelf**では、リリース関連のマージが行われ、安定した運用に繋がったことでしょう。さらに、ファイルアップロードの並行処理を最適化することで、パフォーマンス改善もバッチリです🚀
-
-そして、**paper-tools**での活躍は目覚ましいですね！多数のマージを通じて、コードの健全性向上（DOI解決のロバスト化、Notion連携、BibTeX処理など）や、プロパティ検索、レコメンダー処理の並行処理といったパフォーマンス最適化が進められました。また、DBLP検索やOpenAlexクライアント、アーカイブ機能など、幅広いテストが追加され品質向上にも力を入れています。DOI解決の修正やAPIキーのバグ修正、論文詳細画面のリファクタリングなど、多岐にわたる改善活動、本当に素晴らしいです！
-
-チーム全体の生産性向上と品質維持に大きく貢献されており、心から尊敬します！これからもこの勢いで、素敵なプロダクトを創造していきましょう！🎉
+直近30日間で426件ものコミット、お疲れ様です！👏 🧪 Add unit tests for RemoteAudioSynthesizer in Chrome Extension (#647)、Merge pull request #414 from Hiroki-org/staging、Merge pull request #405 from Hiroki-org/perf-optimize-upload-pmap-10830034077035267870など、多くの作業を進められました。合計61745行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 1229 commits across 9 projects_
 
@@ -93,26 +85,26 @@ _Total: 1229 commits across 9 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
-      <br />
-      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/2iFegucLSbIncYLOJVxnSU" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b27331de4bcc9f38137474313dd4" alt="絶対アイドル辞めないで" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#2</strong></sub>
       <br />
       <sub>絶対アイドル辞めないで</sub>
       <br />
       <sub>=LOVE</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
+      <br />
+      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/6cnTc9TUiWPnORVWCRdwXD" target="_blank">
