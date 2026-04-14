@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Madrid: 18°C
+# 🌍 Olá! Dia nublado☁️
+📍 São Paulo: 21°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計426件ものコミット、お疲れ様でした！素晴らしい活動量ですね！✨
+直近30日間で、合計426件ものコミット、大変お疲れ様でした！素晴らしい活動量ですね！✨
 
-主な活動内容としては、複数のリポジトリでコードの品質向上、パフォーマンス改善、そしてテストの拡充に大きく貢献されました。
+まず、**Audicle**では、Chrome拡張機能の`RemoteAudioSynthesizer`に単体テストが追加され、テストカバレッジと信頼性が大きく向上しました。これは素晴らしい改善です🧪。
 
-**Audicle**では、Chrome拡張機能の`RemoteAudioSynthesizer`に単体テストを導入し、テストカバレッジと信頼性を大幅に向上させましたね。安定稼働に繋がる重要な改善です！🧪
+次に、**OpenShelf**では、ステージングブランチとの同期や、ファイルアップロードの並行処理を最適化するパフォーマンス改善のマージが行われましたね。ユーザー体験の向上に貢献する大切な作業です🚀。
 
-**OpenShelf**では、`staging`ブランチとのマージを行い、さらにファイルアップロードの並行処理を最適化することで、システムのパフォーマンス向上に貢献されました。ユーザー体験の改善に直結する素晴らしい取り組みです！🚀
+そして、最も多くのコミットが見られた**paper-tools**では、多岐にわたる重要な改善が進められています。DOI解決の堅牢化や修正、プロパティ検索やレコメンダーのパフォーマンス最適化、DBLP著者検索やOpenAlexクライアントのテスト追加など、コードの健全性と機能の安定性を高める作業に精力的に取り組んでいらっしゃいますね。Notion連携、ビジュアライザーのエクスポート形式改善、BibTeX一括コピー、APIキー修正など、幅広いエリアで品質向上と新機能対応を進められたことが伺えます💡。
 
-**paper-tools**では、実に多岐にわたる改善が見られます。DOI解決の堅牢性向上やプロパティ検索の最適化、レコメンダーの並行処理制限など、パフォーマンスとコード健全性を高める変更が多数行われました。加えて、DBLP著者検索やアーカイブ機能、OpenAlexクライアントのテスト拡充も精力的に進められましたね。バグ修正も行われ、全体の安定性向上に大きく寄与しています。まさに縁の下の力持ちとして、プロダクトの土台を強固にされています！💪
+この1ヶ月間、多方面での活躍、本当に素晴らしいです！今後のさらなる発展を楽しみにしています！🎉
 
-どのリポジトリにおいても、着実な進捗と品質へのこだわりが感じられます。日々の努力がプロジェクト全体の成長に繋がっていますね。この調子でこれからも素晴らしい開発を続けていきましょう！👏
-
-_Total: 1199 commits across 10 projects_
+_Total: 1209 commits across 9 projects_
 
 <table>
   <tr>
@@ -47,7 +45,7 @@ _Total: 1199 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 697 commits (58.1%)</sub>
+      <sub>📊 711 commits (58.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,7 +56,7 @@ _Total: 1199 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 206 commits (17.2%)</sub>
+      <sub>📊 206 commits (17.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -69,7 +67,7 @@ _Total: 1199 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 171 commits (14.3%)</sub>
+      <sub>📊 171 commits (14.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 12</sub>
     </td>
@@ -147,7 +145,7 @@ _Total: 1199 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.8">v1.3.8</a> · Today
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.8">v1.3.8</a> · Yesterday
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.8 -->
@@ -160,7 +158,7 @@ _Total: 1199 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.8-publish">v1.3.8-publish</a> · Today
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.8-publish">v1.3.8-publish</a> · Yesterday
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.8-publish -->
