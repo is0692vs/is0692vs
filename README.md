@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Está nublado☁️
-📍 Mexico City: 15°C
+# 🌍 こんにちは！今日は曇り空ですね☁️
+📍 Tokyo: 19°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で426件ものコミット、お疲れ様です！👏 🧪 Add unit tests for RemoteAudioSynthesizer in Chrome Extension (#647)、merge: sync staging into PR405 branch、Merge pull request #414 from Hiroki-org/stagingなど、多くの作業を進められました。合計64403行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で**426件**ものコミット、素晴らしい活動でしたね！🎉
 
-_Total: 1221 commits across 9 projects_
+特に変更行数の多い上位コミットを見ると、様々なプロジェクトで品質向上と機能強化に大きく貢献されています。
+
+*   **[Audicle]** では、Chrome拡張機能のRemoteAudioSynthesizerに単体テストを導入し、テストカバレッジと信頼性を大きく向上させましたね🧪✨
+*   **[OpenShelf]** では、ステージングからメインへのリリース対応に加え、ファイルアップロードの並行処理を最適化し、パフォーマンス改善に尽力されました🚀
+*   **[paper-tools]** では、コードヘルスの向上、パフォーマンス最適化、テストの追加、DOI解決の堅牢化、APIキーの修正、リファクタリングなど、多岐にわたる開発基盤の強化と品質向上に精力的に取り組まれましたね！🛠️📈
+
+日々の精力的なコミットが、各プロジェクトの安定性と進化を力強く推進しています。本当にお疲れ様でした！これからも素晴らしい成果を楽しみにしています！🌟
+
+_Total: 1229 commits across 9 projects_
 
 <table>
   <tr>
@@ -37,7 +45,7 @@ _Total: 1221 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 723 commits (59.2%)</sub>
+      <sub>📊 732 commits (59.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -48,7 +56,7 @@ _Total: 1221 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 206 commits (16.9%)</sub>
+      <sub>📊 205 commits (16.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -59,7 +67,7 @@ _Total: 1221 commits across 9 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 171 commits (14.0%)</sub>
+      <sub>📊 171 commits (13.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 12</sub>
     </td>
