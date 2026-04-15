@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Perfect sunny day☀️
-📍 Los Angeles: 20°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Lyon: 14°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,14 +24,7 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計441ものコミット、お疲れ様でした！🎉 大変素晴らしい活動量ですね！
-
-特に、変更行数の多かった上位コミットからは、多岐にわたる活躍が見て取れます。
-**Audicle**では、Chrome拡張機能の`RemoteAudioSynthesizer`に単体テストを追加し、堅牢性とテストカバレッジを大幅に向上させました。🧪
-**OpenShelf**では、ブランチのマージに加えて、ファイルアップロードの並行処理を最適化し、パフォーマンス改善に大きく貢献されました。🚀
-そして、**paper-tools**では圧倒的な数のコミットがありましたね！`main`ブランチへの頻繁なマージを通じて、コードの健全性向上（DOI解決の頑健化、Notion連携の改善、BibTeXコピー）、プロパティ検索やレコメンダーのパフォーマンス最適化、DBLP検索やOpenAlexクライアントのテスト追加、DOI解決やAPIキーの不具合修正、さらにはコードのリファクタリングまで、広範囲にわたる改善と機能強化を推進されました。💪
-
-様々なプロジェクトで品質向上、パフォーマンス改善、機能追加に貢献されており、その努力と成果はチームにとって計り知れない価値があります。この調子で、これからも素晴らしい開発を楽しんでいきましょう！🌟
+直近30日間で441件ものコミット、お疲れ様です！👏 🧪 Add unit tests for RemoteAudioSynthesizer in Chrome Extension (#647)、Merge pull request #414 from Hiroki-org/staging、Merge pull request #405 from Hiroki-org/perf-optimize-upload-pmap-10830034077035267870など、多くの作業を進められました。合計61745行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 79 commits across 10 projects_
 
@@ -49,22 +42,22 @@ _Total: 79 commits across 10 projects_
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/RUSAEXP1EMB2026/repo04" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/RUSAEXP1EMB2026/repo04" alt="repo04" width="100%" />
+      <a href="https://github.com/RUSAEXP1EMB2026/repo03" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/RUSAEXP1EMB2026/repo03" alt="repo03" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/RUSAEXP1EMB2026/repo04" target="_blank">repo04</a></strong></sub>
+      <sub><strong><a href="https://github.com/RUSAEXP1EMB2026/repo03" target="_blank">repo03</a></strong></sub>
       <br />
       <sub>📊 0 commits (0.0%)</sub>
       <br />
       <sub>📄 Unknown </sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/RUSAEXP1EMB2026/repo03" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/RUSAEXP1EMB2026/repo03" alt="repo03" width="100%" />
+      <a href="https://github.com/RUSAEXP1EMB2026/repo04" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/RUSAEXP1EMB2026/repo04" alt="repo04" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/RUSAEXP1EMB2026/repo03" target="_blank">repo03</a></strong></sub>
+      <sub><strong><a href="https://github.com/RUSAEXP1EMB2026/repo04" target="_blank">repo04</a></strong></sub>
       <br />
       <sub>📊 0 commits (0.0%)</sub>
       <br />
