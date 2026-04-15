@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Está lloviendo☔
-📍 Buenos Aires: 20°C
+# 🌍 Hello! Perfect sunny day☀️
+📍 Los Angeles: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で441コミット、素晴らしい成果ですね！🎉 大量のコミットから、多岐にわたる活発な開発がうかがえます。
+直近30日間で、合計441件ものコミット、大変お疲れ様でした！素晴らしい活動量ですね！✨
 
-特に注目すべきは、以下の活動です。
+特に目立った活動としては、まず[Audicle]において、Chrome拡張機能の`RemoteAudioSynthesizer`に単体テストを追加し、テストカバレッジを大幅に向上させましたね。品質向上への貢献、お見事です！🧪
 
-*   **Audicle**: Chrome拡張機能のRemoteAudioSynthesizerに単体テストを追加し、品質と信頼性を大きく向上させましたね！🧪 新しいテスト環境の導入もお疲れ様でした。
-*   **OpenShelf**: ステージングからのリリース作業に加え、ファイルアップロードの並行処理を最適化するなど、パフォーマンス改善にも貢献しました。🚀 スムーズな運用とユーザー体験の向上に繋がりますね！
-*   **paper-tools**: こちらでは、実に多くの開発が行われました。
-    *   DOI解決の堅牢化やBibTeX一括コピー、Save to Notionの利用といったコード健全性向上に注力されましたね。
-    *   プロパティ検索やレコメンダーの並行処理を最適化するなど、パフォーマンス改善にも積極的に取り組んでいて素晴らしいです！💨
-    *   DBLP検索著者、OpenAlexクライアント、アーカイブ機能など、多岐にわたるテストを追加し、テストカバレッジの強化にも尽力いただきました。🛡️
-    *   DOI解決の修正やAPIキーのハードコード解消、use-paper-detailのリファクタリングなど、着実にシステム改善を進めていて素晴らしいです！✨
+次に[OpenShelf]では、`staging`ブランチから`main`へのリリースを無事に完了させました。さらに、ファイルアップロードの並行処理を`p-map`で最適化し、パフォーマンス改善にも大きく貢献されています。ユーザー体験向上に直結する重要な改善です。🚀
 
-たくさんの貢献、本当にありがとうございます！この調子でこれからも素晴らしい開発を続けていきましょう！💪
+そして[paper-tools]では、多岐にわたる精力的な改善が見られますね。プロパティ検索やリコメンダーの並行処理制限といったパフォーマンス最適化、DOI解決の堅牢化、Notion連携の改善、BibTeX一括コピー機能のコード健全性向上など、幅広いコード品質向上に取り組んでいます。また、OpenAlexクライアントやDBLP著者検索に関するテストの追加、APIキーの修正、詳細表示のリファクタリングなど、堅実な開発と品質向上を進められています。🛠️
+
+皆さんの貢献がプロジェクトを大きく前進させています。これからもこの調子で、素晴らしい開発を続けていきましょう！💪
 
 _Total: 1246 commits across 9 projects_
 
@@ -149,7 +145,7 @@ _Total: 1246 commits across 9 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.8">v1.3.8</a> · Yesterday
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.8">v1.3.8</a> · 2 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.8 -->
@@ -162,7 +158,7 @@ _Total: 1246 commits across 9 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.8-publish">v1.3.8-publish</a> · Yesterday
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.8-publish">v1.3.8-publish</a> · 2 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.8-publish -->
