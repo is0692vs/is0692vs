@@ -24,52 +24,52 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、合計441件ものコミット、大変お疲れ様でした！素晴らしい活動量ですね！✨
+直近30日間で**441件**ものコミット、大変素晴らしい活動量ですね！皆さんの一ヶ月間の精力的な取り組みに感謝いたします👏
 
-特に目立った活動としては、まず[Audicle]において、Chrome拡張機能の`RemoteAudioSynthesizer`に単体テストを追加し、テストカバレッジを大幅に向上させましたね。品質向上への貢献、お見事です！🧪
+特に注目すべき活動として、
 
-次に[OpenShelf]では、`staging`ブランチから`main`へのリリースを無事に完了させました。さらに、ファイルアップロードの並行処理を`p-map`で最適化し、パフォーマンス改善にも大きく貢献されています。ユーザー体験向上に直結する重要な改善です。🚀
+*   **Audicle**では、Chrome拡張機能の`RemoteAudioSynthesizer`に対して、ユニットテスト環境を整備し、テストカバレッジを大幅に向上させましたね！これにより、機能の信頼性が大きく強化されました。🧪✨
+*   **OpenShelf**では、ステージング環境からメインブランチへのマージが行われ、リリースに向けた重要な一歩となりました。さらに、ファイルアップロードの並行処理を最適化し、パフォーマンス改善にも貢献しました。🚀
+*   そして、**paper-tools**では多岐にわたる活動が展開されました。DOI解決の堅牢化やNotion連携のコード品質向上、プロパティ検索やレコメンダーの並行処理制限によるパフォーマンス最適化が見られます。また、DBLP著者検索やOpenAlexクライアントのテスト拡充、DOI解決やAPIキーのハードコード修正といったバグ対応、論文詳細画面のリファクタリングなど、プロダクトの安定性と機能性向上に大きく寄与していますね！📈
 
-そして[paper-tools]では、多岐にわたる精力的な改善が見られますね。プロパティ検索やリコメンダーの並行処理制限といったパフォーマンス最適化、DOI解決の堅牢化、Notion連携の改善、BibTeX一括コピー機能のコード健全性向上など、幅広いコード品質向上に取り組んでいます。また、OpenAlexクライアントやDBLP著者検索に関するテストの追加、APIキーの修正、詳細表示のリファクタリングなど、堅実な開発と品質向上を進められています。🛠️
+品質向上、パフォーマンス改善、そして機能の拡充、これら全てにおいて皆さんのたゆまぬ努力がプロダクトを前進させています。これからもその素晴らしい勢いで頑張ってください！🎉
 
-皆さんの貢献がプロジェクトを大きく前進させています。これからもこの調子で、素晴らしい開発を続けていきましょう！💪
-
-_Total: 1246 commits across 9 projects_
+_Total: 79 commits across 10 projects_
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/OpenShelf" alt="OpenShelf" width="100%" />
+      <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/Audicle" alt="Audicle" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 730 commits (58.6%)</sub>
+      <sub>📊 79 commits (100.0%)</sub>
       <br />
-      <sub>🔷 TypeScript </sub>
+      <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/paper-tools" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/paper-tools" alt="paper-tools" width="100%" />
+      <a href="https://github.com/RUSAEXP1EMB2026/repo03" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/RUSAEXP1EMB2026/repo03" alt="repo03" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
+      <sub><strong><a href="https://github.com/RUSAEXP1EMB2026/repo03" target="_blank">repo03</a></strong></sub>
       <br />
-      <sub>📊 205 commits (16.5%)</sub>
+      <sub>📊 0 commits (0.0%)</sub>
       <br />
-      <sub>🔷 TypeScript </sub>
+      <sub>📄 Unknown </sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/jules-extension" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/jules-extension" alt="jules-extension" width="100%" />
+      <a href="https://github.com/RUSAEXP1EMB2026/repo02" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/RUSAEXP1EMB2026/repo02" alt="repo02" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
+      <sub><strong><a href="https://github.com/RUSAEXP1EMB2026/repo02" target="_blank">repo02</a></strong></sub>
       <br />
-      <sub>📊 171 commits (13.7%)</sub>
+      <sub>📊 0 commits (0.0%)</sub>
       <br />
-      <sub>🔷 TypeScript ⭐ 12</sub>
+      <sub>📄 Unknown </sub>
     </td>
   </tr>
 </table>
