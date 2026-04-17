@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Perfect sunny day☀️
-📍 Los Angeles: 12°C
+# 🌍 Ciao! Giornata soleggiata☀️
+📍 Rome: 22°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,9 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計465件ものコミット、素晴らしいですね！🚀 大変多くのプロジェクトで活発に貢献されています。
+直近30日間で465件ものコミット、お疲れ様です！👏 Merge remote-tracking branch 'origin/staging' into test-improvement-collections-json-patch-13372850938048509434、🧪 Add unit tests for RemoteAudioSynthesizer in Chrome Extension (#647)、Bump version, extract chat assets, add branch cacheなど、多くの作業を進められました。合計76562行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-[OpenShelf]では、コレクション機能の改善に関連する大規模な変更をマージし、システムの強化を進められましたね。
-
-[Audicle]では、Chrome拡張機能のRemoteAudioSynthesizerに重要なユニットテストを導入し、品質と信頼性向上に大きく貢献されています🧪。
-
-[jules-extension]では、バージョンアップ、チャットアセットの抽出、ブランチキャッシュの追加など、機能強化やパフォーマンス改善に力を入れられました！
-
-そして、[paper-tools]では特に多岐にわたる活動が見られます。DOI解決の堅牢化や各種コードヘルス改善といったコード品質の向上、プロパティ検索やレコメンダーのパフォーマンス最適化、DBLP検索やOpenAlexクライアント、アーカイブ機能のテスト拡充、さらにはDOI解決やAPIキー関連のバグ修正まで、幅広くプロジェクトを支えていますね。💪
-
-この30日間も精力的な活動、本当にお疲れ様でした！次月も素晴らしい成果を楽しみにしています。✨
-
-_Total: 845 commits across 10 projects_
+_Total: 937 commits across 10 projects_
 
 <table>
   <tr>
@@ -47,7 +37,7 @@ _Total: 845 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 610 commits (72.2%)</sub>
+      <sub>📊 625 commits (66.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,20 +48,20 @@ _Total: 845 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 154 commits (18.2%)</sub>
+      <sub>📊 153 commits (16.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 12</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/github-user-summary" alt="github-user-summary" width="100%" />
+      <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/Audicle" alt="Audicle" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 77 commits (9.1%)</sub>
+      <sub>📊 78 commits (8.3%)</sub>
       <br />
-      <sub>🔷 TypeScript </sub>
+      <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
   </tr>
 </table>
