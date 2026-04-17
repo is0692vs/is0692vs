@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Sapporo: 10°C
+# 🌍 Hello! Perfect sunny day☀️
+📍 Los Angeles: 12°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,21 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと**465件**ものコミットを重ねられましたね！素晴らしい開発活動です！👏
+直近30日間で合計465件ものコミット、素晴らしいですね！🚀 大変多くのプロジェクトで活発に貢献されています。
 
-各リポジトリでの主要な動きを見ていきましょう。
+[OpenShelf]では、コレクション機能の改善に関連する大規模な変更をマージし、システムの強化を進められましたね。
 
-まず、**Audicle**では、Chrome拡張機能の`RemoteAudioSynthesizer`にJestを用いた単体テストをしっかり追加し、品質と信頼性を大きく向上させましたね！🧪 新しいテスト環境の構築、お見事です！
+[Audicle]では、Chrome拡張機能のRemoteAudioSynthesizerに重要なユニットテストを導入し、品質と信頼性向上に大きく貢献されています🧪。
 
-**jules-extension**では、バージョンアップやチャットアセットの抽出、ブランチキャッシュの追加を通じて、機能改善とパフォーマンス向上に貢献されました。✨
+[jules-extension]では、バージョンアップ、チャットアセットの抽出、ブランチキャッシュの追加など、機能強化やパフォーマンス改善に力を入れられました！
 
-**OpenShelf**では、ステージングブランチからメインブランチへのリリース作業を滞りなく実施し、プロジェクトの安定した進捗に貢献しましたね！🚀
+そして、[paper-tools]では特に多岐にわたる活動が見られます。DOI解決の堅牢化や各種コードヘルス改善といったコード品質の向上、プロパティ検索やレコメンダーのパフォーマンス最適化、DBLP検索やOpenAlexクライアント、アーカイブ機能のテスト拡充、さらにはDOI解決やAPIキー関連のバグ修正まで、幅広くプロジェクトを支えていますね。💪
 
-そして、特に精力的に活動されたのは**paper-tools**です！メインブランチへの頻繁なマージを通じて、多岐にわたる開発が進められました。具体的には、DOI解決の堅牢化、プロパティ検索の最適化といったパフォーマンス改善、DBLP著者検索やOpenAlexクライアントのテスト拡充、BibTeX一括コピーやNotion連携といったコード健全性の向上、さらに`jules`関連の様々な機能開発やアーカイブテストの追加など、幅広い改善と新機能開発に尽力されましたね。💪 こまめな統合が、プロジェクトの健全な進捗を物語っています。
+この30日間も精力的な活動、本当にお疲れ様でした！次月も素晴らしい成果を楽しみにしています。✨
 
-この一ヶ月間、本当に多くの成果を生み出しましたね！継続的な努力と貢献に感謝します！🌟
-
-_Total: 838 commits across 10 projects_
+_Total: 845 commits across 10 projects_
 
 <table>
   <tr>
@@ -49,7 +47,7 @@ _Total: 838 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 602 commits (71.8%)</sub>
+      <sub>📊 610 commits (72.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -60,7 +58,7 @@ _Total: 838 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 155 commits (18.5%)</sub>
+      <sub>📊 154 commits (18.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 12</sub>
     </td>
@@ -71,7 +69,7 @@ _Total: 838 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 77 commits (9.2%)</sub>
+      <sub>📊 77 commits (9.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -108,11 +106,22 @@ _Total: 838 commits across 10 projects_
       <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
     </td>
     <td align="center">
+      <a href="https://open.spotify.com/track/6AGHSgBeirk7AHXWOM3vKp" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="Nothing." width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>Nothing.</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
       <a href="https://open.spotify.com/track/2iFegucLSbIncYLOJVxnSU" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b27331de4bcc9f38137474313dd4" alt="絶対アイドル辞めないで" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>絶対アイドル辞めないで</sub>
       <br />
@@ -123,22 +132,11 @@ _Total: 838 commits across 10 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b273d56f3fb57a99e93fcd22eac9" alt="風に乗る" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#5</strong></sub>
       <br />
       <sub>風に乗る</sub>
       <br />
       <sub>Ryokuoushoku Shakai</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/05dKiErCKnRwBxSW6n4E4v" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273b62ad8b3f6b75bda801e5fa5" alt="聞かせてwow wowを" width="120" />
-      </a>
-      <br />
-      <sub><strong>#5</strong></sub>
-      <br />
-      <sub>聞かせてwow wowを</sub>
-      <br />
-      <sub>SILENT SIREN</sub>
     </td>
   </tr>
 </table>
@@ -149,7 +147,7 @@ _Total: 838 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.10-publish">v1.3.10-publish</a> · Today
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.10-publish">v1.3.10-publish</a> · Yesterday
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.10-publish -->
@@ -162,7 +160,7 @@ _Total: 838 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.10">v1.3.10</a> · Today
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.10">v1.3.10</a> · Yesterday
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.10 -->
@@ -175,7 +173,7 @@ _Total: 838 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.9">v1.3.9</a> · Today
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.9">v1.3.9</a> · Yesterday
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.9 -->
@@ -188,7 +186,7 @@ _Total: 838 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.9-publish">v1.3.9-publish</a> · Today
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.9-publish">v1.3.9-publish</a> · Yesterday
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.9-publish -->
@@ -201,7 +199,7 @@ _Total: 838 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.8">v1.3.8</a> · 3 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.8">v1.3.8</a> · 4 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.8 -->
