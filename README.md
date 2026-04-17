@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Ciao! Giornata soleggiata☀️
-📍 Rome: 22°C
+# 🌍 こんにちは！あめがふってますね☔
+📍 Fukuoka: 19°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -26,7 +26,7 @@ _npm download statistics temporarily unavailable_
 直近30日間の活動サマリー:
 直近30日間で465件ものコミット、お疲れ様です！👏 Merge remote-tracking branch 'origin/staging' into test-improvement-collections-json-patch-13372850938048509434、🧪 Add unit tests for RemoteAudioSynthesizer in Chrome Extension (#647)、Bump version, extract chat assets, add branch cacheなど、多くの作業を進められました。合計76562行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-_Total: 937 commits across 10 projects_
+_Total: 934 commits across 10 projects_
 
 <table>
   <tr>
@@ -37,7 +37,7 @@ _Total: 937 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 625 commits (66.7%)</sub>
+      <sub>📊 622 commits (66.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -48,7 +48,7 @@ _Total: 937 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 153 commits (16.3%)</sub>
+      <sub>📊 153 commits (16.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 12</sub>
     </td>
@@ -59,7 +59,7 @@ _Total: 937 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 78 commits (8.3%)</sub>
+      <sub>📊 78 commits (8.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
