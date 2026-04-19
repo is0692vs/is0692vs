@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！今日は曇り空ですね☁️
-📍 Osaka: 19°C
+# 🌍 G'day! Bit cloudy today☁️
+📍 Sydney: 11°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと**469件**ものコミットがありました！素晴らしい活動量ですね！🚀
+直近30日間で469ものコミット、素晴らしい活躍ですね！🚀 大規模な変更と着実な品質向上に貢献されています。
 
-それぞれのプロジェクトで大きく前進しています。
-*   **OpenShelf** では、大規模な変更を含むステージングブランチのマージを実施し、コレクション機能の改善に大きく貢献しました。👏
-*   **Audicle** では、Chrome拡張機能の`RemoteAudioSynthesizer`に単体テストを追加し、音声合成モジュールの品質と信頼性を大きく向上させましたね！🧪✨
-*   **jules-extension** では、バージョンアップやチャットアセットの抽出、ブランチキャッシュの追加など、新機能への土台作りを着々と進めました。💡
-*   **paper-tools** では、メインブランチへのマージが実に多く、DOI解決の堅牢化、プロパティ検索の最適化、DBLP検索やOpenAlexクライアントのテスト追加、Notion連携、BibTeX一括コピー、APIキー修正といった多岐にわたる改善と機能開発が進められました。📊🔧「Jules」関連のブランチからのマージも複数見られ、特定のプロジェクトも活発に進んでいることが伺えます。
+特に目を引く活動としては、
+**OpenShelf**では、コレクションのJSONパッチ関連のテスト改善ブランチのマージ作業を進め、機能強化の土台を固めました。
+**Audicle**では、Chrome拡張機能のRemoteAudioSynthesizerに待望のユニットテストを追加し、品質と信頼性を大きく向上させました。テストのカバレッジ向上は素晴らしい取り組みです！✅
+**jules-extension**では、バージョンアップ、チャットアセットの抽出、ブランチキャッシュの追加など、拡張機能の最適化と機能強化に注力されましたね。
+**paper-tools**では、DOI解決の堅牢化、プロパティ検索の最適化、DBLP検索やOpenAlexクライアントのテスト追加、レコメンダーの並列処理制限、Notion連携、BibTeX一括コピー機能の実装、APIキーの修正など、コード品質とパフォーマンス向上、そして多くの機能開発に精力的に取り組んだことが伺えます。🛠️🛡️
 
-チーム全体の献身的な作業に心から感謝します！この勢いで、これからも素晴らしい成果を出し続けてくれることを期待しています！👍
+複数のプロジェクトでこれだけ多くの成果を出されたこと、本当にお疲れ様でした！👏 今後のさらなる発展が楽しみです！
 
 _Total: 900 commits across 10 projects_
 
@@ -93,26 +93,26 @@ _Total: 900 commits across 10 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
-      <br />
-      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/6AGHSgBeirk7AHXWOM3vKp" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="Nothing." width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#2</strong></sub>
       <br />
       <sub>Nothing.</sub>
       <br />
       <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
+      <br />
+      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/2iFegucLSbIncYLOJVxnSU" target="_blank">
@@ -126,15 +126,15 @@ _Total: 900 commits across 10 projects_
       <sub>=LOVE</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/6cnTc9TUiWPnORVWCRdwXD" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273d56f3fb57a99e93fcd22eac9" alt="風に乗る" width="120" />
+      <a href="https://open.spotify.com/track/05dKiErCKnRwBxSW6n4E4v" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273b62ad8b3f6b75bda801e5fa5" alt="聞かせてwow wowを" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>風に乗る</sub>
+      <sub>聞かせてwow wowを</sub>
       <br />
-      <sub>Ryokuoushoku Shakai</sub>
+      <sub>SILENT SIREN</sub>
     </td>
   </tr>
 </table>
