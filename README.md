@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hallo! Es regnet☔
-📍 Berlin: 8°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Lima: 23°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で469件ものコミット、お疲れ様です！👏 Merge remote-tracking branch 'origin/staging' into test-improvement-collections-json-patch-13372850938048509434、🧪 Add unit tests for RemoteAudioSynthesizer in Chrome Extension (#647)、Bump version, extract chat assets, add branch cacheなど、多くの作業を進められました。合計76562行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で、なんと**469件**ものコミット、お疲れ様でした！👏 非常に精力的な活動ですね！
 
-_Total: 856 commits across 10 projects_
+特に目立った活動としては、
+*   **[OpenShelf]** では、ブランチのマージを通じてコレクション機能のテスト改善や大規模な機能統合を進められましたね。広範囲にわたる変更が含まれており、プロジェクトの進化を感じます！
+*   **[Audicle]** では、Chrome拡張機能の`RemoteAudioSynthesizer`に単体テストを導入し、堅牢な品質を確保する素晴らしい取り組みです🧪。これにより、モジュールの信頼性が大きく向上しましたね！
+*   **[jules-extension]** では、バージョンアップ、チャットアセットの最適化、キャッシュ機能の追加など、着実な改善が見られます。ユーザー体験の向上に繋がる変更ですね。
+*   **[paper-tools]** では、まさに八面六臂の活躍です！🎉 `main`ブランチへのマージを多数行い、DOI解決のロバスト性向上、プロパティ検索のパフォーマンス最適化、DBLP検索やOpenAlexクライアントのテスト拡充、レコメンダーの並行処理制限による性能改善、Notion連携のコードヘルス改善、BibTeX一括コピー機能、APIキーの修正など、機能強化、品質向上、バグ修正、テスト拡充と多岐にわたる素晴らしい成果を出されています。
+
+これだけの数のコミットと、多岐にわたる改善・新機能対応、そしてテスト拡充は本当に素晴らしいです。チーム全体の生産性と品質向上に大きく貢献されていますね！これからもその勢いで、素晴らしい開発を続けてください！🚀
+
+_Total: 844 commits across 10 projects_
 
 <table>
   <tr>
@@ -37,7 +45,7 @@ _Total: 856 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 593 commits (69.3%)</sub>
+      <sub>📊 582 commits (69.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -48,7 +56,7 @@ _Total: 856 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 131 commits (15.3%)</sub>
+      <sub>📊 130 commits (15.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 13</sub>
     </td>
@@ -59,7 +67,7 @@ _Total: 856 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 77 commits (9.0%)</sub>
+      <sub>📊 77 commits (9.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
