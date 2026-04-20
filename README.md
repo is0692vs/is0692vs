@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy day☁️
-📍 Chicago: 13°C
+# 🌍 你好！今天多云☁️
+📍 Beijing: 15°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
