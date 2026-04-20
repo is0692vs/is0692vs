@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy skies today☁️
-📍 New York: 7°C
+# 🌍 ¡Hola! Está nublado☁️
+📍 Mexico City: 16°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,20 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-お疲れ様です！直近30日間で、なんと**469件**ものコミットを達成されましたね！素晴らしい活動量です👏 主要なリポジトリでの活躍をまとめました。
+直近30日間で、なんと469件ものコミットを達成しましたね！素晴らしい活動量です👏
 
-*   **Audicle** では、Chrome ExtensionのRemoteAudioSynthesizerに単体テストを導入し、テストカバレッジと信頼性を大幅に向上させましたね。🧪 品質向上への貢献、お見事です！
-*   **jules-extension** では、バージョンの更新やチャットアセットの抽出、ブランチキャッシュの追加といった、基盤強化と効率化に繋がる作業を進められました。✨
-*   **OpenShelf** では、主にテスト改善やコレクションのJSONパッチに関するブランチのマージ作業を行っており、大規模な変更をスムーズに進められたことがうかがえます。🚀
-*   そして、特に多くのコミットが見られたのが **paper-tools** です！
-    *   DOI解決の堅牢化やAPIキーの修正など、システムの安定性を高めるコード健全化作業に注力されました。🛡️
-    *   プロパティ検索やレコメンダーの並行処理制限といったパフォーマンス最適化にも取り組み、ユーザー体験の向上に貢献！⚡️
-    *   また、DBLPやOpenAlexクライアント、アーカイブ機能のテスト追加を通じて、品質保証体制を強化されましたね。📝
-    *   Jules関連の機能開発やビジュアライザーのエクスポート形式、BibTeX一括コピーの改善など、多岐にわたる機能強化・改善も進められました。💡
+特に**paper-tools**では、コードの健全性向上、パフォーマンス最適化、テスト拡充、そしてJules関連の多岐にわたる機能開発や修正ブランチのマージが非常に活発でした。日々プロダクトを改善し続けているのがよく分かります！
 
-全体を通して、テストの拡充による品質向上、パフォーマンスの最適化、そしてコードの健全化に大きく貢献されたことが明確に分かります。一つ一つのコミットが、プロジェクトを前進させる大切な一歩です。この調子で、これからも素晴らしい開発を楽しんでいきましょう！💪
+**OpenShelf**でも、大規模なテスト改善やjson-patch対応など、重要な機能統合が行われましたね。大規模な変更も着実に進めています。
 
-_Total: 900 commits across 10 projects_
+**Audicle**では、Chrome ExtensionのRemoteAudioSynthesizerに待望のユニットテストが追加され、品質と信頼性が大きく向上しましたね🧪 素晴らしいテストカバレッジへの貢献です！
+
+**jules-extension**では、バージョンアップやチャットアセットの抽出、ブランチキャッシュの追加など、開発効率や拡張性のための土台作りが進みました。
+
+多岐にわたるプロジェクトで精力的に活動されており、その貢献は計り知れません。これからもこの調子で、素晴らしい開発を続けていきましょう！🚀
+
+_Total: 895 commits across 10 projects_
 
 <table>
   <tr>
@@ -48,7 +47,7 @@ _Total: 900 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 595 commits (66.1%)</sub>
+      <sub>📊 594 commits (66.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -59,7 +58,7 @@ _Total: 900 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 141 commits (15.7%)</sub>
+      <sub>📊 141 commits (15.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 13</sub>
     </td>
@@ -70,7 +69,7 @@ _Total: 900 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 83 commits (9.2%)</sub>
+      <sub>📊 79 commits (8.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -148,7 +147,7 @@ _Total: 900 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.10-publish">v1.3.10-publish</a> · 3 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.10-publish">v1.3.10-publish</a> · 4 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.10-publish -->
@@ -161,7 +160,7 @@ _Total: 900 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.10">v1.3.10</a> · 3 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.10">v1.3.10</a> · 4 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.10 -->
@@ -174,7 +173,7 @@ _Total: 900 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.9">v1.3.9</a> · 3 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.9">v1.3.9</a> · 4 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.9 -->
@@ -187,7 +186,7 @@ _Total: 900 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.9-publish">v1.3.9-publish</a> · 3 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.9-publish">v1.3.9-publish</a> · 4 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.9-publish -->
@@ -200,7 +199,7 @@ _Total: 900 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.8">v1.3.8</a> · 6 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.8">v1.3.8</a> · 1 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.8 -->
