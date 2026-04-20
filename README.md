@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Está nublado☁️
-📍 Mexico City: 18°C
+# 🌍 Hallo! Es regnet☔
+📍 Berlin: 9°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
