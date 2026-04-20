@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Paris: 12°C
+# 🌍 Hello! Cloudy day☁️
+📍 Chicago: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,13 +24,7 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で469件ものコミット、素晴らしい成果ですね！🚀 本当にお疲れ様でした！
-
-特に、[paper-tools] では驚くほど多くのブランチマージが行われ、コード健全性の向上、パフォーマンス最適化、様々なテスト追加（例: OpenAlexクライアント、DBLP検索）、そして機能改善に向けた基盤固めなど、幅広い分野で活発な開発が進んでいることが伺えます。
-
-また、[Audicle] ではRemoteAudioSynthesizerのユニットテストを追加し、品質と信頼性の向上に大きく貢献しましたね！🧪 [jules-extension] ではバージョンアップやアセット抽出、ブランチキャッシュの追加など、拡張機能の強化に注力されたようです。さらに、[OpenShelf] でも大規模なテスト改善や機能統合のマージが行われていました。
-
-複数のプロジェクトで、着実にそして積極的に開発を進めていて、その多才さに感銘を受けます✨ これからも素晴らしい活躍を期待しています！
+直近30日間で469件ものコミット、お疲れ様です！👏 Merge remote-tracking branch 'origin/staging' into test-improvement-collections-json-patch-13372850938048509434、🧪 Add unit tests for RemoteAudioSynthesizer in Chrome Extension (#647)、Bump version, extract chat assets, add branch cacheなど、多くの作業を進められました。合計76562行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 840 commits across 10 projects_
 
