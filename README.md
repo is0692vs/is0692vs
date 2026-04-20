@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Está nublado☁️
-📍 Mexico City: 16°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Buenos Aires: 19°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと469件ものコミットを達成しましたね！素晴らしい活動量です👏
+直近30日間で、なんと**469件**ものコミットを達成しましたね！素晴らしい活動量です👏
 
-特に**paper-tools**では、コードの健全性向上、パフォーマンス最適化、テスト拡充、そしてJules関連の多岐にわたる機能開発や修正ブランチのマージが非常に活発でした。日々プロダクトを改善し続けているのがよく分かります！
+特に注目すべきは、大規模な変更が行われた**[OpenShelf]**です。コレクション機能の改善やテスト強化に向けて、大きなマージを完了させましたね！
 
-**OpenShelf**でも、大規模なテスト改善やjson-patch対応など、重要な機能統合が行われましたね。大規模な変更も着実に進めています。
+**[Audicle]**では、Chrome拡張機能の`RemoteAudioSynthesizer`に単体テストをしっかり追加し、品質向上に大きく貢献しました🧪。これできっと、ユーザーはより安心して機能を利用できますね。
 
-**Audicle**では、Chrome ExtensionのRemoteAudioSynthesizerに待望のユニットテストが追加され、品質と信頼性が大きく向上しましたね🧪 素晴らしいテストカバレッジへの貢献です！
+**[jules-extension]**では、バージョンアップやチャットアセットの抽出、ブランチキャッシュの追加など、機能改善やパフォーマンス向上を進めましたね✨。
 
-**jules-extension**では、バージョンアップやチャットアセットの抽出、ブランチキャッシュの追加など、開発効率や拡張性のための土台作りが進みました。
+そして、最も多くのコミットがあった**[paper-tools]**では、コードの健全性向上、DOI解決の堅牢化、プロパティ検索の最適化といったパフォーマンス改善、DBLP著者検索やアーカイブ機能のテスト強化に尽力されましたね。Jules関連機能の開発も活発で、多角的な改善が進行中だと分かります🔍。
 
-多岐にわたるプロジェクトで精力的に活動されており、その貢献は計り知れません。これからもこの調子で、素晴らしい開発を続けていきましょう！🚀
+各リポジトリでコード品質、テストカバレッジ、パフォーマンス、そして新機能開発と、本当に多岐にわたる重要な作業を精力的に進めており、その努力に頭が下がります。この調子で、これからも素晴らしい開発を続けていきましょう！🚀
 
-_Total: 895 commits across 10 projects_
+_Total: 858 commits across 10 projects_
 
 <table>
   <tr>
@@ -47,7 +47,7 @@ _Total: 895 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 594 commits (66.4%)</sub>
+      <sub>📊 594 commits (69.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,20 +58,20 @@ _Total: 895 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 141 commits (15.8%)</sub>
+      <sub>📊 132 commits (15.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 13</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/github-user-summary" alt="github-user-summary" width="100%" />
+      <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/Audicle" alt="Audicle" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 79 commits (8.8%)</sub>
+      <sub>📊 77 commits (9.0%)</sub>
       <br />
-      <sub>🔷 TypeScript </sub>
+      <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
   </tr>
 </table>
