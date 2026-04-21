@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！今日は曇り空ですね☁️
-📍 Tokyo: 21°C
+# 🌍 G'day! Rainy weather☔
+📍 Sydney: 17°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,21 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**437件**ものコミット、素晴らしい成果ですね！🚀 多岐にわたるプロジェクトで活発な開発が進められました。
+お疲れ様です！直近30日間で**437件**ものコミット、素晴らしい活躍ですね！🎉
 
-特に目を引くのは、**paper-tools**での精力的な活動です。大量のマージコミットから、機能追加、テスト拡充（OpenAlexクライアント、DBLP検索など）、コードの健全性向上、そしてパフォーマンス最適化（リコメンダー、プロパティ検索）と、幅広い改善に貢献されたことが伺えます。プロジェクト全体の質を高めるための重要な役割を果たしました！📈
+特に変更行数の多かった上位コミットからは、以下のような活発な動きが見られました。
 
-また、**OpenShelf**では、大規模なブランチ統合を複数回行い、プロジェクトに大きな進捗をもたらしましたね。✨
+**OpenShelf**では、大規模なブランチマージが繰り返し行われ、**staging**から**main**へのリリース準備や、**drizzle-kit**の依存関係更新（**dependabot**）など、プロジェクトの進捗管理と基盤整備に大きく貢献していますね！🔄
 
-**Audicle**では、Chrome ExtensionのRemoteAudioSynthesizerに対し、単体テスト環境を整備し、テストカバレッジを大幅に向上させました。品質と信頼性の向上に大きく貢献されています！✅
+**Audicle**では、**RemoteAudioSynthesizer**のユニットテストを追加し、品質向上と信頼性強化に尽力されました。素晴らしいテスト駆動開発です！🧪
 
-そして、**jules-extension**では、バージョンアップ、チャットアセットの抽出、ブランチキャッシュの追加など、開発プロセスの改善や効率化に取り組まれました。💡
+**jules-extension**では、バージョンアップとともに、チャットアセットの抽出やブランチキャッシュの追加など、機能改善とパフォーマンス向上に取り組まれましたね！🚀
 
-あなたの継続的な努力が、これらのプロジェクトの進化を力強く推進しています！これからも素晴らしい開発を楽しんでください！💪
+そして**paper-tools**では、**main**ブランチへの頻繁なマージを通じて、コードヘルス改善、プロパティ検索のパフォーマンス最適化、DBLP検索テストの追加、DOI解決の堅牢化など、多岐にわたる重要な改善を次々と実現しています。✨
 
-_Total: 777 commits across 10 projects_
+どのリポジトリでも、安定性向上、機能強化、そして品質保証に向けた力強い取り組みがうかがえます。素晴らしい成果の数々、本当にお疲れ様でした！これからも期待しています！👏
+
+_Total: 867 commits across 10 projects_
 
 <table>
   <tr>
@@ -47,7 +49,7 @@ _Total: 777 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 515 commits (66.3%)</sub>
+      <sub>📊 605 commits (69.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,7 +60,7 @@ _Total: 777 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 130 commits (16.7%)</sub>
+      <sub>📊 130 commits (15.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 13</sub>
     </td>
@@ -69,7 +71,7 @@ _Total: 777 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 77 commits (9.9%)</sub>
+      <sub>📊 77 commits (8.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
