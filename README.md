@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！晴れ渡ってるね☀️
-📍 Sapporo: 7°C
+# 🌍 Hello! Beautiful sunny day☀️
+📍 New York: 8°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -26,7 +26,7 @@ _npm download statistics temporarily unavailable_
 直近30日間の活動サマリー:
 直近30日間で437件ものコミット、お疲れ様です！👏 Merge pull request #547 from Hiroki-org/staging、Merge remote-tracking branch 'origin/staging' into tmp-check-563、Merge remote-tracking branch 'origin/staging' into tmp-check-560など、多くの作業を進められました。合計106376行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-_Total: 849 commits across 10 projects_
+_Total: 835 commits across 10 projects_
 
 <table>
   <tr>
@@ -37,7 +37,7 @@ _Total: 849 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 587 commits (69.1%)</sub>
+      <sub>📊 576 commits (69.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -48,7 +48,7 @@ _Total: 849 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 130 commits (15.3%)</sub>
+      <sub>📊 127 commits (15.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 13</sub>
     </td>
@@ -59,7 +59,7 @@ _Total: 849 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 77 commits (9.1%)</sub>
+      <sub>📊 77 commits (9.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
