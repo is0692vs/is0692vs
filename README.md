@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！今日は曇り空ですね☁️
-📍 Tokyo: 18°C
+# 🌍 おはよう！雨ですね☔
+📍 Hiroshima: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,9 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で485件ものコミット、お疲れ様です！👏 Merge pull request #547 from Hiroki-org/staging、Merge remote-tracking branch 'origin/staging' into tmp-check-563、Merge remote-tracking branch 'origin/staging' into tmp-check-560など、多くの作業を進められました。合計106376行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で486件ものコミット、お疲れ様です！👏 Merge pull request #547 from Hiroki-org/staging、Merge remote-tracking branch 'origin/staging' into tmp-check-563、Merge remote-tracking branch 'origin/staging' into tmp-check-560など、多くの作業を進められました。合計106376行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-_Total: 706 commits across 10 projects_
+_Total: 707 commits across 10 projects_
 
 <table>
   <tr>
@@ -37,7 +37,7 @@ _Total: 706 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 529 commits (74.9%)</sub>
+      <sub>📊 529 commits (74.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -59,7 +59,7 @@ _Total: 706 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 83 commits (11.8%)</sub>
+      <sub>📊 84 commits (11.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
