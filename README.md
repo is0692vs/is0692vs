@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Sunny and warm☀️
-📍 Miami: 22°C
+# 🌍 ¡Hola! Está nublado☁️
+📍 Mexico City: 16°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,9 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと**438件**ものコミット、素晴らしい活躍でしたね！🚀 特に大規模な変更を伴う作業に多く携わられました。
+直近30日間で463件ものコミット、お疲れ様です！👏 Merge pull request #547 from Hiroki-org/staging、Merge remote-tracking branch 'origin/staging' into tmp-check-563、Merge remote-tracking branch 'origin/staging' into tmp-check-560など、多くの作業を進められました。合計106376行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-*   `OpenShelf`では、数多くのブランチマージやリリース準備、そして大規模な依存関係の更新（drizzle-kitのbump）に尽力されました。複雑なコンフリクト解決を伴う作業も多く、プロジェクトの安定稼働に大きく貢献されています！
-*   `paper-tools`では、コード品質の向上、パフォーマンス最適化、多様なテスト（DBLP、OpenAlexクライアント）の追加、DOI解決の堅牢化など、広範な改善を積極的に進め、プロジェクトの健全性を高めましたね！✨
-*   `Audicle`では、Chrome拡張機能の`RemoteAudioSynthesizer`に対するユニットテストを新規導入し、品質向上に大きく貢献されました。
-*   `jules-extension`では、バージョンアップ、チャットアセットの抽出、ブランチキャッシュの追加など、機能改善と最適化を行いました！
-
-多岐にわたるリポジトリで、これほど多くの貢献をされているのは本当に素晴らしいです。日々の努力がプロジェクトを大きく前進させています。本当にお疲れ様でした！👏
-
-_Total: 640 commits across 10 projects_
+_Total: 715 commits across 10 projects_
 
 <table>
   <tr>
@@ -44,7 +37,7 @@ _Total: 640 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 562 commits (87.8%)</sub>
+      <sub>📊 562 commits (78.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -55,20 +48,20 @@ _Total: 640 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 77 commits (12.0%)</sub>
+      <sub>📊 80 commits (11.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 1</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/RUSAEXP1EMB2026/repo08" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/RUSAEXP1EMB2026/repo08" alt="repo08" width="100%" />
+      <a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/github-user-summary" alt="github-user-summary" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/RUSAEXP1EMB2026/repo08" target="_blank">repo08</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 1 commits (0.2%)</sub>
+      <sub>📊 73 commits (10.2%)</sub>
       <br />
-      <sub>📄 Unknown </sub>
+      <sub>🔷 TypeScript </sub>
     </td>
   </tr>
 </table>
