@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Beautiful sunny day☀️
-📍 New York: 21°C
+# 🌍 ¡Hola! Está lloviendo☔
+📍 Bogotá: 17°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で500件ものコミット、素晴らしい活躍ぶりですね！🚀 特に目を引いたのは、大規模なプロジェクトへの多岐にわたる貢献です。
+直近30日間で500件ものコミット、素晴らしい集中力と生産性ですね！✨
 
-*   **OpenShelf** では、大規模なブランチ統合やリリース対応、そして依存関係の更新など、システム全体の安定稼働と最新化に大きく貢献されましたね。環境整備に尽力された姿が目に浮かびます！
-*   **Audicle** では、Chrome拡張機能のテスト環境を整備し、主要モジュールの単体テストを追加。品質向上への意識の高さがうかがえます🧪。
-*   **jules-extension** では、不要なローカルファイルをクリーンアップしつつ、バージョンアップやチャットアセットの抽出、ブランチキャッシュの追加など、機能強化と効率化を両立されています👏。
-*   **paper-tools** では、コードの健全性向上、パフォーマンス最適化、テストの拡充に精力的に取り組まれましたね。堅牢で使いやすいシステムを目指す姿勢が素晴らしいです。
+**OpenShelf** では、ステージングからメインへの大規模なリリース作業や、複数のブランチマージに伴う競合解決を精力的に進められました。drizzle-kitの依存関係更新もばっちりです！
+**Audicle** では、Chrome拡張機能のRemoteAudioSynthesizerに徹底した単体テストを追加し、品質と信頼性の向上に大きく貢献されましたね🧪
+**jules-extension** では、不要な成果物のクリーンアップでプロジェクトを整理し、バージョンアップやチャットアセットの抽出、ブランチキャッシュの追加で効率化とパフォーマンス向上に貢献されました👏
+そして **paper-tools** では、メインブランチへの多数のマージを通じて、DOI解決の堅牢化、プロパティ検索やレコメンダーのパフォーマンス最適化、DBLP著者検索のテスト追加、Notion連携の改善、そしてJules関連の多岐にわたる機能開発やコード健全性向上に取り組まれましたね。その幅広い活動範囲には驚かされます！
 
-様々なリポジトリで重要な作業を精力的に進め、プロジェクト全体に多大な貢献をされています。この調子で、これからもチームをリードしてください！お疲れ様でした！✨
+この多様なプロジェクトでの貢献は、チームにとって非常に価値のあるものです。素晴らしい成果をありがとうございます！これからもその勢いで頑張ってください！🚀
 
-_Total: 791 commits across 10 projects_
+_Total: 790 commits across 10 projects_
 
 <table>
   <tr>
@@ -44,7 +44,7 @@ _Total: 791 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 485 commits (61.3%)</sub>
+      <sub>📊 484 commits (61.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
