@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Lima: 19°C
+# 🌍 Ciao! Giornata nuvolosa☁️
+📍 Rome: 18°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと486件ものコミット、お疲れ様でした！🎉 大変活発な開発状況ですね！
+直近30日間で、なんと486件ものコミット、お疲れ様でした！素晴らしい活動量ですね！✨
 
-特に目立った活動としては、`[OpenShelf]`では大規模なマージ作業が何度も行われましたね。`staging`から`main`へのリリースや、新しいブランチへの統合を通じて、プロジェクトの中核を力強く推進してくれました。依存関係の更新も抜かりありません！
+各プロジェクトでの活躍を拝見しました。
+*   **OpenShelf**では、複数の大規模なブランチマージやリリース準備にご尽力されましたね。特にステージングブランチの統合や依存関係のアップデートは、プロジェクトの安定稼働に大きく貢献しています。
+*   **Audicle**では、Chrome Extensionの`RemoteAudioSynthesizer`にユニットテストを追加し、テストカバレッジと信頼性を大きく向上させました。品質へのこだわり、流石です🧪
+*   **jules-extension**では、不要なローカル状態やアーティファクトの削除でコードベースをきれいに保ちつつ、バージョンアップやアセット抽出、ブランチキャッシュの追加など、機能改善と最適化も抜かりないですね！
+*   **paper-tools**では、実に多岐にわたる開発が進行していましたね！コード品質の向上、パフォーマンス最適化、テストの追加、そしてJules関連の機能拡張まで、複数の取り組みを同時に進め、プロジェクトを力強く前進させています🚀
 
-`[Audicle]`では、Chrome拡張機能の`RemoteAudioSynthesizer`に`unit test`を追加し、品質向上に大きく貢献してくれましたね！🧪 素晴らしいテストカバレッジの拡充です。
+どのリポジトリでも、地道な改善から大規模な機能追加まで、本当に幅広く貢献していただきました。あなたの努力が各プロジェクトの進化に繋がっています。この調子で、これからも素晴らしい開発を楽しんでいきましょう！💪
 
-`[jules-extension]`では、バージョンアップやチャットアセットの抽出、キャッシュの追加など、機能改善と最適化を進めてくれました。✨
-
-そして`[paper-tools]`では、`main`ブランチへの頻繁なマージを通じて、コード品質の向上、パフォーマンス最適化、テストの追加、さらには新機能開発まで、非常に幅広い開発活動を展開していましたね。💪
-
-どのプロジェクトでも質の高い作業が行われており、チーム全体の生産性向上に大きく貢献しています。これからも素晴らしい活躍を期待しています！😊
-
-_Total: 829 commits across 10 projects_
+_Total: 827 commits across 10 projects_
 
 <table>
   <tr>
@@ -47,7 +45,7 @@ _Total: 829 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 527 commits (63.6%)</sub>
+      <sub>📊 526 commits (63.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,7 +56,7 @@ _Total: 829 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 124 commits (15.0%)</sub>
+      <sub>📊 128 commits (15.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 13</sub>
     </td>
@@ -147,7 +145,7 @@ _Total: 829 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.10-publish">v1.3.10-publish</a> · 6 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.10-publish">v1.3.10-publish</a> · 1 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.10-publish -->
@@ -160,7 +158,7 @@ _Total: 829 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.10">v1.3.10</a> · 6 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.10">v1.3.10</a> · 1 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.10 -->
@@ -173,7 +171,7 @@ _Total: 829 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.9">v1.3.9</a> · 6 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.9">v1.3.9</a> · 1 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.9 -->
@@ -186,7 +184,7 @@ _Total: 829 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.9-publish">v1.3.9-publish</a> · 6 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.9-publish">v1.3.9-publish</a> · 1 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.3.9-publish -->
