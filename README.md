@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 안녕하세요! 맑은 날씨네요☀️
-📍 Seoul: 18°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Madrid: 19°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,9 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、合計491件ものコミット、素晴らしい活躍でしたね！🚀 主要な活動をリポジトリごとに見ていきましょう。
+直近30日間で491件ものコミット、お疲れ様です！👏 Merge pull request #547 from Hiroki-org/staging、merge: update branch with staging、Merge remote-tracking branch 'origin/staging' into tmp-check-563など、多くの作業を進められました。合計118096行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-[OpenShelf]では、stagingからmainへの大規模なブランチ統合やリリースが頻繁に行われ、プロジェクトの安定稼働と進化に大きく貢献しました。依存関係の更新も着実に実施されていますね。
-[Audicle]では、Chrome拡張機能のRemoteAudioSynthesizerにユニットテストを追加し、テストカバレッジと信頼性が大幅に向上しました。品質へのこだわりが見事です！🧪
-[jules-extension]では、メインブランチとの統合を進めつつ、不要なローカル成果物のクリーンアップを実施。さらにバージョンアップやチャットアセットの抽出、ブランチキャッシュの追加といった改善も行われ、機能強化と効率化が進んでいます。✨
-[paper-tools]では、コードヘルスの改善、パフォーマンス最適化、テストの追加、Notion連携の強化など、多岐にわたる重要な変更がmainブランチに統合されました。継続的な改善活動がプロジェクトを強くしていますね。
-
-それぞれのプロジェクトで着実な進捗が見られ、チーム全体での活発な開発が伝わってきます。この調子でこれからも素晴らしい開発を続けていきましょう！💪
-
-_Total: 825 commits across 10 projects_
+_Total: 813 commits across 10 projects_
 
 <table>
   <tr>
@@ -44,7 +37,7 @@ _Total: 825 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 499 commits (60.5%)</sub>
+      <sub>📊 496 commits (61.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -55,7 +48,7 @@ _Total: 825 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 144 commits (17.5%)</sub>
+      <sub>📊 135 commits (16.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 14</sub>
     </td>
@@ -66,7 +59,7 @@ _Total: 825 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 92 commits (11.2%)</sub>
+      <sub>📊 92 commits (11.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -114,26 +107,26 @@ _Total: 825 commits across 10 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/2iFegucLSbIncYLOJVxnSU" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27331de4bcc9f38137474313dd4" alt="絶対アイドル辞めないで" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>絶対アイドル辞めないで</sub>
-      <br />
-      <sub>=LOVE</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/6jlGKRWFDRDs7nEhzLaN5K" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273b8a3cb5f89cce62885de71ed" alt="章" width="120" />
       </a>
       <br />
-      <sub><strong>#5</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>章</sub>
       <br />
       <sub>Ryokuoushoku Shakai</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/2iFegucLSbIncYLOJVxnSU" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27331de4bcc9f38137474313dd4" alt="絶対アイドル辞めないで" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>絶対アイドル辞めないで</sub>
+      <br />
+      <sub>=LOVE</sub>
     </td>
   </tr>
 </table>
