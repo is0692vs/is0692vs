@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Bit cloudy today☁️
-📍 Sydney: 16°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Lyon: 22°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,7 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で475件ものコミット、お疲れ様でした！👏 素晴らしい活動サマリーを見ていきましょう。
-
-**OpenShelf** では、stagingからmainへの大規模なマージが複数回行われ、依存関係（drizzle-kit）のアップデートも実施されましたね。大規模なコードベースの統合を精力的に進めています！✨
-
-**Audicle** では、Chrome拡張機能の`RemoteAudioSynthesizer`に単体テストが追加され、品質と信頼性の向上に大きく貢献されました。🧪テストカバレッジの拡充は素晴らしいです！
-
-**jules-extension** では、Codecovによるバンドル解析の導入、不要な`package-lock.json`の削除、古いアーティファクトのクリーンアップなど、ビルドプロセスとメンテナンスの改善が広範囲にわたって行われました。パフォーマンス最適化やバージョンアップも進んでいますね！🚀
-
-そして、**paper-tools** ではmainブランチへの頻繁な統合を通じて、DOI解決の堅牢化、プロパティ検索の最適化、DBLP検索テストの追加、レコメンダーの並行処理制限など、多岐にわたるコード品質向上とパフォーマンス改善、機能強化が進められました。💪
-
-この期間で複数のプロジェクトにわたる重要な改善と新機能開発、そして堅実なメンテナンスが行われていることがよくわかります。継続的な努力が、各プロジェクトの発展を力強く支えていますね。今後のさらなる活躍も楽しみにしています！🎉
+直近30日間で475件ものコミット、お疲れ様です！👏 Merge pull request #547 from Hiroki-org/staging、merge: update branch with staging、Merge remote-tracking branch 'origin/staging' into tmp-check-563など、多くの作業を進められました。合計126457行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 944 commits across 10 projects_
 
@@ -106,26 +96,26 @@ _Total: 944 commits across 10 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/5BtCZAPpqRW74K9Fme7IE6" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736fe3a6609a96447bd8c1e09d" alt="Primitive" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>Primitive</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/6jlGKRWFDRDs7nEhzLaN5K" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273b8a3cb5f89cce62885de71ed" alt="章" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>章</sub>
       <br />
       <sub>Ryokuoushoku Shakai</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/5BtCZAPpqRW74K9Fme7IE6" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736fe3a6609a96447bd8c1e09d" alt="Primitive" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>Primitive</sub>
+      <br />
+      <sub>BiSH</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/2iFegucLSbIncYLOJVxnSU" target="_blank">
