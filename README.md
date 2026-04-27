@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Lyon: 15°C
+# 🌍 你好！今天多云☁️
+📍 Beijing: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-今月もたくさんのコミット、お疲れ様でした！直近30日間でなんと**475件**ものコミットを重ねられましたね！素晴らしい生産性です👏
+直近30日間で合計475件ものコミット、お疲れ様です！素晴らしい活動量ですね！✨
 
-特に注目すべき活動は、複数のリポジトリにわたっています。
-*   **OpenShelf** では、ステージングからメインブランチへの頻繁なマージ作業や、依存関係の更新（drizzle-kitのバージョンアップ）が行われ、プロジェクトの安定稼働と最新化に貢献しました。競合解決もお見事でした！
-*   **Audicle** では、Chrome拡張機能の`RemoteAudioSynthesizer`に単体テストが追加され、品質と信頼性が大きく向上しましたね🧪。
-*   **jules-extension** では、Codecovによるバンドル分析の導入でビルドプロセスの改善を図り、不要な`package-lock.json`やローカルアーティファクトの削除でプロジェクトをきれいに保ちました✨。バージョンアップやアセット抽出も進められました。
-*   **paper-tools** では、メインブランチへの統合を通じて、コード健全性の向上、プロパティ検索やレコメンダーのパフォーマンス最適化、DBLP検索のテスト追加など、多岐にわたる改善活動が進みましたね。
+主な活動としては、複数のプロジェクトで大規模な変更や品質向上が見られました。
 
-日々の細かい改善から、大規模なマージ、テストの追加まで、多角的にプロジェクトに貢献されています。これからもその調子で頑張ってください！🚀
+**OpenShelf** では、`staging`から`main`への大規模なマージや、`tmp-check`ブランチへの`origin/staging`のマージといった重要なブランチ同期作業が頻繁に行われていましたね。また、`drizzle-kit`のバージョンアップによる依存関係の更新も対応いただき、プロジェクトの健全性を保つ上で大変貢献されています！🚀
+
+**Audicle** では、Chrome Extensionの`RemoteAudioSynthesizer`に待望のユニットテストが追加され、テストカバレッジと信頼性が大きく向上しました。品質へのこだわり、素晴らしいです！🧪
+
+**jules-extension** では、`codecov bundle analysis`の追加によるビルドプロセスの改善や、`package-lock.json`や不要なローカルアーティファクトの削除でプロジェクトをクリーンに保つ作業が見られました。さらに、チャットアセットの抽出やブランチキャッシュの追加など、パフォーマンス最適化に向けた取り組みも進められましたね！🛠️
+
+**paper-tools** でも、`origin/main`を様々なフィーチャーブランチへマージする作業が活発に行われました。コードの健康状態の改善や、パフォーマンス最適化、テストの追加など、多岐にわたる改善活動に貢献していただきありがとうございます！📈
+
+この30日間で、開発の効率化、品質向上、そして多くの機能改善に尽力されましたね。チームへの貢献に感謝します！この調子で頑張っていきましょう！💪
 
 _Total: 943 commits across 10 projects_
 
@@ -145,52 +149,77 @@ _Total: 943 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Code Mantra</strong> <a href="https://github.com/is0692vs/code-mantra/releases/tag/v1.1.9-publish">v1.1.9-publish</a> · Oct 31, 2025
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.1">v1.4.1</a> · Yesterday
 </summary>
 
-_No release notes provided_
+<!-- Release notes generated using configuration in .github/release.yml at v1.4.1 -->
+## What's Changed
+### ✨ Features
+* build: add codecov bundle analysis by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/491
+### 📦 Dependencies
+### 🔧 Other Changes
 
-[View on GitHub](https://github.com/is0692vs/code-mantra/releases/tag/v1.1.9-publish)
+[View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.1)
 </details>
 
 <details>
 <summary>
-<strong>Code Mantra</strong> <a href="https://github.com/is0692vs/code-mantra/releases/tag/v1.1.9">v1.1.9</a> · Oct 31, 2025
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.1-publish">v1.4.1-publish</a> · Yesterday
 </summary>
 
-_No release notes provided_
+<!-- Release notes generated using configuration in .github/release.yml at v1.4.1-publish -->
+## What's Changed
+### ✨ Features
+* build: add codecov bundle analysis by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/491
+### 📦 Dependencies
+### 🔧 Other Changes
 
-[View on GitHub](https://github.com/is0692vs/code-mantra/releases/tag/v1.1.9)
+[View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.1-publish)
 </details>
 
 <details>
 <summary>
-<strong>Code Mantra</strong> <a href="https://github.com/is0692vs/code-mantra/releases/tag/v1.1.8">v1.1.8</a> · Oct 31, 2025
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.0-publish">v1.4.0-publish</a> · 2 days ago
 </summary>
 
-_No release notes provided_
+<!-- Release notes generated using configuration in .github/release.yml at v1.4.0-publish -->
+## What's Changed
+### ✨ Features
+* ⚡ Optimize GitHubAuth.getToken() to use cache directly by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/481
+### 👷 CI/CD
+### 🔧 Other Changes
 
-[View on GitHub](https://github.com/is0692vs/code-mantra/releases/tag/v1.1.8)
+[View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.0-publish)
 </details>
 
 <details>
 <summary>
-<strong>Code Mantra</strong> <a href="https://github.com/is0692vs/code-mantra/releases/tag/v1.1.8-publish">v1.1.8-publish</a> · Oct 31, 2025
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.0">v1.4.0</a> · 2 days ago
 </summary>
 
-_No release notes provided_
+<!-- Release notes generated using configuration in .github/release.yml at v1.4.0 -->
+## What's Changed
+### ✨ Features
+* ⚡ Optimize GitHubAuth.getToken() to use cache directly by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/481
+### 👷 CI/CD
+### 🔧 Other Changes
 
-[View on GitHub](https://github.com/is0692vs/code-mantra/releases/tag/v1.1.8-publish)
+[View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.0)
 </details>
 
 <details>
 <summary>
-<strong>Code Mantra</strong> <a href="https://github.com/is0692vs/code-mantra/releases/tag/v1.1.7">v1.1.7</a> · Oct 31, 2025
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.11-publish">v1.3.11-publish</a> · 3 days ago
 </summary>
 
-_No release notes provided_
+<!-- Release notes generated using configuration in .github/release.yml at v1.3.11-publish -->
+## What's Changed
+### ✨ Features
+* ⚡ Optimize GitHubAuth.getToken to use cache by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/472
+### 🐛 Bug Fixes
+### 🔧 Other Changes
 
-[View on GitHub](https://github.com/is0692vs/code-mantra/releases/tag/v1.1.7)
+[View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.3.11-publish)
 </details>
 <!-- github-releases:end -->
 
