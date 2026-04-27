@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 你好！今天多云☁️
-📍 Beijing: 12°C
+# 🌍 Hello! Sunny and warm☀️
+📍 Miami: 23°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
 - **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 4,593 installs | ⭐ 4.5/5 (2 ratings) | v1.4.1
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 15 installs | ⭐ No ratings yet | v1.1.9
-- **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 50 installs | ⭐ No ratings yet | v0.1.3
+- **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 51 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-03-28%22%2C%222026-03-29%22%2C%222026-03-30%22%2C%222026-03-31%22%2C%222026-04-01%22%2C%222026-04-02%22%2C%222026-04-03%22%2C%222026-04-04%22%2C%222026-04-05%22%2C%222026-04-06%22%2C%222026-04-07%22%2C%222026-04-08%22%2C%222026-04-09%22%2C%222026-04-10%22%2C%222026-04-11%22%2C%222026-04-12%22%2C%222026-04-13%22%2C%222026-04-14%22%2C%222026-04-15%22%2C%222026-04-16%22%2C%222026-04-17%22%2C%222026-04-18%22%2C%222026-04-19%22%2C%222026-04-20%22%2C%222026-04-21%22%2C%222026-04-22%22%2C%222026-04-23%22%2C%222026-04-24%22%2C%222026-04-25%22%2C%222026-04-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B4002%2C4024%2C4033%2C4053%2C4072%2C4077%2C4093%2C4108%2C4122%2C4140%2C4157%2C4172%2C4198%2C4219%2C4234%2C4252%2C4285%2C4308%2C4339%2C4363%2C4393%2C4407%2C4418%2C4452%2C4470%2C4498%2C4520%2C4541%2C4566%2C4593%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C14%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C45%2C46%2C47%2C47%2C48%2C48%2C49%2C49%2C49%2C49%2C50%2C50%2C50%2C50%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-03-29%22%2C%222026-03-30%22%2C%222026-03-31%22%2C%222026-04-01%22%2C%222026-04-02%22%2C%222026-04-03%22%2C%222026-04-04%22%2C%222026-04-05%22%2C%222026-04-06%22%2C%222026-04-07%22%2C%222026-04-08%22%2C%222026-04-09%22%2C%222026-04-10%22%2C%222026-04-11%22%2C%222026-04-12%22%2C%222026-04-13%22%2C%222026-04-14%22%2C%222026-04-15%22%2C%222026-04-16%22%2C%222026-04-17%22%2C%222026-04-18%22%2C%222026-04-19%22%2C%222026-04-20%22%2C%222026-04-21%22%2C%222026-04-22%22%2C%222026-04-23%22%2C%222026-04-24%22%2C%222026-04-25%22%2C%222026-04-26%22%2C%222026-04-27%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B4024%2C4033%2C4053%2C4072%2C4077%2C4093%2C4108%2C4122%2C4140%2C4157%2C4172%2C4198%2C4219%2C4234%2C4252%2C4285%2C4308%2C4339%2C4363%2C4393%2C4407%2C4418%2C4452%2C4470%2C4498%2C4520%2C4541%2C4566%2C4593%2C4593%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C14%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C45%2C46%2C47%2C47%2C48%2C48%2C49%2C49%2C49%2C49%2C50%2C50%2C50%2C50%2C51%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,16 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計489件ものコミット、大変お疲れ様でした！✨ 活発な活動でプロジェクトが大きく前進していますね！
+今月もお疲れ様でした！直近30日間で**475件**ものコミット、素晴らしいですね！🚀 プロジェクト全体で非常に活発な活動が見て取れます。
 
-主な活動としては、多岐にわたるリポジトリで重要な進捗が見られました。
+特に、**OpenShelf**では、大規模なマージ作業が目立ちました。ステージングからメインへのリリース（`Release: staging -> main`）やブランチ同期（`merge: update branch with staging`）で、数千行規模の変更を頻繁に取り込み、依存関係の更新（`chore(deps-dev): bump drizzle-kit`）も着実に進めていますね。プロジェクトの安定稼働に大きく貢献されています。
 
-*   **OpenShelf**では、stagingブランチからmainへの頻繁なマージやブランチの同期を行い、大規模な機能統合や依存関係の更新（drizzle-kitのバージョンアップなど）に尽力されましたね。複数のブランチでの衝突解決も伴っており、複雑な統合作業を乗り越えられたこと、素晴らしいです！💪
-*   **Audicle**では、Chrome Extensionの`RemoteAudioSynthesizer`に単体テストを導入し、品質と信頼性の向上に大きく貢献されました！🧪テストカバレッジの向上は、安定したプロダクト提供に不可欠です。
-*   **jules-extension**では、不要な`package-lock.json`の削除や`Codecov`バンドル分析の追加など、ビルドプロセスの改善やクリーンアップを進められました。さらに、バージョンアップやチャットアセットの抽出、ブランチキャッシュの追加で、機能強化とパフォーマンス改善にも積極的に取り組まれましたね！🚀
-*   そして、**paper-tools**では、`main`ブランチへの頻繁なマージを通じて、コードの健全性向上、パフォーマンス最適化、テストの追加、`jules`関連の機能開発など、幅広い改善と開発を着実に進められました。多岐にわたる貢献、お見事です！💡
+また、**Audicle**では、Chrome拡張機能の`RemoteAudioSynthesizer`にユニットテストを追加し、テストカバレッジと信頼性を大幅に向上させましたね！🧪 新たなテスト基盤の導入、お見事です。
 
-皆さんの tireless effort が各プロジェクトを力強く推進しています。これからもこの調子で素晴らしい成果を上げていきましょう！🎉
+**jules-extension**では、`codecov bundle analysis`を追加してビルドプロセスを改善し、不要なファイル（`remove unused package-lock.json`など）のクリーンアップも精力的に進めました。バージョンアップやアセット抽出、キャッシュ最適化も行い、プロジェクト全体の健康を保っています。✨
+
+そして、**paper-tools**では、メインブランチへの多くのマージ（`Merge remote-tracking branch 'origin/main'`）を通じて、コード品質向上、パフォーマンス最適化、テスト追加など、幅広い改善活動を推進されていましたね！
+
+どのリポジトリでも、高品質なプロダクトを届けるための熱意が感じられます。この調子で、これからも素晴らしい開発を期待しています！応援しています！🎉
 
 _Total: 994 commits across 10 projects_
 
@@ -94,24 +95,24 @@ _Total: 994 commits across 10 projects_
       <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/5BtCZAPpqRW74K9Fme7IE6" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736fe3a6609a96447bd8c1e09d" alt="Primitive" width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>Primitive</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/6AGHSgBeirk7AHXWOM3vKp" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="Nothing." width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#2</strong></sub>
       <br />
       <sub>Nothing.</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/5BtCZAPpqRW74K9Fme7IE6" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736fe3a6609a96447bd8c1e09d" alt="Primitive" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>Primitive</sub>
       <br />
       <sub>BiSH</sub>
     </td>
