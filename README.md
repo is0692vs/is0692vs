@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy day☁️
-📍 Chicago: 17°C
+# 🌍 안녕하세요! 맑은 날씨네요☀️
+📍 Seoul: 7°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,14 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**483件**ものコミット、お疲れ様です！素晴らしい活動量ですね👏✨
+直近30日間で**483件**ものコミット、大変素晴らしいですね！✨主に以下のリポジトリで精力的な活動が見られました。
 
-特に、以下のプロジェクトで大きな貢献が見られました。
-*   **OpenShelf**では、stagingからmainへの大規模なリリース作業や複数ブランチの統合に尽力されましたね！多くのコード変更を伴うマージコミットを丁寧に進めていただき、プロジェクトの安定稼働に貢献されています。Drizzle Kitの依存関係更新もばっちりです！
-*   **Audicle**では、Chrome Extensionにユニットテストを導入し、RemoteAudioSynthesizerのテストカバレッジを大幅に向上させましたね🧪🚀 品質向上への強い意識を感じます！
-*   **jules-extension**では、Codecov bundle analysisの導入でビルドプロセスを改善し、未使用のパッケージロックファイルや不要なローカルアーティファクトの削除でコードベースをすっきり整理されました。バージョンアップやキャッシュ関連の調整も順調に進んでいますね！
-*   **paper-tools**では、mainブランチへの統合に加え、DOI解決のロバスト性向上、プロパティ検索やレコメンダーのパフォーマンス最適化、DBLP検索のテスト追加など、コード品質とパフォーマンスの両面で素晴らしい改善を進められています📈
+*   **OpenShelf**: `staging` から `main` への定期的なリリース（例: `Release: staging -> main`）やブランチのマージが多数行われており、プロジェクトの安定稼働と最新化に大きく貢献されていますね。Drizzle Kitの依存関係アップデート (`chore(deps-dev): bump drizzle-kit`) も着実に実施されています！
+*   **Audicle**: `RemoteAudioSynthesizer` のユニットテスト追加 (`🧪 Add unit tests for RemoteAudioSynthesizer in Chrome Extension`) が注目されます。テストカバレッジ向上と品質保証への意識が素晴らしいです！🧪
+*   **jules-extension**: `build: add codecov bundle analysis` でビルドプロセスの改善や、`chore: remove unused package-lock.json` のような環境整備、さらには `Bump version, extract chat assets, add branch cache` といった機能強化や最適化にも取り組まれていますね。効率化への貢献も大きいです！🚀
+*   **paper-tools**: `origin/main` への継続的なブランチマージが多数確認でき、プロジェクトの統合と開発が順調に進んでいることが伺えます。
 
-どのプロジェクトでも、リリース、品質向上、最適化、クリーンアップと多岐にわたる重要な作業を精力的にこなされていますね。日々の努力がプロジェクトの成長に繋がっています。今後の活躍も楽しみにしています！これからも一緒に頑張りましょう！
+多岐にわたるプロジェクトでこれだけの成果を出されているのは本当に素晴らしいです！これからも頑張ってください！👏
 
 _Total: 918 commits across 10 projects_
 
