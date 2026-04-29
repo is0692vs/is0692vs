@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Lyon: 17°C
+# 🌍 おはよう！曇ってるね☁️
+📍 Hiroshima: 17°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,9 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**合計483件**ものコミット、素晴らしいペースですね！✨日々活発に開発が進められている様子が伺えます。
+直近30日間で483件ものコミット、お疲れ様です！👏 Merge pull request #547 from Hiroki-org/staging、merge: update branch with staging、Merge remote-tracking branch 'origin/staging' into tmp-check-563など、多くの作業を進められました。合計131462行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-特に目を引くのは、
-*   **OpenShelf**での大規模な`staging`ブランチのマージ作業です。複数回のリリースに向けたコード統合は大変だったことでしょう。また、`drizzle-kit`の依存関係を最新に保つためのアップデートも着実に行ってくれました。👏
-*   **Audicle**ではChrome拡張機能の`RemoteAudioSynthesizer`に単体テストを大幅に追加し、品質と信頼性を大きく向上させましたね！🧪
-*   **jules-extension**では`codecov`導入によるバンドル分析や不要ファイルの削除、バージョンアップとキャッシュ最適化で、ビルドプロセス改善とプロジェクトの整理に大きく貢献しましたね！🚀
-*   そして**paper-tools**では、メインブランチへの統合に加え、コード健全性の向上、プロパティ検索の最適化、DBLP検索のテスト追加、レコメンダーの並行処理制限など、多岐にわたる改善とパフォーマンス向上を実現されました！💡
-
-どのプロジェクトでも積極的な開発と改善が進んでおり、素晴らしいです！この調子でこれからも頑張ってください！😊
-
-_Total: 929 commits across 10 projects_
+_Total: 925 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +37,7 @@ _Total: 929 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 456 commits (49.1%)</sub>
+      <sub>📊 456 commits (49.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
