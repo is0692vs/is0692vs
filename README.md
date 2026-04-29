@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Hiroshima: 17°C
+# 🌍 ¡Hola! Día soleado☀️
+📍 Mexico City: 16°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
