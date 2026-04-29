@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Mexico City: 16°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Lyon: 21°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -26,7 +26,7 @@ _npm download statistics temporarily unavailable_
 直近30日間の活動サマリー:
 直近30日間で483件ものコミット、お疲れ様です！👏 Merge pull request #547 from Hiroki-org/staging、merge: update branch with staging、Merge remote-tracking branch 'origin/staging' into tmp-check-563など、多くの作業を進められました。合計131462行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-_Total: 925 commits across 10 projects_
+_Total: 891 commits across 10 projects_
 
 <table>
   <tr>
@@ -37,18 +37,7 @@ _Total: 925 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 456 commits (49.3%)</sub>
-      <br />
-      <sub>🔷 TypeScript </sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/paper-tools" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/paper-tools" alt="paper-tools" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
-      <br />
-      <sub>📊 151 commits (16.3%)</sub>
+      <sub>📊 456 commits (51.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -59,9 +48,20 @@ _Total: 925 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 138 commits (14.9%)</sub>
+      <sub>📊 138 commits (15.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 14</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Hiroki-org/paper-tools" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/paper-tools" alt="paper-tools" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
+      <br />
+      <sub>📊 117 commits (13.1%)</sub>
+      <br />
+      <sub>🔷 TypeScript </sub>
     </td>
   </tr>
 </table>
@@ -137,7 +137,7 @@ _Total: 925 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.1">v1.4.1</a> · 2 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.1">v1.4.1</a> · 3 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.4.1 -->
@@ -152,7 +152,7 @@ _Total: 925 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.1-publish">v1.4.1-publish</a> · 2 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.1-publish">v1.4.1-publish</a> · 3 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.4.1-publish -->
