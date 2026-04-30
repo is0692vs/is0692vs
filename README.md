@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Beautiful sunny day☀️
-📍 Sydney: 19°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Lyon: 20°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,7 +24,14 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で473件ものコミット、お疲れ様です！👏 Merge pull request #547 from Hiroki-org/staging、merge: update branch with staging、Merge remote-tracking branch 'origin/staging' into tmp-check-563など、多くの作業を進められました。合計131462行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間でなんと473件ものコミット、素晴らしい活躍ですね！🎉 プロダクトの成長に大きく貢献しています。
+
+特に**OpenShelf**では、stagingからmainへの大規模なリリース関連マージを複数回実施し、ブランチ更新や衝突解決に尽力されました。drizzle-kitの依存関係更新も着実に進めていますね。
+**Audicle**では、Chrome拡張機能の`RemoteAudioSynthesizer`に単体テストを導入し、テストカバレッジと信頼性を大きく向上させました。品質へのこだわりが光ります✨
+**jules-extension**では、Codecov bundle analysisの追加でビルドプロセスを改善し、不要なファイル削除やパフォーマンス最適化にも取り組まれました。バージョンアップとアセット管理も抜かりありません！
+**paper-tools**でも、`main`ブランチとの同期を密に行いながら、コード健全性の向上、プロパティ検索やレコメンダーの並行処理最適化など、パフォーマンス改善とテスト強化に力を入れています。
+
+様々なリポジトリで多岐にわたる重要な改善が行われており、その貢献度は計り知れません。チームの生産性と品質向上に大きく貢献されていますね！この調子でこれからも素晴らしい開発を続けていきましょう！🚀
 
 _Total: 832 commits across 10 projects_
 
@@ -137,7 +144,7 @@ _Total: 832 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.1">v1.4.1</a> · 3 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.1">v1.4.1</a> · 4 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.4.1 -->
@@ -152,7 +159,7 @@ _Total: 832 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.1-publish">v1.4.1-publish</a> · 3 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.1-publish">v1.4.1-publish</a> · 4 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.4.1-publish -->
