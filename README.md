@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Madrid: 19°C
+# 🌍 Ciao! Giornata soleggiata☀️
+📍 Rome: 17°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**472件**ものコミット、大変お疲れ様でした！素晴らしい活動量ですね！👏
+この30日間でなんと472件ものコミット、大変お疲れ様でした！素晴らしい活動量ですね！👏
 
-**OpenShelf**では、stagingからmainへの大規模なリリース関連のマージ作業や、複数のブランチ統合に伴うコンフリクト解決に尽力されました。Drizzle Kitの依存関係更新も着実に進め、プロジェクトの安定稼働に大きく貢献しています！🛠️
+まず、**OpenShelf**では大規模なブランチ統合やリリース準備にご尽力されたようです。stagingからmainへのマージや、コンフリクトを伴う`tmp-check-XXX`ブランチへのマージ作業、依存関係の更新（drizzle-kit）など、プロジェクトの安定稼働と進化に大きく貢献されていますね！💪
 
-**Audicle**では、Chrome拡張機能の`RemoteAudioSynthesizer`に単体テストを追加し、テストカバレッジと信頼性を大幅に向上させました。これは品質向上に大きく繋がりますね！🧪
+**Audicle**では、Chrome ExtensionのRemoteAudioSynthesizerにユニットテストが追加され、品質向上が図られました。テスト環境の整備もお見事です！🧪
 
-**jules-extension**では、`codecov`によるバンドル分析の追加や、不要な`package-lock.json`、ローカルアーティファクトの削除など、ビルドプロセスやクリーンアップ、効率化に注力されました。バージョンアップやキャッシュの追加も見られます。✨
+**jules-extension**では、Codecovによるバンドル分析の導入でビルドプロセスの透明性が向上し、不要なファイルのクリーンアップやパフォーマンス最適化にも意欲的に取り組まれましたね。バージョンアップ、チャットアセットの抽出、ブランチキャッシュの追加など、多岐にわたる改善が進行中です！🚀
 
-**paper-tools**では、`origin/main`への複数のマージを通じて、コードヘルスの向上（DOI解決の堅牢化）や、プロパティ検索・レコメンダーの並行処理に関するパフォーマンス最適化、さらにはテストの追加など、多岐にわたる改善活動を行いました。🔍
+そして**paper-tools**では、コードヘルス改善、プロパティ検索の最適化、DBLP検索のテスト追加、リコメンダーの並行性制限といった複数の重要な改善ブランチがメインに統合されており、プロジェクト全体の着実な強化が進んでいますね！✨
 
-様々なプロジェクトで重要な役割を果たし、着実に前進しているのがよく分かります。この調子でこれからも頑張っていきましょう！🚀
+全体を通して、大規模なブランチ管理からテスト拡充、パフォーマンス最適化、そして多機能なプロジェクトの改善まで、非常に幅広く、かつ質の高い開発をされていることが伺えます。この勢いで今後も素晴らしい開発を期待しています！😊
 
-_Total: 764 commits across 10 projects_
+_Total: 772 commits across 10 projects_
 
 <table>
   <tr>
@@ -47,7 +47,7 @@ _Total: 764 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 455 commits (59.6%)</sub>
+      <sub>📊 455 commits (58.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,18 +58,18 @@ _Total: 764 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 145 commits (19.0%)</sub>
+      <sub>📊 145 commits (18.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 14</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/paper-tools" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/paper-tools" alt="paper-tools" width="100%" />
+      <a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/github-user-summary" alt="github-user-summary" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 92 commits (12.0%)</sub>
+      <sub>📊 100 commits (13.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -106,22 +106,11 @@ _Total: 764 commits across 10 projects_
       <sub>Ryokuoushoku Shakai</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/6AGHSgBeirk7AHXWOM3vKp" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="Nothing." width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>Nothing.</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/6zO9kSYSVed2iQQSOrKUGQ" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273cf68803dfbc2fbb83d97eb67" alt="STARDUST～内藤哲也のテーマ" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>STARDUST～内藤哲也のテーマ</sub>
       <br />
@@ -132,11 +121,22 @@ _Total: 764 commits across 10 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b2734b0ed3119e27ff6e56298053" alt="RATATATA" width="120" />
       </a>
       <br />
-      <sub><strong>#5</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>RATATATA</sub>
       <br />
       <sub>BABYMETAL, Electric Callboy</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/6AGHSgBeirk7AHXWOM3vKp" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="Nothing." width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>Nothing.</sub>
+      <br />
+      <sub>BiSH</sub>
     </td>
   </tr>
 </table>
