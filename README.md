@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia chuvoso☔
-📍 São Paulo: 20°C
+# 🌍 Hello! Foggy and cloudy☁️
+📍 San Francisco: 12°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,21 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-素晴らしい活動量ですね！直近30日間でなんと**471件**ものコミットを重ね、多くのプロジェクトで活躍されました！👏
+直近30日間で合計471件ものコミット、素晴らしい活躍でした！✨ 幅広いプロジェクトで多岐にわたる貢献が見て取れますね。
 
-特に目を引くのは、
-- **OpenShelf**では、頻繁なステージングブランチのマージやリリース作業に加え、依存関係の更新や型改善によるコード健全性の向上に貢献しました。プロジェクトの安定稼働に大きく貢献していますね！
-- **Audicle**では、Chrome拡張機能の`RemoteAudioSynthesizer`にユニットテストを追加し、テストカバレッジと信頼性を大幅に高めました🧪。品質へのこだわり、素晴らしいです！
-- **jules-extension**では、Codecovによるバンドル分析の追加や不要なファイルの整理で、ビルドプロセスの改善とプロジェクトのクリーンアップを進めましたね。
-- **paper-tools**では、多岐にわたるブランチのマージを通じて、DOI解決の堅牢化、プロパティ検索の最適化、DBLP検索のテスト追加、レコメンダーの並行処理制限、Notion連携の改善、アーカイブ機能のテスト追加など、コード健全性、パフォーマンス、機能強化、テスト拡充と、非常に広範囲な開発を推進しましたね。
+特に`OpenShelf`では、複数回の`staging`ブランチのマージや`main`へのリリース作業、さらには依存関係の更新（`drizzle-kit`）や、コードヘルスとして型定義の明確化に取り組んでいました。安定したリリースと品質向上への強いコミットが伺えます。
 
-各プロジェクトでの地道な作業から大規模な機能改善まで、その多才さと献身に感謝します！この調子で、これからも素晴らしい開発を続けていきましょう！🚀✨
+`Audicle`では、Chrome拡張機能の`RemoteAudioSynthesizer`に待望の単体テストを追加！🧪 これで信頼性がグッと向上したことでしょう。
 
-_Total: 958 commits across 10 projects_
+`jules-extension`では、`Codecov`によるバンドル分析の導入や不要なファイルの削除で、ビルドプロセスの改善とクリーンアップを進めましたね。効率化への意識が高いです。
+
+`github-user-summary`では、`fetch-activity-cache`関連のブランチマージを行い、着実に機能強化を進めています。
+
+そして`paper-tools`では、`main`へのマージを多数実施し、DOI解決の堅牢化やプロパティ検索の最適化といった`code-health`や`perf`改善、`DBLP`著者検索やアーカイブ機能のテスト追加など、品質とパフォーマンスの両面で素晴らしい作業を行いました。
+
+たくさんのプロジェクトで、機能強化、品質向上、テスト拡充、そして安定化に貢献しており、その多才さに感銘を受けます！これからも期待しています！🚀
+
+_Total: 956 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +49,7 @@ _Total: 958 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 481 commits (50.2%)</sub>
+      <sub>📊 479 commits (50.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
