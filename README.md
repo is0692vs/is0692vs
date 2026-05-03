@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hallo! Bewölkt heute☁️
-📍 Berlin: 14°C
+# 🌍 ¡Hola! Día soleado☀️
+📍 Buenos Aires: 11°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -9,7 +9,7 @@
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 15 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 53 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-04-03%22%2C%222026-04-04%22%2C%222026-04-05%22%2C%222026-04-06%22%2C%222026-04-07%22%2C%222026-04-08%22%2C%222026-04-09%22%2C%222026-04-10%22%2C%222026-04-11%22%2C%222026-04-12%22%2C%222026-04-13%22%2C%222026-04-14%22%2C%222026-04-15%22%2C%222026-04-16%22%2C%222026-04-17%22%2C%222026-04-18%22%2C%222026-04-19%22%2C%222026-04-20%22%2C%222026-04-21%22%2C%222026-04-22%22%2C%222026-04-23%22%2C%222026-04-24%22%2C%222026-04-25%22%2C%222026-04-26%22%2C%222026-04-27%22%2C%222026-04-28%22%2C%222026-04-29%22%2C%222026-04-30%22%2C%222026-05-01%22%2C%222026-05-02%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B4093%2C4108%2C4122%2C4140%2C4157%2C4172%2C4198%2C4219%2C4234%2C4252%2C4285%2C4308%2C4339%2C4363%2C4393%2C4407%2C4418%2C4452%2C4470%2C4498%2C4520%2C4541%2C4566%2C4593%2C4610%2C4617%2C4638%2C4660%2C4695%2C4710%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C14%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C45%2C46%2C47%2C47%2C48%2C48%2C49%2C49%2C49%2C49%2C50%2C50%2C50%2C50%2C52%2C52%2C52%2C53%2C53%2C53%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-04-04%22%2C%222026-04-05%22%2C%222026-04-06%22%2C%222026-04-07%22%2C%222026-04-08%22%2C%222026-04-09%22%2C%222026-04-10%22%2C%222026-04-11%22%2C%222026-04-12%22%2C%222026-04-13%22%2C%222026-04-14%22%2C%222026-04-15%22%2C%222026-04-16%22%2C%222026-04-17%22%2C%222026-04-18%22%2C%222026-04-19%22%2C%222026-04-20%22%2C%222026-04-21%22%2C%222026-04-22%22%2C%222026-04-23%22%2C%222026-04-24%22%2C%222026-04-25%22%2C%222026-04-26%22%2C%222026-04-27%22%2C%222026-04-28%22%2C%222026-04-29%22%2C%222026-04-30%22%2C%222026-05-01%22%2C%222026-05-02%22%2C%222026-05-03%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B4108%2C4122%2C4140%2C4157%2C4172%2C4198%2C4219%2C4234%2C4252%2C4285%2C4308%2C4339%2C4363%2C4393%2C4407%2C4418%2C4452%2C4470%2C4498%2C4520%2C4541%2C4566%2C4593%2C4610%2C4617%2C4638%2C4660%2C4695%2C4710%2C4710%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C12%2C14%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C44%2C45%2C46%2C47%2C47%2C48%2C48%2C49%2C49%2C49%2C49%2C50%2C50%2C50%2C50%2C52%2C52%2C52%2C53%2C53%2C53%2C53%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,22 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で471ものコミット、本当にお疲れ様でした！🚀
-この期間の活動サマリーをお届けします。
+直近30日間で、なんと471件ものコミット、お疲れ様です！素晴らしい活動量ですね！✨
 
-**OpenShelf** では、多数のブランチマージやコンフリクト解決にご尽力いただき、ステージングとメインブランチの同期、リリース対応を円滑に進められました。特に依存関係の更新や、組織作成・コレクションルートにおけるJSONボディ型の明示化で、コードの健全性向上に大きく貢献されましたね！✨
+特に活発だったのは以下のプロジェクトです。
 
-**Audicle** では、Chrome拡張機能の`RemoteAudioSynthesizer`に待望の単体テストが追加され、品質と信頼性が大きく向上しました。これは素晴らしい改善です🧪
+*   **OpenShelf** では、多数のブランチ統合やコンフリクト解決、そしてリリースタスクを精力的にこなしていましたね。`drizzle-kit` のバージョンアップや、組織・コレクションルートのJSONボディタイプの明示化でコード品質も向上させています！🚀
+*   **Audicle** では、Chrome拡張機能に待望のユニットテストを導入し、`RemoteAudioSynthesizer` のテストカバレッジを大幅に改善！信頼性向上に大きく貢献しています🧪。
+*   **jules-extension** では、Codecovによるバンドル分析を追加し、ビルドプロセスを強化。さらに不要な `package-lock.json` を削除し、プロジェクトをクリーンに保っていますね🧹。
+*   **paper-tools** では、DOIの解決の堅牢化やプロパティ検索の最適化、レコメンダーの並列処理制限など、パフォーマンスとコード品質の両面で多岐にわたる改善を進めていました。DBLP検索やアーカイブ機能のテスト追加も行い、システムの安定性がさらに増したことでしょう！🌟
+*   **github-user-summary** では、主要ブランチへの統合を着実に進めていましたね。
 
-**jules-extension** では、Codecovバンドル分析の導入や不要なファイルのクリーンアップで、開発プロセスの透明性と効率がさらに高まりましたね。
+多くのリポジトリで、機能追加から品質改善、テスト強化まで幅広く取り組んでおり、プロジェクト全体の健全な成長に貢献しているのがよく分かります。この調子で、今後も素晴らしい開発を楽しんでいきましょう！💪
 
-**paper-tools** では、コードの健全性維持、DOI解決の堅牢化、プロパティ検索の最適化、DBLP検索の著者テスト追加など、多岐にわたる機能改善とパフォーマンス向上に取り組まれました。Jules関連の様々なブランチのマージも活発に行われ、頼もしい活躍です！
-
-**github-user-summary** でもメインブランチへのマージが進み、プロジェクトの進捗に貢献されています。
-
-各プロジェクトで、マージ、テスト強化、ビルド改善、パフォーマンス最適化、コード品質向上と、幅広い分野で精力的に活動されました。継続的な努力がプロジェクトを大きく前進させています。これからも応援しています！🎉
-
-_Total: 859 commits across 10 projects_
+_Total: 951 commits across 10 projects_
 
 <table>
   <tr>
@@ -50,7 +47,7 @@ _Total: 859 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 479 commits (55.8%)</sub>
+      <sub>📊 479 commits (50.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -61,7 +58,7 @@ _Total: 859 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 174 commits (20.3%)</sub>
+      <sub>📊 174 commits (18.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 14</sub>
     </td>
@@ -72,7 +69,7 @@ _Total: 859 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 135 commits (15.7%)</sub>
+      <sub>📊 135 commits (14.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -120,26 +117,26 @@ _Total: 859 commits across 10 projects_
       <sub>KAZSIN</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/2S3u18aJF8eExll5dYwSJb" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2734b0ed3119e27ff6e56298053" alt="RATATATA" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>RATATATA</sub>
-      <br />
-      <sub>BABYMETAL, Electric Callboy</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/6AGHSgBeirk7AHXWOM3vKp" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="Nothing." width="120" />
       </a>
       <br />
-      <sub><strong>#5</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>Nothing.</sub>
       <br />
       <sub>BiSH</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/2S3u18aJF8eExll5dYwSJb" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2734b0ed3119e27ff6e56298053" alt="RATATATA" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>RATATATA</sub>
+      <br />
+      <sub>BABYMETAL, Electric Callboy</sub>
     </td>
   </tr>
 </table>
