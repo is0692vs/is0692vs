@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Beautiful sunny day☀️
-📍 New York: 21°C
+# 🌍 Hello! Cloudy today☁️
+📍 Toronto: 20°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
