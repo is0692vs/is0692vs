@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rainy day☔
-📍 San Francisco: 11°C
+# 🌍 你好！今天多云☁️
+📍 Beijing: 26°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,18 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で479件ものコミット、お疲れ様です！👏 🧪 Add unit tests for RemoteAudioSynthesizer in Chrome Extension (#647)、Merge staging and resolve conflicts, retaining only author array optimization、Merge staging and resolve conflictsなど、多くの作業を進められました。合計71962行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で、なんと481件ものコミットがありましたね！素晴らしい活動量です！👏
 
-_Total: 1057 commits across 10 projects_
+各リポジトリでの主な活動を見ていきましょう。
+**Audicle**では、Chrome拡張機能のRemoteAudioSynthesizerに単体テストを追加し、テストカバレッジと信頼性が大きく向上しましたね！🧪
+**OpenShelf**では、複数回にわたるstagingブランチのマージとコンフリクト解消、さらにはリリース作業と組織作成ルートの型定義を明確にするコード健全化にも取り組まれました。🚀
+**jules-extension**では、XSS対策でセキュリティを強化し🛡️、セッション状態のカウント処理のパフォーマンスを最適化しましたね！⚡
+**github-user-summary**では、アクティビティキャッシュに関する重要なマージを行いました。
+そして、特に活動が目覚ましい**paper-tools**では、DOI解決の堅牢性向上、プロパティ検索やレコメンダーの並行処理制限といったパフォーマンス最適化、DBLP検索やアーカイブのテスト追加、ビジュアライザーのエクスポートフォーマット修正など、多岐にわたる改善と機能強化に貢献されました！🌟
+
+これだけの貢献は本当に素晴らしいです。日々の努力がプロジェクトの品質と効率を着実に高めていますね！今後もこの調子で頑張っていきましょう！💪
+
+_Total: 1070 commits across 10 projects_
 
 <table>
   <tr>
@@ -37,7 +46,7 @@ _Total: 1057 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 525 commits (49.7%)</sub>
+      <sub>📊 525 commits (49.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -48,7 +57,7 @@ _Total: 1057 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 197 commits (18.6%)</sub>
+      <sub>📊 197 commits (18.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 14</sub>
     </td>
@@ -59,7 +68,7 @@ _Total: 1057 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 138 commits (13.1%)</sub>
+      <sub>📊 138 commits (12.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
