@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Buenos Aires: 23°C
+# 🌍 Hello! Rainy day☔
+📍 New York: 18°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,7 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で511件ものコミット、素晴らしい成果ですね！🎉
-
-各プロジェクトでの活躍が目覚ましいです。
-まず、**Audicle**ではChrome拡張機能の単体テストを大幅に追加し、信頼性がグッと向上しました。🧪
-**OpenShelf**では`staging`ブランチのマージとコンフリクト解決に尽力し、安定したリリースに貢献。コードの型定義を明確化するなど、コード健全性の向上にも取り組まれましたね。🧹
-**jules-extension**ではセキュリティ対策としてXSS防止を実装し、セッション状態カウント処理のパフォーマンス最適化も実現。🛡️⚡
-**github-user-summary**では活動キャッシュ関連の改善を進められました。
-そして**paper-tools**では、DOI解決の堅牢化やプロパティ検索の高速化、レコメンダーの最適化、DBLP検索やアーカイブ機能のテスト拡充など、広範囲にわたる機能強化と品質向上に取り組まれました。Jules関連の機能開発も着実に進んでいますね！🚀
-
-これほど多岐にわたるプロジェクトで、素晴らしい貢献をありがとうございます。今後のさらなる活躍も楽しみにしています！✨
+直近30日間で511件ものコミット、お疲れ様です！👏 🧪 Add unit tests for RemoteAudioSynthesizer in Chrome Extension (#647)、Merge staging and resolve conflicts, retaining only author array optimization、Merge staging and resolve conflictsなど、多くの作業を進められました。合計71962行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 1079 commits across 10 projects_
 
