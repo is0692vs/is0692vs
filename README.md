@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！今日は曇り空ですね☁️
-📍 Osaka: 19°C
+# 🌍 Hello! Cloudy day☁️
+📍 Chicago: 7°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,21 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**485件**のコミット、素晴らしい活躍ですね！✨多岐にわたる貢献、お見事です。
+直近30日間で、なんと495件ものコミットを重ねましたね！素晴らしい活動量です👏
 
-[Audicle]では、`RemoteAudioSynthesizer`のユニットテストを8000行超追加し、信頼性を大幅に向上。🧪
-[OpenShelf]では、`staging`ブランチマージでリリースを安定させ、型定義明確化でコード品質も向上。🧹
-[jules-extension]では、XSS対策でセキュリティを強化🛡️し、パフォーマンス最適化⚡も実施。
-[paper-tools]では、DOI解決の堅牢化、検索最適化、テスト拡充など、多数のマージで品質・パフォーマンスを大きく高めました。🌟
-[github-user-summary]ではキャッシュ関連の作業が見られますね。
+特に目を引くのは、**Audicle**でChrome拡張機能の`RemoteAudioSynthesizer`に単体テストを追加し、テストカバレッジと信頼性を大きく向上させたことです🧪。
 
-これらの活発な活動は、各プロジェクトの安定性、セキュリティ、開発効率に大きく貢献。この勢いで、開発を続けていきましょう！🚀
+**OpenShelf**では、stagingブランチのマージとコンフリクト解決に精力的に取り組み、リリース作業もスムーズに進めましたね。さらに、組織作成時の型定義を明確化し、コードの健全性も高めています🧹。
 
-_Total: 1038 commits across 10 projects_
+**jules-extension**では、セキュリティ強化のためにXSS対策を施し、セッション状態のカウント処理を最適化することでパフォーマンスを大幅に改善しました⚡。ユーザー体験の向上に貢献していますね！
+
+**paper-tools**では、メインブランチへの継続的なマージを通じて、コードの健全性向上（DOI解決のロバスト化、Notion連携、ビジュアライザーのエクスポート形式改善）や、プロパティ検索・レコメンダーの並列性制限といったパフォーマンス最適化を進めています🚀。DBLP著者検索やアーカイブ機能のテスト追加で品質も高めており、多岐にわたる貢献が見られます✨。
+
+**github-user-summary**でも、アクティビティキャッシュ関連の重要なマージを行っていますね。
+
+全体的に、新機能開発、品質向上、パフォーマンス最適化、セキュリティ強化と、多方面で素晴らしい成果を出しています！この調子で頑張りましょう！🎉
+
+_Total: 1058 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +49,7 @@ _Total: 1038 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 489 commits (47.1%)</sub>
+      <sub>📊 486 commits (45.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,18 +60,18 @@ _Total: 1038 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 197 commits (19.0%)</sub>
+      <sub>📊 207 commits (19.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 14</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/github-user-summary" alt="github-user-summary" width="100%" />
+      <a href="https://github.com/Hiroki-org/paper-tools" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/paper-tools" alt="paper-tools" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 138 commits (13.3%)</sub>
+      <sub>📊 140 commits (13.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
