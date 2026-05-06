@@ -24,9 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で511件ものコミット、お疲れ様です！👏 🧪 Add unit tests for RemoteAudioSynthesizer in Chrome Extension (#647)、Merge staging and resolve conflicts, retaining only author array optimization、Merge staging and resolve conflictsなど、多くの作業を進められました。合計71962行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で合計511件のコミット、素晴らしい成果ですね！👏 今回の活動サマリーをお届けします。
 
-_Total: 1076 commits across 10 projects_
+*   **Audicle** では、Chrome拡張機能の`RemoteAudioSynthesizer`にJestを用いたユニットテストを追加し、品質と信頼性を大きく向上させましたね！🧪
+*   **OpenShelf** では、複数回の`staging`ブランチの大規模なマージとコンフリクト解決、そして`main`へのリリースを実施。さらに組織作成APIの型安全性を高め、コードの健全性にも貢献していますね！✨
+*   **jules-extension** では、XSS対策としてユーザー入力のサニタイズを行い、セキュリティを強化🛡️。セッション状態カウント処理のパフォーマンス最適化も実施し、アプリの応答性向上に尽力されました！⚡
+*   **github-user-summary** でも、主要なブランチのマージを通じて、キャッシュ関連の機能統合を進められたようです。
+*   そして、**paper-tools** では特に活発でしたね！💪 DOI解決の堅牢化、プロパティ検索やレコメンダー機能のパフォーマンス最適化、DBLP検索やアーカイブ関連のテスト追加など、コード健全性と品質向上に多岐にわたる貢献が見られます。Jules関連の機能統合も多数実施し、幅広い改善に取り組まれましたね！
+
+全体を通して、テスト拡充、セキュリティ強化、パフォーマンス向上、そして堅実なコード健全性の維持に尽力されていることがよく分かります。この調子でこれからも素晴らしい開発を続けていきましょう！🚀
+
+_Total: 1079 commits across 10 projects_
 
 <table>
   <tr>
@@ -37,7 +45,7 @@ _Total: 1076 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 486 commits (45.2%)</sub>
+      <sub>📊 486 commits (45.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
