@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Sapporo: 14°C
+# 🌍 おはようございます！曇り空のようですね☁️
+📍 Kyoto: 21°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,18 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-この30日間で、なんと511件ものコミットを達成しましたね！お見事です！🚀
+直近30日間で511件ものコミット、素晴らしい活躍ですね！👏
 
-特に、各リポジトリでの多岐にわたる活躍に注目です。
-**Audicle**では、Chrome拡張機能の `RemoteAudioSynthesizer` にユニットテストを追加し、信頼性を大きく向上させました🧪✨
-**OpenShelf**では、大規模マージで統合を進めつつ、組織作成ルートの型定義を明確化し、コード健全性を高めていますね🧹。
-**jules-extension**では、XSS対策でセキュリティを強化🛡️し、パフォーマンス最適化にも貢献しました⚡。
-**paper-tools**では、コード健全性向上、パフォーマンス最適化、テスト追加など、幅広い改善活動が見られます。
-**github-user-summary**でのプロジェクト統合のためのマージ作業もお疲れ様でした！
+**Audicle** では、Chrome拡張機能のユニットテストを大幅に拡充し、信頼性が大きく向上しました🧪✨。
+**jules-extension** では、セキュリティ対策としてXSS脆弱性への対応🛡️や、セッション状態カウント処理のパフォーマンス最適化⚡と、多岐にわたる改善が見られます！
+**OpenShelf** では、複数回のステージングマージとコンフリクト解決にご尽力され、リリース作業をスムーズに進めましたね。また、組織作成・コレクションルートの型定義を明示化し、コードの健全性も向上🧹素晴らしいです！
+**paper-tools** では、多数のメインブランチへのマージが実施され、DOI解決の堅牢化やプロパティ検索の最適化、DBLP検索テスト追加など、機能改善と品質向上が活発に進んでいますね！🚀
+**github-user-summary** でもメインブランチへのマージが行われ、着実に開発が進んでいます。
 
-これら全ての活動が、プロダクトの品質向上と安定稼働に大きく貢献しています。引き続き、今後の活躍も期待しています！😊
+この短期間でこれだけの成果、本当に素晴らしいです！今後のさらなる活躍も期待しています！😊
 
-_Total: 1066 commits across 10 projects_
+_Total: 1062 commits across 10 projects_
 
 <table>
   <tr>
@@ -46,7 +45,7 @@ _Total: 1066 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 471 commits (44.2%)</sub>
+      <sub>📊 467 commits (44.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -57,7 +56,7 @@ _Total: 1066 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 210 commits (19.7%)</sub>
+      <sub>📊 210 commits (19.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 14</sub>
     </td>
@@ -68,7 +67,7 @@ _Total: 1066 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 140 commits (13.1%)</sub>
+      <sub>📊 140 commits (13.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -94,26 +93,26 @@ _Total: 1066 commits across 10 projects_
       <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/6jlGKRWFDRDs7nEhzLaN5K" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273b8a3cb5f89cce62885de71ed" alt="章" width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>章</sub>
-      <br />
-      <sub>Ryokuoushoku Shakai</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/6zO9kSYSVed2iQQSOrKUGQ" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273cf68803dfbc2fbb83d97eb67" alt="STARDUST～内藤哲也のテーマ" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#2</strong></sub>
       <br />
       <sub>STARDUST～内藤哲也のテーマ</sub>
       <br />
       <sub>KAZSIN</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/6jlGKRWFDRDs7nEhzLaN5K" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273b8a3cb5f89cce62885de71ed" alt="章" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>章</sub>
+      <br />
+      <sub>Ryokuoushoku Shakai</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/2S3u18aJF8eExll5dYwSJb" target="_blank">
@@ -127,15 +126,15 @@ _Total: 1066 commits across 10 projects_
       <sub>BABYMETAL, Electric Callboy</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/6AGHSgBeirk7AHXWOM3vKp" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27328995b924c172c40d17d690c" alt="Nothing." width="120" />
+      <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>Nothing.</sub>
+      <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
       <br />
-      <sub>BiSH</sub>
+      <sub>NJPW</sub>
     </td>
   </tr>
 </table>
