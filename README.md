@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy today☁️
-📍 Toronto: 5°C
+# 🌍 こんにちは！くもってますね☁️
+📍 Fukuoka: 21°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,21 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で511件ものコミット、素晴らしい活躍ぶりですね！お疲れ様です！✨
+直近30日間で511件ものコミット、素晴らしいですね！🚀 大量のコード変更から、あなたの精力的な活動がうかがえます。
 
-特に活発だったのは以下のリポジトリです。
+**Audicle**では、Chrome拡張機能の`RemoteAudioSynthesizer`に単体テストが追加され、大幅なテストカバレッジ向上と信頼性強化に貢献しましたね！🧪✨
 
-*   **Audicle**では、`RemoteAudioSynthesizer`のユニットテストを追加し、テストカバレッジと信頼性を大きく向上させましたね。🧪
-*   **OpenShelf**では、stagingブランチとの大規模なマージとコンフリクト解消に複数回取り組み、型定義の明確化やリリース準備も進められました。チーム開発を円滑に進める上で大変重要な作業、お見事です！💪
-*   **jules-extension**では、XSS対策でセキュリティを強化し、セッション状態カウント処理のパフォーマンス最適化も実現。品質と速度の両面で大きく貢献されましたね！🛡️⚡
-*   **github-user-summary**でもキャッシュ関連の進捗があったようです。
-*   そして、特に多くのコミットが見られた**paper-tools**では、実に多様な活動が見られます。DOI解決の堅牢化、Notion連携の改善といったコードヘルス向上、プロパティ検索やレコメンダーのパフォーマンス最適化、DBLP検索のテスト追加など、機能追加から品質・速度改善まで幅広く取り組んでおり、プロジェクトが着実に進化していることを実感します。頻繁なブランチ統合からも、活発な開発状況が伺えます！
+**OpenShelf**では、頻繁な`staging`ブランチのマージやコンフリクト解決を通じて、プロジェクトの統合を推進しました。また、組織作成関連の型定義を明確にするコード健全性改善や、`staging`から`main`へのリリースも行われ、安定した開発フローを支えていますね。📦🔄
 
-これらの活動を通じて、様々なプロジェクトが着実に進化していることを実感します。この調子でこれからも頑張っていきましょう！🚀
+**jules-extension**では、XSS対策としてユーザー入力のサニタイズを行い、セキュリティを強化！🛡️ さらに、セッション状態カウント処理のパフォーマンス最適化も実現し、高速化に成功しました。⚡
 
-_Total: 1075 commits across 10 projects_
+**github-user-summary**では、`main`へのマージと活動キャッシュ関連の作業が進みましたね。💾
+
+そして**paper-tools**では、コード健全性（DOI解決の堅牢化、`Notion`連携改善、ビジュアライザーのエクスポート形式など）、パフォーマンス最適化（プロパティ検索、レコメンダーの並行性制限）、テスト追加（DBLP検索、アーカイブ）といった多岐にわたる改善がなされました。Jules関連の多くの機能開発も進み、プロジェクトが大きく前進していますね！💡
+
+どのプロジェクトでも、品質向上、パフォーマンス改善、新機能開発に積極的に取り組んでおり、その貢献は計り知れません。素晴らしい仕事です！この調子でこれからも頑張ってください！🎉
+
+_Total: 1071 commits across 10 projects_
 
 <table>
   <tr>
@@ -47,7 +49,7 @@ _Total: 1075 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 481 commits (44.7%)</sub>
+      <sub>📊 477 commits (44.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,7 +60,7 @@ _Total: 1075 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 209 commits (19.4%)</sub>
+      <sub>📊 209 commits (19.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 14</sub>
     </td>
@@ -69,7 +71,7 @@ _Total: 1075 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 140 commits (13.0%)</sub>
+      <sub>📊 140 commits (13.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -179,7 +181,7 @@ _Total: 1075 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.3-publish">v1.4.3-publish</a> · 3 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.3-publish">v1.4.3-publish</a> · 4 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.4.3-publish -->
@@ -193,7 +195,7 @@ _Total: 1075 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.3">v1.4.3</a> · 3 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.3">v1.4.3</a> · 4 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.4.3 -->
@@ -207,7 +209,7 @@ _Total: 1075 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.2">v1.4.2</a> · 5 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.2">v1.4.2</a> · 6 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.4.2 -->
