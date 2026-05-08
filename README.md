@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Lyon: 17°C
+# 🌍 ¡Hola! Está lloviendo☔
+📍 Madrid: 12°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,18 +24,18 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと486件ものコミット、素晴らしい活動量ですね！🚀
+素晴らしい活動ですね！直近30日間でなんと**486件**ものコミットを重ね、多岐にわたるプロジェクトで大きな進捗を見せていますね！👏
 
-各リポジトリでの主要な活動を見ていきましょう。
-**Audicle**では、Chrome拡張機能の`RemoteAudioSynthesizer`に単体テストが導入され、コードの信頼性が大きく向上しましたね！🧪
-**OpenShelf**では、stagingブランチのマージが頻繁に行われ、コンフリクト解決に尽力されました。また、型定義を明確化してコード品質向上に貢献し、リリース作業もお疲れ様でした！✨
-**jules-extension**では、XSS対策によるセキュリティ強化と、セッション状態カウント処理のパフォーマンス最適化という重要な改善が行われました。🛡️⚡
-**paper-tools**では、`origin/main`への頻繁なマージを通じて、DOI解決の堅牢化、プロパティ検索の最適化、DBLP検索テストの追加、レコメンダーの並行処理制限、Notion連携改善など、パフォーマンス、コード品質、テスト、Jules関連の新機能開発と多岐にわたる活躍が見られます。
-**github-user-summary**でも、メインブランチへのマージがあり、機能開発が進められていますね。
+特に注目すべきは、
+*   **Audicle**では、Chrome拡張機能の`RemoteAudioSynthesizer`に単体テストを導入し、テストカバレッジと信頼性を大幅に向上させましたね🧪。
+*   **OpenShelf**では、頻繁なstagingブランチのマージに加え、組織作成の型定義を明確化し、コード品質の向上に貢献しています✨。
+*   **jules-extension**では、XSS対策としてユーザー入力のサニタイズを行いセキュリティを強化🛡️。さらに、セッション状態カウント処理のパフォーマンス最適化も実現しました⚡。
+*   **paper-tools**では、コードヘルス、パフォーマンス最適化、テスト追加、Jules関連の機能強化、DOI解決の堅牢化など、多方面にわたる改善と堅実なマージ作業が目立ちますね🚀。
+*   **github-user-summary**でも、活動キャッシュ関連のマージが進んでいます。
 
-どのプロジェクトでも、品質、セキュリティ、パフォーマンス向上に貢献されており、本当に素晴らしいです！これからもこの調子で頑張ってください！💪
+これほど多くのリポジトリで、品質、セキュリティ、パフォーマンス、そして新機能の開発に至るまで、幅広い領域で素晴らしい貢献をされています。日々の努力が実を結んでいますね！これからもその勢いで、素晴らしい開発を続けてください！🎉
 
-_Total: 1043 commits across 10 projects_
+_Total: 1045 commits across 10 projects_
 
 <table>
   <tr>
@@ -57,16 +57,16 @@ _Total: 1043 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 236 commits (22.6%)</sub>
+      <sub>📊 237 commits (22.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 14</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/paper-tools" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/paper-tools" alt="paper-tools" width="100%" />
+      <a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/github-user-summary" alt="github-user-summary" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
       <sub>📊 139 commits (13.3%)</sub>
       <br />
