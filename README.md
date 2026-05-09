@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy today☁️
-📍 Toronto: 12°C
+# 🌍 안녕하세요! 맑은 날씨네요☀️
+📍 Seoul: 10°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと486件もの素晴らしいコミット、お疲れ様でした！✨ 様々なプロジェクトで活発な貢献が見られましたね。
+直近30日間で486件ものコミット、お疲れ様でした！素晴らしい活動サマリーです。
 
-特に、**[Audicle]** ではChrome拡張機能のRemoteAudioSynthesizerにユニットテストを導入し、テストカバレッジと信頼性を大幅に向上させました！🧪
-**[jules-extension]** では、XSS対策でセキュリティを強化し🛡️、セッション状態カウント処理のパフォーマンス最適化も実現しましたね！🚀
-**[github-user-summary]** では、アクティビティキャッシュの改善やレイアウトエディタのテスト強化など、機能改善と品質向上に貢献されています。🌟
-そして、最も活発だった**[paper-tools]** では、DOI解決の堅牢化、検索最適化、テスト強化、レコメンダーの改善、各種機能強化（Jules関連）に加え、ViteやPostCSSのセキュリティ修正も実施！コード品質・パフォーマンス・信頼性の向上に大きく貢献されました！📈
+[Audicle]では、Chrome拡張機能のRemoteAudioSynthesizerに単体テストを導入🧪し、信頼性を大きく向上させました。
+[jules-extension]では、XSS対策のセキュリティ強化🛡️と、セッション状態カウント処理のパフォーマンス最適化⚡を実施。システムの堅牢性と効率性を高めました。
+[paper-tools]では、コード健全性向上、パフォーマンス最適化🚀、テスト追加、セキュリティ修正など、多岐にわたる改善を精力的に進めました。
+[github-user-summary]では、アクティビティキャッシュやレイアウトエディタのテスト改善を通じて、システムの安定性・品質向上に貢献しました。
 
-素晴らしい活動量と貢献です！この調子で、これからもチームをリードしていきましょう！💪
+これだけ多くの領域で素晴らしい貢献、ありがとうございます！今後のさらなるご活躍を期待しています！✨
 
-_Total: 1110 commits across 10 projects_
+_Total: 1108 commits across 10 projects_
 
 <table>
   <tr>
@@ -44,7 +44,7 @@ _Total: 1110 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 460 commits (41.4%)</sub>
+      <sub>📊 458 commits (41.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -201,7 +201,7 @@ _Total: 1110 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.4-publish">v1.4.4-publish</a> · 2 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.4-publish">v1.4.4-publish</a> · 3 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.4.4-publish -->
