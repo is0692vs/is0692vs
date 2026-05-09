@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Beautiful sunny day☀️
-📍 Sydney: 13°C
+# 🌍 Hello! Cloudy today☁️
+📍 Toronto: 12°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,21 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**486件**ものコミット、素晴らしい活動量ですね！🎉
+直近30日間で、なんと486件もの素晴らしいコミット、お疲れ様でした！✨ 様々なプロジェクトで活発な貢献が見られましたね。
 
-特に目立った活動としては、
+特に、**[Audicle]** ではChrome拡張機能のRemoteAudioSynthesizerにユニットテストを導入し、テストカバレッジと信頼性を大幅に向上させました！🧪
+**[jules-extension]** では、XSS対策でセキュリティを強化し🛡️、セッション状態カウント処理のパフォーマンス最適化も実現しましたね！🚀
+**[github-user-summary]** では、アクティビティキャッシュの改善やレイアウトエディタのテスト強化など、機能改善と品質向上に貢献されています。🌟
+そして、最も活発だった**[paper-tools]** では、DOI解決の堅牢化、検索最適化、テスト強化、レコメンダーの改善、各種機能強化（Jules関連）に加え、ViteやPostCSSのセキュリティ修正も実施！コード品質・パフォーマンス・信頼性の向上に大きく貢献されました！📈
 
-**Audicle**では、Chrome拡張機能のオーディオ合成モジュールに単体テストを導入し、テストカバレッジと信頼性がグッと向上しましたね🧪。
+素晴らしい活動量と貢献です！この調子で、これからもチームをリードしていきましょう！💪
 
-**jules-extension**では、XSS対策としてセキュリティを強化しつつ、セッション状態カウント処理のパフォーマンス最適化にも貢献されました✨。
-
-**github-user-summary**では、アクティビティキャッシュの改善やレイアウトエディタのテスト改善に取り組まれましたね。
-
-そして**paper-tools**では、DOI解決の堅牢化やプロパティ検索、レコメンダーのパフォーマンス最適化、DBLP著者検索など広範なテスト追加、セキュリティ修正やコード健全性の向上に大きく尽力されました👏。Jules関連の多岐にわたる作業も多数見受けられます！
-
-これだけ多くのリポジトリで、テスト強化、セキュリティ向上、パフォーマンス改善、新機能関連作業、そしてコード健全性の維持に積極的に取り組まれているのは、本当に素晴らしい貢献です！今後のさらなるご活躍も期待しています！🚀
-
-_Total: 1114 commits across 10 projects_
+_Total: 1110 commits across 10 projects_
 
 <table>
   <tr>
@@ -49,7 +44,7 @@ _Total: 1114 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 464 commits (41.7%)</sub>
+      <sub>📊 460 commits (41.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -60,7 +55,7 @@ _Total: 1114 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 253 commits (22.7%)</sub>
+      <sub>📊 253 commits (22.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 14</sub>
     </td>
@@ -71,7 +66,7 @@ _Total: 1114 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 181 commits (16.2%)</sub>
+      <sub>📊 181 commits (16.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
