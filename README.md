@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy day☁️
-📍 Chicago: 8°C
+# 🌍 ¡Hola! Está lloviendo☔
+📍 Madrid: 9°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,18 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと485件ものコミット、本当にお疲れ様でした！素晴らしい活動量ですね！✨
+直近30日間で、なんと合計485件ものコミットを達成しました！素晴らしい活動量ですね！🚀
 
-特に目を引くのは、幅広いリポジトリでの活躍です。
-**jules-extension**では、セキュリティ対策としてユーザー入力のXSS防止を強化🛡️し、Boltのセッション状態カウント処理のパフォーマンスを大幅に最適化⚡されています。ユーザー体験とシステムの安定性向上に大きく貢献していますね！
+[OpenShelf]では、リリース対応やstagingブランチのマージ、コンフリクト解消に尽力されました。特に、データベースエラー時のテストを追加し、堅牢性の向上にも貢献されていますね🧪。
+[jules-extension]では、XSS対策でセキュリティを強化し🛡️、セッション状態のカウント処理を最適化してパフォーマンスを大幅に改善しましたね⚡。
+[github-user-summary]では、アクティビティキャッシュ関連の重要なマージを進められました。
+そして、[paper-tools]では、DOI解決の堅牢化やNotion連携の改善といったコード品質向上、プロパティ検索やレコメンダーの並列処理最適化など、パフォーマンス改善に大きく貢献しましたね。DBLP検索のテスト追加もお見事です✨。
 
-また、**paper-tools**では、DOI解決の堅牢化やプロパティ検索の最適化、DBLP著者検索のテスト追加など、コードヘルス改善からパフォーマンス向上、機能追加、そして徹底したテストまで、多岐にわたる開発が行われました。まさにプロジェクトの土台を固め、未来を築く重要な作業ばかりです。素晴らしい！💪
+多岐にわたるプロジェクトで、品質向上、セキュリティ強化、パフォーマンス最適化、そして着実な開発を進められた30日間でした！今後のさらなる活躍も楽しみにしています！💪
 
-**github-user-summary**でも、アクティビティキャッシュの取得改善やレイアウトエディタのテスト強化など、重要な機能改善や品質向上に取り組まれていますね。
-
-どのプロジェクトでも、着実な進歩が見られ、チーム全体の生産性向上に貢献されていることがよくわかります。今後のさらなる活躍も楽しみにしています！これからも一緒に頑張りましょう！🚀
-
-_Total: 1097 commits across 10 projects_
+_Total: 1107 commits across 10 projects_
 
 <table>
   <tr>
@@ -46,7 +44,7 @@ _Total: 1097 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 458 commits (41.8%)</sub>
+      <sub>📊 483 commits (43.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -57,7 +55,7 @@ _Total: 1097 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 242 commits (22.1%)</sub>
+      <sub>📊 227 commits (20.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 14</sub>
     </td>
@@ -68,7 +66,7 @@ _Total: 1097 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 181 commits (16.5%)</sub>
+      <sub>📊 181 commits (16.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -105,26 +103,26 @@ _Total: 1097 commits across 10 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/6zO9kSYSVed2iQQSOrKUGQ" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273cf68803dfbc2fbb83d97eb67" alt="STARDUST～内藤哲也のテーマ" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>STARDUST～内藤哲也のテーマ</sub>
-      <br />
-      <sub>KAZSIN</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/6jlGKRWFDRDs7nEhzLaN5K" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273b8a3cb5f89cce62885de71ed" alt="章" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>章</sub>
       <br />
       <sub>Ryokuoushoku Shakai</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/6zO9kSYSVed2iQQSOrKUGQ" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273cf68803dfbc2fbb83d97eb67" alt="STARDUST～内藤哲也のテーマ" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>STARDUST～内藤哲也のテーマ</sub>
+      <br />
+      <sub>KAZSIN</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/0Xp0vtkQEAmJuF8ZyO6vQT" target="_blank">
@@ -146,7 +144,7 @@ _Total: 1097 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.6-publish">v1.4.6-publish</a> · Today
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.6-publish">v1.4.6-publish</a> · Yesterday
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.4.6-publish -->
@@ -160,7 +158,7 @@ _Total: 1097 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.6">v1.4.6</a> · Today
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.6">v1.4.6</a> · Yesterday
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.4.6 -->
@@ -174,7 +172,7 @@ _Total: 1097 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.5-publish">v1.4.5-publish</a> · Yesterday
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.5-publish">v1.4.5-publish</a> · 2 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.4.5-publish -->
@@ -188,7 +186,7 @@ _Total: 1097 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.5">v1.4.5</a> · Yesterday
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.5">v1.4.5</a> · 2 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.4.5 -->
