@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Barcelona: 23°C
+# 🌍 Hello! Beautiful clear day☀️
+📍 Toronto: 10°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,7 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-お疲れ様です！直近30日間でなんと**490件**ものコミット、素晴らしい集中力と生産性ですね！🎉
-
-特に**OpenShelf**では、複数回のリリースコミット（staging -> main）を成功させ、安定稼働に大きく貢献しました。大規模なコード変更を伴うマージ作業やコンフリクト解決も多く、プロジェクトの進捗を力強く牽引していますね。🧪 テスト関連では、「R2 deletion chunking error」や「db errors」に対する網羅的なテストを追加し、システムの堅牢性を大幅に向上させています！
-
-**jules-extension**では、🛡️ SentinelによるXSS対策でセキュリティを強化し、⚡ Boltの最適化でパフォーマンス改善も実現。ユーザー体験の向上に直結する素晴らしい成果です。
-
-さらに、**github-user-summary**や**paper-tools**でも、ブランチのマージを通じてコード品質向上やパフォーマンス最適化、テスト拡充など多岐にわたる重要な活動を行いましたね。
-
-この勢いで、次の期間も素晴らしい成果を期待しています！応援しています！🚀
+直近30日間で490件ものコミット、お疲れ様です！👏 Merge pull request #729 from Hiroki-org/staging、Merge pull request #715 from Hiroki-org/jules-15523359834066297064-e5ab53f9、Merge remote-tracking branch 'origin/staging' into fix-r2-chunk-error-test-2531814023562447935など、多くの作業を進められました。合計96652行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 1129 commits across 10 projects_
 
