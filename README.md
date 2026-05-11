@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Bogotá: 12°C
+# 🌍 안녕하세요! 비가 오는 날이네요☔
+📍 Seoul: 18°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計490ものコミット、素晴らしい活躍でしたね！🚀 特に変更行数が多いコミットからは、多岐にわたる重要な活動が見て取れます。
+直近30日間でなんと490件ものコミット、お疲れ様でした！素晴らしい活動量ですね！👏
 
-**OpenShelf**では、頻繁なリリース作業に加え、エラーアサーションやR2削除時のチャンキングエラー、DBエラーに対するテストを追加するなど、プロダクトの品質向上と安定性強化に大きく貢献されました！🧪✨
+特に注目すべきは、主要リポジトリでの堅実な貢献です。
 
-**jules-extension**では、XSS対策によるセキュリティ強化🛡️と、セッション状態カウント処理のパフォーマンス最適化⚡を実施。ユーザー体験の向上とシステムの堅牢化に尽力されました。
+[OpenShelf]では、stagingブランチからの本番リリース対応や、定期的なstaging統合を多数実施。さらに、R2削除チャンクエラーやDBエラー発生時の堅牢性を高めるための重要なテストが追加されましたね。🧪 エラーアサーションの修正もバッチリです！
 
-**github-user-summary**では、アクティビティキャッシュ機能に関するブランチ統合が進んでいますね。
+[jules-extension]では、ユーザー入力のサニタイズによるXSS防止🛡️でセキュリティが大幅に向上しました。また、Boltのセッション状態カウント処理のパフォーマンス最適化⚡にも取り組まれ、システムの高速化に貢献されています。
 
-また、**paper-tools**では、DOI解決の堅牢化によるコード健全性の向上、プロパティ検索のパフォーマンス最適化、DBLP検索のテスト追加など、こちらも品質と効率を高める作業が目立ちます。
+その他、[github-user-summary]や[paper-tools]でも、メインブランチへのマージやコード品質向上、検索パフォーマンスの最適化、そしてテストの追加が行われました。
 
-本当に多方面での精力的な活動、お疲れ様です！今後のさらなるご活躍も楽しみにしています！💪
+全体を通して、システムの安定性、セキュリティ、パフォーマンス向上に大きく貢献されています。この調子で、今後も素晴らしい開発を期待しています！🚀
 
 _Total: 1129 commits across 10 projects_
 
@@ -95,26 +95,26 @@ _Total: 1129 commits across 10 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/6jlGKRWFDRDs7nEhzLaN5K" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273b8a3cb5f89cce62885de71ed" alt="章" width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>章</sub>
-      <br />
-      <sub>Ryokuoushoku Shakai</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#2</strong></sub>
       <br />
       <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
       <br />
       <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/6jlGKRWFDRDs7nEhzLaN5K" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273b8a3cb5f89cce62885de71ed" alt="章" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>章</sub>
+      <br />
+      <sub>Ryokuoushoku Shakai</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/6zO9kSYSVed2iQQSOrKUGQ" target="_blank">
