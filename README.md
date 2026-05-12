@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Está lloviendo☔
-📍 Madrid: 16°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Lyon: 11°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,9 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**合計493件**ものコミット、本当にお疲れ様でした！素晴らしい活動量ですね👏
+直近30日間で493件ものコミット、お疲れ様です！👏 Merge pull request #729 from Hiroki-org/staging、Merge pull request #715 from Hiroki-org/jules-15523359834066297064-e5ab53f9、Merge remote-tracking branch 'origin/staging' into fix-r2-chunk-error-test-2531814023562447935など、多くの作業を進められました。合計100518行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-**OpenShelf**では、**リリース作業**を複数回実施し、安定した本番環境へのデプロイに貢献されました。`staging -> main`へのマージがその証ですね。また、**R2 deletion chunkingエラー**や**Paper Association**、**DBエラー**など、多岐にわたる**テスト**を追加・修正し、システムの堅牢性を大きく高めてくださいました🧪。`drizzle-kit`の依存関係更新や、複数の開発ブランチへの`staging`統合を通じて、プロジェクト全体の健全性維持にも尽力されたことが伺えます。
-
-そして**jules-extension**では、XSSを防ぐための**セキュリティ対策**を強化し、ユーザーの安全を確保されました🛡️。さらに、`session state`のカウント処理の**パフォーマンス最適化**も行い、ユーザー体験の向上にも貢献されています⚡。
-
-この多岐にわたる重要な活動、本当に素晴らしいです！今後のさらなるご活躍を楽しみにしています✨
-
-_Total: 1075 commits across 10 projects_
+_Total: 1073 commits across 10 projects_
 
 <table>
   <tr>
@@ -43,7 +37,7 @@ _Total: 1075 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 516 commits (48.0%)</sub>
+      <sub>📊 514 commits (47.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -65,7 +59,7 @@ _Total: 1075 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 183 commits (17.0%)</sub>
+      <sub>📊 183 commits (17.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
