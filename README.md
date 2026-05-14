@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Rainy weather☔
-📍 Sydney: 16°C
+# 🌍 おはよう！曇ってるね☁️
+📍 Sapporo: 9°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**合計447件**ものコミット、素晴らしい活躍ぶりですね！✨
+直近30日間で**447件**ものコミット、素晴らしい成果ですね！🚀 とても活発な開発状況が伺えます。
 
-特に**OpenShelf**では、頻繁なリリースプロセスの安定化やブランチ統合に大きく貢献されました。新しいテストコードの追加や既存テストの修正（R2 deletion chunking error、paper association、db errorsなど）を通じて、システムの品質向上に尽力されたことがうかがえます。🧪 また、drizzle-kitのバージョンアップや各種Dependabotによる依存関係の更新も着実に進められ、開発環境の健全性維持にも貢献されています。🛠️
+特に`OpenShelf`リポジトリでは、複数回の`staging`から`main`へのリリースを成功させ、本番環境への安定したデプロイに大きく貢献しました。🧪 テストの修正や新規追加にも力を入れ、品質向上とバグの早期発見に努めたことが見て取れます。また、多数のブランチ統合や依存関係の更新もこなし、プロジェクト全体を強力に推進していますね。
 
-一方、**jules-extension**では、XSS対策によってセキュリティを強化し、ユーザーの安全を守る非常に重要な役割を果たしましたね！🛡️ さらに、セッション状態のカウント処理のパフォーマンスを最適化し、ユーザー体験の向上にも繋がる素晴らしい改善を行いました。⚡
+さらに`jules-extension`リポジトリでは、ユーザー入力のサニタイズによるXSS防止🛡️といったセキュリティ強化や、セッション状態カウント処理のパフォーマンス最適化⚡で、ユーザー体験の向上にも尽力しました。
 
-多岐にわたる重要な改善、本当にありがとうございます！これまでの努力がプロジェクトの品質と安定性、そしてユーザーの安全性と快適さに大きく寄与しています。この調子でこれからも素晴らしい開発を続けていきましょう！🚀
+多岐にわたる重要な貢献、本当にお疲れ様でした！これからも期待しています！✨
 
-_Total: 799 commits across 10 projects_
+_Total: 797 commits across 10 projects_
 
 <table>
   <tr>
@@ -43,7 +43,7 @@ _Total: 799 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 424 commits (53.1%)</sub>
+      <sub>📊 422 commits (52.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -54,7 +54,7 @@ _Total: 799 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 235 commits (29.4%)</sub>
+      <sub>📊 235 commits (29.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 14</sub>
     </td>
