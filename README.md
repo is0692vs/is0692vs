@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Sapporo: 9°C
+# 🌍 你好！今天多云☁️
+📍 Beijing: 22°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,13 +24,13 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**447件**ものコミット、素晴らしい成果ですね！🚀 とても活発な開発状況が伺えます。
+直近30日間で447件ものコミット、大変活発な開発活動、お見事です！🚀
 
-特に`OpenShelf`リポジトリでは、複数回の`staging`から`main`へのリリースを成功させ、本番環境への安定したデプロイに大きく貢献しました。🧪 テストの修正や新規追加にも力を入れ、品質向上とバグの早期発見に努めたことが見て取れます。また、多数のブランチ統合や依存関係の更新もこなし、プロジェクト全体を強力に推進していますね。
+**OpenShelf**では、複数の`Release: staging -> main`コミットに見られるように、頻繁なリリースと安定版へのマージを繰り返し、着実にプロジェクトを前進させていますね。特に、R2削除時のチャンクエラーやDBエラー発生時のテスト追加・修正（`add test for general R2 deletion chunking error`、`fix generic error assertion`、`Add test for unexpected db errors`）に力を入れ、システムの堅牢性向上に大きく貢献されました🧪✨。drizzle-kitやdependabotによる依存関係の定期的な更新も抜かりなく実施されています。
 
-さらに`jules-extension`リポジトリでは、ユーザー入力のサニタイズによるXSS防止🛡️といったセキュリティ強化や、セッション状態カウント処理のパフォーマンス最適化⚡で、ユーザー体験の向上にも尽力しました。
+一方、**jules-extension**では、XSS対策（`Sanitize user input to prevent XSS`）でセキュリティを強化し🛡️、さらにセッション状態のカウント処理のパフォーマンス最適化（`session stateのカウント処理のパフォーマンスを最適化`）も実現されましたね⚡。
 
-多岐にわたる重要な貢献、本当にお疲れ様でした！これからも期待しています！✨
+リリース対応から品質向上、セキュリティ強化、パフォーマンス改善まで、多岐にわたる重要な貢献、本当に素晴らしいです！これからも皆さんの活躍を楽しみにしています！😊
 
 _Total: 797 commits across 10 projects_
 
