@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Il pleut aujourd'hui☔
-📍 Lyon: 7°C
+# 🌍 Hello! Cloudy skies today☁️
+📍 New York: 19°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,13 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、合計464件ものコミット、素晴らしい活動量でしたね！🚀 日々の開発と品質向上に大きく貢献されています。
+直近30日間で**464件**もの活発なコミット、素晴らしい成果ですね！✨
 
-主要な活動は**OpenShelf**リポジトリに集中しており、多岐にわたる重要な貢献が見て取れます。特に、複数の`Release: staging -> main`コミットでは、安定した本番環境へのデプロイを着実に実行されていました。システムの堅牢性を高めるためのテスト関連の作業も目立ちましたね！`🧪 test: fix generic error assertion for paper association`でエラーアサーションを修正したり、`🧪 [test] add test for general R2 deletion chunking error`や`🧪 Add test for unexpected db errors when creating collections`といったコミットで、様々な状況下でのデータベースエラーやR2削除に関するテストを追加し、品質向上に尽力されました。💪
+主な活動として、**OpenShelf**リポジトリでは、複数のリリース（staging -> main）を成功させ、サービスの安定稼働に大きく貢献しました🚀。特に、R2削除のチャンク処理エラーや、コレクションへの論文追加・作成時の予期せぬDBエラーに対するテストを多数追加・修正し、システムの堅牢性を強力に高めています🧪。また、`drizzle-kit`のバージョンアップや各種依存関係の更新も積極的に行い、開発環境の健全性を維持している点も素晴らしいです。多くのブランチ統合作業も効率的に進められましたね。
 
-さらに、`chore(deps-dev): bump drizzle-kit`コミットで依存関係を最新に保ち、プロジェクトの健全性を維持。頻繁なブランチのマージやコンフリクト解決（`Merge remote-tracking branch 'origin/staging'`、`Merge staging and resolve conflicts`など）を通じて、チーム開発をスムーズに進めるための調整役も果たされていました。
+さらに、**github-user-summary**リポジトリでも、メインブランチへの統合を進め、プロジェクトの進捗に貢献していますね。
 
-その他、**github-user-summary**リポジトリでもブランチのマージ作業（`Merge branch 'main' into fetch-activity-cache`）を行っており、複数プロジェクトでの貢献ぶりが伺えます。
-
-これだけのコミットを重ね、システムの改善と安定化に大きく貢献されたこと、本当に素晴らしいです！お疲れ様でした！✨
+多岐にわたる重要な作業を精力的にこなし、プロジェクト全体を力強く推進されていることが伺えます。今後のさらなる活躍も楽しみにしています！💪
 
 _Total: 1006 commits across 10 projects_
 
