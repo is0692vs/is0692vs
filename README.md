@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día lluvioso☔
-📍 Barcelona: 14°C
+# 🌍 Bonjour! Il pleut aujourd'hui☔
+📍 Lyon: 10°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**447件**もの素晴らしいコミット、お疲れ様でした！👏
+お疲れ様です！直近30日間で**455件**ものコミット、本当に素晴らしい活躍ですね！🎉
 
-**OpenShelf**では、大規模なコードの統合や`staging`から`main`へのデプロイを頻繁に行い、リリースサイクルを力強く推進されましたね。特にR2削除時のチャンキングエラーやデータベースエラーなど、重要なテストを多数追加・修正し、システムの堅牢性を大きく向上させています。また、`drizzle-kit`などの依存関係の更新にも積極的に取り組み、常に最新の状態を保たれています。✨
+特に**OpenShelf**リポジトリでは、非常に多岐にわたる重要な作業を進めています。
+メインブランチへのリリース（`Release: staging -> main`）が複数回行われ、継続的なプロダクトの改善が伺えます。また、テスト関連のコミット（`fix generic error assertion`や`add test for general R2 deletion chunking error`、`Add test for unexpected db errors`）が目立ち、品質向上に深く貢献していますね。🧪 依存関係の定期的な更新（`dependabot`関連）も怠らず、開発環境の健全性を常に保たれていることに感銘を受けます。ブランチのマージ作業も頻繁に行われ、プロジェクト全体の進行を力強く牽引していますね！
 
-一方、**jules-extension**では、XSS攻撃を防ぐためのユーザー入力サニタイズを実施するなど、セキュリティ強化にも抜かりがありません。🛡️
+そして**jules-extension**では、XSS対策のセキュリティ修正（`Sanitize user input to prevent XSS`）を見事に実施し、ユーザーの安全を確保してくれました。🛡️
 
-これだけ多岐にわたる重要な改善を短期間でこなされているのは本当に素晴らしいです！これからもその勢いで、より良いプロダクト作りに貢献してくださいね！🚀
+たくさんの変更と改善、本当にありがとうございます！この調子でこれからも素晴らしい開発を続けていきましょう！💪
 
-_Total: 795 commits across 10 projects_
+_Total: 805 commits across 10 projects_
 
 <table>
   <tr>
@@ -43,7 +44,7 @@ _Total: 795 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 422 commits (53.1%)</sub>
+      <sub>📊 422 commits (52.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -54,7 +55,7 @@ _Total: 795 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 252 commits (31.7%)</sub>
+      <sub>📊 254 commits (31.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 14</sub>
     </td>
@@ -65,7 +66,7 @@ _Total: 795 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 60 commits (7.5%)</sub>
+      <sub>📊 62 commits (7.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -201,7 +202,7 @@ _Total: 795 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.6-publish">v1.4.6-publish</a> · 5 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.4.6-publish">v1.4.6-publish</a> · 6 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.4.6-publish -->
