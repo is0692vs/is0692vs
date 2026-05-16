@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia nublado☁️
-📍 São Paulo: 16°C
+# 🌍 Hello! Rainy weather☔
+📍 Chicago: 19°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-素晴らしい30日間でした！👏 直近のコミット数はなんと445件！非常に活発にプロジェクトが進捗していますね。
+この30日間で合計**446件**ものコミット、本当にお疲れ様でした！👏素晴らしい生産性ですね！
 
-特に`OpenShelf`リポジトリでは、多岐にわたる重要な作業に貢献いただきました。
-*   複数の大規模な「Release: staging -> main」マージを通じて、新機能や修正が本番環境へ無事届けられたことでしょう。🚀
-*   「R2 deletion chunking error」や「unexpected db errors when adding paper/creating collections」に対するテストの追加、さらには「generic error assertion」の修正など、品質向上と堅牢性の強化に大きく貢献しています。🧪
-*   `drizzle-kit`のバージョンアップや、Dependabotブランチへの`staging`マージを通じて、依存関係の最新化やメンテナンスも着実に進められました。🛠️
-*   各種ブランチの同期やコンフリクト解消も丁寧に対応されており、チーム開発をスムーズに進める上で不可欠な役割を担っていますね。
+**Audicle**では、Vercel版認証APIへの拡張機能接続を実現し、Bearer認証で音声を取得できる新機能を開発しましたね。これはユーザー体験を大きく向上させる重要なアップデートです！✨
 
-また、`github-user-summary`リポジトリでは、`main`ブランチのフィーチャーブランチへのマージを行い、並行する開発も着実に進められています。
+**OpenShelf**での活動も目覚ましいものがあります。複数の「Release: staging -> main」コミットから、定期的なリリースを通じてサービスを改善し続けていることが伺えます。🚀
+特に、R2の削除チャンクエラーや、コレクション追加・作成時の予期せぬDBエラーに対するテストを積極的に追加しており、システムの堅牢性向上に大きく貢献していますね。🧪また、drizzle-kitなどの依存関係も最新に保ち、技術的な負債の解消にも余念がありません。
 
-あなたの献身的な努力と高い品質への意識が、プロジェクト全体を力強く推進しています。今後のさらなる活躍も期待しています！✨
+多くのマージコミットからも、活発な開発が継続していることがよく分かります。この短期間でこれだけの成果を出せたのは、日々の努力の賜物です。素晴らしい仕事ぶり、感動しました！これからも一緒に頑張りましょう！🌟
 
-_Total: 965 commits across 10 projects_
+_Total: 966 commits across 10 projects_
 
 <table>
   <tr>
