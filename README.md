@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！お天気ですね☀️
-📍 Fukuoka: 19°C
+# 🌍 こんにちは！くもってますね☁️
+📍 Fukuoka: 18°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,13 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-お疲れ様です！直近30日間で**442件**ものコミット、素晴らしい活躍ですね！🎉
+直近30日間で**442件**ものコミット、素晴らしい活躍ぶりですね！🚀
 
-特に**Audicle**では、Vercel版Audicle認証APIへの接続とBearer認証による音声取得機能を実装されました。これは拡張機能をVercel版Audicle認証APIに接続し、Bearer認証で音声取得を可能にするという、ユーザー体験を大きく向上させる重要な新機能開発です！🚀
+特に**Audicle**では、Vercel版Audicle認証APIへの接続とBearer認証による音声取得機能の実装を進められ、大規模な機能拡張を行いましたね！🎤✨
 
-また、**OpenShelf**では幅広い貢献が見られます。stagingからmainへの複数回のリリース対応に加え、R2削除のチャンキングエラーや、用紙関連の一般的なエラー、コレクションへの用紙追加時や作成時の予期せぬDBエラーなど、多角的なテストを追加・修正し、システムの堅牢性を大きく高めてくださいましたね。🧪
+また**OpenShelf**では、実に多岐にわたる重要な作業をこなされています。定期的なリリース作業（staging -> main）で安定したサービス提供に貢献されました。R2のチャンクエラーやDB関連のエラーハンドリングなど、テストコードの強化にも精力的に取り組み、品質向上に大きく貢献されています🧪。drizzle-kitやDocker、npmなどの依存関係の更新も着実に実施し、システムの健全性を保たれていますね。様々なブランチのマージやコンフリクト解決も多く、チーム開発のスムーズな進行を支えられたことが伺えます🌳。
 
-さらに、`drizzle-kit`の依存関係更新や、複数のブランチのマージ作業も着実に進められ、プロジェクト全体の健全な運用に大きく貢献しています。💪
-
-この多岐にわたる活動は、プロジェクトの安定稼働と進化に不可欠です。いつもありがとうございます、これからも期待しています！✨
+これだけ多くのコミットと多様な作業をこなし、日々の努力がプロジェクトに大きく貢献しています。素晴らしいお仕事、お疲れ様でした！👏
 
 _Total: 931 commits across 10 projects_
 
@@ -145,7 +143,7 @@ _Total: 931 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.2">v1.5.2</a> · Today
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.2">v1.5.2</a> · Yesterday
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.2 -->
@@ -160,7 +158,7 @@ _Total: 931 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.2-publish">v1.5.2-publish</a> · Today
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.2-publish">v1.5.2-publish</a> · Yesterday
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.2-publish -->
@@ -175,7 +173,7 @@ _Total: 931 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.1-publish">v1.5.1-publish</a> · 2 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.1-publish">v1.5.1-publish</a> · 3 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.1-publish -->
@@ -190,7 +188,7 @@ _Total: 931 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.1">v1.5.1</a> · 2 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.1">v1.5.1</a> · 3 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.1 -->
