@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはようございます！素敵な晴れ日ですね☀️
-📍 Kyoto: 20°C
+# 🌍 ¡Hola! Está lloviendo☔
+📍 Mexico City: 28°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で472件ものコミット、お疲れ様でした！素晴らしいペースですね！👏
+直近30日間で**472件**ものコミット、大変素晴らしい活動量でしたね！🚀
 
-特に、[Audicle] ではVercel版Audicle認証APIへの接続や、PlaylistCompletionScreenの単体テスト追加と、大規模な新機能開発とテスト強化に取り組まれました。💡
-[OpenShelf] では、複数のリリース (`staging` から `main`) やブランチ同期、一部機能のリバートなど、安定運用と機能調整に注力されていたようです。🛠️
-[github-user-summary] では、メインブランチへの活発なマージ作業や、レイアウトエディタ、プロファイルカードのテスト改善、コンフリクト解消に尽力されましたね。✅
-[paper-tools] では、ViteやPostCSSのセキュリティ対応、パフォーマンス改善のリバート、不要なエクスポートの削除など、コード品質向上と安定性維持に貢献されました。✨
-また、[jules-extension] ではメインブランチとの機能統合や、セキュリティ関連のロックファイルコンフリクト解消といった重要な作業を進められました。🛡️
+特に目立った活動は以下の通りです。
 
-多岐にわたるプロジェクトで、これほど多くの貢献をされていることに感銘を受けます。これからもその調子で頑張ってください！🚀
+*   **Audicle** では、Vercel認証APIとの接続やBearer認証での音声取得機能の実装といった大規模な新機能開発を進められました。さらにPlaylistCompletionScreenへの単体テスト追加で品質向上にも大きく貢献しています。
+*   **OpenShelf** では、複数回のステージングからメインへのリリース作業に加え、Docker環境の依存関係更新や、テストのユニーク制約に関するバグ修正を実施。安定性向上へのコミットが見られます。
+*   **github-user-summary** では、アクティビティキャッシュ機能の開発や、レイアウトエディタ、プロフィールカードのテスト改善に注力。複数のブランチマージとコンフリクト解決も完璧にこなされています。
+*   **jules-extension** では、セッションフィルターの最適化や、セキュリティに関するロックファイルコンフリクトの解消といった重要な修正を行いました。
+*   **paper-tools** では、セキュリティ修正や不要なコードのエクスポート削除によるクリーンアップが進みましたね。
+
+この1ヶ月間も、多岐にわたるプロジェクトで新機能開発から品質改善、セキュリティ対応まで、素晴らしい貢献をされたことが伺えます。本当にお疲れ様でした！✨ これからも期待しています！
 
 _Total: 1026 commits across 10 projects_
 
@@ -77,67 +79,9 @@ _Total: 1026 commits across 10 projects_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
-## 🎵 My Top Tracks on Spotify (Recently)
+🎵 My Top Tracks on Spotify (Recently):
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://open.spotify.com/track/6jlGKRWFDRDs7nEhzLaN5K" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273b8a3cb5f89cce62885de71ed" alt="章" width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>章</sub>
-      <br />
-      <sub>Ryokuoushoku Shakai</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
-      <br />
-      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/6zO9kSYSVed2iQQSOrKUGQ" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273cf68803dfbc2fbb83d97eb67" alt="STARDUST～内藤哲也のテーマ" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>STARDUST～内藤哲也のテーマ</sub>
-      <br />
-      <sub>KAZSIN</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/0Xp0vtkQEAmJuF8ZyO6vQT" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736667e31d2e957c6a0eb82b04" alt="Make Way For The Prince - Extended Version" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>Make Way For The Prince - Extended Version</sub>
-      <br />
-      <sub>Brick</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/6nGW4GActIINPS6x85sTPO" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27304452249bf0aac3f9dc54112" alt="Elevated" width="120" />
-      </a>
-      <br />
-      <sub><strong>#5</strong></sub>
-      <br />
-      <sub>Elevated</sub>
-      <br />
-      <sub>It Lives, It Breathes</sub>
-    </td>
-  </tr>
-</table>
+_Error fetching tracks. Please try again later._
 <!-- spotify:end -->
 
 <!-- github-releases:start -->
