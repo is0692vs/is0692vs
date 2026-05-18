@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hallo! Sonniger Tag☀️
-📍 Berlin: 19°C
+# 🌍 Olá! Dia nublado☁️
+📍 Lisbon: 20°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間でなんと472件ものコミット、素晴らしい集中力ですね！🚀
+直近30日間で472ものコミット、大変お疲れ様でした！✨ 幅広いプロジェクトで素晴らしい活躍ですね。
 
-特に、**Audicle**では、PlaylistCompletionScreenの単体テストを大幅に追加し、Vercel版Audicle認証APIとの連携で音声取得機能を実現するなど、大規模な機能拡張と品質向上に大きく貢献しましたね。
+**Audicle**では、Vercel版Audicle認証APIへの接続という新機能を実装し、`PlaylistCompletionScreen`の単体テストも大幅に拡充。品質と機能性を両立されましたね。🚀
 
-**OpenShelf**では、リリース作業（staging -> main）を複数回こなし、プロジェクトの安定稼働を支えました。他にもコレクションのユニーク制約テスト修正や、特定コミットのリバート対応など、地道な改善と維持管理に尽力されています。
+**OpenShelf**では、複数回の`staging`から`main`へのリリースを成功させ、本番環境の安定に貢献。依存関係の更新、テスト制約修正、一時的な機能リバートなど、多岐にわたるメンテナンスと改善を精力的に進めました。🛠️
 
-**github-user-summary**では、アクティビティキャッシュ、レイアウトエディタ、プロフィールカードに関するテスト改善を進め、より堅牢なシステム構築に貢献。多くのブランチマージとコンフリクト解決もお疲れ様でした！
+**github-user-summary**では、アクティビティキャッシュやレイアウトエディタ、プロフィールカードの機能・テスト強化に注力し、ユーザー体験向上に大きく貢献されました。複数の`main`ブランチ統合もお見事です！💡
 
-**paper-tools**では、ViteやPostCSSのセキュリティ修正、未使用コードの整理、パフォーマンス関連のリバートなど、プロジェクトの健全性を保つための保守作業が光ります✨。
+**paper-tools**では、ViteやPostCSSのセキュリティ対策、パフォーマンス最適化の調整、不要コードのクリーンアップでプロジェクトの健全性を保ちましたね。🧹
 
-また、**jules-extension**では、セッションフィルターの最適化やロックファイル競合のセキュリティ修正を行い、機能強化と安全性の両面で貢献しました。
+**jules-extension**でも、セッションフィルターの最適化やロックファイルのセキュリティ修正を進め、アプリケーションの安定性向上に貢献されています。🔒
 
-これだけ多岐にわたるプロジェクトで活発に活動されており、本当に素晴らしいです！この調子でこれからも頑張ってくださいね！💪
+新機能開発から品質・セキュリティ向上、日々のメンテナンスまで、多岐にわたる貢献に感謝します。今後のさらなる飛躍が楽しみです！🎉
 
 _Total: 1026 commits across 10 projects_
 
@@ -130,15 +130,15 @@ _Total: 1026 commits across 10 projects_
       <sub>Brick</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
+      <a href="https://open.spotify.com/track/6nGW4GActIINPS6x85sTPO" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27304452249bf0aac3f9dc54112" alt="Elevated" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
+      <sub>Elevated</sub>
       <br />
-      <sub>NJPW</sub>
+      <sub>It Lives, It Breathes</sub>
     </td>
   </tr>
 </table>
