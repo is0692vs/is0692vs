@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia chuvoso☔
-📍 São Paulo: 17°C
+# 🌍 Hallo! Sonniger Tag☀️
+📍 Berlin: 19°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 5,248 installs | ⭐ 4.5/5 (2 ratings) | v1.5.2
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 5,261 installs | ⭐ 4.5/5 (2 ratings) | v1.5.2
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 15 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 54 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-04-19%22%2C%222026-04-20%22%2C%222026-04-21%22%2C%222026-04-22%22%2C%222026-04-23%22%2C%222026-04-24%22%2C%222026-04-25%22%2C%222026-04-26%22%2C%222026-04-27%22%2C%222026-04-28%22%2C%222026-04-29%22%2C%222026-04-30%22%2C%222026-05-01%22%2C%222026-05-02%22%2C%222026-05-03%22%2C%222026-05-04%22%2C%222026-05-05%22%2C%222026-05-06%22%2C%222026-05-07%22%2C%222026-05-08%22%2C%222026-05-09%22%2C%222026-05-10%22%2C%222026-05-11%22%2C%222026-05-12%22%2C%222026-05-13%22%2C%222026-05-14%22%2C%222026-05-15%22%2C%222026-05-16%22%2C%222026-05-17%22%2C%222026-05-18%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B4418%2C4452%2C4470%2C4498%2C4520%2C4541%2C4566%2C4593%2C4610%2C4617%2C4638%2C4660%2C4695%2C4710%2C4732%2C4751%2C4761%2C4791%2C4823%2C4904%2C4916%2C4996%2C5022%2C5071%2C5109%2C5157%2C5195%2C5227%2C5248%2C5248%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B49%2C49%2C49%2C49%2C50%2C50%2C50%2C50%2C52%2C52%2C52%2C53%2C53%2C53%2C53%2C53%2C53%2C53%2C53%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-04-19%22%2C%222026-04-20%22%2C%222026-04-21%22%2C%222026-04-22%22%2C%222026-04-23%22%2C%222026-04-24%22%2C%222026-04-25%22%2C%222026-04-26%22%2C%222026-04-27%22%2C%222026-04-28%22%2C%222026-04-29%22%2C%222026-04-30%22%2C%222026-05-01%22%2C%222026-05-02%22%2C%222026-05-03%22%2C%222026-05-04%22%2C%222026-05-05%22%2C%222026-05-06%22%2C%222026-05-07%22%2C%222026-05-08%22%2C%222026-05-09%22%2C%222026-05-10%22%2C%222026-05-11%22%2C%222026-05-12%22%2C%222026-05-13%22%2C%222026-05-14%22%2C%222026-05-15%22%2C%222026-05-16%22%2C%222026-05-17%22%2C%222026-05-18%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B4418%2C4452%2C4470%2C4498%2C4520%2C4541%2C4566%2C4593%2C4610%2C4617%2C4638%2C4660%2C4695%2C4710%2C4732%2C4751%2C4761%2C4791%2C4823%2C4904%2C4916%2C4996%2C5022%2C5071%2C5109%2C5157%2C5195%2C5227%2C5248%2C5261%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B49%2C49%2C49%2C49%2C50%2C50%2C50%2C50%2C52%2C52%2C52%2C53%2C53%2C53%2C53%2C53%2C53%2C53%2C53%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,19 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**472件**もの素晴らしいコミット、お疲れ様でした！👏 活発な開発が素晴らしいですね！
+直近30日間でなんと472件ものコミット、素晴らしい集中力ですね！🚀
 
-特に目立った活動としては、**Audicle**ではPlaylistCompletionScreenの単体テストをしっかり追加し、Vercel版Audicle認証APIへの接続とBearer認証での音声取得対応を進めるなど、認証基盤の強化と機能拡張に大きく貢献しましたね！💡
+特に、**Audicle**では、PlaylistCompletionScreenの単体テストを大幅に追加し、Vercel版Audicle認証APIとの連携で音声取得機能を実現するなど、大規模な機能拡張と品質向上に大きく貢献しましたね。
 
-**OpenShelf**では、stagingブランチからmainへのリリース作業が複数回行われ、テストのユニーク制約修正やコードヘルス改善など、安定性と品質向上に尽力された様子が伺えます。時にはRevertコミットで慎重な調整も行われました。🚀
+**OpenShelf**では、リリース作業（staging -> main）を複数回こなし、プロジェクトの安定稼働を支えました。他にもコレクションのユニーク制約テスト修正や、特定コミットのリバート対応など、地道な改善と維持管理に尽力されています。
 
-**github-user-summary**では、アクティビティキャッシュの取得やレイアウトエディタ、プロファイルカードのテスト改善、さらにAPIユーティリティやダッシュボードテストのコンフリクト解決など、多岐にわたる機能強化とテストの整備を進めましたね！✨
+**github-user-summary**では、アクティビティキャッシュ、レイアウトエディタ、プロフィールカードに関するテスト改善を進め、より堅牢なシステム構築に貢献。多くのブランチマージとコンフリクト解決もお疲れ様でした！
 
-**paper-tools**では、ViteやPostCSSのセキュリティオーバーライドの修正、不要なエクスポートの削除といったクリーンアップ、そしてパフォーマンス最適化のRevert対応など、堅実なメンテナンス作業が見られます。🧹
+**paper-tools**では、ViteやPostCSSのセキュリティ修正、未使用コードの整理、パフォーマンス関連のリバートなど、プロジェクトの健全性を保つための保守作業が光ります✨。
 
-そして**jules-extension**では、セッションフィルターの最適化やロックファイルのコンフリクト解決を含むセキュリティ修正に取り組まれました。機能改善と安全性の両面から素晴らしい貢献です！🛡️
+また、**jules-extension**では、セッションフィルターの最適化やロックファイル競合のセキュリティ修正を行い、機能強化と安全性の両面で貢献しました。
 
-全体を通して、新機能開発からテストの充実、セキュリティ強化、そしてリリースの安定化まで、広範囲にわたる活躍に感銘を受けます。これからもその調子で頑張ってください！応援しています！💪
+これだけ多岐にわたるプロジェクトで活発に活動されており、本当に素晴らしいです！この調子でこれからも頑張ってくださいね！💪
 
 _Total: 1026 commits across 10 projects_
 
@@ -130,15 +130,15 @@ _Total: 1026 commits across 10 projects_
       <sub>Brick</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/4sjjV02cN3nDOIZPJabEgM" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736fa0de70314547f9cf239bca" alt="The Time Is Now" width="120" />
+      <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>The Time Is Now</sub>
+      <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
       <br />
-      <sub>John Cena, Tha Trademarc, WWE</sub>
+      <sub>NJPW</sub>
     </td>
   </tr>
 </table>
