@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy today☁️
-📍 Toronto: 7°C
+# 🌍 Bonjour! Belle journée ensoleillée☀️
+📍 Lyon: 24°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,18 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-お疲れ様です！直近30日間でなんと**502件**ものコミットを重ね、素晴らしい活躍を見せてくれましたね！👏
+直近30日間で、合計502件ものコミット、素晴らしい活躍でした！✨
 
-特に目を引いたのは、大規模な変更を含む以下の活動です。
+**Audicle**では、PlaylistCompletionScreenの単体テストを追加し、Vercel認証APIとの連携で拡張機能がBearer認証で音声取得できるようになるなど、新機能と品質向上に貢献しましたね！🚀
+**OpenShelf**では、drizzle-kitの更新や多数のstagingブランチ統合、そして`staging`から`main`へのリリースまで、プロジェクトの安定稼働と効率的な運用に尽力された様子が伺えます。🔄
+**paper-tools**では、タグサジェストのキャッシュ化でパフォーマンスを向上させ、CLIコマンドへのロガー注入でコードの健全性を高めるなど、品質と開発体験の向上に大きく貢献しましたね。セキュリティ修正もバッチリです！🛡️
+**github-user-summary**では、アクティビティキャッシュの実装やレイアウトエディタ、プロフィールカードのテスト改善を通じて、パフォーマンスと品質の両面で素晴らしい進歩を見せました。💡
 
-*   **Audicle**では、`PlaylistCompletionScreen`への単体テスト追加で品質を向上させ、Vercel版Audicle認証APIとの連携により、Bearer認証での音声取得を実現しました。大きな機能拡張ですね！🚀
-*   **OpenShelf**では、`drizzle-kit`の更新や多数の`staging`ブランチのマージを通じて、テストの追加、バグ修正、アクセシビリティ改善、パフォーマンス向上など、多岐にわたるコードベースの改善に貢献しました。定期的なリリース作業も素晴らしいです。✨
-*   **paper-tools**では、タグサジェストのキャッシュ化でパフォーマンスを劇的に改善し、CLIコマンドのロガーを注入可能にするなど、コード健全性の向上にも力を入れました。セキュリティ修正も忘れず対応、流石です！🛡️
-*   **github-user-summary**では、アクティビティキャッシュの実装を進めるとともに、レイアウトエディタやプロフィールカードのテストを改善し、安定性向上に貢献しましたね！💡
+多岐にわたるプロジェクトで精力的に活動され、素晴らしい成果です！この調子で頑張りましょう！👏
 
-どのプロジェクトでも、着実に機能強化や品質向上、そして開発体験の改善に取り組んでいることが伺えます。皆さんの努力が、プロダクトをより良いものにしていますね。本当にありがとうございます！これからも期待しています！😊
-
-_Total: 1093 commits across 10 projects_
+_Total: 1064 commits across 10 projects_
 
 <table>
   <tr>
@@ -46,7 +44,7 @@ _Total: 1093 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 458 commits (41.9%)</sub>
+      <sub>📊 457 commits (43.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -57,7 +55,7 @@ _Total: 1093 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 376 commits (34.4%)</sub>
+      <sub>📊 376 commits (35.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 15</sub>
     </td>
@@ -68,7 +66,7 @@ _Total: 1093 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 166 commits (15.2%)</sub>
+      <sub>📊 141 commits (13.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -83,26 +81,26 @@ _Total: 1093 commits across 10 projects_
 <table>
   <tr>
     <td align="center">
-      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
-      <br />
-      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/6jlGKRWFDRDs7nEhzLaN5K" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273b8a3cb5f89cce62885de71ed" alt="章" width="120" />
       </a>
       <br />
-      <sub><strong>#2</strong></sub>
+      <sub><strong>#1</strong></sub>
       <br />
       <sub>章</sub>
       <br />
       <sub>Ryokuoushoku Shakai</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
+      <br />
+      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/0Xp0vtkQEAmJuF8ZyO6vQT" target="_blank">
@@ -127,15 +125,15 @@ _Total: 1093 commits across 10 projects_
       <sub>NJPW</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/3yuNbUYZMOARwiyJMQd3wo" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27341815ddf181bf3d7df715e6c" alt="Afterglow" width="120" />
+      <a href="https://open.spotify.com/track/7DMavQOyLksY3TB1t0mTio" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273f9410f37953e5991e20abc8d" alt="MACHINEGUN - 2021.11.1 Live at Zepp DiverCity TOKYO" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>Afterglow</sub>
+      <sub>MACHINEGUN - 2021.11.1 Live at Zepp DiverCity TOKYO</sub>
       <br />
-      <sub>In Hearts Wake</sub>
+      <sub>THE ORAL CIGARETTES</sub>
     </td>
   </tr>
 </table>
