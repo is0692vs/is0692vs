@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！今日は曇り空ですね☁️
-📍 Osaka: 21°C
+# 🌍 Hello! Rainy day☔
+📍 New York: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,18 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**478件**ものコミット、素晴らしい活躍でしたね！🚀
-主要なプロジェクトでの活動を振り返ってみましょう。
+直近30日間で、なんと478件ものコミット、素晴らしい活動量ですね！🚀
 
-**[Audicle]** では、Vercel版Audicle認証APIとの連携による音声取得機能を実装し、大幅な機能拡張を実現されました！加えて、PlaylistCompletionScreenの単体テスト追加で品質向上にも貢献されました。🧪
+主な活動として、いくつかのリポジトリで大きな進捗が見られます。
 
-**[OpenShelf]** では、多数のブランチマージを通して積極的に開発を進め、drizzle-kitの依存関係更新やリリース対応まで、多岐にわたる重要な作業をこなされました。👍
+**Audicle**では、PlaylistCompletionScreenの単体テスト追加で品質を向上させつつ、Vercel版Audicle認証APIへの接続とBearer認証での音声取得を実現し、重要な機能連携を拡張されましたね！🧪
 
-**[paper-tools]** では、タグサジェストのキャッシュ導入によるパフォーマンス向上、CLIコマンドでのロガー注入によるコード健全性の改善、そしてセキュリティ修正と、システム全体の質を高める作業に尽力されました。✨
+**OpenShelf**では、stagingブランチへのマージが頻繁に行われ、多くの新機能開発や修正が活発に進んでいることが伺えます。定期的なリリースも行われており、プロジェクトの安定的な進展に貢献されています！💪
 
-**[github-user-summary]** では、アクティビティキャッシュ機能の導入や、レイアウトエディター、プロフィールカードのテスト改善を行い、機能性と安定性を向上させました。💡
+**paper-tools**では、タグサジェストのキャッシュ化でパフォーマンスが大幅に改善され、ユーザー体験が向上したことでしょう⚡。CLIコマンドへのロガー注入やセキュリティ修正で、コード品質と堅牢性も高められましたね。🧹🔒
 
-この1ヶ月間も、新機能開発からパフォーマンス改善、コード品質向上、テスト強化、リリース対応まで、幅広く貢献されています。本当にお疲れ様でした！これからも素晴らしい成果を楽しみにしています！🎉
+**github-user-summary**でも、活動キャッシュの取り込みやレイアウトエディタ、プロフィールカードのテスト強化を進め、全体の品質向上に注力されています。✨
+
+多岐にわたるプロジェクトで、機能強化、品質向上、パフォーマンス改善、セキュリティ対応と、素晴らしい貢献をされています！この調子で、これからも開発を楽しんでくださいね！🎉
 
 _Total: 1001 commits across 10 projects_
 
@@ -107,22 +108,11 @@ _Total: 1001 commits across 10 projects_
       <sub>Brick</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/6jlGKRWFDRDs7nEhzLaN5K" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273b8a3cb5f89cce62885de71ed" alt="章" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>章</sub>
-      <br />
-      <sub>Ryokuoushoku Shakai</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
       <br />
@@ -133,11 +123,22 @@ _Total: 1001 commits across 10 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b2734cd6430c81db387bb7bed830" alt="高橋ヒロムのテーマ 「TIME BOMB -Reignition-」" width="120" />
       </a>
       <br />
-      <sub><strong>#5</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>高橋ヒロムのテーマ 「TIME BOMB -Reignition-」</sub>
       <br />
       <sub>NJPW(新日本プロレスリング株式会社)</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/3yuNbUYZMOARwiyJMQd3wo" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27341815ddf181bf3d7df715e6c" alt="Afterglow" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>Afterglow</sub>
+      <br />
+      <sub>In Hearts Wake</sub>
     </td>
   </tr>
 </table>
