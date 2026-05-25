@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Foggy and cloudy☁️
-📍 San Francisco: 14°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Lima: 24°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,18 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計478件ものコミット、素晴らしい活躍でしたね！🚀
+直近30日間でなんと**478件**ものコミット、お疲れ様です！素晴らしい活動量ですね！🚀
 
-主な活動として、**Audicle**ではPlaylistCompletionScreenのユニットテストを強化し、Vercel版Audicle認証APIとの連携を通じて新機能拡張に大きく貢献されました。✨
-**OpenShelf**では、drizzle-kitの依存関係更新やテスト関連の調整、複数ブランチのマージ作業でプロジェクトの安定性を高め、リリースにも尽力されましたね。🤝
-**paper-tools**では、タグサジェストのキャッシュ化でパフォーマンスを大幅に改善し、BibTeX CLIの修正やロガー導入によるコード品質向上、セキュリティ修正にも取り組んでいらっしゃいました。💡
-**github-user-summary**では、アクティビティキャッシュの統合や、レイアウトエディタ、プロフィールカードのテスト改善に注力され、品質向上に貢献しましたね。🧪
+各プロジェクトで大きな進展がありました。
 
-各プロジェクトで多岐にわたる重要な改善や新機能開発、テストに尽力されており、その生産性と貢献度に感銘を受けます！これからもこの調子で頑張ってください！💪
+*   **Audicle**では、Vercel認証API連携による音声取得機能の実装や、PlaylistCompletionScreenの単体テスト追加で、新機能開発と品質向上に貢献されました！✨
+*   **OpenShelf**では、Drizzle Kitアップデート、アクセシビリティ改善、多様なテスト追加、タグ解析のパフォーマンス改善、複数の不具合修正、そしてリリース作業と、広範な機能改善と安定化を進められました。素晴らしい！🛠️
+*   **paper-tools**では、タグ候補のキャッシュ化によるパフォーマンス向上、CLIコマンドでのロガー注入によるコード品質改善、セキュリティ対策まで、堅実な改善が光ります。💡
+*   **github-user-summary**では、アクティビティキャッシュ導入や、レイアウトエディタ、プロフィールカードのテスト改善に取り組まれました。システム基盤の強化と品質向上、素晴らしいです！✅
 
-_Total: 977 commits across 10 projects_
+多岐にわたるプロジェクトで貢献されており、その開発力には感服いたします！これからも素晴らしい活躍を期待しています！😊
+
+_Total: 974 commits across 10 projects_
 
 <table>
   <tr>
@@ -44,7 +46,7 @@ _Total: 977 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 445 commits (45.5%)</sub>
+      <sub>📊 445 commits (45.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -55,7 +57,7 @@ _Total: 977 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 330 commits (33.8%)</sub>
+      <sub>📊 327 commits (33.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 15</sub>
     </td>
