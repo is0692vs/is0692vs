@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia nublado☁️
-📍 São Paulo: 20°C
+# 🌍 おはようございます！雨ですね☔
+📍 Kyoto: 21°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,7 +24,14 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で478件ものコミット、お疲れ様です！👏 Merge pull request #787 from Hiroki-org/test-improvement/playlist-completion-screen-15347298096473515578、Merge pull request #794 from Hiroki-org/copilot/implement-vercel-login-endpoint、Merge pull request #906 from Hiroki-org/stagingなど、多くの作業を進められました。合計67123行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で**478件**ものコミット、素晴らしい活躍ぶりですね！🚀✨ 様々なプロジェクトで大きな貢献をされています。
+
+**Audicle**では、Vercel版認証APIへの接続拡張 (+5927/-2776) で新機能の土台を築き、プレイリスト完了画面の単体テストを追加 (+2893/-6463) することで、堅牢な機能開発を進めていますね！🧪
+**OpenShelf**では、複数回のstagingからmainへのリリース作業に加え、drizzle-kitのバージョンアップやセキュリティ関連の修正、機能改善など、安定稼働と継続的な品質向上に注力されています。特に文字カウンターのPRスコープ修正 (+2735/-647) も素晴らしいです！🌟
+**paper-tools**では、タグサジェストのキャッシュ化でパフォーマンスを向上させつつ (+1736/-2066)、CLIコマンドへのロガー注入 (+1676/-1477) でコードの健全性も高めました。セキュリティ修正や、慎重な最適化のRevertも、品質を重視する姿勢が見えますね！💡
+**github-user-summary**では、メインブランチへの活発なマージが多数見られ、レイアウトエディタやプロフィールカードのテスト強化など、品質保証にも力を入れていますね。開発を着実に進めている証拠です！💪
+
+この多岐にわたる活動と貢献は本当に素晴らしいです。日々の努力がプロジェクトの大きな推進力となっています。今月もお疲れ様でした！🎉
 
 _Total: 799 commits across 10 projects_
 
@@ -53,11 +60,11 @@ _Total: 799 commits across 10 projects_
       <sub>🔷 TypeScript ⭐ 15</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/RUSAEXP1EMB2026/repo04" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/RUSAEXP1EMB2026/repo04" alt="repo04" width="100%" />
+      <a href="https://github.com/RUSAEXP1EMB2026/repo01" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/RUSAEXP1EMB2026/repo01" alt="repo01" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/RUSAEXP1EMB2026/repo04" target="_blank">repo04</a></strong></sub>
+      <sub><strong><a href="https://github.com/RUSAEXP1EMB2026/repo01" target="_blank">repo01</a></strong></sub>
       <br />
       <sub>📊 0 commits (0.0%)</sub>
       <br />
@@ -107,26 +114,26 @@ _Total: 799 commits across 10 projects_
       <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/0z6XUSiw6WTT8uZNWJwWcO" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27342f80e91cb2fa0f4a7570d8f" alt="GiANT KiLLERS" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>GiANT KiLLERS</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/1RtRuvFUi7tg3UcusHAcRx" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2734cd6430c81db387bb7bed830" alt="棚橋弘至のテーマ 「LOVE & ENERGY 2020ver.」" width="120" />
       </a>
       <br />
-      <sub><strong>#5</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>棚橋弘至のテーマ 「LOVE & ENERGY 2020ver.」</sub>
       <br />
       <sub>NJPW(新日本プロレスリング株式会社)</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/5So15vlWHcIFmBNbSnewks" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27394fb3480c556174040915928" alt="War Dogs" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>War Dogs</sub>
+      <br />
+      <sub>[Q]brick, Kensei Abbot</sub>
     </td>
   </tr>
 </table>
