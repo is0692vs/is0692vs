@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 你好！今天多云☁️
-📍 Beijing: 19°C
+# 🌍 ¡Hola! Día soleado☀️
+📍 Madrid: 32°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,7 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと478件ものコミット、素晴らしい活躍でしたね！✨ 大変お疲れ様でした！
-
-主要な活動としては、
-**Audicle**では、Vercel認証APIとの連携による音声取得機能の拡張を進め、同時にPlaylistCompletionScreenの単体テストを追加して品質向上に大きく貢献されました。🚀
-**OpenShelf**では、複数回のリリース対応に加え、文字数カウンターの修正、Drizzle Kitのバージョンアップ、そして多くのブランチ統合を通じて、プロジェクトの安定稼働と改善に尽力されました。🛠️
-**paper-tools**では、タグ提案のキャッシュ化によるパフォーマンス改善、CLIコマンドでのロガー導入によるコード健全性向上、セキュリティ修正と多岐にわたる基盤強化に取り組まれましたね。💡
-**github-user-summary**では、メインブランチとの頻繁な同期や、レイアウトエディター、プロファイルカード、ダッシュボードのテスト改善、コンフリクト解決など、安定した開発進行に貢献されました。✅
-
-どのプロジェクトでも、新機能開発からパフォーマンス改善、テスト強化、安定稼働まで、幅広い領域で素晴らしい成果を上げています。この努力が、サービス全体の品質向上に繋がっていますね。本当にありがとうございました！💐
+直近30日間で478件ものコミット、お疲れ様です！👏 Merge pull request #787 from Hiroki-org/test-improvement/playlist-completion-screen-15347298096473515578、Merge pull request #794 from Hiroki-org/copilot/implement-vercel-login-endpoint、Merge pull request #906 from Hiroki-org/stagingなど、多くの作業を進められました。合計67123行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 789 commits across 10 projects_
 
