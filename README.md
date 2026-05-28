@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Perfect sunny day☀️
-📍 Los Angeles: 19°C
+# 🌍 Hello! Tropical rain shower☔
+📍 Miami: 28°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -9,7 +9,7 @@
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 15 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 58 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-04-28%22%2C%222026-04-29%22%2C%222026-04-30%22%2C%222026-05-01%22%2C%222026-05-02%22%2C%222026-05-03%22%2C%222026-05-04%22%2C%222026-05-05%22%2C%222026-05-06%22%2C%222026-05-07%22%2C%222026-05-08%22%2C%222026-05-09%22%2C%222026-05-10%22%2C%222026-05-11%22%2C%222026-05-12%22%2C%222026-05-13%22%2C%222026-05-14%22%2C%222026-05-15%22%2C%222026-05-16%22%2C%222026-05-17%22%2C%222026-05-18%22%2C%222026-05-19%22%2C%222026-05-20%22%2C%222026-05-21%22%2C%222026-05-22%22%2C%222026-05-23%22%2C%222026-05-24%22%2C%222026-05-25%22%2C%222026-05-26%22%2C%222026-05-27%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B4617%2C4638%2C4660%2C4695%2C4710%2C4732%2C4751%2C4761%2C4791%2C4823%2C4904%2C4916%2C4996%2C5022%2C5071%2C5109%2C5157%2C5195%2C5227%2C5248%2C5276%2C5331%2C5367%2C5404%2C5445%2C5457%2C5483%2C5508%2C5534%2C5552%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B52%2C52%2C53%2C53%2C53%2C53%2C53%2C53%2C53%2C53%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C56%2C56%2C56%2C56%2C58%2C58%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-04-29%22%2C%222026-04-30%22%2C%222026-05-01%22%2C%222026-05-02%22%2C%222026-05-03%22%2C%222026-05-04%22%2C%222026-05-05%22%2C%222026-05-06%22%2C%222026-05-07%22%2C%222026-05-08%22%2C%222026-05-09%22%2C%222026-05-10%22%2C%222026-05-11%22%2C%222026-05-12%22%2C%222026-05-13%22%2C%222026-05-14%22%2C%222026-05-15%22%2C%222026-05-16%22%2C%222026-05-17%22%2C%222026-05-18%22%2C%222026-05-19%22%2C%222026-05-20%22%2C%222026-05-21%22%2C%222026-05-22%22%2C%222026-05-23%22%2C%222026-05-24%22%2C%222026-05-25%22%2C%222026-05-26%22%2C%222026-05-27%22%2C%222026-05-28%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B4638%2C4660%2C4695%2C4710%2C4732%2C4751%2C4761%2C4791%2C4823%2C4904%2C4916%2C4996%2C5022%2C5071%2C5109%2C5157%2C5195%2C5227%2C5248%2C5276%2C5331%2C5367%2C5404%2C5445%2C5457%2C5483%2C5508%2C5534%2C5552%2C5552%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B52%2C53%2C53%2C53%2C53%2C53%2C53%2C53%2C53%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C56%2C56%2C56%2C56%2C58%2C58%2C58%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,19 +24,21 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間、**478件**ものコミット、本当にお疲れ様でした！✨ 大量の変更を精力的にこなされましたね！
+直近30日間でなんと478件ものコミット、素晴らしい活躍ぶりです！🎉 多岐にわたるプロジェクトで精力的に活動されていますね。
 
-特に目立った活動としては、**Audicle**でVercel認証APIへの接続やBearer認証での音声取得といった重要な機能拡張、さらにPlaylistCompletionScreenのユニットテスト追加で品質向上に大きく貢献されましたね。🚀
+主な活動を見ていきましょう。
 
-**OpenShelf**では、複数回のリリース作業（`Release: staging -> main`）に加え、文字数カウンターの修正やDrizzle Kitのバージョンアップ、多くのブランチマージを通じて安定性の向上と機能改善を進められました。また、Dependabotによる依存関係の更新も着実に実施されています。👍
+**Audicle**では、Vercel版Audicle認証APIへの接続とBearer認証での音声取得機能を実装し、新機能開発を力強く推進しましたね！また、`PlaylistCompletionScreen`のユニットテストを追加し、堅牢な品質向上にも貢献しています🧪。
 
-**paper-tools**では、タグサジェストのパフォーマンス改善（`⚡ Cache Tag Suggestions`）やCLIコマンドでのロガー導入（`🧹 [Code Health]`）で、ユーザー体験とコード品質の両面からプロジェクトを強化！セキュリティ関連の修正も抜かりありませんでした。💪
+**OpenShelf**では、複数回にわたる`staging`から`main`へのリリース作業を実施し、プロジェクトの着実な進捗を示しています。文字数カウンターの修正や、drizzle-kitなどの開発依存関係、さらにはCSRF関連のセキュリティ修正まで、細やかな改善でプロジェクトの安定稼働を支えました✨。
 
-そして**github-user-summary**では、レイアウトエディタやプロファイルカードのテスト改善、主要ブランチへのマージ作業を多数行い、プロジェクトの堅牢性を高める素晴らしい働きでした。🌟
+**paper-tools**では、タグ提案のキャッシュ化によってパフォーマンスを大きく向上させ、ユーザー体験を高めました⚡。コードヘルスの改善としてDI可能なロガーの導入、ViteとPostCSSのセキュリティ修正も行い、プロジェクトの健全性維持にも尽力されていますね。
 
-多岐にわたるプロジェクトでこれだけの成果を出されているのは本当に素晴らしいです！今後の活躍も楽しみにしています！😊
+**github-user-summary**では、アクティビティキャッシュ関連機能の実装を進めつつ、レイアウトエディタ、プロフィールカード、APIユーティリティ、ダッシュボードと、広範囲にわたるテストの改善に注力していました💪。品質向上への意識の高さがうかがえます。
 
-_Total: 799 commits across 10 projects_
+新機能開発から品質向上、パフォーマンス改善、セキュリティ強化まで、本当に精力的に活動されていますね！お疲れ様でした、次週も期待しています！🚀
+
+_Total: 787 commits across 10 projects_
 
 <table>
   <tr>
@@ -47,7 +49,7 @@ _Total: 799 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 489 commits (61.2%)</sub>
+      <sub>📊 478 commits (60.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,7 +60,7 @@ _Total: 799 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 310 commits (38.8%)</sub>
+      <sub>📊 309 commits (39.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 15</sub>
     </td>
@@ -106,11 +108,22 @@ _Total: 799 commits across 10 projects_
       <sub>Brick</sub>
     </td>
     <td align="center">
+      <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
+      <br />
+      <sub>NJPW</sub>
+    </td>
+    <td align="center">
       <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
       <br />
@@ -121,22 +134,11 @@ _Total: 799 commits across 10 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b2734cd6430c81db387bb7bed830" alt="棚橋弘至のテーマ 「LOVE & ENERGY 2020ver.」" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#5</strong></sub>
       <br />
       <sub>棚橋弘至のテーマ 「LOVE & ENERGY 2020ver.」</sub>
       <br />
       <sub>NJPW(新日本プロレスリング株式会社)</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/5So15vlWHcIFmBNbSnewks" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27394fb3480c556174040915928" alt="War Dogs" width="120" />
-      </a>
-      <br />
-      <sub><strong>#5</strong></sub>
-      <br />
-      <sub>War Dogs</sub>
-      <br />
-      <sub>[Q]brick, Kensei Abbot</sub>
     </td>
   </tr>
 </table>
