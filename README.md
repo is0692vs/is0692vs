@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Belle journée ensoleillée☀️
-📍 Paris: 30°C
+# 🌍 Hello! Rather cloudy today☁️
+📍 London: 25°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,18 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-素晴らしい30日間でした！なんと合計478件ものコミット、本当に精力的に活動されましたね！👏
+直近30日間で、なんと478件ものコミットを達成しました！素晴らしい活動量ですね！✨
 
-特に目を引くのは、**Audicle**での大きな進展です。Vercel版Audicle認証APIとの接続やBearer認証による音声取得機能の実装は、サービスの中核を強化する重要なマイルストーンとなりましたね。また、`PlaylistCompletionScreen`の単体テスト追加で品質もしっかり向上させています。✨
+主な活動としては、多岐にわたるプロジェクトで大きな進展が見られました。
 
-**OpenShelf**では、`staging`ブランチへの頻繁なマージや`main`へのリリース、さらに`drizzle-kit`のバージョンアップなど、プロジェクトの安定性と最新化に継続的に貢献しています。文字数カウンターの修正もユーザー体験に直結する改善です。
+*   **[Audicle]** では、Vercel版Audicle認証APIとの連携を実装し、音声取得の仕組みを拡張するなど、新機能開発に大きく貢献しましたね！「PlaylistCompletionScreen」のユニットテスト追加で、品質向上にも力を入れています🧪。
+*   **[OpenShelf]** では、エラーログやアップロードエラーの修正、セキュリティ対策、キャラクターカウンターの調整など、細部にわたる改善を重ねてプロジェクトの安定化に尽力されました。Drizzle Kitのアップデートや様々な依存関係の更新も迅速に対応し、リリース作業もスムーズに進めましたね🚀。
+*   **[paper-tools]** では、タグサジェストのキャッシュ化でパフォーマンスを向上させ、ユーザー体験を高めました！CLIコマンドでのロガー導入やセキュリティ修正を通じて、コード品質とシステムの堅牢性も着実に強化しています💪。
+*   **[github-user-summary]** では、アクティビティキャッシュの導入やレイアウトエディター、プロフィールカードのテスト改善など、機能の信頼性と効率性を向上させるための重要な作業を進めましたね！
 
-**paper-tools**では、タグ提案のキャッシュ実装でパフォーマンスが大幅に向上し、ユーザーの利便性を高めました。さらに、CLIコマンドに注入可能なロガーを導入し、コード品質の向上にも力を入れていますね。🚀
+どのプロジェクトでも、新機能開発から品質向上、パフォーマンス改善、そして地道なメンテナンスまで、多方面にわたる活躍が見て取れます。本当にお疲れ様でした！この調子でこれからも素晴らしい開発を続けていきましょう！🌟
 
-**github-user-summary**では、レイアウトエディタやプロフィールカードのテストを改善し、システムの堅牢性を高める素晴らしい取り組みをされています。
-
-これだけ多岐にわたるプロジェクトで、機能開発から品質向上、メンテナンスまで幅広く貢献されていることに感銘を受けます。これからもその調子で頑張ってください！お疲れ様でした！👍
-
-_Total: 1020 commits across 10 projects_
+_Total: 1026 commits across 10 projects_
 
 <table>
   <tr>
@@ -47,7 +46,7 @@ _Total: 1020 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 504 commits (49.4%)</sub>
+      <sub>📊 504 commits (49.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,7 +57,7 @@ _Total: 1020 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 315 commits (30.9%)</sub>
+      <sub>📊 315 commits (30.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 15</sub>
     </td>
@@ -128,15 +127,15 @@ _Total: 1020 commits across 10 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
+      <a href="https://open.spotify.com/track/0Xp0vtkQEAmJuF8ZyO6vQT" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736667e31d2e957c6a0eb82b04" alt="Make Way For The Prince - Extended Version" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
+      <sub>Make Way For The Prince - Extended Version</sub>
       <br />
-      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
+      <sub>Brick</sub>
     </td>
   </tr>
 </table>
