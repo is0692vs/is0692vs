@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Foggy and cloudy☁️
-📍 San Francisco: 12°C
+# 🌍 Hallo! Sonniger Tag☀️
+📍 Berlin: 22°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,18 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと478もの素晴らしいコミットを達成しました！日々の精力的な活動、本当にありがとうございます！🎉
+直近30日間で478件ものコミット、お疲れ様でした！素晴らしい活動量ですね！✨
 
-主な活動としては、多岐にわたるプロジェクトで大きな進展がありましたね。
+この期間は、様々なプロジェクトで多岐にわたる貢献をされています。
 
-*   **Audicle** では、Vercel版認証APIへの接続を進め、Bearer認証で音声取得を可能にする重要な機能拡張を行いました。さらに、PlaylistCompletionScreenの単体テストを追加し、品質向上にも貢献しています🧪。
-*   **OpenShelf** では、複数回のリリース作業に加え、文字数カウンターのスコープ修正や依存関係のアップデート（drizzle-kitなど）、セキュリティ対策（CSRF関連）、Copilot関連の機能改善など、多角的にプロジェクトを推進されました。素晴らしいです👏。
-*   **paper-tools** では、タグサジェストのキャッシュ化によるパフォーマンス向上、CLIコマンドでのロガー注入によるコード健全性の向上、セキュリティ関連の修正など、堅実な改善が光っています✨。
-*   **github-user-summary** では、メインブランチとの頻繁なマージやレイアウトエディタ、プロフィールカードのテスト改善など、プロジェクトの安定化と品質向上に尽力されましたね！🚀
+特に注目すべきは、
+*   **Audicle** では、Vercel版Audicle認証APIへの接続を進め、Bearer認証での音声取得を可能にする大きな機能拡張に着手されましたね。さらに、PlaylistCompletionScreenの単体テストを追加し、品質向上にも尽力されています🧪。
+*   **OpenShelf** では、リリース作業から多数の不具合修正（エラーログ、アップロードエラー、文字数カウンターなど）やセキュリティ対策、そして`drizzle-kit`を含むnpmパッケージの依存関係アップデートまで、システムの安定稼働と保守に幅広く貢献されています。日々の運用を支える大切な作業、ありがとうございます！
+*   **paper-tools** では、タグサジェストのキャッシュ化によりパフォーマンスを向上させ、CLIコマンドでのロガー導入によるコード品質改善、さらにViteやPostCSSのセキュリティ修正を行うなど、機能面だけでなくコードの健全性や安全性にも気を配るプロフェッショナルな取り組みが見られます⚡🧹。
+*   **github-user-summary** では、アクティビティキャッシュの取得や、レイアウトエディタ、プロフィールカードといった主要コンポーネントのテスト改善を精力的に進め、品質の向上に大きく貢献されていますね📊。
 
-この勢いで、これからも素晴らしい開発を続けていきましょう！💪
+各リポジトリで、新機能開発、テスト強化、パフォーマンス改善、セキュリティ対策、そして日々の保守運用まで、本当に幅広い分野で力を発揮されています。この一ヶ月の多大な努力が、プロジェクトの成長を力強く後押ししています！これからも素晴らしい開発を期待しています！🚀
 
-_Total: 784 commits across 10 projects_
+_Total: 1020 commits across 10 projects_
 
 <table>
   <tr>
@@ -46,7 +47,7 @@ _Total: 784 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 478 commits (61.0%)</sub>
+      <sub>📊 504 commits (49.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -57,20 +58,20 @@ _Total: 784 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 306 commits (39.0%)</sub>
+      <sub>📊 315 commits (30.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 15</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/RUSAEXP1EMB2026/repo01" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/RUSAEXP1EMB2026/repo01" alt="repo01" width="100%" />
+      <a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/github-user-summary" alt="github-user-summary" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/RUSAEXP1EMB2026/repo01" target="_blank">repo01</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 0 commits (0.0%)</sub>
+      <sub>📊 129 commits (12.6%)</sub>
       <br />
-      <sub>🟨 JavaScript </sub>
+      <sub>🔷 TypeScript </sub>
     </td>
   </tr>
 </table>
@@ -94,48 +95,48 @@ _Total: 784 commits across 10 projects_
       <sub>BABYMETAL, Electric Callboy</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/0Xp0vtkQEAmJuF8ZyO6vQT" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736667e31d2e957c6a0eb82b04" alt="Make Way For The Prince - Extended Version" width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>Make Way For The Prince - Extended Version</sub>
-      <br />
-      <sub>Brick</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#2</strong></sub>
       <br />
       <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
       <br />
       <sub>NJPW</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
+      <a href="https://open.spotify.com/track/2hbB9AQrJGFQKZDgVBLMuh" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273d263a9b9a61401bec9b0abd8" alt="石森太二(ボーンソルジャー)のテーマ「BONE SOLDIER」" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>石森太二(ボーンソルジャー)のテーマ「BONE SOLDIER」</sub>
+      <br />
+      <sub>NJPW</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/0z6XUSiw6WTT8uZNWJwWcO" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27342f80e91cb2fa0f4a7570d8f" alt="GiANT KiLLERS" width="120" />
       </a>
       <br />
       <sub><strong>#4</strong></sub>
       <br />
-      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
+      <sub>GiANT KiLLERS</sub>
       <br />
-      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
+      <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/29XDdTDbwmZ9cWmQq4SSXV" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273c6f10dc7e5566baaa3ee685e" alt="オカダ・カズチカのテーマ「RAIN MAKER」" width="120" />
+      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>オカダ・カズチカのテーマ「RAIN MAKER」</sub>
+      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
       <br />
-      <sub>NJPW</sub>
+      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
     </td>
   </tr>
 </table>
