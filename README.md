@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día lluvioso☔
-📍 Barcelona: 26°C
+# 🌍 Ciao! Giornata soleggiata☀️
+📍 Rome: 22°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で474回ものコミット、素晴らしい集中力と生産性ですね！🚀 各プロジェクトで多岐にわたる活躍を見せています。
+直近30日間で、なんと474件ものコミット、お疲れ様でした！素晴らしい活動量ですね！✨
 
-まず、**Audicle**では、Vercel版Audicle認証APIとの連携を実装し、Bearer認証で音声取得を可能にする大きな機能拡張を手がけました。さらに、PlaylistCompletionScreenの単体テストをしっかり追加し、品質向上にも貢献していますね。🧪
+主な活動としては、
+*   **Audicle**では、Vercel認証APIとの連携を進め、Bearer認証での音声取得を可能にする大きな機能拡張を行いましたね。🚀 また、プレイリスト完了画面の単体テストを追加し、品質向上にも貢献しました。
+*   **OpenShelf**では、ステージングブランチからmainへのリリース準備を進めつつ、エラーログの漏洩修正やアップロードエラーのテスト、CSRF対応など、システムの安定性とセキュリティを大幅に強化しました。依存ライブラリの更新も抜かりありません！👍
+*   **paper-tools**では、タグ候補のキャッシュ実装によりパフォーマンスを大きく改善し、CLIコマンドに注入可能なロガーを導入してコードの健全性も向上させました。🔧
+*   **github-user-summary**では、アクティビティキャッシュの改善や、レイアウトエディタ、プロフィールカードのテストを強化し、ユーザー体験の向上とシステムの堅牢化に努めましたね。📚
 
-次に、**OpenShelf**では、stagingブランチへの頻繁なマージやリリース作業を行い、プロジェクトの進捗を力強く推進しました。文字数カウンターの修正やCSRF関連のセキュリティ修正、さらにはDrizzle Kitを含む依存関係のアップデートにも取り組み、安定性と保守性を高めています。💪
-
-**paper-tools**では、タグ提案のキャッシュ化によるパフォーマンス改善を実現し、ユーザー体験の向上に貢献しました。また、CLIコマンドでのロガー注入化でコードの健全性を高め、セキュリティ修正も迅速に対応しています。✨
-
-そして、**github-user-summary**では、アクティビティキャッシュの実装を進めつつ、レイアウトエディタやプロフィールカードのテスト強化にも注力しましたね。堅牢なシステムを築くための地道な努力が光ります！🌟
-
-この調子で、これからも素晴らしい開発を続けてください！応援しています！🎉
+今月も多岐にわたるプロジェクトで精力的に活動され、本当に素晴らしい成果です！この調子で、これからも exciting な開発を続けていきましょう！🎉
 
 _Total: 1022 commits across 10 projects_
 
@@ -95,11 +93,22 @@ _Total: 1022 commits across 10 projects_
       <sub>BABYMETAL, Electric Callboy</sub>
     </td>
     <td align="center">
+      <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
+      <br />
+      <sub>NJPW</sub>
+    </td>
+    <td align="center">
       <a href="https://open.spotify.com/track/2hbB9AQrJGFQKZDgVBLMuh" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273d263a9b9a61401bec9b0abd8" alt="石森太二(ボーンソルジャー)のテーマ「BONE SOLDIER」" width="120" />
       </a>
       <br />
-      <sub><strong>#2</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>石森太二(ボーンソルジャー)のテーマ「BONE SOLDIER」</sub>
       <br />
@@ -110,22 +119,11 @@ _Total: 1022 commits across 10 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b27342f80e91cb2fa0f4a7570d8f" alt="GiANT KiLLERS" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>GiANT KiLLERS</sub>
       <br />
       <sub>BiSH</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
-      <br />
-      <sub>NJPW</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/0Xp0vtkQEAmJuF8ZyO6vQT" target="_blank">
