@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Barcelona: 23°C
+# 🌍 こんにちは！今日は曇り空ですね☁️
+📍 Tokyo: 20°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,18 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-素晴らしい30日間でしたね！🎉 直近で合計474件ものコミットを重ね、多くのプロジェクトで活躍しています。
+お疲れ様です！この30日間で**474件**もの素晴らしいコミット、本当にありがとうございました！✨
+主な活動を振り返ってみましょう。
 
-特に、**OpenShelf**ではテストの強化（DB削除テストなど）に加え、複数のブランチ統合、ステージングリリース、そして`drizzle-kit`のバージョンアップやセキュリティ修正、機能改善（キャラクターカウンター）など、プロジェクトの安定性と進化に大きく貢献しましたね！
+**OpenShelf**では、データベースの削除テスト強化や、キャラクターカウンター機能の改善、`drizzle-kit`の依存関係更新など、堅実な開発と品質向上が進められましたね。複数のブランチマージも着実に実施されています。
 
-**Audicle**では、PlaylistCompletionScreenの単体テストを追加し品質を向上させるとともに、Vercel版認証APIへの接続という重要な新機能を開発！👏 音声取得の仕組みを大きく前進させました。
+**Audicle**では、PlaylistCompletionScreenのユニットテスト追加で品質を高めつつ、Vercel認証APIとの接続という大きな新機能の基盤を築きました！ユーザー体験がさらに向上しそうです🚀
 
-また、**paper-tools**ではタグ候補のキャッシュ導入によるパフォーマンス改善、CLIコマンドでのロガー注入によるコード品質向上、Vite/PostCSSのセキュリティ修正と、多角的にプロジェクトを強化しています。
+**paper-tools**では、タグ提案のキャッシュ化によるパフォーマンスの大幅改善や、`injectable logger`導入によるコードの健全性向上に貢献されました。セキュリティ関連の修正も抜かりなく対応されていますね。
 
-**github-user-summary**でも、レイアウトやプロファイルカード関連のテスト改善を進め、堅牢な開発に努めました。
+**github-user-summary**でも複数のブランチマージが行われ、プロジェクトの安定した進捗に貢献しています。
 
-本当に素晴らしい成果ばかりですね！この調子でこれからも頑張っていきましょう！🚀
+各プロジェクトで、テスト、新機能、パフォーマンス、コード品質と多岐にわたる活躍が見られ、チーム全体の勢いを感じます！これからもこの調子で頑張りましょう！💪
 
 _Total: 946 commits across 10 projects_
 
@@ -84,26 +85,26 @@ _Total: 946 commits across 10 projects_
 <table>
   <tr>
     <td align="center">
-      <a href="https://open.spotify.com/track/2S3u18aJF8eExll5dYwSJb" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2734b0ed3119e27ff6e56298053" alt="RATATATA" width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>RATATATA</sub>
-      <br />
-      <sub>BABYMETAL, Electric Callboy</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
       </a>
       <br />
-      <sub><strong>#2</strong></sub>
+      <sub><strong>#1</strong></sub>
       <br />
       <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
       <br />
       <sub>NJPW</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/2S3u18aJF8eExll5dYwSJb" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2734b0ed3119e27ff6e56298053" alt="RATATATA" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>RATATATA</sub>
+      <br />
+      <sub>BABYMETAL, Electric Callboy</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/0z6XUSiw6WTT8uZNWJwWcO" target="_blank">
