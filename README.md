@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy skies today☁️
-📍 New York: 30°C
+# 🌍 Ciao! Giornata nuvolosa☁️
+📍 Rome: 24°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で395件ものコミット、お疲れ様です！👏 test: assert db deletion after r2 cleanup failures、Merge pull request #787 from Hiroki-org/test-improvement/playlist-completion-screen-15347298096473515578、Merge pull request #794 from Hiroki-org/copilot/implement-vercel-login-endpointなど、多くの作業を進められました。合計80172行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で395件ものコミット、素晴らしい集中力と生産性ですね！👏
 
-_Total: 832 commits across 10 projects_
+**OpenShelf**では、データベース削除テストの追加といった大規模なテスト改善に取り組みつつ、多数のブランチマージを経てステージングからメインへのリリースも実施されました。セキュリティ修正や依存関係の更新にも精力的に対応し、システムの安定性と保守性を大きく向上させています。
+
+**Audicle**では、Vercel版Audicle認証APIへの接続を通じて新機能を実現し、さらにPlaylistCompletionScreenのユニットテストを追加することで、ユーザー体験と品質の両面を大きく高めました。🚀
+
+**paper-tools**では、タグサジェストのキャッシュ化によるパフォーマンス改善や、CLIコマンドでのロガー注入といったコード健全性向上、そしてバグ修正に尽力されました。ユーザーへの価値提供と開発効率のバランスが見事です！
+
+**github-user-summary**では、レイアウトエディタやプロフィールカード関連のテスト改善を進め、ブランチ間のマージ作業を通じてシステムの堅牢性を強化されましたね。✨
+
+各プロジェクトで多岐にわたる重要な貢献、本当にありがとうございます！この調子でこれからも素晴らしい開発を続けていきましょう！💪
+
+_Total: 828 commits across 10 projects_
 
 <table>
   <tr>
@@ -37,7 +47,7 @@ _Total: 832 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 392 commits (47.1%)</sub>
+      <sub>📊 392 commits (47.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -48,7 +58,7 @@ _Total: 832 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 227 commits (27.3%)</sub>
+      <sub>📊 223 commits (26.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 16</sub>
     </td>
@@ -59,7 +69,7 @@ _Total: 832 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 119 commits (14.3%)</sub>
+      <sub>📊 119 commits (14.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -191,7 +201,7 @@ _Total: 832 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.2">v1.5.2</a> · 2 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.2">v1.5.2</a> · 3 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.2 -->
