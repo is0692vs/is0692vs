@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Foggy and cloudy☁️
-📍 San Francisco: 10°C
+# 🌍 Hello! Cloudy skies today☁️
+📍 New York: 25°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 5,737 installs | ⭐ 4.5/5 (2 ratings) | v1.5.4
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 5,752 installs | ⭐ 4.5/5 (2 ratings) | v1.5.4
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 15 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 59 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-05-08%22%2C%222026-05-09%22%2C%222026-05-10%22%2C%222026-05-11%22%2C%222026-05-12%22%2C%222026-05-13%22%2C%222026-05-14%22%2C%222026-05-15%22%2C%222026-05-16%22%2C%222026-05-17%22%2C%222026-05-18%22%2C%222026-05-19%22%2C%222026-05-20%22%2C%222026-05-21%22%2C%222026-05-22%22%2C%222026-05-23%22%2C%222026-05-24%22%2C%222026-05-25%22%2C%222026-05-26%22%2C%222026-05-27%22%2C%222026-05-28%22%2C%222026-05-29%22%2C%222026-05-30%22%2C%222026-05-31%22%2C%222026-06-01%22%2C%222026-06-02%22%2C%222026-06-03%22%2C%222026-06-04%22%2C%222026-06-05%22%2C%222026-06-06%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B4904%2C4916%2C4996%2C5022%2C5071%2C5109%2C5157%2C5195%2C5227%2C5248%2C5276%2C5331%2C5367%2C5404%2C5445%2C5457%2C5483%2C5508%2C5534%2C5552%2C5567%2C5588%2C5600%2C5617%2C5650%2C5675%2C5698%2C5728%2C5737%2C5737%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C56%2C56%2C56%2C56%2C58%2C58%2C58%2C58%2C58%2C59%2C59%2C59%2C59%2C59%2C59%2C59%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-05-08%22%2C%222026-05-09%22%2C%222026-05-10%22%2C%222026-05-11%22%2C%222026-05-12%22%2C%222026-05-13%22%2C%222026-05-14%22%2C%222026-05-15%22%2C%222026-05-16%22%2C%222026-05-17%22%2C%222026-05-18%22%2C%222026-05-19%22%2C%222026-05-20%22%2C%222026-05-21%22%2C%222026-05-22%22%2C%222026-05-23%22%2C%222026-05-24%22%2C%222026-05-25%22%2C%222026-05-26%22%2C%222026-05-27%22%2C%222026-05-28%22%2C%222026-05-29%22%2C%222026-05-30%22%2C%222026-05-31%22%2C%222026-06-01%22%2C%222026-06-02%22%2C%222026-06-03%22%2C%222026-06-04%22%2C%222026-06-05%22%2C%222026-06-06%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B4904%2C4916%2C4996%2C5022%2C5071%2C5109%2C5157%2C5195%2C5227%2C5248%2C5276%2C5331%2C5367%2C5404%2C5445%2C5457%2C5483%2C5508%2C5534%2C5552%2C5567%2C5588%2C5600%2C5617%2C5650%2C5675%2C5698%2C5728%2C5737%2C5752%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C56%2C56%2C56%2C56%2C58%2C58%2C58%2C58%2C58%2C59%2C59%2C59%2C59%2C59%2C59%2C59%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,17 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で395件ものコミット、素晴らしい活躍ぶりですね！🚀 様々なプロジェクトで多くの貢献がありました。
+直近30日間で**395件**ものコミット、素晴らしい活動量ですね！🚀 日々の開発お疲れ様です！
 
-特に目立った活動としては、**OpenShelf** ではテストの大幅な強化（DB削除テストなど）や、ステージングブランチのマージを通じた多くのリリース準備、バグ修正、そしてDrizzle Kitの依存関係更新に取り組まれました。堅牢性の向上と安定稼働に大きく貢献していますね！✨
+それぞれのプロジェクトでの大活躍を振り返ってみましょう。
 
-**Audicle** では、PlaylistCompletionScreenのユニットテスト追加で品質を向上させつつ、Vercel版Audicle認証APIとの連携により、新しい認証方式で音声取得ができるように拡張機能を接続しました。これはユーザー体験を向上させる重要な機能ですね！🎧
+**OpenShelf**では、テストの強化に大きく貢献しましたね！特にDB削除後のテストを追加し、堅牢性を向上させました。また、多数のマージコミットやリリース作業を通じて、安定的な開発フローを支えています。Copilot関連の新機能開発やセキュリティ修正、さらにはDrizzleKitなどの依存関係のアップデートにも積極的で、幅広い領域でプロジェクトを前進させています✨
 
-**paper-tools** では、タグサジェスト機能のキャッシュ導入でパフォーマンスを大幅に改善し、さらにCLIコマンドへのインジェクタブルロガー導入でコードの健全性も高めました。効率と品質の両面を追求する姿勢、素晴らしいです！💡
+**Audicle**では、PlaylistCompletionScreenのユニットテストを大幅に追加し、品質向上に尽力しましたね🧪 さらに、Vercel版Audicle認証APIへの接続機能を実装し、新しい認証方法での音声取得を可能にするなど、重要な新機能開発を進めています💡
 
-そして、**github-user-summary** では、レイアウトエディタやプロフィールカード、APIやダッシュボードに関するテストを広範囲に改善し、システムの信頼性向上に尽力されました。細部へのこだわりが光ります！🌟
+**paper-tools**では、タグ提案のキャッシュ化によるパフォーマンス改善を見事に実現しました⚡ コード健全性の向上にも取り組み、CLIコマンドでインジェクタブルなロガーを使用するなど、保守性も高めていますね！
 
-多岐にわたるプロジェクトで、開発、テスト、パフォーマンス改善、コード品質向上と、本当に精力的に活動されていますね。これからも皆さんの活躍を応援しています！😊
+**github-user-summary**では、レイアウトエディタやプロファイルカード関連のテストを強化し、品質向上に貢献しましたね🛠️ 多くのマージを通じて、プロジェクトの統合と安定化を進めています。
+
+これだけの多岐にわたるプロジェクトで、テスト強化、新機能開発、パフォーマンス改善、品質向上、セキュリティ対応と、本当に素晴らしい貢献です！これからもその情熱で、素晴らしい開発を続けてくださいね！💪
 
 _Total: 838 commits across 10 projects_
 
@@ -117,24 +119,24 @@ _Total: 838 commits across 10 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/29XDdTDbwmZ9cWmQq4SSXV" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273c6f10dc7e5566baaa3ee685e" alt="オカダ・カズチカのテーマ「RAIN MAKER」" width="120" />
+      <a href="https://open.spotify.com/track/4xXLlp5oJVvWbGkubnLQ2i" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273cf0e385121a5a063a5b4bb29" alt="TIME BOMB～髙橋ヒロムのテーマ" width="120" />
       </a>
       <br />
       <sub><strong>#4</strong></sub>
       <br />
-      <sub>オカダ・カズチカのテーマ「RAIN MAKER」</sub>
+      <sub>TIME BOMB～髙橋ヒロムのテーマ</sub>
       <br />
       <sub>NJPW</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/2hbB9AQrJGFQKZDgVBLMuh" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273d263a9b9a61401bec9b0abd8" alt="石森太二(ボーンソルジャー)のテーマ「BONE SOLDIER」" width="120" />
+      <a href="https://open.spotify.com/track/29XDdTDbwmZ9cWmQq4SSXV" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273c6f10dc7e5566baaa3ee685e" alt="オカダ・カズチカのテーマ「RAIN MAKER」" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>石森太二(ボーンソルジャー)のテーマ「BONE SOLDIER」</sub>
+      <sub>オカダ・カズチカのテーマ「RAIN MAKER」</sub>
       <br />
       <sub>NJPW</sub>
     </td>
