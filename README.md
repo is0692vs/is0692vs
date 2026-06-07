@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia nublado☁️
-📍 São Paulo: 14°C
+# 🌍 ¡Hola! Está lloviendo☔
+📍 Mexico City: 15°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,9 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計394件のコミット、素晴らしい活躍ですね！🎉 さまざまなプロジェクトで多岐にわたる貢献が見られます。
+直近30日間で394件ものコミット、お疲れ様です！👏 test: assert db deletion after r2 cleanup failures、Merge pull request #787 from Hiroki-org/test-improvement/playlist-completion-screen-15347298096473515578、Merge pull request #794 from Hiroki-org/copilot/implement-vercel-login-endpointなど、多くの作業を進められました。合計74704行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-特に目立った活動としては、
-*   **OpenShelf** では、トークンキャッシュや組織タグカウントのパフォーマンス最適化を⚡進め、システム全体の応答性向上に貢献しました。データベース削除時のテスト強化やリファクタリングも抜かりなく実施していますね。
-*   **Audicle** では、Vercel版認証APIへの接続機能を拡張し、Bearer認証での音声取得を実現しました。同時にPlaylistCompletionScreenのユニットテストも追加し、機能と品質の両面で大きく前進させましたね🧪。
-*   **paper-tools** では、タグサジェスト機能のキャッシュ導入でパフォーマンスを向上させ、CLIコマンドへのロガー導入でコードの健全性を保ちました。セキュリティ面では`/api/resolve`エンドポイントに認証を強制し、堅牢性も高めています🔒。
-*   **github-user-summary** では、レイアウトエディタやプロフィールカードのテスト改善に注力し、品質向上に貢献しました。
-
-各リポジトリでの積極的な開発、機能拡張、パフォーマンス改善、そして品質とセキュリティの向上、どれも素晴らしい取り組みです！この調子で、これからもチームを牽引していってください！🚀
-
-_Total: 892 commits across 10 projects_
+_Total: 888 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +37,7 @@ _Total: 892 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 477 commits (53.5%)</sub>
+      <sub>📊 475 commits (53.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +48,7 @@ _Total: 892 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 202 commits (22.6%)</sub>
+      <sub>📊 201 commits (22.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 16</sub>
     </td>
@@ -67,7 +59,7 @@ _Total: 892 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 119 commits (13.3%)</sub>
+      <sub>📊 118 commits (13.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
