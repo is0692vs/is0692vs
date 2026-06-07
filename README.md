@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Foggy and cloudy☁️
-📍 San Francisco: 17°C
+# 🌍 Olá! Dia nublado☁️
+📍 Lisbon: 25°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 5,771 installs | ⭐ 4.5/5 (2 ratings) | v1.5.4
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 5,778 installs | ⭐ 4.5/5 (2 ratings) | v1.5.4
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 15 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 61 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-05-08%22%2C%222026-05-09%22%2C%222026-05-10%22%2C%222026-05-11%22%2C%222026-05-12%22%2C%222026-05-13%22%2C%222026-05-14%22%2C%222026-05-15%22%2C%222026-05-16%22%2C%222026-05-17%22%2C%222026-05-18%22%2C%222026-05-19%22%2C%222026-05-20%22%2C%222026-05-21%22%2C%222026-05-22%22%2C%222026-05-23%22%2C%222026-05-24%22%2C%222026-05-25%22%2C%222026-05-26%22%2C%222026-05-27%22%2C%222026-05-28%22%2C%222026-05-29%22%2C%222026-05-30%22%2C%222026-05-31%22%2C%222026-06-01%22%2C%222026-06-02%22%2C%222026-06-03%22%2C%222026-06-04%22%2C%222026-06-05%22%2C%222026-06-06%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B4904%2C4916%2C4996%2C5022%2C5071%2C5109%2C5157%2C5195%2C5227%2C5248%2C5276%2C5331%2C5367%2C5404%2C5445%2C5457%2C5483%2C5508%2C5534%2C5552%2C5567%2C5588%2C5600%2C5617%2C5650%2C5675%2C5698%2C5728%2C5737%2C5771%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C56%2C56%2C56%2C56%2C58%2C58%2C58%2C58%2C58%2C59%2C59%2C59%2C59%2C59%2C59%2C61%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-05-09%22%2C%222026-05-10%22%2C%222026-05-11%22%2C%222026-05-12%22%2C%222026-05-13%22%2C%222026-05-14%22%2C%222026-05-15%22%2C%222026-05-16%22%2C%222026-05-17%22%2C%222026-05-18%22%2C%222026-05-19%22%2C%222026-05-20%22%2C%222026-05-21%22%2C%222026-05-22%22%2C%222026-05-23%22%2C%222026-05-24%22%2C%222026-05-25%22%2C%222026-05-26%22%2C%222026-05-27%22%2C%222026-05-28%22%2C%222026-05-29%22%2C%222026-05-30%22%2C%222026-05-31%22%2C%222026-06-01%22%2C%222026-06-02%22%2C%222026-06-03%22%2C%222026-06-04%22%2C%222026-06-05%22%2C%222026-06-06%22%2C%222026-06-07%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B4916%2C4996%2C5022%2C5071%2C5109%2C5157%2C5195%2C5227%2C5248%2C5276%2C5331%2C5367%2C5404%2C5445%2C5457%2C5483%2C5508%2C5534%2C5552%2C5567%2C5588%2C5600%2C5617%2C5650%2C5675%2C5698%2C5728%2C5737%2C5771%2C5778%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C56%2C56%2C56%2C56%2C58%2C58%2C58%2C58%2C58%2C59%2C59%2C59%2C59%2C59%2C59%2C61%2C61%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,17 +24,18 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-素晴らしい1ヶ月でしたね！直近30日間でなんと395件ものコミットを達成、精力的な活動に拍手です👏。
+素晴らしい30日間でした！👏 直近のコミット数は394件と、非常に活発に活動されていますね。
 
-特に注目すべきは、
-✨ **Audicle** では、Vercel認証API連携による新機能開発と、PlaylistCompletionScreenのユニットテスト追加で品質を向上させましたね。
-📚 **OpenShelf** では、R2クリーンアップ後のDB削除テスト追加など、広範囲なテスト強化に取り組まれました。数多くのブランチマージや依存関係の更新、さらにはリリース作業もスムーズに進められたようです。
-📝 **paper-tools** では、タグサジェストのキャッシュ化でパフォーマンスを⚡向上させ、CLIコマンドへのロガー注入でコード品質もグッと高めました。
-📊 **github-user-summary** では、レイアウトエディタやプロフィールカードのテスト改善を進め、堅牢性アップに貢献されました。
+主な活動としては、
 
-様々なプロジェクトで、新機能、テスト、パフォーマンス、コード品質といった多岐にわたる重要な貢献をされており、その活躍は本当に素晴らしいです。この調子で、今後のご活躍も楽しみにしています！これからも頑張ってくださいね！🚀
+*   **OpenShelf** では、大規模なデータベースクリーンアップテストの追加や、トークンキャッシュ、タグカウント処理のパフォーマンス最適化に大きく貢献しました。堅牢性と高速化の両面で前進です！
+*   **Audicle** では、PlaylistCompletionScreenの単体テストをしっかり追加し、品質向上に努めました。さらに、Vercel認証APIとの連携により、拡張機能から音声取得ができるようになり、新機能の可能性が広がりましたね。
+*   **paper-tools** では、タグサジェストのキャッシュ化でパフォーマンスを向上させ、CLIコマンドへのロガー注入でコードヘルスも改善。加えて、APIエンドポイントの認証強化でセキュリティもバッチリです🔒。
+*   **github-user-summary** では、レイアウトエディタやプロフィールカード、ダッシュボードなど、多岐にわたるテスト改善を行い、安定性向上に尽力しました。コンフリクト解決もお疲れ様でした！
 
-_Total: 828 commits across 10 projects_
+全体的に、テストの強化、パフォーマンス改善、新機能の実装、そしてコード品質の向上と、多方面にわたる素晴らしい成果を上げています。この勢いで、次の期間も頑張っていきましょう！🚀
+
+_Total: 893 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +46,7 @@ _Total: 828 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 392 commits (47.3%)</sub>
+      <sub>📊 477 commits (53.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +57,7 @@ _Total: 828 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 223 commits (26.9%)</sub>
+      <sub>📊 203 commits (22.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 16</sub>
     </td>
@@ -67,7 +68,7 @@ _Total: 828 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 119 commits (14.4%)</sub>
+      <sub>📊 119 commits (13.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -115,26 +116,26 @@ _Total: 828 commits across 10 projects_
       <sub>BiSH</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/4xXLlp5oJVvWbGkubnLQ2i" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273cf0e385121a5a063a5b4bb29" alt="TIME BOMB～髙橋ヒロムのテーマ" width="120" />
+      <a href="https://open.spotify.com/track/2hbB9AQrJGFQKZDgVBLMuh" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273d263a9b9a61401bec9b0abd8" alt="石森太二(ボーンソルジャー)のテーマ「BONE SOLDIER」" width="120" />
       </a>
       <br />
       <sub><strong>#4</strong></sub>
       <br />
-      <sub>TIME BOMB～髙橋ヒロムのテーマ</sub>
+      <sub>石森太二(ボーンソルジャー)のテーマ「BONE SOLDIER」</sub>
       <br />
       <sub>NJPW</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/29XDdTDbwmZ9cWmQq4SSXV" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273c6f10dc7e5566baaa3ee685e" alt="オカダ・カズチカのテーマ「RAIN MAKER」" width="120" />
+      <a href="https://open.spotify.com/track/1ceQ6GnflE32iovHqnsJQA" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273d625d3e7a009d3a260d9c09f" alt="The Time Is Now" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>オカダ・カズチカのテーマ「RAIN MAKER」</sub>
+      <sub>The Time Is Now</sub>
       <br />
-      <sub>NJPW</sub>
+      <sub>John Cena, Tha Trademarc, WWE</sub>
     </td>
   </tr>
 </table>
