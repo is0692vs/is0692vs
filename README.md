@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！雨ですね☔
-📍 Hiroshima: 23°C
+# 🌍 안녕하세요! 맑은 날씨네요☀️
+📍 Seoul: 23°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 5,791 installs | ⭐ 4.5/5 (2 ratings) | v1.5.4
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 5,800 installs | ⭐ 4.5/5 (2 ratings) | v1.5.4
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 15 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 61 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-05-09%22%2C%222026-05-10%22%2C%222026-05-11%22%2C%222026-05-12%22%2C%222026-05-13%22%2C%222026-05-14%22%2C%222026-05-15%22%2C%222026-05-16%22%2C%222026-05-17%22%2C%222026-05-18%22%2C%222026-05-19%22%2C%222026-05-20%22%2C%222026-05-21%22%2C%222026-05-22%22%2C%222026-05-23%22%2C%222026-05-24%22%2C%222026-05-25%22%2C%222026-05-26%22%2C%222026-05-27%22%2C%222026-05-28%22%2C%222026-05-29%22%2C%222026-05-30%22%2C%222026-05-31%22%2C%222026-06-01%22%2C%222026-06-02%22%2C%222026-06-03%22%2C%222026-06-04%22%2C%222026-06-05%22%2C%222026-06-06%22%2C%222026-06-07%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B4916%2C4996%2C5022%2C5071%2C5109%2C5157%2C5195%2C5227%2C5248%2C5276%2C5331%2C5367%2C5404%2C5445%2C5457%2C5483%2C5508%2C5534%2C5552%2C5567%2C5588%2C5600%2C5617%2C5650%2C5675%2C5698%2C5728%2C5737%2C5771%2C5791%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C56%2C56%2C56%2C56%2C58%2C58%2C58%2C58%2C58%2C59%2C59%2C59%2C59%2C59%2C59%2C61%2C61%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-05-10%22%2C%222026-05-11%22%2C%222026-05-12%22%2C%222026-05-13%22%2C%222026-05-14%22%2C%222026-05-15%22%2C%222026-05-16%22%2C%222026-05-17%22%2C%222026-05-18%22%2C%222026-05-19%22%2C%222026-05-20%22%2C%222026-05-21%22%2C%222026-05-22%22%2C%222026-05-23%22%2C%222026-05-24%22%2C%222026-05-25%22%2C%222026-05-26%22%2C%222026-05-27%22%2C%222026-05-28%22%2C%222026-05-29%22%2C%222026-05-30%22%2C%222026-05-31%22%2C%222026-06-01%22%2C%222026-06-02%22%2C%222026-06-03%22%2C%222026-06-04%22%2C%222026-06-05%22%2C%222026-06-06%22%2C%222026-06-07%22%2C%222026-06-08%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B4996%2C5022%2C5071%2C5109%2C5157%2C5195%2C5227%2C5248%2C5276%2C5331%2C5367%2C5404%2C5445%2C5457%2C5483%2C5508%2C5534%2C5552%2C5567%2C5588%2C5600%2C5617%2C5650%2C5675%2C5698%2C5728%2C5737%2C5771%2C5791%2C5800%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C56%2C56%2C56%2C56%2C58%2C58%2C58%2C58%2C58%2C59%2C59%2C59%2C59%2C59%2C59%2C61%2C61%2C61%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,18 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間でなんと394件ものコミット、お疲れ様でした！精力的な活動、素晴らしいですね！🚀
+直近30日間で380件ものコミット、お疲れ様でした！素晴らしい活動量ですね👏
 
-特に、複数のプロジェクトで大きな進展が見られます。
+[OpenShelf]では、データベースクリーンアップのテスト強化や、トークンキャッシュ、タグマップの処理最適化など、主にパフォーマンス改善とテスト拡充に大きく貢献しました。一部リファクタリングも進めていますね！
+[Audicle]では、Vercel認証APIとの連携による新機能開発と、PlaylistCompletionScreenのユニットテスト追加で機能性と安定性を向上させました🚀
+[paper-tools]では、タグ候補のキャッシュ化によるパフォーマンス改善、CLIコマンドへのロガー導入でコード品質を向上。さらにAPIエンドポイントの認証強化でセキュリティも高めています🔒
+[github-user-summary]では、レイアウトエディタのテスト改善やブランチのマージを進めていますね。
+[jules-extension]では、以前のマージの問題を迅速に修正し、プロジェクトの安定稼働に貢献しました✨
 
-*   **OpenShelf**では、トークンキャッシュのパフォーマンス最適化やorgルートタグのカウント処理の改善に尽力しましたね。大量のデータ処理の効率化に向けたテスト強化やリファクタリングも進み、システムの安定性と速度向上に大きく貢献しています。✨
-*   **Audicle**では、PlaylistCompletionScreenの単体テストを追加し、品質向上に努めました。さらに、Vercel版Audicle認証APIとの連携実装も完了し、新機能開発と拡張性向上に着実に取り組んでいます。💡
-*   **paper-tools**では、タグサジェストのキャッシュ化によるパフォーマンス改善が見られますね。また、CLIコマンドでのロガー注入によるコード品質向上や、`/api/resolve`エンドポイントの認証強化によるセキュリティ向上も行われました。🧪🔒
-*   **github-user-summary**では、レイアウトエディタやプロファイルカード、ダッシュボード関連のテスト改善に注力し、品質をより高めています。メインブランチへの統合やコンフリクト解消もテキパキとこなし、プロジェクトの円滑な進行を支えました。🧹
+多岐にわたるプロジェクトで、機能追加、パフォーマンス最適化、品質向上、セキュリティ強化まで、本当に精力的に開発を進めています。この調子でこれからも素晴らしい開発を続けていきましょう！💪
 
-多岐にわたる重要な改善や新機能開発、テスト強化に大活躍の一ヶ月でした！この勢いで、次の期間も素晴らしい成果を期待しています！これからも頑張りましょう！🎉
-
-_Total: 852 commits across 10 projects_
+_Total: 817 commits across 10 projects_
 
 <table>
   <tr>
@@ -46,7 +45,7 @@ _Total: 852 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 475 commits (55.8%)</sub>
+      <sub>📊 456 commits (55.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -57,7 +56,7 @@ _Total: 852 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 197 commits (23.1%)</sub>
+      <sub>📊 191 commits (23.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 16</sub>
     </td>
@@ -68,7 +67,7 @@ _Total: 852 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 86 commits (10.1%)</sub>
+      <sub>📊 76 commits (9.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -105,22 +104,11 @@ _Total: 852 commits across 10 projects_
       <sub>NJPW</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/0z6XUSiw6WTT8uZNWJwWcO" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27342f80e91cb2fa0f4a7570d8f" alt="GiANT KiLLERS" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>GiANT KiLLERS</sub>
-      <br />
-      <sub>BiSH</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/2hbB9AQrJGFQKZDgVBLMuh" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273d263a9b9a61401bec9b0abd8" alt="石森太二(ボーンソルジャー)のテーマ「BONE SOLDIER」" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>石森太二(ボーンソルジャー)のテーマ「BONE SOLDIER」</sub>
       <br />
@@ -131,11 +119,22 @@ _Total: 852 commits across 10 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b273d625d3e7a009d3a260d9c09f" alt="The Time Is Now" width="120" />
       </a>
       <br />
-      <sub><strong>#5</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>The Time Is Now</sub>
       <br />
       <sub>John Cena, Tha Trademarc, WWE</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/5So15vlWHcIFmBNbSnewks" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27394fb3480c556174040915928" alt="War Dogs" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>War Dogs</sub>
+      <br />
+      <sub>[Q]brick, Kensei Abbot</sub>
     </td>
   </tr>
 </table>
