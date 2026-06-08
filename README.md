@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
 # 🌍 안녕하세요! 맑은 날씨네요☀️
-📍 Seoul: 18°C
+📍 Seoul: 20°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
