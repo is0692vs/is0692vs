@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia ensolarado☀️
-📍 São Paulo: 26°C
+# 🌍 안녕하세요! 맑은 날씨네요☀️
+📍 Seoul: 18°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,7 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと380件もの素晴らしいコミットを達成しましたね！🎉 目覚ましい活動量で、本当に素晴らしいです！
-
-各リポジトリでの活躍を見ていきましょう！
-
-*   **OpenShelf** では、主にシステム全体のパフォーマンス最適化（トークンキャッシュの効率化やタグカウント処理の改善など⚡）と、より堅牢なシステムを目指すテスト強化に力を注いでいましたね。DB関連の修正やリファクタリングも積極的です！
-*   **Audicle** では、Vercel認証APIとの連携という重要な新機能開発と、プレイリスト完了画面のユニットテスト追加🔬で品質向上に大きく貢献しています。
-*   **paper-tools** では、タグ提案のキャッシュ化によるパフォーマンス改善✨、ロガーの導入によるコード品質向上🧹、そしてAPIエンドポイントへの認証強制によるセキュリティ強化🔒と、多角的にプロジェクトを推進しました。
-*   **github-user-summary** では、レイアウトエディタのテスト改善に向けたマージ作業や、複数のブランチ統合に尽力し、プロジェクトの整合性維持に貢献していますね。
-*   **jules-extension** では、マージに起因する問題への迅速な修正対応を行い、安定性向上に貢献しました。
-
-全体的に、パフォーマンス向上、セキュリティ強化、そしてテストによる品質保証に注力していることがよくわかります。これからもその素晴らしい勢いを保ち、更なる成果を楽しみにしています！応援しています！🚀
+直近30日間で380件ものコミット、お疲れ様です！👏 test: assert db deletion after r2 cleanup failures、Merge pull request #787 from Hiroki-org/test-improvement/playlist-completion-screen-15347298096473515578、Merge pull request #794 from Hiroki-org/copilot/implement-vercel-login-endpointなど、多くの作業を進められました。合計73486行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 800 commits across 10 projects_
 
@@ -106,11 +96,22 @@ _Total: 800 commits across 10 projects_
       <sub>NJPW</sub>
     </td>
     <td align="center">
+      <a href="https://open.spotify.com/track/0z6XUSiw6WTT8uZNWJwWcO" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27342f80e91cb2fa0f4a7570d8f" alt="GiANT KiLLERS" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>GiANT KiLLERS</sub>
+      <br />
+      <sub>BiSH</sub>
+    </td>
+    <td align="center">
       <a href="https://open.spotify.com/track/2hbB9AQrJGFQKZDgVBLMuh" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273d263a9b9a61401bec9b0abd8" alt="石森太二(ボーンソルジャー)のテーマ「BONE SOLDIER」" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>石森太二(ボーンソルジャー)のテーマ「BONE SOLDIER」</sub>
       <br />
@@ -121,22 +122,11 @@ _Total: 800 commits across 10 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b273d625d3e7a009d3a260d9c09f" alt="The Time Is Now" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#5</strong></sub>
       <br />
       <sub>The Time Is Now</sub>
       <br />
       <sub>John Cena, Tha Trademarc, WWE</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/5So15vlWHcIFmBNbSnewks" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27394fb3480c556174040915928" alt="War Dogs" width="120" />
-      </a>
-      <br />
-      <sub><strong>#5</strong></sub>
-      <br />
-      <sub>War Dogs</sub>
-      <br />
-      <sub>[Q]brick, Kensei Abbot</sub>
     </td>
   </tr>
 </table>
