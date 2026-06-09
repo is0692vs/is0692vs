@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！雨の日ですね☔
-📍 Tokyo: 19°C
+# 🌍 Hello! Rainy day☔
+📍 London: 15°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,18 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと372件もの素晴らしいコミットがありましたね！素晴らしい成果です！🎉
+この30日間で、あなたは合計**375件**ものコミットを達成しましたね！素晴らしい生産性です！🚀
 
-特に目立った活動として、[OpenShelf]ではDBクリーンアップのテスト強化から、トークンキャッシュやタグマップの最適化によるパフォーマンス改善、そして細やかなバグ修正やリファクタリングまで、多岐にわたる改善をされていますね。プロダクトの安定性と効率向上に大きく貢献しています！
-また、[Audicle]ではPlaylistCompletionScreenのユニットテスト追加で品質向上を図りつつ、Vercel版認証APIとの連携を進め、音声取得機能を強化しました。新機能の準備も着々と進んでいますね！🚀
-[paper-tools]では、タグサジェストのキャッシュ化でパフォーマンスを劇的に改善し、injectable loggerの導入でコード品質を高めました。さらに/api/resolveエンドポイントでの認証強化により、セキュリティ面も向上させています。
-[jules-extension]では、`aria-disabled`関連の修正や過去のPRマージの問題を解決するなど、細かなバグ修正でユーザー体験の改善に尽力しましたね。
+特に、いくつかのリポジトリで重要な進捗が見られます。
 
-どのプロジェクトも着実に進化しており、今後の発展がとても楽しみです！この調子で頑張ってください！💪✨
+*   **OpenShelf** では、大規模なテスト強化やデータベースクリーンアップの改善、さらにはトークンキャッシュや組織タグのカウント処理の最適化を通じて、パフォーマンス向上に大きく貢献しましたね！💪 また、リファクタリングやバグ修正でコードベースの健康も保たれています。
+*   **Audicle** では、PlaylistCompletionScreenのユニットテスト追加で品質を向上させ、Vercel版Audicle認証APIとの連携を実現し、新しい機能の基盤を築きました。✨
+*   **paper-tools** では、タグ提案のキャッシュ化でパフォーマンスが大幅に改善され、注入可能なロガーの導入でコードヘルスも向上。セキュリティ面では、`/api/resolve` エンドポイントの認証強化も行いましたね。🛡️
+*   **jules-extension** では、`aria-disabled` のクリーンアップや不具合のあるマージの巻き戻しなど、細やかなバグ修正で安定性向上に尽力しました。
 
-_Total: 808 commits across 10 projects_
+この多岐にわたる活動は、プロジェクト全体の品質、パフォーマンス、そして新機能開発に大きく貢献しています。これからもこの勢いを維持して、さらなる素晴らしい成果を楽しみにしています！🎉
+
+_Total: 785 commits across 10 projects_
 
 <table>
   <tr>
@@ -44,7 +46,7 @@ _Total: 808 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 445 commits (55.1%)</sub>
+      <sub>📊 413 commits (52.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -55,7 +57,7 @@ _Total: 808 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 191 commits (23.6%)</sub>
+      <sub>📊 197 commits (25.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 16</sub>
     </td>
@@ -66,7 +68,7 @@ _Total: 808 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 78 commits (9.7%)</sub>
+      <sub>📊 81 commits (10.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -81,11 +83,22 @@ _Total: 808 commits across 10 projects_
 <table>
   <tr>
     <td align="center">
+      <a href="https://open.spotify.com/track/3BX1ySyWmklDJISRDbHnpS" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273e41e9af294137bc4e23bdfe8" alt="盛れ！ミ・アモーレ - Concert 2025 Queen of Hearts Special Flush" width="120" />
+      </a>
+      <br />
+      <sub><strong>#1</strong></sub>
+      <br />
+      <sub>盛れ！ミ・アモーレ - Concert 2025 Queen of Hearts Special Flush</sub>
+      <br />
+      <sub>Juice=Juice</sub>
+    </td>
+    <td align="center">
       <a href="https://open.spotify.com/track/2S3u18aJF8eExll5dYwSJb" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2734b0ed3119e27ff6e56298053" alt="RATATATA" width="120" />
       </a>
       <br />
-      <sub><strong>#1</strong></sub>
+      <sub><strong>#2</strong></sub>
       <br />
       <sub>RATATATA</sub>
       <br />
@@ -96,7 +109,7 @@ _Total: 808 commits across 10 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
       </a>
       <br />
-      <sub><strong>#2</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
       <br />
@@ -107,7 +120,7 @@ _Total: 808 commits across 10 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b27342f80e91cb2fa0f4a7570d8f" alt="GiANT KiLLERS" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>GiANT KiLLERS</sub>
       <br />
@@ -118,22 +131,11 @@ _Total: 808 commits across 10 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b273d263a9b9a61401bec9b0abd8" alt="石森太二(ボーンソルジャー)のテーマ「BONE SOLDIER」" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#5</strong></sub>
       <br />
       <sub>石森太二(ボーンソルジャー)のテーマ「BONE SOLDIER」</sub>
       <br />
       <sub>NJPW</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/1ceQ6GnflE32iovHqnsJQA" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273d625d3e7a009d3a260d9c09f" alt="The Time Is Now" width="120" />
-      </a>
-      <br />
-      <sub><strong>#5</strong></sub>
-      <br />
-      <sub>The Time Is Now</sub>
-      <br />
-      <sub>John Cena, Tha Trademarc, WWE</sub>
     </td>
   </tr>
 </table>
