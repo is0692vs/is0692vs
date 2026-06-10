@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
 # 🌍 G'day! Rainy weather☔
-📍 Sydney: 18°C
+📍 Sydney: 17°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -96,11 +96,22 @@ _Total: 602 commits across 10 projects_
       <sub>Juice=Juice</sub>
     </td>
     <td align="center">
+      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
+      <br />
+      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
+    </td>
+    <td align="center">
       <a href="https://open.spotify.com/track/2S3u18aJF8eExll5dYwSJb" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2734b0ed3119e27ff6e56298053" alt="RATATATA" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>RATATATA</sub>
       <br />
@@ -111,22 +122,11 @@ _Total: 602 commits across 10 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#5</strong></sub>
       <br />
       <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
       <br />
       <sub>NJPW</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/0z6XUSiw6WTT8uZNWJwWcO" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27342f80e91cb2fa0f4a7570d8f" alt="GiANT KiLLERS" width="120" />
-      </a>
-      <br />
-      <sub><strong>#5</strong></sub>
-      <br />
-      <sub>GiANT KiLLERS</sub>
-      <br />
-      <sub>BiSH</sub>
     </td>
   </tr>
 </table>
