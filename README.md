@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rainy day☔
-📍 New York: 28°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Paris: 12°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 5,859 installs | ⭐ 4.5/5 (2 ratings) | v1.5.4
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 5,862 installs | ⭐ 4.5/5 (2 ratings) | v1.5.4
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 15 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 61 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-05-12%22%2C%222026-05-13%22%2C%222026-05-14%22%2C%222026-05-15%22%2C%222026-05-16%22%2C%222026-05-17%22%2C%222026-05-18%22%2C%222026-05-19%22%2C%222026-05-20%22%2C%222026-05-21%22%2C%222026-05-22%22%2C%222026-05-23%22%2C%222026-05-24%22%2C%222026-05-25%22%2C%222026-05-26%22%2C%222026-05-27%22%2C%222026-05-28%22%2C%222026-05-29%22%2C%222026-05-30%22%2C%222026-05-31%22%2C%222026-06-01%22%2C%222026-06-02%22%2C%222026-06-03%22%2C%222026-06-04%22%2C%222026-06-05%22%2C%222026-06-06%22%2C%222026-06-07%22%2C%222026-06-08%22%2C%222026-06-09%22%2C%222026-06-10%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B5071%2C5109%2C5157%2C5195%2C5227%2C5248%2C5276%2C5331%2C5367%2C5404%2C5445%2C5457%2C5483%2C5508%2C5534%2C5552%2C5567%2C5588%2C5600%2C5617%2C5650%2C5675%2C5698%2C5728%2C5737%2C5771%2C5791%2C5814%2C5848%2C5859%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C56%2C56%2C56%2C56%2C58%2C58%2C58%2C58%2C58%2C59%2C59%2C59%2C59%2C59%2C59%2C61%2C61%2C61%2C61%2C61%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-05-12%22%2C%222026-05-13%22%2C%222026-05-14%22%2C%222026-05-15%22%2C%222026-05-16%22%2C%222026-05-17%22%2C%222026-05-18%22%2C%222026-05-19%22%2C%222026-05-20%22%2C%222026-05-21%22%2C%222026-05-22%22%2C%222026-05-23%22%2C%222026-05-24%22%2C%222026-05-25%22%2C%222026-05-26%22%2C%222026-05-27%22%2C%222026-05-28%22%2C%222026-05-29%22%2C%222026-05-30%22%2C%222026-05-31%22%2C%222026-06-01%22%2C%222026-06-02%22%2C%222026-06-03%22%2C%222026-06-04%22%2C%222026-06-05%22%2C%222026-06-06%22%2C%222026-06-07%22%2C%222026-06-08%22%2C%222026-06-09%22%2C%222026-06-10%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B5071%2C5109%2C5157%2C5195%2C5227%2C5248%2C5276%2C5331%2C5367%2C5404%2C5445%2C5457%2C5483%2C5508%2C5534%2C5552%2C5567%2C5588%2C5600%2C5617%2C5650%2C5675%2C5698%2C5728%2C5737%2C5771%2C5791%2C5814%2C5848%2C5862%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C54%2C56%2C56%2C56%2C56%2C58%2C58%2C58%2C58%2C58%2C59%2C59%2C59%2C59%2C59%2C59%2C61%2C61%2C61%2C61%2C61%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,17 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で384コミット、素晴らしい成果ですね！🚀
+30日間で**384件**ものコミット、本当に素晴らしい活躍でした！🚀 日々の開発、お疲れ様です！
 
-**OpenShelf** では、大規模なDBクリーンアップテスト導入から、トークンキャッシュや組織タグカウントのパフォーマンス最適化まで、システムの安定性と高速化に大きく貢献されました。リファクタリングも進められ、コードベースの健全性も向上していますね！
+この期間は、パフォーマンス改善、テスト強化、新機能開発、そして堅牢性の向上に大きく貢献されましたね。
 
-**Audicle** では、Vercel版Audicle認証APIとの連携を実装し、Bearer認証での音声取得を可能にする新機能開発を進められました。さらに、PlaylistCompletionScreenのユニットテスト追加で、品質向上にも注力されましたね🧪。
+主な活動として、**OpenShelf**ではテストの改善（DB削除後のクリーンアップ確認）や、トークンキャッシュのスキャン最適化、組織タグカウント処理のMap利用効率化といったパフォーマンス向上に注力しました。多数のブランチマージもスムーズに進めていただきましたね。
 
-**paper-tools** では、タグ提案のキャッシュ化によるパフォーマンス改善、CLIコマンドでのロガー注入によるコード健全性の向上、そして`/api/resolve`エンドポイントへの認証適用でセキュリティ強化と、多岐にわたる改善をされています🛡️。
+**Audicle**では、Vercel版Audicle認証APIへの拡張機能接続という重要な新機能開発を進めつつ、PlaylistCompletionScreenの単体テストを追加して品質向上にも貢献しました🧪。
 
-**jules-extension** では、aria-disabled関連の修正やマージの巻き戻しなど、細やかなバグ修正やクリーンアップ作業で、拡張機能の安定稼働を支えられました。
+**paper-tools**では、タグサジェストのキャッシュ化でパフォーマンスを大幅に改善！CLIコマンドへのロガー注入でコード品質を高め、`/api/resolve`エンドポイントの認証強化もバッチリです🔒。
 
-この30日間で、新機能開発、パフォーマンス最適化、テスト強化、セキュリティ向上、バグ修正と、非常に広範囲にわたる重要な改善を達成されました。日々の努力が着実に形になっていますね。素晴らしい働きに拍手です👏！引き続き頑張りましょう！
+**jules-extension**では、`aria-disabled`関連の修正や、問題のあるマージの巻き戻し対応など、安定稼働に向けた細やかなケアも光りました✨。
+
+幅広いリポジトリで多岐にわたる貢献、素晴らしいの一言です！この調子で次の30日間も駆け抜けていきましょう！💪
 
 _Total: 602 commits across 10 projects_
 
@@ -79,67 +81,9 @@ _Total: 602 commits across 10 projects_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
-## 🎵 My Top Tracks on Spotify (Recently)
+🎵 My Top Tracks on Spotify (Recently):
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://open.spotify.com/track/1ycsBZlPqRPqf0ilosVhEl" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273f46c070998294b66650ea007" alt="盛れ！ミ・アモーレ" width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>盛れ！ミ・アモーレ</sub>
-      <br />
-      <sub>Juice=Juice</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/3BX1ySyWmklDJISRDbHnpS" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273e41e9af294137bc4e23bdfe8" alt="盛れ！ミ・アモーレ - Concert 2025 Queen of Hearts Special Flush" width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>盛れ！ミ・アモーレ - Concert 2025 Queen of Hearts Special Flush</sub>
-      <br />
-      <sub>Juice=Juice</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
-      <br />
-      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
-      <br />
-      <sub>NJPW</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/2S3u18aJF8eExll5dYwSJb" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2734b0ed3119e27ff6e56298053" alt="RATATATA" width="120" />
-      </a>
-      <br />
-      <sub><strong>#5</strong></sub>
-      <br />
-      <sub>RATATATA</sub>
-      <br />
-      <sub>BABYMETAL, Electric Callboy</sub>
-    </td>
-  </tr>
-</table>
+_Error fetching tracks. Please try again later._
 <!-- spotify:end -->
 
 <!-- github-releases:start -->
