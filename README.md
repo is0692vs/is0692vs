@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Paris: 19°C
+# 🌍 おはよう！いい天気だね☀️
+📍 Hiroshima: 16°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,20 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で384件ものコミット、素晴らしい集中力ですね！🚀
-この期間、様々なプロジェクトで活躍されていました。
+直近30日間で、なんと384件ものコミットを達成しましたね！素晴らしい集中力と生産性です！🚀
 
-**OpenShelf** では、大規模なテスト改善やDBクリーンアップ、さらにトークンキャッシュや組織タグカウントのパフォーマンス最適化に精力的に取り組んでいます。コードのリファクタリングも進め、システムの堅牢性と効率性を高めていますね！✨
+特に目立った活動としては、
+*   **OpenShelf** では、R2クリーンアップ時のDB削除テスト改善や、トークンキャッシュの効率化、組織タグマップのパフォーマンス最適化など、多数のパフォーマンス改善とテスト強化に貢献しましたね。⚡
+*   **Audicle** では、PlaylistCompletionScreenの単体テストを追加し、さらにVercel版Audicle認証APIとの連携により、Bearer認証での音声取得機能を実現！新機能開発と品質向上に大きく貢献しています。🧪
+*   **paper-tools** では、タグサジェストのキャッシュでパフォーマンスを向上させつつ、CLIコマンドでのロガー注入によるコード品質改善、さらには`resolve`エンドポイントの認証強化でセキュリティも高めました。✨
+*   **jules-extension** では、`aria-disabled`関連のクリーンアップや不具合のリバートなど、着実な修正作業で安定性向上に努めましたね。🐛
 
-**Audicle** では、Vercel認証APIへの接続を進め、音声取得機能を拡張しました。また、PlaylistCompletionScreenの単体テスト追加で、新機能の品質向上にも貢献されています。テスト駆動開発のアプローチ、見事です！🧪
+多岐にわたるプロジェクトで、コード品質、パフォーマンス、新機能開発、セキュリティ、そして安定性向上と、本当に素晴らしい貢献です！これからもその勢いで、より良いプロダクトを一緒に創っていきましょう！🌟
 
-**paper-tools** では、タグサジェストのキャッシュ導入によるパフォーマンス向上、CLIコマンドでのロガー注入によるコード品質向上、そして`/api/resolve`エンドポイントでの認証強制によるセキュリティ強化と、多方面での改善が進んでいます。セキュリティ意識も高く素晴らしいですね！🔒
-
-**jules-extension** では、`aria-disabled`関連の細かな修正や、過去の不良マージのリバートといった安定性向上にも貢献されています。地道な修正が全体の品質を支えます！🛠️
-
-全体的に、パフォーマンス改善、品質向上、セキュリティ強化、そして日々の安定運用に大きく貢献されていますね。この調子でこれからも素晴らしい開発を続けてください！応援しています！💪
-
-_Total: 559 commits across 10 projects_
+_Total: 595 commits across 10 projects_
 
 <table>
   <tr>
@@ -48,7 +45,7 @@ _Total: 559 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 370 commits (66.2%)</sub>
+      <sub>📊 370 commits (62.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -59,20 +56,20 @@ _Total: 559 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 189 commits (33.8%)</sub>
+      <sub>📊 189 commits (31.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 16</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/RUSAEXP1EMB2026/repo12" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/RUSAEXP1EMB2026/repo12" alt="repo12" width="100%" />
+      <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/Audicle" alt="Audicle" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/RUSAEXP1EMB2026/repo12" target="_blank">repo12</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 0 commits (0.0%)</sub>
+      <sub>📊 36 commits (6.1%)</sub>
       <br />
-      <sub>📄 Unknown </sub>
+      <sub>🔷 TypeScript </sub>
     </td>
   </tr>
 </table>
@@ -177,7 +174,7 @@ _Total: 559 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.4-publish">v1.5.4-publish</a> · 1 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.4-publish">v1.5.4-publish</a> · 2 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.4-publish -->
@@ -191,7 +188,7 @@ _Total: 559 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.4">v1.5.4</a> · 1 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.4">v1.5.4</a> · 2 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.4 -->
