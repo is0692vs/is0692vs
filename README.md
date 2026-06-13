@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Clear skies today☀️
-📍 Chicago: 19°C
+# 🌍 G'day! Bit cloudy today☁️
+📍 Sydney: 17°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で381件ものコミット、素晴らしい活動量ですね！👏
-様々なリポジトリで、プロジェクトの質を高める多岐にわたる重要な作業に取り組んでいただきました。
+直近30日間で381件ものコミット、素晴らしい活動量でしたね！👏
 
-*   **OpenShelf** では、データベースクリーンアップ時のテスト強化や、トークンキャッシュ、タグカウント処理の最適化といったパフォーマンス改善に大きく貢献しています。大規模な変更も多く、システムの安定性と効率向上に尽力されましたね。✨
-*   **Audicle** では、拡張機能をVercel版認証APIに接続するという重要な新機能連携を進めつつ、PlaylistCompletionScreenのユニットテスト追加で品質向上にも力を入れています。🚀
-*   **paper-tools** では、タグ提案のキャッシュによるパフォーマンス向上、注入可能なロガー導入でのコード健全性向上、そしてAPIエンドポイントへの認証強制でセキュリティ強化も実施。多角的にプロジェクトの信頼性を高めています。💪
-*   **jules-extension** では、aria-disabled関連の修正や、過去の不適切なマージのリバート対応など、迅速な不具合修正で安定稼働を支えました。👍
+[OpenShelf]では、データベースクリーンアップのテスト強化や、トークンキャッシュ、タグカウント処理の最適化を通じて、パフォーマンス向上に大きく貢献しました。リファクタリングによるコードクリーンアップも進んでいますね。
 
-これらの活動は、各プロジェクトの機能性、パフォーマンス、信頼性を大きく向上させるものです。今月も目覚ましい貢献、本当にお疲れ様でした！💐
+[Audicle]では、PlaylistCompletionScreenのユニットテスト追加で品質を向上させつつ、Vercel版Audicle認証APIへの接続を実現し、新機能開発を力強く推進しました🚀
 
-_Total: 650 commits across 10 projects_
+[paper-tools]では、タグサジェストのキャッシュ化によるパフォーマンス改善、ロガーの導入によるコード健全性の向上、さらに`/api/resolve`エンドポイントの認証強化と、多岐にわたる活躍が見られます✨
+
+[jules-extension]では、不要なコードの整理やマージのリバートなど、コードベースの保守・改善に貢献しました。
+
+各リポジトリで重要な進捗が見られ、チーム全体が大きく前進しています。この調子で、これからも素晴らしい開発を続けていきましょう！😊
+
+_Total: 649 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +47,7 @@ _Total: 650 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 341 commits (52.5%)</sub>
+      <sub>📊 340 commits (52.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +58,7 @@ _Total: 650 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 179 commits (27.5%)</sub>
+      <sub>📊 179 commits (27.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 16</sub>
     </td>
