@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hallo! Es regnet☔
-📍 Berlin: 16°C
+# 🌍 こんにちは！雨の日ですね☔
+📍 Osaka: 26°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,21 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと381件ものコミットを達成しましたね！素晴らしい生産性です👏
+直近30日間で381件ものコミット、大変お疲れ様でした！素晴らしい活動量ですね！✨
 
-各リポジトリでの活躍を振り返りましょう:
-- **OpenShelf** では、大規模なDB削除テストの追加や、トークンキャッシュ・タグカウントのパフォーマンス最適化に尽力しましたね。さらに、複数のバグ修正やコードのリファクタリングも進め、システムの安定性と効率向上に大きく貢献しています！
-- **Audicle** では、PlaylistCompletionScreenの単体テストを追加し、品質向上に貢献。また、Vercel版Audicle認証APIとの連携により、新しい音声取得機能を実現しましたね！新機能開発とテスト強化、お見事です✨
-- **paper-tools** では、タグサジェストのキャッシュ化によるパフォーマンス向上、CLIコマンドへの注入可能なロガー導入によるコード健全性向上、さらには`/api/resolve`エンドポイントの認証強化によるセキュリティ向上と、多角的な改善を進めていますね！
-- **jules-extension** では、aria-disabled関連の修正や、過去の不適切なマージのリバートなど、安定性維持のための重要なバグ修正に迅速に対応しました。
+主な活動としては、複数のプロジェクトでパフォーマンス改善、コード品質向上、新機能開発、そして堅牢なテストの追加に尽力されました。
 
-この多岐にわたる活動は、プロジェクト全体の品質、パフォーマンス、そして新機能開発を大きく推進していますね。日々の努力に感謝します！これからも素晴らしい貢献を期待しています🚀
+*   **OpenShelf** では、大量の変更を伴うテスト関連の改善 (`test: assert db deletion`) や、トークンキャッシュの効率化 (`perf: Bound token cache eviction scan`)、組織タグカウントの最適化 (`⚡ Optimize Map usage`) など、システム全体のパフォーマンスと安定性向上に大きく貢献されました。細かなリファクタリングやクリーンアップも怠らず、コードベースの健康を維持されていますね！
 
-_Total: 632 commits across 10 projects_
+*   **Audicle** では、`PlaylistCompletionScreen` のためのユニットテスト追加 (`🧪 test: Add unit tests`) で品質を向上させつつ、Vercel版認証APIへの接続 (`拡張機能をVercel版Audicle認証APIに接続`) という重要な新機能開発も進められました。ユーザー体験の向上に直結する素晴らしい進展です！🚀
+
+*   **paper-tools** では、タグサジェスト機能のキャッシュ導入 (`⚡ Cache Tag Suggestions`) によるパフォーマンス改善や、ロガーの注入によるコードの保守性向上 (`🧹 [Code Health] Use injectable logger`) に加え、`api/resolve` エンドポイントでの認証強化 (`🔒 Enforce authentication`) とセキュリティ面も万全にされています。
+
+*   **jules-extension** では、aria-disabled属性の修正 (`fix: keep aria-disabled cleanup scoped`) や、以前のマージの取り消し (`fix: revert bad #594 merge`) といった、堅実なバグ修正とコードの健全性維持にご尽力いただきました。
+
+様々なリポジトリで多岐にわたる重要な作業をこなされており、その献身的な努力がプロジェクト全体の進化を力強く後押ししています！今後も素晴らしい活躍を期待しています！😊
+
+_Total: 572 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +49,7 @@ _Total: 632 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 337 commits (53.3%)</sub>
+      <sub>📊 305 commits (53.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +60,7 @@ _Total: 632 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 165 commits (26.1%)</sub>
+      <sub>📊 142 commits (24.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 16</sub>
     </td>
@@ -67,7 +71,7 @@ _Total: 632 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 94 commits (14.9%)</sub>
+      <sub>📊 94 commits (16.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -145,7 +149,7 @@ _Total: 632 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.5-publish">v1.5.5-publish</a> · 2 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.5-publish">v1.5.5-publish</a> · 3 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.5-publish -->
@@ -159,7 +163,7 @@ _Total: 632 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.5">v1.5.5</a> · 2 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.5">v1.5.5</a> · 3 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.5 -->
