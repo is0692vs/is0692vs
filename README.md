@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Lima: 22°C
+# 🌍 おはよう！曇ってるね☁️
+📍 Hiroshima: 21°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,9 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で381件ものコミット、お疲れ様です！👏 test: assert db deletion after r2 cleanup failures、Merge pull request #787 from Hiroki-org/test-improvement/playlist-completion-screen-15347298096473515578、Merge pull request #794 from Hiroki-org/copilot/implement-vercel-login-endpointなど、多くの作業を進められました。合計71285行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で381件もの素晴らしいコミット、お疲れ様でした！🎉
 
-_Total: 560 commits across 10 projects_
+[OpenShelf]では、DB削除テスト追加によるテストカバレッジ向上や、トークンキャッシュ、組織タグカウントのMap利用最適化など、多数のパフォーマンス改善に注力されましたね。リファクタリングも進められ、コード品質の維持にも貢献されています！🚀
+
+[Audicle]では、PlaylistCompletionScreenのユニットテスト追加で品質をさらに高め、Vercel版Audicle認証APIとの連携により、新機能実現へ大きく前進しました。未来を見据えた開発、素晴らしいです！✨
+
+[paper-tools]では、タグサジェストのキャッシュ化でパフォーマンスを向上させ、CLIコマンドへのロガー注入でコード健全性を高めました。さらに、/api/resolveエンドポイントでの認証強化により、セキュリティ面も盤石に。多岐にわたる改善、頭が下がります！💪
+
+[jules-extension]では、`aria-disabled`のクリーンアップや不適切なマージの巻き戻しといった修正で、安定性と使いやすさを追求されています。
+
+どのプロジェクトでも、テスト強化、パフォーマンス改善、新機能、品質向上、セキュリティ強化と、広範な領域で大きな成果を出されていますね。今後のさらなるご活躍を期待しています！😊
+
+_Total: 558 commits across 10 projects_
 
 <table>
   <tr>
@@ -37,7 +47,7 @@ _Total: 560 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 304 commits (54.3%)</sub>
+      <sub>📊 304 commits (54.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -48,7 +58,7 @@ _Total: 560 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 137 commits (24.5%)</sub>
+      <sub>📊 136 commits (24.4%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 16</sub>
     </td>
