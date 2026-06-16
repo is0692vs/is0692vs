@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Perfect sunny day☀️
-📍 Los Angeles: 17°C
+# 🌍 Ciao! Giornata soleggiata☀️
+📍 Rome: 28°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,21 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと360ものコミットを重ねましたね！素晴らしい活動量です👏✨
+直近30日間で360件ものコミット、素晴らしいですね！🚀 多岐にわたるプロジェクトで活発な開発をされています。
 
-特に**OpenShelf**では、データベースクリーンアップ失敗時のテスト強化やトークンキャッシュの効率化、タグカウントのMap使用最適化など、大規模なパフォーマンス改善とテスト体制の強化に大きく貢献しましたね。システムの安定性と効率向上に繋がっています！
+特に目を引く活動をリポジトリごとに見ていきましょう。
 
-**paper-tools**では、タグサジェスト機能のキャッシュ化によるパフォーマンス向上、CLIコマンドにおけるロガーのDI化といったコード健全性の向上に取り組んでいます。さらに、APIエンドポイントへの認証強化でセキュリティも高めていますね🔒。
+**OpenShelf** では、主にテストの強化とパフォーマンス改善に注力されたようです。例えば、「test: assert db deletion after r2 cleanup failures」でDBクリーンアップに関するテストを強化し、さらに「perf: Bound token cache eviction scan」や「⚡ Optimize Map usage in orgs route tags counting」でトークンキャッシュや組織タグの処理を最適化し、アプリの速度向上に大きく貢献されていますね！✨
 
-**jules-extension**では、`aria-disabled`属性のクリーンアップや過去の良くないマージの修正など、堅実にバグ修正とコードの整理を進めています。ユーザー体験の向上に直結する大切な作業です！
+**paper-tools** では、「⚡ Cache Tag Suggestions to Improve Performance」でタグ提案機能のパフォーマンスを向上させ、ユーザー体験の改善を図ったことがわかります。また、「🧹 [Code Health] Use injectable logger in CLI commands」でコードの健全性を高め、「🔒 Enforce authentication on /api/resolve endpoint」でセキュリティ強化も進めており、堅牢なシステム作りに尽力されています！💪
 
-そして**Audicle**では、PlaylistCompletionScreenのユニットテスト追加により、品質保証に大きく貢献しました🧪。
+**Audicle** では、「🧪 test: Add unit tests for PlaylistCompletionScreen」でプレイリスト完了画面の単体テストを追加し、テストカバレッジの向上に貢献しましたね！📈
 
-多岐にわたるプロジェクトで、パフォーマンス、テスト、セキュリティ、コード健全性など、様々な側面から開発を力強く推進していただき、本当にありがとうございます！この調子でこれからも頑張っていきましょう🚀。
+**jules-extension** では、「fix: keep aria-disabled cleanup scoped」や「fix: revert bad #594 merge」といったバグ修正やマージの調整を行い、アプリケーションの安定性向上に貢献されています！🛠️
 
-_Total: 446 commits across 10 projects_
+全体として、機能改善、品質向上、安定性確保に大いに貢献されています。素晴らしい活躍ぶりです！これからもこの調子で頑張ってください！👏
+
+_Total: 425 commits across 10 projects_
 
 <table>
   <tr>
@@ -47,7 +49,7 @@ _Total: 446 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 303 commits (67.9%)</sub>
+      <sub>📊 303 commits (71.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,18 +60,18 @@ _Total: 446 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 120 commits (26.9%)</sub>
+      <sub>📊 120 commits (28.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 16</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/Audicle" alt="Audicle" width="100%" />
+      <a href="https://github.com/Hiroki-org/otodoki3" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/otodoki3" alt="otodoki3" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/otodoki3" target="_blank">otodoki3</a></strong></sub>
       <br />
-      <sub>📊 21 commits (4.7%)</sub>
+      <sub>📊 2 commits (0.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -147,7 +149,7 @@ _Total: 446 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.5-publish">v1.5.5-publish</a> · 4 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.5-publish">v1.5.5-publish</a> · 5 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.5-publish -->
@@ -161,7 +163,7 @@ _Total: 446 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.5">v1.5.5</a> · 4 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.5">v1.5.5</a> · 5 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.5 -->
