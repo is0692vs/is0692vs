@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Sapporo: 16°C
+# 🌍 Ciao! Giornata soleggiata☀️
+📍 Rome: 31°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で328件ものコミット、素晴らしい成果ですね！🚀
+直近30日間で328件ものコミット、素晴らしい活躍でしたね！✨
 
-特に、[OpenShelf] リポジトリでは、多数のセキュリティ脆弱性修正で安定性向上に貢献しました💪。トークンキャッシュの最適化、組織タグカウントやタグ重複排除ロジックの改善など、広範なパフォーマンス向上に取り組まれ、ユーザー体験向上に尽力されています。また、複数回のリリース作業、GitHub Actionsのワークフロー修正、テスト追加やリファクタリングも積極的に行い、コードベース全体の質を高めていますね。
+主に2つのリポジトリで多岐にわたる貢献をされています。
 
-[paper-tools] リポジトリでは、タグ提案のキャッシュ化によるパフォーマンス改善に加え、CLIコマンドでのロガー注入によるコード健全性の向上、APIエンドポイントの認証強化といったセキュリティ対策も実施されました✨。
+**[OpenShelf]** では、セキュリティ脆弱性の修正や、トークンキャッシュの最適化、タグの重複排除をO(N^2)からO(N)へ改善するなど、パフォーマンスを大幅に向上させる最適化に注力されました。👏 `formatCaughtError`のテスト追加によるコード品質向上や、`staging`から`main`へのスムーズなリリース作業など、安定性と機能性向上に大きく貢献されています。
 
-両リポジトリで、セキュリティ、パフォーマンス、そしてコード品質の向上に精力的に取り組んだことがよく分かります。本当に素晴らしい活動でした！これからも期待しています！😊
+**[paper-tools]** では、タグ提案のキャッシュ化でパフォーマンスを向上させ、CLIコマンドでのロガー利用でコードの健全性を高めましたね。さらに`/api/resolve`エンドポイントの認証強化でセキュリティ面もバッチリです🔒。
 
-_Total: 336 commits across 10 projects_
+これらの活動を通じて、システム全体の堅牢性、パフォーマンス、そして保守性が大きく向上したことでしょう。本当に素晴らしい成果です、この調子で頑張ってください！🚀
+
+_Total: 318 commits across 10 projects_
 
 <table>
   <tr>
@@ -43,7 +45,7 @@ _Total: 336 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 249 commits (74.1%)</sub>
+      <sub>📊 243 commits (76.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -54,7 +56,7 @@ _Total: 336 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 84 commits (25.0%)</sub>
+      <sub>📊 72 commits (22.6%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 16</sub>
     </td>
@@ -102,26 +104,26 @@ _Total: 336 commits across 10 projects_
       <sub>Juice=Juice</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
-      <br />
-      <sub>NJPW</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
       <br />
       <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
+      <br />
+      <sub>NJPW</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/2S3u18aJF8eExll5dYwSJb" target="_blank">
@@ -172,7 +174,7 @@ _Total: 336 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.4-publish">v1.5.4-publish</a> · 2 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.4-publish">v1.5.4-publish</a> · 3 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.4-publish -->
@@ -186,7 +188,7 @@ _Total: 336 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.4">v1.5.4</a> · 2 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.4">v1.5.4</a> · 3 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.4 -->
