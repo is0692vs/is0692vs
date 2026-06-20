@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！雨の日ですね☔
-📍 Osaka: 25°C
+# 🌍 Hello! Foggy and cloudy☁️
+📍 San Francisco: 16°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,13 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間でなんと241件ものコミット、お疲れ様です！素晴らしい活動量ですね👏
+直近30日間で、なんと241ものコミットを重ねられましたね！素晴らしい活動量です🎉
 
-特にOpenShelfでは、目覚ましい活躍が見られます。セキュリティ脆弱性の修正（`Fix security vulnerabilities`など）でシステムの安全性を高めつつ、トークンキャッシュ、タグの重複排除（`⚡ perf: optimize tags de-duplication loop from O(N^2) to O(N)`）など、多岐にわたるパフォーマンス改善に尽力されましたね🚀。堅牢性と速度向上、両面での貢献は本当に素晴らしいです！また、複数のリリース対応（`Release: staging -> main`）やテストの改善（`🧪 Extract formatCaughtError and add unit tests`）、コードの整理も進められ、プロジェクトの健全な成長を力強く推進しています✨。
+特に**OpenShelf**リポジトリでは目覚ましい貢献がありました。多数のリリースが行われたほか、セキュリティ脆弱性の修正（Fix security vulnerabilities in npm dependencies）や、npm依存関係の修正（Fix security vulnerabilities and preserve optional OS dependencies）でシステムの安全性を高めてくださいましたね🛡️。
 
-一方、jules-extensionでは、`aria-disabled`に関する修正（`fix: keep aria-disabled cleanup scoped`）に集中し、コードベースのクリーンアップに貢献しましたね。細部への配慮が光ります！💡
+さらに、トークンキャッシュの最適化（perf: Bound token cache eviction scan）や、タグの重複排除ループをO(N^2)からO(N)に改善（⚡ perf: optimize tags de-duplication loop from O(N^2) to O(N)）するなど、パフォーマンス向上にも大きく貢献されています🚀。その他にも単体テストの追加（🧪 Extract formatCaughtError and add unit tests）やリファクタリングでコード品質の向上にも尽力され、多岐にわたる活躍が見て取れます✨。
 
-これだけの多岐にわたる活動は、チームにとって非常に価値が高いです。今後もその素晴らしい開発力で、さらなる高みを目指してください！応援しています！🌟
+また、**jules-extension**リポジトリでは、aria-disabledに関するクリーンアップ（fix: keep aria-disabled cleanup scoped）を行い、安定性向上に貢献されました。
+
+これだけ多くの領域で活動されたのは本当に素晴らしいことです！引き続きの活躍を楽しみにしています！
 
 _Total: 233 commits across 10 projects_
 
