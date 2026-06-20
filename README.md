@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Lyon: 21°C
+# 🌍 Hello! Beautiful sunny day☀️
+📍 San Francisco: 21°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,13 +24,13 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-この30日間で、なんと241件ものコミットを達成しましたね！素晴らしい活動量です👏
+素晴らしい30日間でしたね！✨ 直近でなんと241ものコミットを重ね、精力的にプロジェクトを進めていますね！
 
-特に**OpenShelf**リポジトリでは多岐にわたる重要な作業を進められました。セキュリティ脆弱性の修正🛡️や、トークンキャッシュ、タグの重複排除、組織タグマップの使用最適化など、パフォーマンスの向上に大きく貢献する修正が目立ちます⚡。リリースコミットも複数あり、安定したデプロイにご尽力いただいたことが伺えます。また、テストの抽出と単体テスト追加🧪やGitHub Actionsの改善、コードのリファクタリングも積極的に行われ、品質向上と開発効率化に繋がっていますね！
+特に[OpenShelf]では、多岐にわたる重要な改善が見られます。セキュリティ脆弱性の修正（Fix security vulnerabilities）で安全性を高めつつ、トークンキャッシュやタグの重複排除ロジックの最適化（perf: Bound token cache eviction scan, ⚡ Optimize Map usage, ⚡ perf: optimize tags de-duplication）でパフォーマンス向上に大きく貢献しましたね！🚀 また、`formatCaughtError`の抽出と単体テスト追加（🧪 Extract formatCaughtError and add unit tests）など、品質向上への取り組みも抜かりありません。複数のリリース（Release: staging -> main）も無事に完了しており、安定した運用に尽力されているのがよくわかります。
 
-**jules-extension**リポジトリでは、aria-disabled関連のクリーンアップに取り組まれ、コードベースの保守性を高めています✨。
+一方、[jules-extension]では、`aria-disabled`関連のクリーンアップ修正（fix: keep aria-disabled cleanup scoped）といった細かい調整も光ります。
 
-チーム全体のプロダクト改善と安定稼働に向けて、非常に質の高い貢献をされていますね。今後のさらなる活躍も期待しています！😊
+これだけのコミット数と幅広い作業内容、本当に素晴らしいです！チームの生産性と安定稼働に大きく貢献していますね。この調子で頑張ってください！💪
 
 _Total: 233 commits across 10 projects_
 
