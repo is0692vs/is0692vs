@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 Hallo! Bewölkt heute☁️
-📍 Berlin: 30°C
+# 🌍 こんにちは！雨の日ですね☔
+📍 Tokyo: 25°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 6,070 installs | ⭐ 4.5/5 (2 ratings) | v1.5.5
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 6,074 installs | ⭐ 4.5/5 (2 ratings) | v1.5.5
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 15 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 62 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-05-23%22%2C%222026-05-24%22%2C%222026-05-25%22%2C%222026-05-26%22%2C%222026-05-27%22%2C%222026-05-28%22%2C%222026-05-29%22%2C%222026-05-30%22%2C%222026-05-31%22%2C%222026-06-01%22%2C%222026-06-02%22%2C%222026-06-03%22%2C%222026-06-04%22%2C%222026-06-05%22%2C%222026-06-06%22%2C%222026-06-07%22%2C%222026-06-08%22%2C%222026-06-09%22%2C%222026-06-10%22%2C%222026-06-11%22%2C%222026-06-12%22%2C%222026-06-13%22%2C%222026-06-14%22%2C%222026-06-15%22%2C%222026-06-16%22%2C%222026-06-17%22%2C%222026-06-18%22%2C%222026-06-19%22%2C%222026-06-20%22%2C%222026-06-21%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B5457%2C5483%2C5508%2C5534%2C5552%2C5567%2C5588%2C5600%2C5617%2C5650%2C5675%2C5698%2C5728%2C5737%2C5771%2C5791%2C5814%2C5848%2C5868%2C5883%2C5909%2C5915%2C5941%2C5958%2C5979%2C6005%2C6021%2C6040%2C6070%2C6070%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B56%2C56%2C56%2C58%2C58%2C58%2C58%2C58%2C59%2C59%2C59%2C59%2C59%2C59%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C62%2C62%2C62%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-05-23%22%2C%222026-05-24%22%2C%222026-05-25%22%2C%222026-05-26%22%2C%222026-05-27%22%2C%222026-05-28%22%2C%222026-05-29%22%2C%222026-05-30%22%2C%222026-05-31%22%2C%222026-06-01%22%2C%222026-06-02%22%2C%222026-06-03%22%2C%222026-06-04%22%2C%222026-06-05%22%2C%222026-06-06%22%2C%222026-06-07%22%2C%222026-06-08%22%2C%222026-06-09%22%2C%222026-06-10%22%2C%222026-06-11%22%2C%222026-06-12%22%2C%222026-06-13%22%2C%222026-06-14%22%2C%222026-06-15%22%2C%222026-06-16%22%2C%222026-06-17%22%2C%222026-06-18%22%2C%222026-06-19%22%2C%222026-06-20%22%2C%222026-06-21%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B5457%2C5483%2C5508%2C5534%2C5552%2C5567%2C5588%2C5600%2C5617%2C5650%2C5675%2C5698%2C5728%2C5737%2C5771%2C5791%2C5814%2C5848%2C5868%2C5883%2C5909%2C5915%2C5941%2C5958%2C5979%2C6005%2C6021%2C6040%2C6070%2C6074%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B56%2C56%2C56%2C58%2C58%2C58%2C58%2C58%2C59%2C59%2C59%2C59%2C59%2C59%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C62%2C62%2C62%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,19 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**205件**ものコミット、大変素晴らしい成果ですね！🎉 活発な開発が伺えます。
+この30日間で、なんと**205件**ものコミットを達成しましたね！素晴らしい生産性です！👏✨
 
-主な活動を見ていきましょう。
-**[OpenShelf]** では、広範な改善と安定化に大きく貢献されました。
-まず、「Release: staging -> main」の実施や、重要なセキュリティ脆弱性への対応を複数回実施し、システムの安定稼働に不可欠な作業を遂行。
-また、パフォーマンスの最適化にも注力されていますね。「perf: Bound token cache eviction scan」でのトークンキャッシュ効率化や、「⚡ Optimize Map usage in orgs route tags counting」「⚡ perf: optimize tags de-duplication loop from O(N^2) to O(N)」といった大規模なアルゴリズム改善は、ユーザー体験を大きく向上させるでしょう。
-さらに、「chore: prevent false positive TODO in OSV auto fix workflow comment」でGitHub Actionsのワークフローを改善し、「🧪 Extract formatCaughtError and add unit tests」でテスト体制も強化。リファクタリングや細かな修正も着実に進められ、プロジェクト全体の品質向上に大きく貢献しています。
+特に**OpenShelf**リポジトリでは、数多くの重要な進捗がありました。
+大規模なリリース作業（#1001、#1003）を滞りなく実施し、プロジェクトの安定稼働に貢献されています。
+また、npm依存関係のセキュリティ脆弱性修正（#999、"Fix security vulnerabilities..."）では、システムの安全性を高める堅実な対応が見受けられます。
+さらに、パフォーマンス最適化（#952でのトークンキャッシュ、#955でのMap利用、#963でのタグ重複排除ループ）にも精力的に取り組まれ、ユーザー体験の向上に大きく貢献されていますね！⚡
+他にも、テストの拡充（#946）、リファクタリング、GitHub Actionsの改善（#962）など、多岐にわたる質の高い作業が行われています。
 
-一方、**[jules-extension]** では「fix: keep aria-disabled cleanup scoped」の修正に集中し、特定のUI要素の改善に着実に貢献されていますね。
+一方、**jules-extension**リポジトリでは、`aria-disabled`属性のクリーンアップに取り組まれました。"fix: keep aria-disabled cleanup scoped"といったコミットからは、細部へのこだわりが感じられます。
 
-多岐にわたる活動、本当に素晴らしいです！✨ これまでの貢献に感謝いたします。
+セキュリティ、パフォーマンス、品質、そして新機能（と見られるマージ）と、多方面でプロジェクトを前進させる素晴らしい活動内容です。日々の努力が着実に実を結んでいますね！これからもその調子で頑張ってください！🚀
 
-_Total: 233 commits across 10 projects_
+_Total: 232 commits across 10 projects_
 
 <table>
   <tr>
@@ -47,7 +47,7 @@ _Total: 233 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 196 commits (84.1%)</sub>
+      <sub>📊 195 commits (84.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,7 +58,7 @@ _Total: 233 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 34 commits (14.6%)</sub>
+      <sub>📊 34 commits (14.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 16</sub>
     </td>
