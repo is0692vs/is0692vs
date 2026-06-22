@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Lima: 22°C
+# 🌍 Hello! Cloudy today☁️
+📍 Toronto: 19°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,7 +24,13 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で206件ものコミット、お疲れ様です！👏 Merge pull request #1001 from Hiroki-org/staging、Merge pull request #999 from Hiroki-org/fix/security-vulnerabilities、Fix security vulnerabilities and preserve optional OS dependenciesなど、多くの作業を進められました。合計94788行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で、なんと206件ものコミット、素晴らしいですね！👏
+
+[OpenShelf]では非常に多岐にわたる活動が見られます。セキュリティ脆弱性の修正🛠️に迅速に対応し、システムの安定性向上に大きく貢献しました。さらに、トークンキャッシュの効率化、組織タグマップの最適化、タグの重複除去ロジックをO(N^2)からO(N)へ改善するなど、数々のパフォーマンス向上⚡に尽力しましたね。
+また、テストの抽出や追加🧪といった品質向上への取り組み、GitHub Actions関連の細かな修正、定期的なリリース作業🔄（staging -> mainへのマージ）も着実に実行されています。リファクタリングによってコードベースも常にクリーンに保たれている点も素晴らしいです。
+一方、[jules-extension]では、`aria-disabled`に関する修正🔧を行い、ユーザーエクスペリエンスの細部にも気を配っていることが伺えます。
+
+品質、セキュリティ、パフォーマンス、そしてリリースと、多岐にわたる貢献が見て取れます！この開発ペースと成果は本当に素晴らしいです。これからも期待しています！🚀
 
 _Total: 234 commits across 10 projects_
 
