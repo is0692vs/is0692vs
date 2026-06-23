@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Está lloviendo☔
-📍 Mexico City: 16°C
+# 🌍 안녕하세요! 오늘은 흐린 날씨네요☁️
+📍 Seoul: 29°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,9 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間でなんと206件ものコミット、素晴らしい活躍ぶりですね！✨
+直近30日間で206件ものコミット、お疲れ様です！👏 Merge pull request #1001 from Hiroki-org/staging、Merge pull request #999 from Hiroki-org/fix/security-vulnerabilities、Fix security vulnerabilities and preserve optional OS dependenciesなど、多くの作業を進められました。合計94788行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-メインプロジェクトである**OpenShelf**では、セキュリティ脆弱性の修正や安定版リリースに向けた作業に大きく貢献されました。特に大規模な変更が含まれており、プロジェクトの堅牢性向上に尽力されたことがうかがえます。🚀
-また、「Optimize Map usage」や「Bound token cache eviction scan」、「optimize tags de-duplication loop from O(N^2) to O(N)」といったコミットからも、トークンキャッシュやタグ処理のパフォーマンスを大幅に最適化する見事な改善が実施されたことがわかります。さらにテストコードの追加やリファクタリングにも取り組み、コード品質向上にも余念がありません。💪
-
-一方、**jules-extension**では「aria-disabled cleanup」を通じて、より使いやすい拡張機能にするための修正を行いました。細かい部分にも目を配る丁寧な開発、お見事です！💡
-
-多岐にわたる重要な改善、いつもありがとうございます！この調子でこれからも素晴らしい開発を続けてください！😊
-
-_Total: 234 commits across 10 projects_
+_Total: 231 commits across 10 projects_
 
 <table>
   <tr>
@@ -44,7 +37,7 @@ _Total: 234 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 195 commits (83.3%)</sub>
+      <sub>📊 192 commits (83.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -55,7 +48,7 @@ _Total: 234 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 35 commits (15.0%)</sub>
+      <sub>📊 35 commits (15.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 16</sub>
     </td>
