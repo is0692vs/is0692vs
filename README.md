@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Paris: 39°C
+# 🌍 こんにちは！雨の日ですね☔
+📍 Osaka: 23°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと231ものコミットを達成されましたね！素晴らしい活動量です！👏
+直近30日間で231件ものコミット、素晴らしい活躍でしたね！🚀
 
-主な活動として、**OpenShelf**では多岐にわたる重要な作業を進められました。特に、npm依存関係のセキュリティ脆弱性修正🛡️や、トークンキャッシュ、タグ重複排除ロジック、Map利用の最適化など、広範囲にわたるパフォーマンス改善🚀に大きく貢献されましたね。また、GitHub Actionsのワークフロー修正🛠️やエラーハンドリングの強化、単体テストの追加✅、さらには複数のリリースデプロイ📦まで、システムの安定性と品質向上に尽力されたことがうかがえます。
+メインプロジェクトである[OpenShelf]では、多岐にわたる重要な改善が見られます。特に、セキュリティ脆弱性の修正や、トークンキャッシュ、タグの重複排除、orgsルートでのMap使用など、パフォーマンスの大幅な最適化に注力していましたね！⚡️複数回のリリース作業も行い、安定したサービス提供に貢献。さらに、GitHub Actionsコメントの修正やテストコードの改善（formatCaughtErrorの抽出）など、品質向上にも抜かりがありません。📈
 
-一方、**jules-extension**では、aria-disabled関連の修正🎨を通じて、ユーザー体験の向上にも貢献されました。
+また、[jules-extension]では、aria-disabled関連の修正にしっかりと取り組んでいました。細やかな改善も継続的な品質維持には不可欠です。✨
 
-プロジェクト全体への貢献、本当に頭が下がります！この調子でこれからも頑張ってください！😊
+これだけの幅広いタスクをこなし、プロジェクト全体を力強く推進していただきありがとうございます！今月も本当にお疲れ様でした！次の一ヶ月も期待しています！😊
 
-_Total: 322 commits across 10 projects_
+_Total: 327 commits across 10 projects_
 
 <table>
   <tr>
@@ -43,7 +43,7 @@ _Total: 322 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 194 commits (60.2%)</sub>
+      <sub>📊 199 commits (60.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -54,7 +54,7 @@ _Total: 322 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 66 commits (20.5%)</sub>
+      <sub>📊 66 commits (20.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -65,7 +65,7 @@ _Total: 322 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 45 commits (14.0%)</sub>
+      <sub>📊 45 commits (13.8%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 16</sub>
     </td>
@@ -143,7 +143,7 @@ _Total: 322 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.5-publish">v1.5.5-publish</a> · 1 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.5-publish">v1.5.5-publish</a> · 2 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.5-publish -->
@@ -157,7 +157,7 @@ _Total: 322 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.5">v1.5.5</a> · 1 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.5">v1.5.5</a> · 2 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.5 -->
