@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Madrid: 29°C
+# 🌍 Hello! Tropical rain shower☔
+📍 Miami: 27°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 6,156 installs | ⭐ 4.5/5 (2 ratings) | v1.5.5
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 6,163 installs | ⭐ 4.5/5 (2 ratings) | v1.5.5
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 15 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 63 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-05-28%22%2C%222026-05-29%22%2C%222026-05-30%22%2C%222026-05-31%22%2C%222026-06-01%22%2C%222026-06-02%22%2C%222026-06-03%22%2C%222026-06-04%22%2C%222026-06-05%22%2C%222026-06-06%22%2C%222026-06-07%22%2C%222026-06-08%22%2C%222026-06-09%22%2C%222026-06-10%22%2C%222026-06-11%22%2C%222026-06-12%22%2C%222026-06-13%22%2C%222026-06-14%22%2C%222026-06-15%22%2C%222026-06-16%22%2C%222026-06-17%22%2C%222026-06-18%22%2C%222026-06-19%22%2C%222026-06-20%22%2C%222026-06-21%22%2C%222026-06-22%22%2C%222026-06-23%22%2C%222026-06-24%22%2C%222026-06-25%22%2C%222026-06-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B5567%2C5588%2C5600%2C5617%2C5650%2C5675%2C5698%2C5728%2C5737%2C5771%2C5791%2C5814%2C5848%2C5868%2C5883%2C5909%2C5915%2C5941%2C5958%2C5979%2C6005%2C6021%2C6040%2C6070%2C6081%2C6103%2C6111%2C6123%2C6155%2C6156%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B58%2C58%2C58%2C59%2C59%2C59%2C59%2C59%2C59%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C62%2C62%2C62%2C62%2C62%2C63%2C63%2C63%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-05-28%22%2C%222026-05-29%22%2C%222026-05-30%22%2C%222026-05-31%22%2C%222026-06-01%22%2C%222026-06-02%22%2C%222026-06-03%22%2C%222026-06-04%22%2C%222026-06-05%22%2C%222026-06-06%22%2C%222026-06-07%22%2C%222026-06-08%22%2C%222026-06-09%22%2C%222026-06-10%22%2C%222026-06-11%22%2C%222026-06-12%22%2C%222026-06-13%22%2C%222026-06-14%22%2C%222026-06-15%22%2C%222026-06-16%22%2C%222026-06-17%22%2C%222026-06-18%22%2C%222026-06-19%22%2C%222026-06-20%22%2C%222026-06-21%22%2C%222026-06-22%22%2C%222026-06-23%22%2C%222026-06-24%22%2C%222026-06-25%22%2C%222026-06-26%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B5567%2C5588%2C5600%2C5617%2C5650%2C5675%2C5698%2C5728%2C5737%2C5771%2C5791%2C5814%2C5848%2C5868%2C5883%2C5909%2C5915%2C5941%2C5958%2C5979%2C6005%2C6021%2C6040%2C6070%2C6081%2C6103%2C6111%2C6123%2C6155%2C6163%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B58%2C58%2C58%2C59%2C59%2C59%2C59%2C59%2C59%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C62%2C62%2C62%2C62%2C62%2C63%2C63%2C63%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,15 +24,14 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で224件ものコミット、素晴らしい集中力と生産性ですね！🚀 素晴らしい活動サマリーを共有します。
+直近30日間で224件ものコミット、お疲れ様でした！素晴らしい活躍ですね！👏
 
-特に「OpenShelf」では、多岐にわたる重要な貢献が見られます。
-まず、セキュリティ脆弱性の修正 (`Fix security vulnerabilities`) でシステムをより堅牢にされましたね。🔒 また、トークンキャッシュの効率化やタグカウントの最適化 (`⚡ Optimize Map usage in orgs route tags counting`)、タグの重複排除ロジックをO(N^2)からO(N)へ改善するなど (`⚡ perf: optimize tags de-duplication loop`)、パフォーマンス改善に大きく貢献されています。これはユーザー体験向上に直結しますね！✨
-さらに、定期的なリリース作業 (`Release: staging -> main`) を確実に実施し、GitHub Actionsのワークフロー改善や、エラーハンドリングのテスト追加 (`🧪 Extract formatCaughtError and add unit tests`) で品質向上にも力を入れています。リファクタリングも抜かりなく行われていますね！
+主に**OpenShelf**では、セキュリティ脆弱性の修正に迅速に対応し、システムの安定化に大きく貢献しました。💪
+さらに、トークンキャッシュ、タグの重複排除、Map利用の最適化など、多岐にわたるパフォーマンス改善を精力的に進め、ユーザー体験向上に大きく寄与していますね！🚀 新機能のリリースやテスト強化、GitHub Actionsの改善も抜かりなく行われています。
 
-「jules-extension」では、aria-disabled関連のクリーンアップや修正 (`fix: keep aria-disabled cleanup scoped`) を行い、ユーザーインターフェースの改善に貢献しました。
+また、**jules-extension**では、UIのアクセシビリティに関する細やかな修正を行うことで、より使いやすい拡張機能を目指されています。✨
 
-これだけ幅広い分野で、セキュリティからパフォーマンス、品質改善まで高いレベルで活動されており、本当に素晴らしいです！これからもその勢いで、より良いプロダクトを創り上げていきましょう！💪
+これだけの多岐にわたる重要な作業をこなし、チームに大きく貢献していることがよく分かります。この調子で頑張ってください！応援しています！😊
 
 _Total: 285 commits across 10 projects_
 
