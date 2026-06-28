@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Rainy weather☔
-📍 Sydney: 13°C
+# 🌍 Hello! Cloudy today☁️
+📍 Toronto: 24°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,13 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと合計222件ものコミット、素晴らしい活躍ぶりですね！お疲れ様です！👏
+素晴らしい30日間でしたね！🎉 直近の活動を振り返りましょう。
 
-主な活動として、**OpenShelf** では多岐にわたる重要な作業を進められました。特に、npm依存関係のセキュリティ脆弱性への対応🛡️や、トークンキャッシュ、タグの重複排除、組織ルートタグのマップ使用最適化など、パフォーマンス改善に大きく貢献されています⚡。複数のリリースも成功させ、プロジェクトの安定性向上にも尽力されました。テストの抽出・追加🧪や、GitHub Actionsの改善、コードのリファクタリングも抜かりなく行われ、プロジェクト全体の品質向上に大きく貢献していますね。
+合計222ものコミット、大変お疲れ様でした！その中でも特に、**OpenShelf**リポジトリでの活躍が目覚ましいです。
 
-さらに、**jules-extension** では、aria-disabledに関するクリーンアップと修正を行い、ユーザー体験の向上にも繋げられました！
+**OpenShelf** では、
+- 多数のリリース作業とステージングブランチのマージを通じて、多くの新機能や改善が本番環境へデプロイされましたね。
+- 「Fix security vulnerabilities」として、npm依存関係のセキュリティ脆弱性対応に尽力し、システムの安全性を高めました。
+- さらに、「perf: Bound token cache eviction scan」や「⚡ Optimize Map usage in orgs route tags counting」、「⚡ perf: optimize tags de-duplication loop from O(N^2) to O(N)」といったコミットから、パフォーマンスの大幅な改善にも取り組んでいらっしゃることが伺えます。
+- バグ修正やリファクタリング、そして「🧪 Extract formatCaughtError and add unit tests」のようにテスト環境の強化も着実に進めていますね。
 
-常に品質とパフォーマンスを追求し、セキュリティ対策にも力を入れている姿勢、本当に尊敬します！今後のさらなる活躍も楽しみにしています！これからも一緒に頑張りましょう！🚀
+一方、**jules-extension** では、「fix: keep aria-disabled cleanup scoped」といったコミットで、UIのアクセシビリティ改善やクリーンアップ作業を行っていました。
+
+広範囲にわたるコミットからは、セキュリティ強化、パフォーマンス向上、そして品質維持に対する強いコミットメントが感じられます。素晴らしい貢献をありがとうございます！これからもこの勢いで頑張りましょう！🚀
 
 _Total: 232 commits across 10 projects_
 
