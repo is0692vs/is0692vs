@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Está lloviendo☔
-📍 Bogotá: 12°C
+# 🌍 こんにちは！あめがふってますね☔
+📍 Fukuoka: 23°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,9 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと**239件**ものコミットを重ね、精力的に開発に取り組まれましたね！🚀✨
+直近30日間で239件ものコミット、お疲れ様です！👏 chore: remove unrelated generated changes、Merge branch 'staging' into fix-collection-feed-latency-10737657655292671315、Merge branch 'staging' into jules-2494543244265025267-c4dabfa4など、多くの作業を進められました。合計163369行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-特に`OpenShelf`でのご活躍が際立っています。大規模なマージやリリース作業でプロジェクトの進行を力強く推進していただき、誠にありがとうございます。具体的には、
-*   パフォーマンス最適化に大きく貢献されました。例えば、トークンキャッシュの効率化に加え、タグ関連処理では`Map`の使用最適化やO(N^2)からO(N)へのデデュープアルゴリズム改善など、システムの応答性向上に尽力されましたね。⚡
-*   セキュリティ面では、npm依存関係の脆弱性修正に対応し、`OpenShelf`の堅牢なシステム構築に貢献されています。🛡️
-*   さらに、エラーハンドリング関数のユニットテスト追加や、GitHub Actionsワークフローの改善など、`OpenShelf`のコード品質向上と開発効率化にも積極的に取り組まれました。🧪
-
-これほど多岐にわたる重要な改善を短期間で実現されたのは、まさにプロフェッショナルな仕事ぶりです！これからも素晴らしい開発を期待しています！👏
-
-_Total: 261 commits across 10 projects_
+_Total: 260 commits across 10 projects_
 
 <table>
   <tr>
@@ -44,7 +37,7 @@ _Total: 261 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 134 commits (51.3%)</sub>
+      <sub>📊 133 commits (51.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -55,7 +48,7 @@ _Total: 261 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 64 commits (24.5%)</sub>
+      <sub>📊 64 commits (24.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -66,7 +59,7 @@ _Total: 261 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 35 commits (13.4%)</sub>
+      <sub>📊 35 commits (13.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 16</sub>
     </td>
