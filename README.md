@@ -24,16 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で190件ものコミット、大変お疲れ様でした！👏 素晴らしい活動量ですね！
+直近30日間で192件ものコミット、本当にお疲れ様でした！素晴らしい活動量ですね！✨
 
-特に`[OpenShelf]`リポジトリでのご活躍が目覚ましいです✨。
-大規模なコード整理や不要な変更の削除、そしてセキュリティ脆弱性の修正にも精力的に取り組まれましたね。トークンキャッシュの最適化やマップ使用量の改善、タグのデデュープ処理の高速化など、パフォーマンス向上への貢献も多大ですね⚡️。
+主に**OpenShelf**リポジトリでの活躍が目覚ましいです。
+*   **パフォーマンス最適化**に大きく貢献しましたね！特に、トークンキャッシュの効率化や、オーガニゼーションのタグカウント処理、さらにはタグの重複排除ロジックをO(N^2)からO(N)へと劇的に改善したことで、システム全体の応答性が向上したことでしょう。⚡
+*   また、npm依存関係の**セキュリティ脆弱性を修正**し、安定性を確保。エラーハンドリングの改善やユニットテストの拡充で**コード品質も向上**させています。🛡️🧪
+*   不要な生成ファイルの削除やGitHub Actionsのワークフロー修正、そして定期的なリリース作業を通じて、プロジェクトの**健全な維持管理**にも尽力いただきました。🧹🚀
 
-また、GitHub Actionsの修正、エラー処理のテスト追加や既存テストのカバレッジ向上にも力を入れ、品質向上にも大きく貢献しています。多くのブランチマージやリリース作業もスムーズに進められ、プロジェクトの安定稼働に尽力されていますね！
+これだけ多岐にわたる重要な改善を短期間で実現されたことに深く敬意を表します。今後の更なる活躍も楽しみにしています！これからも一緒に頑張りましょう！😊
 
-チームへの多岐にわたる貢献、本当にありがとうございます！この調子でこれからも頑張っていきましょう！🚀
-
-_Total: 156 commits across 10 projects_
+_Total: 162 commits across 10 projects_
 
 <table>
   <tr>
@@ -44,7 +44,7 @@ _Total: 156 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 63 commits (40.4%)</sub>
+      <sub>📊 63 commits (38.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -55,7 +55,7 @@ _Total: 156 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 41 commits (26.3%)</sub>
+      <sub>📊 42 commits (25.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -66,7 +66,7 @@ _Total: 156 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 26 commits (16.7%)</sub>
+      <sub>📊 27 commits (16.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
