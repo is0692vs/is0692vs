@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
 # 🌍 Olá! Dia nublado☁️
-📍 Lisbon: 31°C
+📍 Lisbon: 29°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計190件ものコミット、素晴らしい活動量ですね！✨
+直近30日間で、なんと190ものコミットを達成しましたね！驚異的な活動量、素晴らしいです👏
 
-特に`OpenShelf`リポジトリでは、多岐にわたる重要な改善が見られます。
-まず、パフォーマンス最適化に大きく貢献されましたね！`perf: Bound token cache eviction scan`や`⚡ Optimize Map usage in orgs route tags counting`、さらには`⚡ perf: optimize tags de-duplication loop from O(N^2) to O(N)`といったコミットで、システムの応答性向上に尽力されたことが伺えます。
-また、`Fix security vulnerabilities in npm dependencies`でセキュリティ面も強化。`Extract formatCaughtError and add unit tests`や`test: cover missing org collection feed`など、テストを充実させ品質向上にも大きく貢献されています。
-加えて、不要な変更の削除やGitHub Actions関連の修正、活発なリリース・マージ作業も継続されており、プロジェクトが非常に健全に進行していることを示しています。
+**[OpenShelf]** では、主にシステム全体のパフォーマンス改善に大きく貢献されています。トークンキャッシュの最適化や、組織タグの`Map`使用効率化、さらにタグの重複除去ループを`O(N^2)`から`O(N)`へと大幅に改善するなど、目に見える高速化を実現していますね⚡。
 
-継続的な改善と品質へのこだわり、本当に素晴らしいです！これからも頑張ってください！🚀
+また、npm依存関係におけるセキュリティ脆弱性の迅速な修正や、GitHub Actionsの改善、エラーフォーマットの単体テスト追加、オーガニゼーションコレクションフィードのテストカバレッジ向上など、品質と安定性向上にも抜かりがありません。
 
-_Total: 186 commits across 10 projects_
+大規模なブランチマージや定期的なリリース作業も着実に実施されており、その積極的な貢献が`OpenShelf`の発展を力強く支えています。これからもその素晴らしいドライブで、さらなる高みを目指しましょう！🚀
+
+_Total: 171 commits across 10 projects_
 
 <table>
   <tr>
@@ -44,7 +43,7 @@ _Total: 186 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 80 commits (43.0%)</sub>
+      <sub>📊 70 commits (40.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -55,7 +54,7 @@ _Total: 186 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 45 commits (24.2%)</sub>
+      <sub>📊 45 commits (26.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -66,7 +65,7 @@ _Total: 186 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 33 commits (17.7%)</sub>
+      <sub>📊 30 commits (17.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 16</sub>
     </td>
