@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Hiroshima: 26°C
+# 🌍 Hello! Clear skies today☀️
+📍 Chicago: 22°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計181件ものコミット、素晴らしいペースですね！👏 多数のプロジェクトで活発な活動が見られます。
+直近30日間で181回ものコミット、素晴らしい成果ですね！🎉
 
-特に**OpenShelf**リポジトリでは目覚ましい活躍でしたね！セキュリティ脆弱性の修正や、タグの重複排除処理をO(N^2)からO(N)に改善するパフォーマンス最適化⚡️、テストカバレッジの向上🧪、GitHub Actionsの改善など、システムの中核を支える重要な作業に多く貢献されました。大規模なコードクリーンアップや、UX・アクセシビリティ関連の改善、そして定期的なリリース作業も着実に進められていますね。
+特にOpenShelfでは、大量の不要な変更のクリーンアップから始まり、複数のブランチマージや`staging`から`main`へのリリースを頻繁に行い、プロジェクトのリリースサイクルを円滑に進めました。セキュリティ脆弱性の修正やGitHub Actionsのワークフロー改善も実施し、システムの安定性と信頼性を高めていますね。さらに、タグの重複排除ロジックをO(N^2)からO(N)に最適化するなど、パフォーマンス改善にも大きく貢献されました。テストの追加やUX関連の機能開発も進められています！🚀
 
-**jules-extension**では、`aria-disabled`のクリーンアップに関する修正を行い、アクセシビリティの向上に貢献されました。また、**paper-tools**では正規表現を定数化することで、パフォーマンスとコードの可読性を高める改善を実施されていますね。
+otodoki3ではesbuildの依存関係を更新し、基盤の健全性を保ちました。jules-extensionでは`aria-disabled`のクリーンアップに関する修正を行い、アクセシビリティの向上に努めましたね。paper-toolsでも正規表現の抽出によるリファクタリングでコードの品質とパフォーマンス向上に貢献されています。
 
-さらに、**otodoki3**リポジトリでは、`esbuild`の依存関係を更新し、プロジェクトの健全性を維持されています。
+各リポジトリで多岐にわたる課題に取り組まれたこの30日間、素晴らしい集中力と生産性です！この勢いで、次の目標も達成していきましょう！💪
 
-全体を通して、セキュリティ、パフォーマンス、品質、そして開発体験の向上に多角的に取り組まれていることが伝わってきます。チームの成長に大きく貢献する素晴らしい活動です！この調子で、今後の活躍も楽しみにしています！✨
-
-_Total: 181 commits across 10 projects_
+_Total: 179 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +43,7 @@ _Total: 181 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 62 commits (34.3%)</sub>
+      <sub>📊 62 commits (34.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +54,7 @@ _Total: 181 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 48 commits (26.5%)</sub>
+      <sub>📊 48 commits (26.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -67,7 +65,7 @@ _Total: 181 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 32 commits (17.7%)</sub>
+      <sub>📊 32 commits (17.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -82,26 +80,26 @@ _Total: 181 commits across 10 projects_
 <table>
   <tr>
     <td align="center">
-      <a href="https://open.spotify.com/track/1ycsBZlPqRPqf0ilosVhEl" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273f46c070998294b66650ea007" alt="盛れ！ミ・アモーレ" width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>盛れ！ミ・アモーレ</sub>
-      <br />
-      <sub>Juice=Juice</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
       </a>
       <br />
-      <sub><strong>#2</strong></sub>
+      <sub><strong>#1</strong></sub>
       <br />
       <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
       <br />
       <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1ycsBZlPqRPqf0ilosVhEl" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273f46c070998294b66650ea007" alt="盛れ！ミ・アモーレ" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>盛れ！ミ・アモーレ</sub>
+      <br />
+      <sub>Juice=Juice</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
