@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Sapporo: 20°C
+# 🌍 こんにちは！今日は曇り空ですね☁️
+📍 Tokyo: 25°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 6,361 installs | ⭐ 4.5/5 (2 ratings) | v1.5.5
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 6,362 installs | ⭐ 4.5/5 (2 ratings) | v1.5.5
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 15 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 63 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-06-09%22%2C%222026-06-10%22%2C%222026-06-11%22%2C%222026-06-12%22%2C%222026-06-13%22%2C%222026-06-14%22%2C%222026-06-15%22%2C%222026-06-16%22%2C%222026-06-17%22%2C%222026-06-18%22%2C%222026-06-19%22%2C%222026-06-20%22%2C%222026-06-21%22%2C%222026-06-22%22%2C%222026-06-23%22%2C%222026-06-24%22%2C%222026-06-25%22%2C%222026-06-26%22%2C%222026-06-27%22%2C%222026-06-28%22%2C%222026-06-29%22%2C%222026-06-30%22%2C%222026-07-01%22%2C%222026-07-02%22%2C%222026-07-03%22%2C%222026-07-04%22%2C%222026-07-05%22%2C%222026-07-06%22%2C%222026-07-07%22%2C%222026-07-08%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B5848%2C5868%2C5883%2C5909%2C5915%2C5941%2C5958%2C5979%2C6005%2C6021%2C6040%2C6070%2C6081%2C6103%2C6111%2C6123%2C6155%2C6167%2C6184%2C6202%2C6214%2C6235%2C6250%2C6268%2C6289%2C6303%2C6319%2C6334%2C6349%2C6361%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C62%2C62%2C62%2C62%2C62%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-06-09%22%2C%222026-06-10%22%2C%222026-06-11%22%2C%222026-06-12%22%2C%222026-06-13%22%2C%222026-06-14%22%2C%222026-06-15%22%2C%222026-06-16%22%2C%222026-06-17%22%2C%222026-06-18%22%2C%222026-06-19%22%2C%222026-06-20%22%2C%222026-06-21%22%2C%222026-06-22%22%2C%222026-06-23%22%2C%222026-06-24%22%2C%222026-06-25%22%2C%222026-06-26%22%2C%222026-06-27%22%2C%222026-06-28%22%2C%222026-06-29%22%2C%222026-06-30%22%2C%222026-07-01%22%2C%222026-07-02%22%2C%222026-07-03%22%2C%222026-07-04%22%2C%222026-07-05%22%2C%222026-07-06%22%2C%222026-07-07%22%2C%222026-07-08%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B5848%2C5868%2C5883%2C5909%2C5915%2C5941%2C5958%2C5979%2C6005%2C6021%2C6040%2C6070%2C6081%2C6103%2C6111%2C6123%2C6155%2C6167%2C6184%2C6202%2C6214%2C6235%2C6250%2C6268%2C6289%2C6303%2C6319%2C6334%2C6349%2C6362%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C61%2C62%2C62%2C62%2C62%2C62%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,13 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-素晴らしい活動状況ですね！直近30日間でなんと**187件**ものコミットを重ね、多岐にわたるプロジェクトで目覚ましい進歩を遂げられています。👏
+お疲れ様です！直近30日間で、あなたは素晴らしい187件ものコミットを重ね、多岐にわたる開発活動を展開されましたね！👏
 
-特に**OpenShelf**では、不要な生成コードの大規模なクリーンアップ、複数回にわたる`staging`から`main`へのリリース作業、そしてnpm依存関係のセキュリティ脆弱性修正に尽力されました。エラーハンドリングの改善や単体テストの追加、タグの重複排除によるパフォーマンス最適化も素晴らしいですね！💪 GitHub Actionのワークフロー改善やテストカバレッジの拡充、UX・アクセシビリティ関連の対応も着実に進んでいます。
+特に**OpenShelf**リポジトリでは、大規模なコードクリーンアップやブランチマージを精力的に行い、コードベースの健全性を高めました。npm依存関係のセキュリティ脆弱性修正やGitHub Actionsのワークフロー改善でシステムの安定性と安全性を向上させ、タグの重複排除ロジックをO(N^2)からO(N)に改善するなど、パフォーマンス最適化にも大きく貢献しましたね！テストカバレッジの拡充も忘れず、品質向上へのこだわりが光っています。✨
 
-**otodoki3**では、`esbuild`の依存関係を更新し、プロジェクトの健全性を維持されました。また、**jules-extension**では`aria-disabled`属性のクリーンアップ修正で、UIの安定性向上に貢献しています。✨ **paper-tools**では正規表現をモジュール定数として抽出し、コードの可読性とパフォーマンス向上に繋げられましたね！
+**jules-extension**では、`aria-disabled`関連の修正で、特定機能の安定化に貢献されました。
+**paper-tools**では、ドリルダウン機能の正規表現をモジュール定数として抽出することで、パフォーマンス向上とコード整理を進めましたね。⚡
+**otodoki3**では、esbuildの依存関係を更新し、プロジェクト基盤の更新も抜かりなく行いました。
 
-これほど多くの成果を短期間で達成されたこと、本当に素晴らしいです！これからもその勢いで、さらなる活躍を期待しています！🚀
+多岐にわたるリポジトリで、セキュリティ強化、パフォーマンス改善、コードの品質向上、そして日々の運用改善も着実に進められ、本当に素晴らしい活躍ぶりです！今後のさらなる活躍も楽しみにしています！😊
 
 _Total: 88 commits across 10 projects_
 
@@ -80,22 +82,11 @@ _Total: 88 commits across 10 projects_
 <table>
   <tr>
     <td align="center">
-      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
-      <br />
-      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/1ycsBZlPqRPqf0ilosVhEl" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273f46c070998294b66650ea007" alt="盛れ！ミ・アモーレ" width="120" />
       </a>
       <br />
-      <sub><strong>#2</strong></sub>
+      <sub><strong>#1</strong></sub>
       <br />
       <sub>盛れ！ミ・アモーレ</sub>
       <br />
@@ -106,11 +97,22 @@ _Total: 88 commits across 10 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#2</strong></sub>
       <br />
       <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
       <br />
       <sub>NJPW</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
+      <br />
+      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/3xUQAdNRIJIZwMaABAW30d" target="_blank">
@@ -124,15 +126,15 @@ _Total: 88 commits across 10 projects_
       <sub>NJPW(新日本プロレスリング株式会社)</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/3TtCZYBOQukcXUlBfetNmy" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273d263a9b9a61401bec9b0abd8" alt="石森太二(ボーンソルジャー)のテーマ「BONE SOLDIER(2018.5.4どんたく限定バージョン)」" width="120" />
+      <a href="https://open.spotify.com/track/6zO9kSYSVed2iQQSOrKUGQ" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273cf68803dfbc2fbb83d97eb67" alt="STARDUST～内藤哲也のテーマ" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>石森太二(ボーンソルジャー)のテーマ「BONE SOLDIER(2018.5.4どんたく限定バージョン)」</sub>
+      <sub>STARDUST～内藤哲也のテーマ</sub>
       <br />
-      <sub>NJPW</sub>
+      <sub>KAZSIN</sub>
     </td>
   </tr>
 </table>
