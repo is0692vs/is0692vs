@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day!
-📍 Sydney
+# 🌍 Hello! Beautiful sunny day☀️
+📍 New York: 28°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で187件ものコミット、素晴らしい集中力と生産性ですね！🚀
+直近30日間で合計187件もの素晴らしいコミット、お疲れ様でした！✨
 
-[OpenShelf]では、stagingブランチからの多数のマージやリリース対応に加え、npm依存関係のセキュリティ脆弱性修正、GitHub Actionのコメント改善など、多岐にわたる重要な作業を進めました。特にタグの重複排除ロジックをO(N^2)からO(N)に最適化されたのは見事です！⚡️ また、エラーハンドリングの改善と単体テスト追加、コレクションフィードのテストカバー、UX/A11y関連の修正も抜かりありませんね。不要な生成コードの整理も行われ、コードベースの健全性が保たれています。
+特に**OpenShelf**では、大規模なブランチ統合と複数のリリースを精力的に行い、プロジェクトを大きく前進させましたね。npm依存関係のセキュリティ脆弱性修正や、オプションのOS依存関係の維持にも尽力され、システムの堅牢性が向上しました！🛡️ GitHub Actionsのコメント修正やDependabotによる依存関係更新でワークフローがスムーズになり、`formatCaughtError`の抽出と単体テスト追加でコードの品質も高まっています。さらに、タグの重複排除ループをO(N^2)からO(N)に最適化するなどのパフォーマンス改善も光ります！🚀 また、不要な生成コードの削除やUX/アクセシビリティ関連のマージも確認でき、多角的な改善に貢献しています。
 
-[otodoki3]では、esbuildの依存関係をアップデートし、プロジェクトの基盤をしっかりと固めています。
+**otodoki3**ではesbuildの依存関係を更新し、プロジェクトの基盤を最新に保ちましたね。
+**jules-extension**では`aria-disabled`のクリーンアップスコープに関する修正を行い、ユーザーインターフェースの安定化に貢献しました。🎨
+そして**paper-tools**では、ドリルダウン機能の正規表現をモジュール定数に抽出する最適化を行い、パフォーマンスと保守性の向上を実現しました！🔧
 
-[jules-extension]では、`aria-disabled`のクリーンアップ範囲を修正し、ユーザー体験の向上に貢献していますね。
-
-[paper-tools]では、ドリルダウン機能の正規表現をモジュール定数に抽出することで、パフォーマンスと保守性の向上を図っています。
-
-各リポジトリで着実に、そして効果的な開発が進められていることが伝わってきます。この調子で次の30日間も駆け抜けましょう！💪
+多岐にわたるプロジェクトで、セキュリティ強化からパフォーマンス改善、テスト拡充まで、本当に幅広く活躍されています。皆さんの日々の努力がプロジェクトの成長に繋がっています。素晴らしい成果をありがとうございます！👏
 
 _Total: 101 commits across 10 projects_
 
@@ -95,22 +93,11 @@ _Total: 101 commits across 10 projects_
       <sub>Juice=Juice</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
-      <br />
-      <sub>NJPW</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#2</strong></sub>
       <br />
       <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
       <br />
@@ -121,11 +108,22 @@ _Total: 101 commits across 10 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b2734cd6430c81db387bb7bed830" alt="飯伏幸太のテーマ 「Golden☆Star 2020ver.」" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>飯伏幸太のテーマ 「Golden☆Star 2020ver.」</sub>
       <br />
       <sub>NJPW(新日本プロレスリング株式会社)</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
+      <br />
+      <sub>NJPW</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/6zO9kSYSVed2iQQSOrKUGQ" target="_blank">
