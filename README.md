@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rainy day☔
-📍 New York: 29°C
+# 🌍 こんにちは！素晴らしい晴れですね☀️
+📍 Tokyo: 24°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,7 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計187件ものコミット、素晴らしい成果ですね！👏
-
-特に[OpenShelf]では、多数の大規模なブランチマージやリリース作業をこなしつつ、npmのセキュリティ脆弱性対応やGitHub Actionの改善、そしてタグの重複削除ロジックのO(N^2)からO(N)への最適化といったパフォーマンス向上まで、多岐にわたる重要な貢献がありましたね！🚀 テストカバレッジの拡充やUX/アクセシビリティ関連の修正も進められ、品質と使いやすさの両面で大きく前進しました。
-
-また、[otodoki3]では依存関係のアップデートを実施し、プロジェクトの健全性を保っています。
-
-[jules-extension]では、`aria-disabled`のクリーンアップに関する重要なバグ修正でユーザー体験を向上させていますね。
-
-さらに、[paper-tools]ではドリルの正規表現をモジュール定数に抽出するパフォーマンス最適化を行い、効率アップに貢献しました！
-
-各リポジトリでコードの品質向上、セキュリティ強化、そしてパフォーマンス改善に精力的に取り組んでいただき、本当にありがとうございます！この調子でこれからも素晴らしい開発を続けていきましょう！✨
+直近30日間で187件ものコミット、お疲れ様です！👏 chore: remove unrelated generated changes、Merge branch 'staging' into fix-collection-feed-latency-10737657655292671315、Merge branch 'staging' into jules-2494543244265025267-c4dabfa4など、多くの作業を進められました。合計149907行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 79 commits across 10 projects_
 
