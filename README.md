@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hallo! Bewölkt heute☁️
-📍 Berlin: 27°C
+# 🌍 Bonjour! Il pleut aujourd'hui☔
+📍 Lyon: 30°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計145件もの素晴らしいコミット、お疲れ様でした！🎉
+直近30日間で145件ものコミット、素晴らしいですね！✨ 各プロジェクトで精力的な活動が見られました。
 
-主な活動として、**OpenShelf**ではセキュリティ脆弱性の修正や、タグ重複排除ロジックのパフォーマンス最適化（O(N^2)からO(N)へ改善）に大きく貢献されましたね。組織コレクションフィードのテストカバー追加や、Dependabotによる依存関係の更新も実施。頻繁なマージコミットからは、活発な開発と安定したリリースサイクルが伺えます。
+特に[OpenShelf]では、複数のリリースのマージや、npm依存関係のセキュリティ脆弱性への迅速な対応🔒、タグ重複排除のパフォーマンス最適化⚡️に大きく貢献しました。不要な生成コードの削除や、オーガニゼーションコレクションフィードのテストカバー率向上、各種依存関係の更新も抜かりなく実施されています。
 
-**paper-tools**では、mergeAffiliations機能のテストカバレッジを大幅に拡張し、OAuth認証におけるCookieセキュリティに関するテストと修正を行うなど、堅牢性向上に努めました。また、ドリルダウン機能の正規表現をモジュール定数に抽出することで、パフォーマンス改善にも貢献しています。
+[paper-tools]では、ドリルダウンにおける正規表現のモジュール定数化によるパフォーマンス改善🚀を図り、mergeAffiliationsの網羅的なテストやOAuth認証のセキュリティに関するテストを拡充し、品質向上に尽力しましたね。
 
-**otodoki3**では、Dependabotによるesbuildの依存関係更新を実施し、プロジェクトの健全性を保ちました。
+[otodoki3]では、Dependabotによる依存関係の更新を通じて、プロジェクトを最新かつ健全な状態に保っています。
 
-全体を通して、セキュリティ強化、パフォーマンス改善、そして品質向上のためのテスト拡充に重点が置かれていたことが伺えます。多岐にわたる重要な改善、本当に素晴らしいです！これからもこの調子で頑張りましょう！🚀
+各プロジェクトで多岐にわたる重要な改善を推し進め、日々の開発に大きく貢献しています！今後のさらなる活躍も楽しみにしています！👏
 
 _Total: 134 commits across 10 projects_
 
@@ -93,26 +93,26 @@ _Total: 134 commits across 10 projects_
       <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/1ycsBZlPqRPqf0ilosVhEl" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273f46c070998294b66650ea007" alt="盛れ！ミ・アモーレ" width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>盛れ！ミ・アモーレ</sub>
-      <br />
-      <sub>Juice=Juice</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/3xUQAdNRIJIZwMaABAW30d" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2734cd6430c81db387bb7bed830" alt="飯伏幸太のテーマ 「Golden☆Star 2020ver.」" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#2</strong></sub>
       <br />
       <sub>飯伏幸太のテーマ 「Golden☆Star 2020ver.」</sub>
       <br />
       <sub>NJPW(新日本プロレスリング株式会社)</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/3yO2SddOm9LkOwRdXJcSLA" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2738c47b2943b11a7d365584a3e" alt="崖っぷちルビー (VS. アイナ・ジ・エンド)" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>崖っぷちルビー (VS. アイナ・ジ・エンド)</sub>
+      <br />
+      <sub>Tokyo Ska Paradise Orchestra, AiNA THE END</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
@@ -126,15 +126,15 @@ _Total: 134 commits across 10 projects_
       <sub>NJPW</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/6zO9kSYSVed2iQQSOrKUGQ" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273cf68803dfbc2fbb83d97eb67" alt="STARDUST～内藤哲也のテーマ" width="120" />
+      <a href="https://open.spotify.com/track/1ycsBZlPqRPqf0ilosVhEl" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273f46c070998294b66650ea007" alt="盛れ！ミ・アモーレ" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>STARDUST～内藤哲也のテーマ</sub>
+      <sub>盛れ！ミ・アモーレ</sub>
       <br />
-      <sub>KAZSIN</sub>
+      <sub>Juice=Juice</sub>
     </td>
   </tr>
 </table>
