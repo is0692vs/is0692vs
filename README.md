@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rainy weather☔
-📍 Chicago: 23°C
+# 🌍 こんにちは！素晴らしい晴れですね☀️
+📍 Tokyo: 28°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、あなたは合計144件ものコミットを重ね、本当に素晴らしい活躍を見せてくれましたね！👏
+直近30日間で144件ものコミット、素晴らしい活躍でした！✨ 多岐にわたる重要な改善をありがとうございます。
 
-特に**OpenShelf**では、大規模なブランチマージやリリース作業を多数実施し、大幅なコードの改善と安定化に貢献しました。セキュリティ脆弱性の修正や、タグの重複排除ロジックをO(N^2)からO(N)に最適化するなど、パフォーマンス改善も素晴らしいです！✨ また、コレクションフィードのテストカバレッジを追加するなど、品質向上にも力を入れていますね。
+特に、**OpenShelf**では大規模なコードの整理・クリーンアップが行われ、セキュリティ脆弱性への迅速な対応も見られましたね。タグの重複排除ロジックをO(N^2)からO(N)に最適化するなど、パフォーマンス改善にも大きく貢献しています。多数のブランチ統合やDependabotによる依存関係の更新を通じて、プロジェクトの安定稼働とリリースを支えていました。
 
-**paper-tools**でも、`mergeAffiliations`関数のテストを強化したり、OAuth状態クッキーのセキュリティをカバーするテストを追加したりと、テスト体制を盤石にしています。さらに、ドリルダウンの正規表現をモジュール定数として抽出することで、パフォーマンス向上にも貢献しました。セキュリティとパフォーマンスへの意識の高さに感銘を受けます！🚀
+**paper-tools**では、ドリルダウンの正規表現を定数化してコードを最適化。さらに、`mergeAffiliations`のテストカバレッジを拡張し、OAuth状態クッキーのセキュリティテストと修正も行われ、品質向上に貢献しました。
 
-**otodoki3**では、Dependabotによる依存関係の更新に対応し、プロジェクトの健全性を保っていますね。
+**otodoki3**では、`esbuild`の依存関係更新に取り組まれましたね。
 
-これらの多岐にわたる貢献は、プロジェクトの品質、セキュリティ、パフォーマンスを大きく向上させるものです。あなたの精力的な活動に心から感謝します！これからも一緒に頑張りましょう！🎉
+プロジェクトのセキュリティ、パフォーマンス、そして品質向上に大きく貢献されました。本当にお疲れ様でした！これからも皆さんの活躍を楽しみにしています！🚀
 
-_Total: 79 commits across 10 projects_
+_Total: 104 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +45,18 @@ _Total: 79 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 49 commits (62.0%)</sub>
+      <sub>📊 49 commits (47.1%)</sub>
+      <br />
+      <sub>🔷 TypeScript </sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/Audicle" alt="Audicle" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
+      <br />
+      <sub>📊 34 commits (32.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,20 +67,9 @@ _Total: 79 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 21 commits (26.6%)</sub>
+      <sub>📊 21 commits (20.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 16</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/paper-tools" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/paper-tools" alt="paper-tools" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
-      <br />
-      <sub>📊 9 commits (11.4%)</sub>
-      <br />
-      <sub>🔷 TypeScript </sub>
     </td>
   </tr>
 </table>
