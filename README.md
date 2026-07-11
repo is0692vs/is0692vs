@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hallo! Bewölkt heute☁️
-📍 Berlin: 23°C
+# 🌍 おはよう！曇ってるね☁️
+📍 Hiroshima: 29°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,18 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計145件のコミット、素晴らしいですね！🎉 チームの皆さんの活発な開発活動が伺えます。
+素晴らしい活動状況ですね！直近30日間で合計**145件**ものコミットを重ね、多くのプロジェクトで活躍されています。✨
 
-主な活動内容としては、
-`OpenShelf`では、セキュリティ脆弱性の修正や、タグの重複排除処理をO(N^2)からO(N)に改善するパフォーマンス最適化、そして不足していた組織コレクションフィードのテストカバレッジ拡充に取り組まれました。また、大量のコード修正を含むステージングブランチのメインブランチへのマージが頻繁に行われており、安定したリリースサイクルが維持されていますね。依存関係の更新も着実に実施されています。
+特に`OpenShelf`では、不要な生成コードの削除やステージングブランチのマージなど、大規模なクリーンアップとコードベースの整備に尽力されましたね！セキュリティ脆弱性の修正や、タグの重複処理をO(N^2)からO(N)へ改善するパフォーマンス最適化、さらには不足していたコレクションフィードのテストカバレッジ向上まで、多岐にわたる重要な改善を重ねられています。Dependabotによる依存関係のアップデートも着実に行い、安定稼働に大きく貢献しています。🚀
 
-`paper-tools`では、ドリルダウン機能の正規表現をモジュール定数に抽出するコードの最適化を実施。さらに、`mergeAffiliations`機能やOAuth状態クッキーのセキュリティに関するテストカバレッジを広範囲に強化し、品質とセキュリティの向上に大きく貢献されています。💡
+`paper-tools`では、ドリルダウンの正規表現を定数化してパフォーマンスを向上させたり、`mergeAffiliations`のテストを強化したり、OAuth関連のセキュリティテストを拡充するなど、品質と信頼性を高める作業に注力されました。📚
 
-`otodoki3`では、`esbuild`を含む依存関係の更新が行われ、プロジェクトの健全性が維持されています。✨
+また、`otodoki3`では、`esbuild`の依存関係を更新し、プロジェクトの健全性を維持されています。🌱
 
-多岐にわたるリポジトリで、品質向上、セキュリティ強化、パフォーマンス改善、そして安定したリリースサイクルを維持するための献身的な努力が伺えます。チームの継続的な成長とプロジェクトの進化に大きく貢献していますね！これからも期待しています！🚀
+このように、複数のリポジトリでコードの品質向上、パフォーマンス改善、セキュリティ強化、そしてテストカバレッジの拡充と、素晴らしい成果を上げています。日々の貢献が、より良いプロダクトへと繋がっていますね！これからもこの調子で頑張ってください！💪
 
-_Total: 134 commits across 10 projects_
+_Total: 133 commits across 10 projects_
 
 <table>
   <tr>
@@ -46,7 +45,7 @@ _Total: 134 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 49 commits (36.6%)</sub>
+      <sub>📊 49 commits (36.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -57,7 +56,7 @@ _Total: 134 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 34 commits (25.4%)</sub>
+      <sub>📊 34 commits (25.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -68,7 +67,7 @@ _Total: 134 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 29 commits (21.6%)</sub>
+      <sub>📊 29 commits (21.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -83,11 +82,22 @@ _Total: 134 commits across 10 projects_
 <table>
   <tr>
     <td align="center">
+      <a href="https://open.spotify.com/track/3yO2SddOm9LkOwRdXJcSLA" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2738c47b2943b11a7d365584a3e" alt="崖っぷちルビー (VS. アイナ・ジ・エンド)" width="120" />
+      </a>
+      <br />
+      <sub><strong>#1</strong></sub>
+      <br />
+      <sub>崖っぷちルビー (VS. アイナ・ジ・エンド)</sub>
+      <br />
+      <sub>Tokyo Ska Paradise Orchestra, AiNA THE END</sub>
+    </td>
+    <td align="center">
       <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
       </a>
       <br />
-      <sub><strong>#1</strong></sub>
+      <sub><strong>#2</strong></sub>
       <br />
       <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
       <br />
@@ -98,22 +108,11 @@ _Total: 134 commits across 10 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b2734cd6430c81db387bb7bed830" alt="飯伏幸太のテーマ 「Golden☆Star 2020ver.」" width="120" />
       </a>
       <br />
-      <sub><strong>#2</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>飯伏幸太のテーマ 「Golden☆Star 2020ver.」</sub>
       <br />
       <sub>NJPW(新日本プロレスリング株式会社)</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/3yO2SddOm9LkOwRdXJcSLA" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2738c47b2943b11a7d365584a3e" alt="崖っぷちルビー (VS. アイナ・ジ・エンド)" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>崖っぷちルビー (VS. アイナ・ジ・エンド)</sub>
-      <br />
-      <sub>Tokyo Ska Paradise Orchestra, AiNA THE END</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
@@ -146,7 +145,7 @@ _Total: 134 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.6-publish">v1.5.6-publish</a> · Today
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.6-publish">v1.5.6-publish</a> · Yesterday
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.6-publish -->
@@ -161,7 +160,7 @@ _Total: 134 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.6">v1.5.6</a> · Today
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.6">v1.5.6</a> · Yesterday
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.6 -->
@@ -176,7 +175,7 @@ _Total: 134 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.5-publish">v1.5.5-publish</a> · 4 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.5-publish">v1.5.5-publish</a> · Jun 11, 2026
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.5-publish -->
@@ -190,7 +189,7 @@ _Total: 134 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.5">v1.5.5</a> · 4 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.5">v1.5.5</a> · Jun 11, 2026
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.5 -->
