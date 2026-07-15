@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Hiroshima: 29°C
+# 🌍 Olá! Dia nublado☁️
+📍 Lisbon: 26°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**181件**のコミット、素晴らしい成果ですね！この期間も精力的な活動、本当にお疲れ様です！✨
+直近30日間で181件ものコミット、素晴らしい活躍でしたね！🚀
 
-特に**OpenShelf**リポジトリでは、大規模なブランチ統合やリリース作業を複数回実施し、プロジェクトの進捗に大きく貢献されていますね。多数のコードをスムーズにマージし、リリースの安定化に尽力されたことがうかがえます。また、セキュリティ脆弱性の修正や、タグの重複除去ロジックをO(N^2)からO(N)へ最適化するパフォーマンス改善も実施され、システムの堅牢性と効率性を高めています。テストカバレッジの拡充や依存関係の更新も着実に進められ、プロジェクト全体の品質向上に貢献しています。👏
+特に**OpenShelf**リポジトリでは、大規模なリリースの進行（`#1001`, `#1003`, `#1022`など）や、npm依存関係のセキュリティ脆弱性修正（`Fix security vulnerabilities`）といった重要なタスクを迅速にこなしましたね。さらに、タグの重複排除ロジックをO(N^2)からO(N)へと大幅にパフォーマンス最適化（`#963`）されたのは見事です！🎉 欠落していたコレクションフィードのテスト追加や、依存関係の継続的なアップデート（`#1020`, `#996`）もバッチリです。
 
-**paper-tools**リポジトリでは、`mergeAffiliations`のテストカバレッジを拡張し、OAuth認証のCookieセキュリティに関するテストも強化されました。これにより、機能の信頼性とセキュリティが向上しましたね。⚡️
+**paper-tools**リポジトリでは、`mergeAffiliations`の堅牢な単体テスト追加や、OAuthステートクッキーのセキュリティテストカバレッジ拡張により、システムの信頼性向上に貢献しましたね。また、ドリルダウンの正規表現を最適化（`#285`）し、パフォーマンス改善にも力を入れました。
 
-さらに、**otodoki3**リポジトリでは依存関係のアップデートも行われました。
+**otodoki3**リポジトリでは、`esbuild`の依存関係更新（`#237`）も実施され、プロジェクトを常に最新の状態に保つ努力が見られます。
 
-複数のリポジトリにわたり、新機能、パフォーマンス、セキュリティ、テスト、そして基盤の改善まで多岐にわたる貢献、本当に素晴らしいです！これからも安定した開発と新たな挑戦を応援しています！💪
+複数のリポジトリにわたり、リリース、セキュリティ強化、パフォーマンス改善、テストカバレッジ拡大、そして依存関係のメンテナンスと、多岐にわたる重要な貢献をされたことに心から拍手を送ります！👏 この調子で次月も頑張っていきましょう！✨
 
 _Total: 103 commits across 10 projects_
 
@@ -93,26 +93,26 @@ _Total: 103 commits across 10 projects_
       <sub>Tokyo Ska Paradise Orchestra, AiNA THE END</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
-      <br />
-      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/3xUQAdNRIJIZwMaABAW30d" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2734cd6430c81db387bb7bed830" alt="飯伏幸太のテーマ 「Golden☆Star 2020ver.」" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#2</strong></sub>
       <br />
       <sub>飯伏幸太のテーマ 「Golden☆Star 2020ver.」</sub>
       <br />
       <sub>NJPW(新日本プロレスリング株式会社)</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
+      <br />
+      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
@@ -126,15 +126,15 @@ _Total: 103 commits across 10 projects_
       <sub>NJPW</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/6zO9kSYSVed2iQQSOrKUGQ" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273cf68803dfbc2fbb83d97eb67" alt="STARDUST～内藤哲也のテーマ" width="120" />
+      <a href="https://open.spotify.com/track/7DMavQOyLksY3TB1t0mTio" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273f9410f37953e5991e20abc8d" alt="MACHINEGUN - 2021.11.1 Live at Zepp DiverCity TOKYO" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>STARDUST～内藤哲也のテーマ</sub>
+      <sub>MACHINEGUN - 2021.11.1 Live at Zepp DiverCity TOKYO</sub>
       <br />
-      <sub>KAZSIN</sub>
+      <sub>THE ORAL CIGARETTES</sub>
     </td>
   </tr>
 </table>
