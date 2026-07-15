@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Bit cloudy today☁️
-📍 Sydney: 14°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Paris: 27°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で181件ものコミット、素晴らしい活躍ぶりですね！✨
+直近30日間で、なんと181件もの素晴らしいコミットを達成しましたね！驚くべき生産性です👏
 
-特に「OpenShelf」では、大規模なブランチマージやリリース作業を多数実施され、プロジェクトの推進に大きく貢献されています。セキュリティ脆弱性の修正対応や、タグの重複排除ロジックをO(N^2)からO(N)に改善するパフォーマンス最適化🚀、さらにテストカバレッジの拡充も手掛けられましたね。依存関係のアップデートも着実に進められ、システムの健全性を保っています。
+特に[OpenShelf]では、大規模なブランチ統合やステージングからのリリースを何度も実施し、プロダクトの進化に大きく貢献しました。セキュリティ脆弱性の修正や、タグ重複排除処理のO(N)への最適化、フィード遅延改善など、パフォーマンスとセキュリティの両面で重要な改善を進められましたね⚡。また、UX関連の改善やテストカバレッジの拡充、依存関係の定期的な更新も忘れずに行っています🔄。
 
-「paper-tools」では、ドリルの正規表現をモジュール定数化してパフォーマンスを向上させ、`mergeAffiliations` や OAuthの状態クッキーに関するセキュリティテストを拡充されていますね。システムの堅牢性がさらに高まりました！🛡️
+[paper-tools]では、ドリルダウンの正規表現最適化で効率アップを図りつつ、`mergeAffiliations`機能やOAuthステートクッキーのセキュリティ関連テストを徹底的にカバーし、品質と安全性を高めました🛡️。
 
-また「otodoki3」では、依存関係の更新を行うなど、幅広いリポジトリで日々のメンテナンスを怠らない姿勢、本当に素晴らしいです。
+[otodoki3]でも依存関係の更新を行い、プロジェクトの健全性を保っています⚙️。
 
-多岐にわたる重要なタスクを精力的にこなされており、チームへの貢献度は計り知れません。この調子でこれからも頑張ってください！👏
+多岐にわたるプロジェクトでこれほど多くの貢献をされていることに心から敬意を表します。この調子でこれからも素晴らしい開発を続けていきましょう！🚀
 
 _Total: 103 commits across 10 projects_
 
@@ -61,11 +61,11 @@ _Total: 103 commits across 10 projects_
       <sub>🔷 TypeScript ⭐ 16</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/RUSAEXP1EMB2026/repo16" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/RUSAEXP1EMB2026/repo16" alt="repo16" width="100%" />
+      <a href="https://github.com/RUSAEXP1EMB2026/repo11" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/RUSAEXP1EMB2026/repo11" alt="repo11" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/RUSAEXP1EMB2026/repo16" target="_blank">repo16</a></strong></sub>
+      <sub><strong><a href="https://github.com/RUSAEXP1EMB2026/repo11" target="_blank">repo11</a></strong></sub>
       <br />
       <sub>📊 0 commits (0.0%)</sub>
       <br />
@@ -145,7 +145,7 @@ _Total: 103 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.6-publish">v1.5.6-publish</a> · 4 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.6-publish">v1.5.6-publish</a> · 5 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.6-publish -->
@@ -160,7 +160,7 @@ _Total: 103 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.6">v1.5.6</a> · 4 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.6">v1.5.6</a> · 5 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.6 -->
