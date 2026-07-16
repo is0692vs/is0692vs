@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Madrid: 29°C
+# 🌍 Bonjour! Il pleut aujourd'hui☔
+📍 Lyon: 16°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -21,63 +21,7 @@ _npm download statistics temporarily unavailable_
 <!-- active-projects:start -->
 ## 🔨 Active Projects (Last 30 Days)
 
-### 🤖 gemini2.5flashによる直近30日の活動サマリー
-
-直近30日間の活動サマリー:
-素晴らしいですね！直近30日間で合計181件ものコミット、大変お疲れ様でした！💪
-
-主要な活動として、主に以下のリポジトリで多くの貢献が見られました。
-
-**[OpenShelf]** では、特に活発でしたね！
-不要な生成ファイルのクリーンアップやセキュリティ脆弱性の修正、npm依存関係の更新など、システムの健全性を高める大きな作業がありました。また、タグの重複除去ロジックをO(N^2)からO(N)に改善するパフォーマンス最適化や、オーガナイゼーションコレクションフィードのテストカバレッジ向上、さらにはステージングからメインへの定期的なリリースも多数実施されていますね。レイテンシ改善やUX/A11y関連のブランチマージも見受けられ、多岐にわたる改善に貢献されています！🚀
-
-**[paper-tools]** では、コードの品質とセキュリティ強化に注力されました。
-ドリルダウンの正規表現を定数化してパフォーマンスを向上させたり、mergeAffiliations機能のテストカバレッジを拡充したりと、堅牢性を高める素晴らしい取り組みです。OAuthステートクッキーのセキュリティテストと修正も実施されており、非常に重要な貢献ですね！🛡️
-
-**[otodoki3]** では、esbuildなどのnpm依存関係の更新が行われ、プロジェクトの最新状態維持に貢献されています。✨
-
-各リポジトリで、システム基盤の強化、セキュリティ向上、パフォーマンス最適化、そしてテストの充実と、非常に多角的な視点での開発を進められたことがよく分かります。今後のさらなる活躍も楽しみにしています！これからも頑張ってください！😊
-
-_Total: 103 commits across 10 projects_
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/OpenShelf" alt="OpenShelf" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
-      <br />
-      <sub>📊 78 commits (75.7%)</sub>
-      <br />
-      <sub>🔷 TypeScript </sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/jules-extension" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/jules-extension" alt="jules-extension" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
-      <br />
-      <sub>📊 25 commits (24.3%)</sub>
-      <br />
-      <sub>🔷 TypeScript ⭐ 16</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/RUSAEXP1EMB2026/repo11" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/RUSAEXP1EMB2026/repo11" alt="repo11" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/RUSAEXP1EMB2026/repo11" target="_blank">repo11</a></strong></sub>
-      <br />
-      <sub>📊 0 commits (0.0%)</sub>
-      <br />
-      <sub>🟨 JavaScript </sub>
-    </td>
-  </tr>
-</table>
-
+_No active projects in the last 30 days_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
