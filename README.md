@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Bogotá: 12°C
+# 🌍 Olá! Dia ensolarado☀️
+📍 São Paulo: 14°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-この30日間で、なんと181件ものコミットを達成しましたね！素晴らしい集中力と生産性です！🚀
+直近30日間で181件ものコミット、素晴らしいペースですね！👏 主に複数のリポジトリで活発な開発が進められました。
 
-特に、**OpenShelf**では大規模なマージやリリースが多数行われ、プロダクトの安定稼働に貢献しました。セキュリティ脆弱性の修正や、タグの重複排除ロジックをO(N^2)からO(N)に大幅に改善するなど、パフォーマンス向上にも大きく貢献していますね！👏 テストカバレッジの拡充や依存関係のアップデートも着実に進め、基盤を強化しています。
+**OpenShelf**では、実に多くのリリース対応（#1001, #1003, #1022, #981のマージなど）やブランチマージをこなしつつ、セキュリティ脆弱性の修正（`Fix security vulnerabilities`）、タグの重複排除ロジックのパフォーマンス最適化（`perf: optimize tags de-duplication loop`）⚡、不足していたコレクションフィードのテスト追加（`test: cover missing org collection feed`）、そしてUI/UX・アクセシビリティ向上（`palette-ux-slug-status-a11y`）と、非常に広範囲にわたる重要な改善を次々と実現しましたね！また、依存関係の定期的な更新（#1020, #996のマージ）も着実に実施されています。素晴らしい働きです！🌟
 
-また、**paper-tools**では、ドリルダウン機能の正規表現を最適化し、パフォーマンスを向上させました。`mergeAffiliations`関数のテストカバレッジを広げ、OAuth状態クッキーのセキュリティテストと修正も行い、品質とセキュリティの向上に尽力されました。🛡️
+**paper-tools**では、ドリルダウンの正規表現最適化（`Extract regexes to module constants`）でパフォーマンスを向上させつつ、`mergeAffiliations`のテストカバレッジを大幅に拡張（`test: expand mergeAffiliations coverage`）し、OAuth関連のクッキーセキュリティもしっかりと強化・テスト（`test: cover OAuth state cookie security`）されましたね。品質とセキュリティへの意識の高さが光ります！💡
 
-さらに、**otodoki3**では依存関係のアップデートを行い、プロジェクトを最新の状態に保つ重要な作業も抜かりありませんでした。
+**otodoki3**では、依存ライブラリ（`esbuild`）のアップデート（#237のマージ）を確実に行い、プロジェクトの健全性を維持していただきました。地道ながら大切な作業ですね！💪
 
-多岐にわたるプロジェクトで、機能強化、パフォーマンス改善、セキュリティ対策、テスト拡充、依存関係の管理と、どれも重要なタスクを精力的にこなされました。本当に素晴らしい活躍です！この調子で、これからも期待しています！✨
+この30日間で、多岐にわたる重要な貢献を重ねてこられました。今後のさらなるご活躍を期待しています！🎉
 
 _Total: 103 commits across 10 projects_
 
@@ -145,7 +145,7 @@ _Total: 103 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.6-publish">v1.5.6-publish</a> · 5 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.6-publish">v1.5.6-publish</a> · 6 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.6-publish -->
@@ -160,7 +160,7 @@ _Total: 103 commits across 10 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.6">v1.5.6</a> · 5 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.6">v1.5.6</a> · 6 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.6 -->
