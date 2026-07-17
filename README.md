@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy today☁️
-📍 Toronto: 21°C
+# 🌍 ¡Hola! Está lloviendo☔
+📍 Buenos Aires: 17°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で181件ものコミット、素晴らしい活躍でした！✨
+直近30日間で合計181ものコミット、素晴らしい活動量ですね！✨
 
-特に**OpenShelf**では、頻繁な`staging`から`main`へのリリース（複数回のプルリクエストとして確認できますね！）によって、多くの新機能や改善が安定してデプロイされていることが伺えます。また、npm依存関係のセキュリティ脆弱性修正や、タグの重複除去ロジックをO(N^2)からO(N)へ改善するなど、セキュリティとパフォーマンスの両面で重要な最適化を実現しています。さらに、不足していたコレクションフィードのテストカバーや、不要な生成ファイルの削除、依存関係の定期的な更新も忘れずに行っていましたね。機能ブランチのマージも多数見られ、活発な開発が印象的です。
+主な活動は「OpenShelf」「paper-tools」「otodoki3」の3つのリポジトリに集中していました。
 
-**paper-tools**では、`mergeAffiliations`やOAuthステートクッキーのセキュリティに関するテストカバレッジを広範に拡大し、システムの堅牢性を高める素晴らしい取り組みがありました。加えて、ドリルダウンの正規表現をモジュール定数に抽出するパフォーマンス改善も実施されています。
+**OpenShelf**では、大規模なコードクリーンアップ🧹やnpm依存関係のセキュリティ脆弱性対応、さらにはタグの重複排除処理をO(N^2)からO(N)へ最適化するパフォーマンス改善⚡️など、多岐にわたる重要な作業を精力的に進められました。多くのリリース🚀マージも行われ、システムの安定稼働に大きく貢献していますね！
 
-**otodoki3**でも、Dependabotによるesbuildのバージョンアップなど、依存関係の更新をしっかりと行っていましたね。
+**paper-tools**では、ドリルダウン機能の正規表現を最適化しパフォーマンスを向上させつつ、`mergeAffiliations`やOAuthステートクッキーのセキュリティ🛡️に関するテストカバレッジを徹底的に拡充しました。システムの堅牢性向上に繋がる素晴らしい取り組みです！
 
-多岐にわたるプロジェクトで、セキュリティ、パフォーマンス、テスト、そして頻繁なリリースと、非常に質の高い活動を展開されており、本当に素晴らしいです！今後のさらなる活躍も楽しみにしています！👏
+**otodoki3**では、`esbuild`の依存関係を更新し、プロジェクトの健全性を保っていますね。
 
-_Total: 84 commits across 10 projects_
+これらの活動を通じて、システムの品質、セキュリティ、パフォーマンス、そして保守性が大きく向上しました。日々のたゆまぬ努力に感謝いたします！この調子で頑張ってください！😊
+
+_Total: 158 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,31 +47,31 @@ _Total: 84 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 64 commits (76.2%)</sub>
+      <sub>📊 62 commits (39.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/jules-extension" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/jules-extension" alt="jules-extension" width="100%" />
+      <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/Audicle" alt="Audicle" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 20 commits (23.8%)</sub>
+      <sub>📊 36 commits (22.8%)</sub>
       <br />
-      <sub>🔷 TypeScript ⭐ 16</sub>
+      <sub>🔷 TypeScript </sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/RUSAEXP1EMB2026/repo11" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/RUSAEXP1EMB2026/repo11" alt="repo11" width="100%" />
+      <a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/github-user-summary" alt="github-user-summary" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/RUSAEXP1EMB2026/repo11" target="_blank">repo11</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 0 commits (0.0%)</sub>
+      <sub>📊 31 commits (19.6%)</sub>
       <br />
-      <sub>🟨 JavaScript </sub>
+      <sub>🔷 TypeScript </sub>
     </td>
   </tr>
 </table>
