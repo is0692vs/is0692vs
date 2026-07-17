@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Il pleut aujourd'hui☔
-📍 Lyon: 16°C
+# 🌍 Hello! Cloudy today☁️
+📍 Toronto: 21°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 6,491 installs | ⭐ 4.5/5 (2 ratings) | v1.5.6
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 6,496 installs | ⭐ 4.5/5 (2 ratings) | v1.5.6
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 15 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 64 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-06-17%22%2C%222026-06-18%22%2C%222026-06-19%22%2C%222026-06-20%22%2C%222026-06-21%22%2C%222026-06-22%22%2C%222026-06-23%22%2C%222026-06-24%22%2C%222026-06-25%22%2C%222026-06-26%22%2C%222026-06-27%22%2C%222026-06-28%22%2C%222026-06-29%22%2C%222026-06-30%22%2C%222026-07-01%22%2C%222026-07-02%22%2C%222026-07-03%22%2C%222026-07-04%22%2C%222026-07-05%22%2C%222026-07-06%22%2C%222026-07-07%22%2C%222026-07-08%22%2C%222026-07-09%22%2C%222026-07-10%22%2C%222026-07-11%22%2C%222026-07-12%22%2C%222026-07-13%22%2C%222026-07-14%22%2C%222026-07-15%22%2C%222026-07-16%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B6005%2C6021%2C6040%2C6070%2C6081%2C6103%2C6111%2C6123%2C6155%2C6167%2C6184%2C6202%2C6214%2C6235%2C6250%2C6268%2C6289%2C6303%2C6319%2C6334%2C6349%2C6366%2C6379%2C6397%2C6414%2C6425%2C6448%2C6464%2C6478%2C6491%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B61%2C61%2C62%2C62%2C62%2C62%2C62%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C64%2C64%2C64%2C64%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-06-18%22%2C%222026-06-19%22%2C%222026-06-20%22%2C%222026-06-21%22%2C%222026-06-22%22%2C%222026-06-23%22%2C%222026-06-24%22%2C%222026-06-25%22%2C%222026-06-26%22%2C%222026-06-27%22%2C%222026-06-28%22%2C%222026-06-29%22%2C%222026-06-30%22%2C%222026-07-01%22%2C%222026-07-02%22%2C%222026-07-03%22%2C%222026-07-04%22%2C%222026-07-05%22%2C%222026-07-06%22%2C%222026-07-07%22%2C%222026-07-08%22%2C%222026-07-09%22%2C%222026-07-10%22%2C%222026-07-11%22%2C%222026-07-12%22%2C%222026-07-13%22%2C%222026-07-14%22%2C%222026-07-15%22%2C%222026-07-16%22%2C%222026-07-17%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B6021%2C6040%2C6070%2C6081%2C6103%2C6111%2C6123%2C6155%2C6167%2C6184%2C6202%2C6214%2C6235%2C6250%2C6268%2C6289%2C6303%2C6319%2C6334%2C6349%2C6366%2C6379%2C6397%2C6414%2C6425%2C6448%2C6464%2C6478%2C6491%2C6496%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B61%2C62%2C62%2C62%2C62%2C62%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C64%2C64%2C64%2C64%2C64%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -21,7 +21,59 @@ _npm download statistics temporarily unavailable_
 <!-- active-projects:start -->
 ## 🔨 Active Projects (Last 30 Days)
 
-_No active projects in the last 30 days_
+### 🤖 gemini2.5flashによる直近30日の活動サマリー
+
+直近30日間の活動サマリー:
+直近30日間で181件ものコミット、素晴らしい活躍でした！✨
+
+特に**OpenShelf**では、頻繁な`staging`から`main`へのリリース（複数回のプルリクエストとして確認できますね！）によって、多くの新機能や改善が安定してデプロイされていることが伺えます。また、npm依存関係のセキュリティ脆弱性修正や、タグの重複除去ロジックをO(N^2)からO(N)へ改善するなど、セキュリティとパフォーマンスの両面で重要な最適化を実現しています。さらに、不足していたコレクションフィードのテストカバーや、不要な生成ファイルの削除、依存関係の定期的な更新も忘れずに行っていましたね。機能ブランチのマージも多数見られ、活発な開発が印象的です。
+
+**paper-tools**では、`mergeAffiliations`やOAuthステートクッキーのセキュリティに関するテストカバレッジを広範に拡大し、システムの堅牢性を高める素晴らしい取り組みがありました。加えて、ドリルダウンの正規表現をモジュール定数に抽出するパフォーマンス改善も実施されています。
+
+**otodoki3**でも、Dependabotによるesbuildのバージョンアップなど、依存関係の更新をしっかりと行っていましたね。
+
+多岐にわたるプロジェクトで、セキュリティ、パフォーマンス、テスト、そして頻繁なリリースと、非常に質の高い活動を展開されており、本当に素晴らしいです！今後のさらなる活躍も楽しみにしています！👏
+
+_Total: 84 commits across 10 projects_
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/OpenShelf" alt="OpenShelf" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
+      <br />
+      <sub>📊 64 commits (76.2%)</sub>
+      <br />
+      <sub>🔷 TypeScript </sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Hiroki-org/jules-extension" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/jules-extension" alt="jules-extension" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
+      <br />
+      <sub>📊 20 commits (23.8%)</sub>
+      <br />
+      <sub>🔷 TypeScript ⭐ 16</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/RUSAEXP1EMB2026/repo11" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/RUSAEXP1EMB2026/repo11" alt="repo11" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/RUSAEXP1EMB2026/repo11" target="_blank">repo11</a></strong></sub>
+      <br />
+      <sub>📊 0 commits (0.0%)</sub>
+      <br />
+      <sub>🟨 JavaScript </sub>
+    </td>
+  </tr>
+</table>
+
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
@@ -74,15 +126,15 @@ _No active projects in the last 30 days_
       <sub>NJPW</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/7DMavQOyLksY3TB1t0mTio" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273f9410f37953e5991e20abc8d" alt="MACHINEGUN - 2021.11.1 Live at Zepp DiverCity TOKYO" width="120" />
+      <a href="https://open.spotify.com/track/6xGoSgYLZ1oSBmCdVlqxnn" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2733f6dce5de31012bca9526a60" alt="カナリヤ鳴く空" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>MACHINEGUN - 2021.11.1 Live at Zepp DiverCity TOKYO</sub>
+      <sub>カナリヤ鳴く空</sub>
       <br />
-      <sub>THE ORAL CIGARETTES</sub>
+      <sub>Tokyo Ska Paradise Orchestra</sub>
     </td>
   </tr>
 </table>
