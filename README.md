@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Paris: 25°C
+# 🌍 Hello! Lovely sunny weather☀️
+📍 London: 20°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 6,507 installs | ⭐ 4.5/5 (2 ratings) | v1.5.6
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 6,512 installs | ⭐ 4.5/5 (2 ratings) | v1.5.6
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 15 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 64 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-06-19%22%2C%222026-06-20%22%2C%222026-06-21%22%2C%222026-06-22%22%2C%222026-06-23%22%2C%222026-06-24%22%2C%222026-06-25%22%2C%222026-06-26%22%2C%222026-06-27%22%2C%222026-06-28%22%2C%222026-06-29%22%2C%222026-06-30%22%2C%222026-07-01%22%2C%222026-07-02%22%2C%222026-07-03%22%2C%222026-07-04%22%2C%222026-07-05%22%2C%222026-07-06%22%2C%222026-07-07%22%2C%222026-07-08%22%2C%222026-07-09%22%2C%222026-07-10%22%2C%222026-07-11%22%2C%222026-07-12%22%2C%222026-07-13%22%2C%222026-07-14%22%2C%222026-07-15%22%2C%222026-07-16%22%2C%222026-07-17%22%2C%222026-07-18%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B6040%2C6070%2C6081%2C6103%2C6111%2C6123%2C6155%2C6167%2C6184%2C6202%2C6214%2C6235%2C6250%2C6268%2C6289%2C6303%2C6319%2C6334%2C6349%2C6366%2C6379%2C6397%2C6414%2C6425%2C6448%2C6464%2C6478%2C6491%2C6507%2C6507%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B62%2C62%2C62%2C62%2C62%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C64%2C64%2C64%2C64%2C64%2C64%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-06-19%22%2C%222026-06-20%22%2C%222026-06-21%22%2C%222026-06-22%22%2C%222026-06-23%22%2C%222026-06-24%22%2C%222026-06-25%22%2C%222026-06-26%22%2C%222026-06-27%22%2C%222026-06-28%22%2C%222026-06-29%22%2C%222026-06-30%22%2C%222026-07-01%22%2C%222026-07-02%22%2C%222026-07-03%22%2C%222026-07-04%22%2C%222026-07-05%22%2C%222026-07-06%22%2C%222026-07-07%22%2C%222026-07-08%22%2C%222026-07-09%22%2C%222026-07-10%22%2C%222026-07-11%22%2C%222026-07-12%22%2C%222026-07-13%22%2C%222026-07-14%22%2C%222026-07-15%22%2C%222026-07-16%22%2C%222026-07-17%22%2C%222026-07-18%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B6040%2C6070%2C6081%2C6103%2C6111%2C6123%2C6155%2C6167%2C6184%2C6202%2C6214%2C6235%2C6250%2C6268%2C6289%2C6303%2C6319%2C6334%2C6349%2C6366%2C6379%2C6397%2C6414%2C6425%2C6448%2C6464%2C6478%2C6491%2C6507%2C6512%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B62%2C62%2C62%2C62%2C62%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C64%2C64%2C64%2C64%2C64%2C64%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,17 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間でなんと163ものコミット！素晴らしい活動量ですね！✨
+直近30日間で、なんと164ものコミットを重ねられましたね！素晴らしい活動量です🚀
 
-特に、**OpenShelf** では大規模なブランチマージや複数回の本番リリースを成功させました。依存関係の更新やテストカバレッジの強化はもちろん、UI/UX改善やアクセシビリティ対応 (ARIAロールの追加など) にも力を入れ、ユーザー体験向上に貢献していますね。🎨
+**OpenShelf** では、大規模なコードクリーンアップやブランチのマージを精力的に行い、システムの安定稼働に大きく貢献されました。特にリリース関連の対応や、アクセシビリティ（A11y）の改善、依存関係の定期的な更新、さらにはテストカバレッジの拡充まで、多岐にわたるメンテナンス作業を着実に進められましたね！🎨🧪
 
-また、**paper-tools** では、パフォーマンス最適化のために正規表現をモジュール定数として抽出する改善を行いました。さらに、OAuthやクッキーのセキュリティテストを大幅に拡充し、Notion OAuthのホストヘッダーインジェクション対策など、セキュリティ強化にも多大な貢献をされています。🔒 堅牢なシステム構築へのこだわりが伺えます！
+**paper-tools** では、セキュリティ対策に重点を置いた活動が目立ちます。OAuth関連のクッキーセキュリティテスト強化や、Notion OAuthのホストヘッダーインジェクション対策といった重要な修正に尽力されました。加えて、正規表現の最適化によるパフォーマンス向上や、既存機能のテストカバレッジ拡張も行い、品質向上に貢献されています。🔒⚡️
 
-**otodoki3** では、esbuildなどの依存関係を最新に保ち、プロジェクトの健全性を維持していますね。🚀
+そして **otodoki3** では、esbuildのバージョンアップなど、依存関係の更新を行い、プロジェクトの健全性を保ちました。🛠️
 
-多岐にわたるリポジトリで、リリースから品質向上、セキュリティ強化、そしてパフォーマンス改善まで、本当に素晴らしい貢献です！この調子でこれからも頑張ってください！💪
+複数のプロジェクトで幅広く活躍されており、その貢献度は計り知れません。本当にお疲れ様でした！✨
 
-_Total: 160 commits across 10 projects_
+_Total: 161 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ _Total: 160 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 64 commits (40.0%)</sub>
+      <sub>📊 64 commits (39.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +56,7 @@ _Total: 160 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 36 commits (22.5%)</sub>
+      <sub>📊 36 commits (22.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -67,7 +67,7 @@ _Total: 160 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 31 commits (19.4%)</sub>
+      <sub>📊 32 commits (19.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
