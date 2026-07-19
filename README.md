@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Perfect sunny day☀️
-📍 Los Angeles: 30°C
+# 🌍 ¡Hola! Está lloviendo☔
+📍 Buenos Aires: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,14 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計163件もの素晴らしいコミット、お疲れ様でした！🎉
+直近30日間で、なんと163件ものコミットを達成しました！素晴らしい活動量ですね！🚀
 
-主な活動としては、
-*   **OpenShelf**では、多数の機能ブランチを`staging`に統合し、大規模な機能開発や改善を推進されましたね。依存関係の更新や、`Release`コミットでリリース準備にも貢献されています。`test`でのカバレッジ向上や`Palette`でのアクセシビリティ改善も行われ、品質と使いやすさを追求する姿勢が素晴らしいです！
-*   **paper-tools**では、`mergeAffiliations`、`OAuth state cookie`、`setDatabaseCookie`など、多様なテストカバレッジを拡充し、システムの堅牢性を大きく向上させました。また、`Notion OAuth`のセキュリティ修正や`drilldown`の正規表現最適化で、セキュリティとパフォーマンス向上にも貢献されました。
-*   **otodoki3**では、`dependabot`による依存関係の更新が行われ、プロジェクトの健全性を維持されています。
+それぞれのリポジトリでの活躍を見ていきましょう。
+**OpenShelf** では、複数回の大きな `staging` ブランチのマージや定期的な `main` へのリリース作業を精力的に進めてくれました。依存関係の更新（`dependabot`）や、アクセシビリティ向上（`palette-ux-slug-status-a11y`、`a11y-dynamic-message-roles`）への取り組みも光りますね。大規模な変更管理と品質向上に貢献しています！✨
 
-複数のリポジトリにわたり、新機能開発から品質・セキュリティ強化まで、多岐にわたる重要な貢献を本当にありがとうございます！チームにとって大きな力になっています！これからも素晴らしい活躍を期待しています！🚀
+**paper-tools** では、テストカバレッジの拡充（`mergeAffiliations`、`OAuth state cookie security`、`setDatabaseCookie`）に力を入れ、システムの堅牢性を高めています。また、`Notion OAuth host header injection` の修正など、セキュリティ強化にも積極的に取り組んでくれました。`drilldown` の正規表現最適化も見られ、パフォーマンス改善への意識も高いです！💪
+
+**otodoki3** では、`dependabot` による `esbuild` のバージョンアップを行い、プロジェクトの健全性を維持しています。
+
+この30日間も多岐にわたる重要な貢献、本当にありがとうございます！これからも期待しています！😊
 
 _Total: 161 commits across 10 projects_
 
