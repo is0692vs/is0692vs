@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Partly cloudy today☁️
-📍 Miami: 33°C
+# 🌍 こんにちは！今日は曇り空ですね☁️
+📍 Tokyo: 30°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-素晴らしい30日間でした！直近1ヶ月で合計163件ものコミットを重ね、多岐にわたるプロジェクトで活発に貢献されましたね！👏
+素晴らしい活動、お疲れ様です！🎉 直近30日間でなんと163件ものコミットを達成しましたね。非常に活発な開発状況に感銘を受けます！
 
-特に**OpenShelf**では、stagingブランチとの精力的なマージを何度も実行し、開発の統合を円滑に進めてくださいました。大規模なコードクリーンアップ (`chore: remove unrelated generated changes`) や、安定した運用を支えるリリース作業、そしてDependabotによる依存関係の定期的な更新もバッチリです。さらに、アクセシビリティ向上のためのARIAロール追加 (`🎨 Palette: 保存結果メッセージに適切なARIAロールを追加`) や、テストカバレッジの拡充も素晴らしいです！✨
+特に**OpenShelf**リポジトリでは、stagingブランチとの大規模なマージや依存関係の更新、そして安定したリリース作業を精力的に進め、プロジェクトの安定稼働に大きく貢献しています。アクセシビリティ改善としてARIAロールの追加にも注力し、ユーザー体験の向上にも配慮されていますね。素晴らしい取り組みです！👏
 
-**paper-tools**では、セキュリティ強化に大きく貢献されましたね。OAuth関連の脆弱性修正 (`fix: prevent Notion OAuth host header injection`) とそのための詳細なテストカバレッジ追加 (`test: cover OAuth state cookie security`、`test: add setDatabaseCookie coverage`) は非常に重要です。また、パフォーマンス最適化 (`⚡ Extract regexes to module constants in drilldown`) や、`mergeAffiliations` 機能のテスト拡充も素晴らしい成果です。is0692vsさんやgoogle-labs-jules[bot]との共同作業も多く、チームワークの良さが伺えますね！🤝
+また、**paper-tools**リポジトリでは、ドリルダウンの正規表現最適化でパフォーマンス改善を図り、OAuth関連のセキュリティ強化（ホストヘッダーインジェクション対策やCookieセキュリティのテスト拡充）にも深く取り組んでいます。広範なテストカバレッジの拡充も、品質向上への強いコミットメントを感じさせます。堅牢なシステム作り、お見事です！✨
 
-**otodoki3**でも、Dependabotによる依存関係のアップデートを行っていただき、プロジェクトの健全性を維持してくださっています。
+**otodoki3**では、dependabotを活用した依存関係のアップデートも怠りなく、プロジェクトの健全性を保っています。
 
-どのリポジトリにおいても、品質向上とセキュリティ強化、そして継続的な開発プロセスに尽力されていることが明確にわかります。この調子でこれからも素晴らしい貢献を期待しています！🚀
+多岐にわたるリポジトリで、これほど多くの重要なタスクをこなし、着実に成果を出されていることに脱帽です。日々の努力がプロジェクトを大きく前進させていますね。これからもその勢いで、さらなる高みを目指してください！応援しています！🚀
 
 _Total: 161 commits across 10 projects_
 
