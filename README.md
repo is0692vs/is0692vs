@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
 # 🌍 Bonjour! Belle journée ensoleillée☀️
-📍 Lyon: 23°C
+📍 Lyon: 25°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 6,546 installs | ⭐ 4.5/5 (2 ratings) | v1.5.6
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 6,558 installs | ⭐ 4.5/5 (2 ratings) | v1.5.6
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 15 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 65 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-06-23%22%2C%222026-06-24%22%2C%222026-06-25%22%2C%222026-06-26%22%2C%222026-06-27%22%2C%222026-06-28%22%2C%222026-06-29%22%2C%222026-06-30%22%2C%222026-07-01%22%2C%222026-07-02%22%2C%222026-07-03%22%2C%222026-07-04%22%2C%222026-07-05%22%2C%222026-07-06%22%2C%222026-07-07%22%2C%222026-07-08%22%2C%222026-07-09%22%2C%222026-07-10%22%2C%222026-07-11%22%2C%222026-07-12%22%2C%222026-07-13%22%2C%222026-07-14%22%2C%222026-07-15%22%2C%222026-07-16%22%2C%222026-07-17%22%2C%222026-07-18%22%2C%222026-07-19%22%2C%222026-07-20%22%2C%222026-07-21%22%2C%222026-07-22%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B6111%2C6123%2C6155%2C6167%2C6184%2C6202%2C6214%2C6235%2C6250%2C6268%2C6289%2C6303%2C6319%2C6334%2C6349%2C6366%2C6379%2C6397%2C6414%2C6425%2C6448%2C6464%2C6478%2C6491%2C6507%2C6517%2C6524%2C6533%2C6546%2C6546%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B62%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C64%2C64%2C64%2C64%2C64%2C64%2C64%2C65%2C65%2C65%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-06-23%22%2C%222026-06-24%22%2C%222026-06-25%22%2C%222026-06-26%22%2C%222026-06-27%22%2C%222026-06-28%22%2C%222026-06-29%22%2C%222026-06-30%22%2C%222026-07-01%22%2C%222026-07-02%22%2C%222026-07-03%22%2C%222026-07-04%22%2C%222026-07-05%22%2C%222026-07-06%22%2C%222026-07-07%22%2C%222026-07-08%22%2C%222026-07-09%22%2C%222026-07-10%22%2C%222026-07-11%22%2C%222026-07-12%22%2C%222026-07-13%22%2C%222026-07-14%22%2C%222026-07-15%22%2C%222026-07-16%22%2C%222026-07-17%22%2C%222026-07-18%22%2C%222026-07-19%22%2C%222026-07-20%22%2C%222026-07-21%22%2C%222026-07-22%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B6111%2C6123%2C6155%2C6167%2C6184%2C6202%2C6214%2C6235%2C6250%2C6268%2C6289%2C6303%2C6319%2C6334%2C6349%2C6366%2C6379%2C6397%2C6414%2C6425%2C6448%2C6464%2C6478%2C6491%2C6507%2C6517%2C6524%2C6533%2C6546%2C6558%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B62%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C64%2C64%2C64%2C64%2C64%2C64%2C64%2C65%2C65%2C65%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-素晴らしい30日間でした！👏 直近30日間で合計169件のコミットをこなし、精力的に活動！
+直近30日間で、なんと169件ものコミット、素晴らしい活動ぶりですね！🚀✨
 
-特に活躍が目立ったのは以下の通りです。
+特に活発だったのは以下のリポジトリです。
 
-*   **OpenShelf**: 大規模なクリーンアップでコードベースを整理し安定性を向上。`staging`ブランチマージを通じた新機能統合（パフォーマンス・UX改善）、アクセシビリティ対応（ARIAロール追加）、テスト拡充に貢献。リリースや依存関係の更新も着実にこなし、健全な推進を支えています。🚀
-*   **paper-tools**: セキュリティ強化に注力し、OAuth関連のホストヘッダーインジェクション対策やクッキーセキュリティテストを徹底。`mergeAffiliations`や`setDatabaseCookie`といった重要機能のテストカバレッジも向上させ、品質と安全性を確保。正規表現の定数化によるパフォーマンス最適化も素晴らしいです！🛡️
-*   **otodoki3**: 依存関係の更新（esbuildなど）を通じて、ライブラリを最新の状態に保ち、プロジェクトの基盤を強化しました。🛠️
+*   **OpenShelf**: 大規模なブランチマージやリファクタリングが目立ちましたね。`staging` からの統合や自動生成コードのクリーンアップに加えて、リリースタスクも複数回実行されています。アクセシビリティ改善 (`Palette: 保存結果メッセージに適切なARIAロールを追加` 🎨) やフィード関連のテストカバレッジ向上、さらには依存関係の更新まで、多岐にわたる重要な貢献がありました。
+*   **paper-tools**: セキュリティ強化に力を入れていましたね！OAuth関連のクッキーセキュリティテスト追加 (`test: cover OAuth state cookie security` 🛡️) やNotion OAuthでのホストヘッダー注入防止修正 (`fix: prevent Notion OAuth host header injection`) は、システムの安全性を高める上で非常に重要です。また、正規表現の最適化によるパフォーマンス向上 (`⚡ Extract regexes to module constants in drilldown`) やアフィリエーション、データベースクッキーのテストカバレッジ拡大 (`test: add setDatabaseCookie coverage` 🧪) も着実に品質を高めています。
+*   **otodoki3**: `esbuild` のバージョンアップなど、依存関係の更新 (`dependabot` 関連) を着実に進めていましたね！
 
-これだけ多くの領域で貢献しているのは本当に素晴らしいことです。これからもこの勢いで、さらなる成果を楽しみにしています！🎉
+各リポジトリで多方面にわたり、プロダクトの安定性向上、機能強化、セキュリティ対策、そして開発効率向上に貢献されています。素晴らしいですね！今後の活躍も楽しみにしています！
 
 _Total: 167 commits across 10 projects_
 
