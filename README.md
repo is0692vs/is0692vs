@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Bit cloudy today☁️
-📍 Sydney: 12°C
+# 🌍 Hello! Foggy and cloudy☁️
+📍 San Francisco: 15°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと169件ものコミットがありましたね！素晴らしい活動量です👏
+直近30日間で**169件**ものコミット、お疲れ様です！✨大変活発な開発活動が行われましたね。
 
-特に注目すべきは、大規模なコードベースのメンテナンスと改善に尽力された点です。
+特に**OpenShelf** では、生成された変更のクリーンアップや複数ブランチのマージを通じて、大規模なコードベースの整理・リファクタリングを進められました。コレクションフィードのレイテンシー改善や、保存結果メッセージへの適切なARIAロール追加、トーストメッセージのアクセシビリティ向上にも貢献。Dependabotによる依存関係の更新や、ステージングからメインへのリリース作業も順調です。
 
-*   **OpenShelf**では、不要な生成コードの削除（`chore: remove unrelated generated changes`）といった大規模なクリーンアップを行い、プロジェクトの健全性を向上させました。また、依存関係の定期的な更新（`dependabot/...`）やリリース作業（`Release: staging -> main`）も着実に実施。コレクションフィードのテスト強化や、アクセシビリティ改善（`Palette: 保存結果メッセージに適切なARIAロールを追加`）にも貢献されましたね！
-*   **paper-tools**では、セキュリティ対策が目立ちました。Notion OAuthにおけるHost Header Injectionの修正（`fix: prevent Notion OAuth host header injection`）や、OAuth state cookie、データベースcookieのセキュリティテストカバレッジ拡充（`test: cover OAuth state cookie security`、`test: add setDatabaseCookie coverage`）は非常に重要です。加えて、正規表現の最適化によるパフォーマンス改善（`⚡ Extract regexes to module constants in drilldown`）も素晴らしいです！
-*   **otodoki3**でも、Dependabotによる依存関係のアップデート（`chore(deps): bump esbuild...`）を行い、プロジェクトの安定性を維持しています。
+**paper-tools** では、テストカバレッジの強化に重点を置かれました。`mergeAffiliations` や OAuthステートクッキー、データベースクッキーに関する堅牢なテストを追加し、セキュリティ品質を高められています。Notion OAuthにおけるホストヘッダーインジェクションの修正、正規表現のモジュール定数化によるパフォーマンス最適化も素晴らしいです。🛡️
 
-多岐にわたるリポジトリで、クリーンアップ、セキュリティ強化、テスト拡充、パフォーマンス改善と、着実に貢献されており、本当に頼もしいです！これからもこの調子で頑張りましょう！🚀
+また、**otodoki3** では、esbuildの依存関係アップデートを行いましたね。
+
+様々なプロジェクトで品質向上、セキュリティ強化、パフォーマンス最適化、そしてアクセシビリティ改善に多岐にわたる重要な貢献をされているのがよく分かります。この調子で頑張っていきましょう！🚀
 
 _Total: 167 commits across 10 projects_
 
