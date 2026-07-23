@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！くもってますね☁️
-📍 Fukuoka: 29°C
+# 🌍 Olá! Dia ensolarado☀️
+📍 Lisbon: 24°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 6,568 installs | ⭐ 4.5/5 (2 ratings) | v1.5.6
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 6,570 installs | ⭐ 4.5/5 (2 ratings) | v1.5.6
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 15 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 65 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-06-24%22%2C%222026-06-25%22%2C%222026-06-26%22%2C%222026-06-27%22%2C%222026-06-28%22%2C%222026-06-29%22%2C%222026-06-30%22%2C%222026-07-01%22%2C%222026-07-02%22%2C%222026-07-03%22%2C%222026-07-04%22%2C%222026-07-05%22%2C%222026-07-06%22%2C%222026-07-07%22%2C%222026-07-08%22%2C%222026-07-09%22%2C%222026-07-10%22%2C%222026-07-11%22%2C%222026-07-12%22%2C%222026-07-13%22%2C%222026-07-14%22%2C%222026-07-15%22%2C%222026-07-16%22%2C%222026-07-17%22%2C%222026-07-18%22%2C%222026-07-19%22%2C%222026-07-20%22%2C%222026-07-21%22%2C%222026-07-22%22%2C%222026-07-23%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B6123%2C6155%2C6167%2C6184%2C6202%2C6214%2C6235%2C6250%2C6268%2C6289%2C6303%2C6319%2C6334%2C6349%2C6366%2C6379%2C6397%2C6414%2C6425%2C6448%2C6464%2C6478%2C6491%2C6507%2C6517%2C6524%2C6533%2C6546%2C6558%2C6568%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C64%2C64%2C64%2C64%2C64%2C64%2C64%2C65%2C65%2C65%2C65%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-06-24%22%2C%222026-06-25%22%2C%222026-06-26%22%2C%222026-06-27%22%2C%222026-06-28%22%2C%222026-06-29%22%2C%222026-06-30%22%2C%222026-07-01%22%2C%222026-07-02%22%2C%222026-07-03%22%2C%222026-07-04%22%2C%222026-07-05%22%2C%222026-07-06%22%2C%222026-07-07%22%2C%222026-07-08%22%2C%222026-07-09%22%2C%222026-07-10%22%2C%222026-07-11%22%2C%222026-07-12%22%2C%222026-07-13%22%2C%222026-07-14%22%2C%222026-07-15%22%2C%222026-07-16%22%2C%222026-07-17%22%2C%222026-07-18%22%2C%222026-07-19%22%2C%222026-07-20%22%2C%222026-07-21%22%2C%222026-07-22%22%2C%222026-07-23%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B6123%2C6155%2C6167%2C6184%2C6202%2C6214%2C6235%2C6250%2C6268%2C6289%2C6303%2C6319%2C6334%2C6349%2C6366%2C6379%2C6397%2C6414%2C6425%2C6448%2C6464%2C6478%2C6491%2C6507%2C6517%2C6524%2C6533%2C6546%2C6558%2C6570%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C64%2C64%2C64%2C64%2C64%2C64%2C64%2C65%2C65%2C65%2C65%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,17 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で169件ものコミット、お疲れ様です！素晴らしい活動量ですね！✨
+素晴らしい1ヶ月でしたね！👏 直近30日間で合計169件ものコミットを重ね、非常に活発な開発活動を展開されています！
 
-特に変更行数の多かった上位コミットを拝見すると、多岐にわたるプロジェクトへの貢献が見られます。
+**OpenShelf**では、stagingブランチとの大規模なマージやリリース作業を複数回行い、コードベースの統合と安定化に大きく貢献されました。不要な変更のクリーンアップや、コレクションフィードのテスト追加、依存関係の更新も着実に実施。アクセシビリティ（ARIAロール追加）改善にも積極的に取り組み、ユーザー体験向上にも貢献されています🎨。
 
-**[OpenShelf]** では、`chore: remove unrelated generated changes`で大規模なコードクリーンアップを実施され、非常に多くの変更を伴う整理をされましたね！また、ステージングからのマージやリリース関連のコミットが多く、プロダクトの安定的なリリースフローに貢献されています。さらに、`test`コミットでコレクションフィードのテスト範囲を広げたり、`Palette`やトーストメッセージのアクセシビリティ向上に取り組んだりと、ユーザー体験の改善にも力を入れられました。依存関係の更新も継続的に行われていますね。
+**paper-tools**では、ドリルダウンの正規表現最適化によるパフォーマンス改善⚡や、OAuth関連のクッキーセキュリティ、Notion OAuthのホストヘッダーインジェクション対策といった重要なセキュリティ修正とそのテスト拡充に力を入れられました。堅牢性の向上に繋がる素晴らしい取り組みです。
 
-**[paper-tools]** では、`test: expand mergeAffiliations coverage`やOAuth関連のセキュリティテスト（`test: cover OAuth state cookie security`、`test: add setDatabaseCookie coverage`）を拡充し、品質とセキュリティの向上に尽力されました。`fix: prevent Notion OAuth host header injection`のようなセキュリティ修正も素晴らしいです。また、`⚡ Extract regexes to module constants in drilldown`でパフォーマンス改善にも貢献されましたね！
+**otodoki3**でも依存関係の更新を行い、プロジェクトの健全性を維持されています。
 
-**[otodoki3]** では、`dependabot`による依存関係の定期的な更新を通じて、プロジェクトを最新の状態に保つ重要な役割を果たされました。
-
-全体を通して、コード品質の向上、セキュリティ強化、そしてユーザー体験の改善、さらには安定的なリリース運用に大きく貢献されています。今後のご活躍も楽しみにしています！🚀
+機能開発から基盤整備、セキュリティ強化まで、多岐にわたる貢献、本当に素晴らしいです！これからもこの勢いで、さらなる活躍を期待しています！🚀
 
 _Total: 167 commits across 10 projects_
 
