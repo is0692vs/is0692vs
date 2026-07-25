@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！曇ってるね☁️
-📍 Hiroshima: 27°C
+# 🌍 Ciao! Giornata nuvolosa☁️
+📍 Rome: 26°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計161件のコミット、素晴らしいですね！🎉 多くのプロジェクトで活発に貢献されています。
+今期間、直近30日間でなんと161件ものコミット、素晴らしい活動量でしたね！👏
 
-特に**OpenShelf**では、大規模なブランチ統合やステージングからのリリースを複数回実施されましたね。🎨 Palette関連ではキーボードナビゲーションのフォーカスリング追加や保存結果メッセージへの適切なARIAロール追加など、アクセシビリティとUI/UXの向上に尽力されました。テストカバレッジの拡充や依存関係の更新も着実に進められています。
+[OpenShelf]では、大量の変更を伴うブランチのマージや不要なコードのクリーンアップに積極的に取り組みました。テストカバレッジの向上や、キーボードナビゲーションのフォーカスリング追加、ARIAロールの適切な設定など、UI/UX改善とアクセシビリティ対応でユーザー体験を大きく向上させていますね🎨。また、依存関係の更新やリリース作業も着実にこなしています。
 
-**paper-tools**では、セキュリティ関連の修正とテスト強化が目立ちます。OAuth関連のクッキーセキュリティテストやNotion OAuthのホストヘッダーインジェクション対策など、システムの堅牢性向上に大きく貢献されました。⚡️ ドリルダウンの正規表現最適化によるパフォーマンス改善や、affiliationの結合、データベースクッキーに関するテストカバレッジ向上も素晴らしいです。
+[paper-tools]では、OAuth関連のセキュリティテストを徹底的に強化し、ホストヘッダーインジェクションの対策など、堅牢なシステム構築に貢献されています🔒。さらに、正規表現の定数化によるパフォーマンス最適化や、`mergeAffiliations`や`setDatabaseCookie`に関する詳細なテスト追加で、コード品質と安定性を高めています🧪。
 
-**otodoki3**では、esbuildのバージョンアップを含む依存関係のアップデート作業を進められました。
+[otodoki3]では、esbuildの依存関係を更新し、プロジェクトを最新の状態に保つ努力が見られます。
 
-多岐にわたるプロジェクトで、品質とセキュリティ向上に大きく貢献されていますね！この調子で頑張ってください！🚀
+各リポジトリで多岐にわたる重要な作業を精力的に進めており、チーム全体の生産性向上と品質維持に大きく貢献しています。これからもこの調子で頑張っていきましょう！🚀
 
-_Total: 152 commits across 10 projects_
+_Total: 154 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ _Total: 152 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 74 commits (48.7%)</sub>
+      <sub>📊 74 commits (48.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +56,7 @@ _Total: 152 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 30 commits (19.7%)</sub>
+      <sub>📊 30 commits (19.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -67,7 +67,7 @@ _Total: 152 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 23 commits (15.1%)</sub>
+      <sub>📊 23 commits (14.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
