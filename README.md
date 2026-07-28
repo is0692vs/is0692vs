@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Partly cloudy today☁️
-📍 Miami: 25°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Bogotá: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 6,633 installs | ⭐ 4.5/5 (2 ratings) | v1.5.6
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 6,639 installs | ⭐ 4.5/5 (2 ratings) | v1.5.7
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 15 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 65 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-06-29%22%2C%222026-06-30%22%2C%222026-07-01%22%2C%222026-07-02%22%2C%222026-07-03%22%2C%222026-07-04%22%2C%222026-07-05%22%2C%222026-07-06%22%2C%222026-07-07%22%2C%222026-07-08%22%2C%222026-07-09%22%2C%222026-07-10%22%2C%222026-07-11%22%2C%222026-07-12%22%2C%222026-07-13%22%2C%222026-07-14%22%2C%222026-07-15%22%2C%222026-07-16%22%2C%222026-07-17%22%2C%222026-07-18%22%2C%222026-07-19%22%2C%222026-07-20%22%2C%222026-07-21%22%2C%222026-07-22%22%2C%222026-07-23%22%2C%222026-07-24%22%2C%222026-07-25%22%2C%222026-07-26%22%2C%222026-07-27%22%2C%222026-07-28%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B6214%2C6235%2C6250%2C6268%2C6289%2C6303%2C6319%2C6334%2C6349%2C6366%2C6379%2C6397%2C6414%2C6425%2C6448%2C6464%2C6478%2C6491%2C6507%2C6517%2C6524%2C6533%2C6546%2C6558%2C6573%2C6583%2C6600%2C6616%2C6624%2C6633%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C64%2C64%2C64%2C64%2C64%2C64%2C64%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-06-29%22%2C%222026-06-30%22%2C%222026-07-01%22%2C%222026-07-02%22%2C%222026-07-03%22%2C%222026-07-04%22%2C%222026-07-05%22%2C%222026-07-06%22%2C%222026-07-07%22%2C%222026-07-08%22%2C%222026-07-09%22%2C%222026-07-10%22%2C%222026-07-11%22%2C%222026-07-12%22%2C%222026-07-13%22%2C%222026-07-14%22%2C%222026-07-15%22%2C%222026-07-16%22%2C%222026-07-17%22%2C%222026-07-18%22%2C%222026-07-19%22%2C%222026-07-20%22%2C%222026-07-21%22%2C%222026-07-22%22%2C%222026-07-23%22%2C%222026-07-24%22%2C%222026-07-25%22%2C%222026-07-26%22%2C%222026-07-27%22%2C%222026-07-28%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B6214%2C6235%2C6250%2C6268%2C6289%2C6303%2C6319%2C6334%2C6349%2C6366%2C6379%2C6397%2C6414%2C6425%2C6448%2C6464%2C6478%2C6491%2C6507%2C6517%2C6524%2C6533%2C6546%2C6558%2C6573%2C6583%2C6600%2C6616%2C6624%2C6639%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C64%2C64%2C64%2C64%2C64%2C64%2C64%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,17 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計171件ものコミット、素晴らしい活動量でしたね！👏
+直近30日間で**178コミット**と、素晴らしい活動量でしたね！👏
 
-特に`OpenShelf`では、大量のコード調整やマージ作業に加え、セキュリティ脆弱性の修正、アクセシビリティ向上のためのキーボードナビゲーションやARIAロール追加といったUI/UX改善に注力されました。テストの拡充や、定期的なリリース管理、依存関係の更新も着実に実施されていますね！
+**OpenShelf**では、まず大量の変更を伴うブランチのマージや不要な生成ファイルのクリーンアップを行い、コードベースの健全性を保つことに尽力されました。また、高セキュリティの依存関係アラートを解消し、プロジェクトの安全性を高めていますね。さらに、🎨キーボードナビゲーションのフォーカスリング追加や保存結果メッセージへのARIAロール付与など、アクセシビリティとユーザー体験の向上にも大きく貢献されました。テストの追加や依存関係のアップデートも着実に行われ、品質維持への意識の高さがうかがえます！
 
-`paper-tools`では、OAuth関連のホストヘッダーインジェクション対策などセキュリティ強化を行い、それらの変更を手厚いテストでカバーされました。また、正規表現の最適化によるパフォーマンス向上も素晴らしい成果です！⚡️
+**paper-tools**では、セキュリティ対策に重点を置いた活動が目立ちました。OAuth関連のクッキーセキュリティ強化やNotion OAuthにおけるホストヘッダーインジェクション防止など、重要なセキュリティ修正を複数実施されました。⚡️正規表現のモジュール定数化によるパフォーマンス最適化も素晴らしいですね！加えて、`mergeAffiliations`や各種クッキー設定に関するテストカバレッジの拡充も行われ、システムの堅牢性向上に大きく貢献されています。
 
-そして`otodoki3`では、依存関係のアップデートを通じてプロジェクトの健全性を保つ活動をしていただきました。
+**otodoki3**では、`esbuild`を含む依存関係のアップデートを進め、プロジェクトの最新性と安定性を維持されました。
 
-多岐にわたるプロジェクトで、機能改善、セキュリティ強化、品質向上、そして基盤のメンテナンスと、本当に素晴らしい貢献をありがとうございます！この調子でこれからも頑張っていきましょう！💪✨
+多岐にわたるリポジトリで、セキュリティ強化、アクセシビリティ改善、パフォーマンス向上、そして継続的な品質保証とメンテナンスに献身的に取り組んでおり、その努力が各プロジェクトの進化と安定に繋がっています。今月も本当にお疲れ様でした！これからも期待しています！🚀
 
-_Total: 175 commits across 10 projects_
+_Total: 178 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ _Total: 175 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 82 commits (46.9%)</sub>
+      <sub>📊 82 commits (46.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +56,7 @@ _Total: 175 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 31 commits (17.7%)</sub>
+      <sub>📊 31 commits (17.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -67,7 +67,7 @@ _Total: 175 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 24 commits (13.7%)</sub>
+      <sub>📊 25 commits (14.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -84,6 +84,36 @@ _Error fetching tracks. Please try again later._
 
 <!-- github-releases:start -->
 ## 🚀 Recent Releases
+
+<details>
+<summary>
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7">v1.5.7</a> · Today
+</summary>
+
+<!-- Release notes generated using configuration in .github/release.yml at v1.5.7 -->
+## What's Changed
+### ✨ Features
+* 🎨 Palette: コピーボタンのツールチップとARIAラベルの同期 by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/723
+### 📦 Dependencies
+### 🔧 Other Changes
+
+[View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7)
+</details>
+
+<details>
+<summary>
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7-publish">v1.5.7-publish</a> · Today
+</summary>
+
+<!-- Release notes generated using configuration in .github/release.yml at v1.5.7-publish -->
+## What's Changed
+### ✨ Features
+* 🎨 Palette: コピーボタンのツールチップとARIAラベルの同期 by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/723
+### 📦 Dependencies
+### 🔧 Other Changes
+
+[View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7-publish)
+</details>
 
 <details>
 <summary>
@@ -127,35 +157,6 @@ _Error fetching tracks. Please try again later._
 ### 🐛 Bug Fixes
 
 [View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.5-publish)
-</details>
-
-<details>
-<summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.5">v1.5.5</a> · Jun 11, 2026
-</summary>
-
-<!-- Release notes generated using configuration in .github/release.yml at v1.5.5 -->
-## What's Changed
-### ✨ Features
-* 🎨 Palette: [UX improvement] セッションラベルにツールチップを追加し、省略されたテキストを確認可能にする by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/630
-### 🐛 Bug Fixes
-### 📦 Dependencies
-
-[View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.5)
-</details>
-
-<details>
-<summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.4-publish">v1.5.4-publish</a> · May 28, 2026
-</summary>
-
-<!-- Release notes generated using configuration in .github/release.yml at v1.5.4-publish -->
-## What's Changed
-### ✨ Features
-* 🎨 Palette: sessionLabel の省略表示に対するツールチップと aria-label の追加 by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/616
-### 🐛 Bug Fixes
-
-[View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.4-publish)
 </details>
 <!-- github-releases:end -->
 
