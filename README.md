@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 안녕하세요! 오늘은 흐린 날씨네요☁️
-📍 Seoul: 26°C
+# 🌍 G'day! Beautiful sunny day☀️
+📍 Sydney: 14°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**合計178件**ものコミット、大変お疲れ様でした！📈 幅広いプロジェクトで精力的に活動され、素晴らしい成果を出されていますね！
+直近30日間で合計178件ものコミット、お疲れ様でした！素晴らしいペースですね！✨
 
-特に目立った活動としては、複数のリポジトリにわたる多岐にわたる貢献が見られます。
+特に**OpenShelf**では、大規模なブランチマージを複数こなしつつ、依存関係のセキュリティ対応や複数のリリース作業を進められました。さらに、キーボードナビゲーションのフォーカスリング追加やARIAロールの適用など、アクセシビリティとUI/UXの向上にも大きく貢献されましたね！👏
 
-**[OpenShelf]** では、大規模なブランチマージを何度も行い、コードベースの同期と安定化に貢献されました。セキュリティの高い依存関係の警告を解決し、システムの堅牢性を高めるとともに、「キーボードナビゲーションのフォーカスリング追加」や「保存結果メッセージに適切なARIAロールを追加」といったUI/UXの改善やアクセシビリティ強化にも力を入れられましたね。テストカバレッジの向上や不要なファイルのクリーンアップも素晴らしいです！✨
+**paper-tools**では、正規表現の最適化によるパフォーマンス改善に加え、OAuth認証におけるホストヘッダーインジェクション防止といった重要なセキュリティ修正に取り組まれました。それに伴い、OAuth状態クッキーやデータベースクッキーに関するテストカバレッジも広範に強化されており、堅牢性の向上に尽力されたことが伺えます。🔒
 
-**[paper-tools]** では、セキュリティ強化に大きく貢献されています。「Notion OAuthにおけるHost Header Injectionの防止」や「OAuth state cookieのセキュリティ対応」など、システムの安全性を高める重要な修正を実施しました。また、`mergeAffiliations`や`setDatabaseCookie`に関する堅牢なテストを追加し、コード品質の向上にも尽力。「`drilldown`での正規表現の最適化」ではパフォーマンス改善にも取り組まれました。🚀
+**otodoki3**では、依存関係の定期的な更新もきちんと実施されており、プロジェクトの健全性を保つ上で大切な作業ですね！🌱
 
-**[otodoki3]** では、重要な依存関係の更新を行いましたね。これもプロジェクトの健全な運用には不可欠な作業です。
+複数のリポジトリにわたり、品質向上、セキュリティ強化、そして保守性に深く貢献された30日間でした。今後のさらなるご活躍を楽しみにしています！💪
 
-セキュリティ、アクセシビリティ、パフォーマンス、品質向上と、多方面からシステムを強化する活動、本当に素晴らしいです！これからのさらなる活躍も期待しています！😊
-
-_Total: 160 commits across 10 projects_
+_Total: 159 commits across 10 projects_
 
 <table>
   <tr>
@@ -47,7 +45,7 @@ _Total: 160 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 70 commits (43.8%)</sub>
+      <sub>📊 70 commits (44.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,7 +56,7 @@ _Total: 160 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 30 commits (18.8%)</sub>
+      <sub>📊 30 commits (18.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -69,7 +67,7 @@ _Total: 160 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 24 commits (15.0%)</sub>
+      <sub>📊 24 commits (15.1%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 18</sub>
     </td>
