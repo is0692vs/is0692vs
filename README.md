@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hallo! Bewölkt heute☁️
-📍 Berlin: 28°C
+# 🌍 Hello! Rather cloudy today☁️
+📍 London: 22°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で126件ものコミット、素晴らしい活躍ですね！🚀
+この30日間で合計126件ものコミット、素晴らしい活躍でしたね！🚀
 
-**OpenShelf**では、高重度な依存関係のセキュリティ修正やステージングからメインへの頻繁なリリース作業で、システムの安定稼働に大きく貢献しました。🎨キーボードナビゲーションのフォーカスリング追加や適切なARIAロールの導入といったアクセシビリティ改善にも注力し、より使いやすいサービスを目指していますね！🧪UserPageClientコンポーネントのテスト追加や、開発依存関係の更新も頼もしいです。
+特に**OpenShelf**では、リリース作業を複数回実施し、高セキュリティの依存関係の解消、キーボードナビゲーションのアクセシビリティ向上（フォーカスリング、ARIAロール）🎨、UserPageClientコンポーネントのテスト追加🧪、開発依存関係の更新など、多岐にわたる改善をされています。
 
-**jules-extension**では、Node.js 20への要件更新を進め、技術スタックのモダン化に貢献しました。
+**jules-extension**では、Node.js 20の要件更新を行いましたね。環境整備もお疲れ様です！
 
-**paper-tools**では、Notion OAuthのHost Header Injection対策をはじめとするセキュリティ強化に取り組み、OAuth状態クッキーやsetDatabaseCookieのテストカバレッジを広げました。mergeAffiliationsの堅牢なユニットテスト追加も、品質向上に繋がっています！✨
+そして**paper-tools**では、`mergeAffiliations`やOAuth関連のcookieセキュリティに関するテストカバレッジを広げ、Notion OAuthのホストヘッダーインジェクションの修正を行うなど、品質とセキュリティ強化に大きく貢献されています。🛡️
 
-多岐にわたる活躍、お見事です！これからも期待しています！
+素晴らしい仕事ぶりです！この調子で、これからもチームを力強く牽引していってくださいね！💪
 
 _Total: 126 commits across 10 projects_
 
