@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Paris: 29°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Lima: 24°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,7 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で126件ものコミット、素晴らしい活躍でしたね！✨
-
-特に**OpenShelf**では、複数回のリリース対応に加え、高優先度の依存関係の脆弱性修正に尽力されました。セキュリティ強化、お疲れ様です！🛡️ また、キーボードナビゲーションのフォーカスリング追加やARIAロールの改善など、UI/UXのアクセシビリティ向上にも大きく貢献。テストの追加や開発依存関係の更新も着実に進められましたね。
-
-**paper-tools**では、OAuth関連のセキュリティ強化とテスト拡充に注力されました。Notion OAuthのホストヘッダーインジェクション防止や、OAuthステートクッキー、データベースクッキーのセキュリティテスト追加など、システム全体の堅牢性を高める重要な作業でした。💪
-
-さらに**jules-extension**では、Node.js 20の要件追加により開発環境のモダン化を進めてくださいました。
-
-多岐にわたるプロジェクトで、セキュリティ、アクセシビリティ、品質向上、そして基盤整備と、広範囲にわたり貢献されていることがよく分かります。今後のさらなるご活躍も楽しみにしています！🚀
+直近30日間で126件ものコミット、お疲れ様です！👏 Merge pull request #1169 from Hiroki-org/staging、Merge pull request #1170 from Hiroki-org/fix/security-sharp-brace-2026-07、fix(deps): resolve remaining high severity alertsなど、多くの作業を進められました。合計20303行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 126 commits across 10 projects_
 
