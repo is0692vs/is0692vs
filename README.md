@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
 # 🌍 ¡Hola! Día nublado☁️
-📍 Buenos Aires: 16°C
+📍 Lima: 21°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,14 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、合計147件ものコミット、大変お疲れ様でした！👏 素晴らしい開発活動をありがとうございます。
+この30日間で、あなたは素晴らしい147件のコミットを達成しましたね！🙌✨
 
-多岐にわたるプロジェクトで精力的に貢献されましたね。
+特に、複数のプロジェクトで活発な貢献が見られました。
+*   **OpenShelf** では、複数回の本番リリース対応に加え、依存関係のセキュリティ脆弱性解消に尽力されました。キーボードナビゲーションのフォーカスリング追加や、保存結果メッセージに適切なARIAロールを追加するなど、UI/UXとアクセシビリティの向上にも大きく貢献されましたね🎨。UserPageClientコンポーネントのテスト追加も品質向上に繋がっています🧪。
+*   **jules-extension** では、Node.js 20の要件更新を行い、開発環境のモダン化を進めました。
+*   **paper-tools** では、OAuth関連のセキュリティ強化に力を入れ、ホストヘッダーインジェクションの防止や、OAuthステート・データベースクッキーのセキュリティテストカバレッジを広範にカバーされました。`mergeAffiliations`の堅牢なユニットテスト追加も素晴らしいです！
 
-*   **OpenShelf** では、複数回のリリース作業（`Release: staging -> main`）を実施し、プロジェクトの安定稼働に貢献。高深刻度な依存関係の脆弱性対応 (`fix(deps)`) でセキュリティを強化しました。また、アクセシビリティ向上のため、キーボードナビゲーションのフォーカスリング追加やARIAロールの適切な設定 (`🎨 Palette`) にも尽力。`UserPageClient` コンポーネントのテスト追加 (`🧪 Add tests`) や、依存関係の定期的な更新 (`chore(deps-dev)`) も着実に進められました。
-*   **paper-tools** では、Notion OAuthのホストヘッダーインジェクションの修正 (`fix: prevent Notion OAuth host header injection`) といった重要なセキュリティ脆弱性に対応。OAuthステートクッキー (`test: cover OAuth state cookie security`) や `setDatabaseCookie` (`test: add setDatabaseCookie coverage`) のセキュリティテストカバレッジを拡充し、品質向上に貢献されています！🔒🧪
-*   **jules-extension** では、Node.js 20への環境要件のアップデート (`chore: require Node.js 20`) を実施し、プロジェクトの基盤を最新の状態に保つ重要な作業を遂行しました。🛠️
-
-これだけ多くの領域で素晴らしい成果を出されており、チームへの貢献は計り知れません。今後のさらなる活躍も楽しみにしています！✨
+多岐にわたる重要な改善と品質向上、本当にお疲れ様でした！これからも期待しています！🚀
 
 _Total: 147 commits across 10 projects_
 
