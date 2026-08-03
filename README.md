@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rainy day☔
-📍 New York: 25°C
+# 🌍 안녕하세요! 맑은 날씨네요☀️
+📍 Seoul: 34°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 6,704 installs | ⭐ 4.5/5 (2 ratings) | v1.6.0
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 6,708 installs | ⭐ 4.5/5 (2 ratings) | v1.6.0
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 15 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 65 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-07-05%22%2C%222026-07-06%22%2C%222026-07-07%22%2C%222026-07-08%22%2C%222026-07-09%22%2C%222026-07-10%22%2C%222026-07-11%22%2C%222026-07-12%22%2C%222026-07-13%22%2C%222026-07-14%22%2C%222026-07-15%22%2C%222026-07-16%22%2C%222026-07-17%22%2C%222026-07-18%22%2C%222026-07-19%22%2C%222026-07-20%22%2C%222026-07-21%22%2C%222026-07-22%22%2C%222026-07-23%22%2C%222026-07-24%22%2C%222026-07-25%22%2C%222026-07-26%22%2C%222026-07-27%22%2C%222026-07-28%22%2C%222026-07-29%22%2C%222026-07-30%22%2C%222026-07-31%22%2C%222026-08-01%22%2C%222026-08-02%22%2C%222026-08-03%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B6319%2C6334%2C6349%2C6366%2C6379%2C6397%2C6414%2C6425%2C6448%2C6464%2C6478%2C6491%2C6507%2C6517%2C6524%2C6533%2C6546%2C6558%2C6573%2C6583%2C6600%2C6616%2C6624%2C6644%2C6648%2C6657%2C6676%2C6687%2C6704%2C6704%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C64%2C64%2C64%2C64%2C64%2C64%2C64%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-07-05%22%2C%222026-07-06%22%2C%222026-07-07%22%2C%222026-07-08%22%2C%222026-07-09%22%2C%222026-07-10%22%2C%222026-07-11%22%2C%222026-07-12%22%2C%222026-07-13%22%2C%222026-07-14%22%2C%222026-07-15%22%2C%222026-07-16%22%2C%222026-07-17%22%2C%222026-07-18%22%2C%222026-07-19%22%2C%222026-07-20%22%2C%222026-07-21%22%2C%222026-07-22%22%2C%222026-07-23%22%2C%222026-07-24%22%2C%222026-07-25%22%2C%222026-07-26%22%2C%222026-07-27%22%2C%222026-07-28%22%2C%222026-07-29%22%2C%222026-07-30%22%2C%222026-07-31%22%2C%222026-08-01%22%2C%222026-08-02%22%2C%222026-08-03%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B6319%2C6334%2C6349%2C6366%2C6379%2C6397%2C6414%2C6425%2C6448%2C6464%2C6478%2C6491%2C6507%2C6517%2C6524%2C6533%2C6546%2C6558%2C6573%2C6583%2C6600%2C6616%2C6624%2C6644%2C6648%2C6657%2C6676%2C6687%2C6704%2C6708%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%2C15%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B63%2C63%2C63%2C63%2C63%2C63%2C63%2C63%2C64%2C64%2C64%2C64%2C64%2C64%2C64%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%2C65%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計147件ものコミット、素晴らしい活動量ですね！👏
+直近30日間で合計147件もの素晴らしいコミット、お疲れ様でした！✨
 
-特に、**OpenShelf**では定期的なリリースの実施（`Release: staging -> main`）に加え、セキュリティに関する依存関係の修正（`fix(deps)`）や開発用パッケージの更新（`chore(deps-dev)`）で常に最新の状態を保っていましたね。キーボードナビゲーションのフォーカスリング追加や保存結果メッセージのARIAロール追加など、アクセシビリティ（`🎨 Palette`）とユーザー体験の向上にも大きく貢献されました。さらに、`UserPageClient`コンポーネントのテスト追加（`🧪 Add tests`）で品質向上にも力を入れています！
+**OpenShelf** では、複数回のリリース対応や依存関係更新、そしてセキュリティ脆弱性修正 (`fix(deps)`) に注力されましたね。🎨 UI/アクセシビリティも、フォーカスリング追加やARIAロール導入で大きく改善され、UserPageClientコンポーネントのテスト追加 (`🧪 テスト追加`) で品質向上にも貢献いただきました！
 
-**paper-tools**では、OAuth関連のセキュリティ強化に注力し、`Notion OAuthホストヘッダーインジェクション`の防止修正や、`mergeAffiliations`、`OAuth state cookie`、`setDatabaseCookie`など多岐にわたるテストカバレッジを充実させ、システムの堅牢性を大幅に向上させましたね💪
+**jules-extension** では、Node.js 20の必須化 (`chore: require Node.js 20`) を行い、開発環境のモダン化を着実に進められました。
 
-**jules-extension**では、Node.js 20の要件化を行う（`chore: require Node.js 20`）など、環境の最新化もバッチリです✨
+**paper-tools** では、Notion OAuthのホストヘッダーインジェクション対策 (`fix: Notion OAuth対策`) といった重要なセキュリティ修正に加え、テストカバレッジも大幅に拡充され、システム全体の堅牢性向上に大きく貢献されました。
 
-品質、セキュリティ、ユーザー体験、そして技術基盤の強化と、多岐にわたる重要なプロジェクトで精力的に活動された30日間でした。素晴らしい成果です！今後の活躍も楽しみにしています🚀
+セキュリティ、品質、アクセシビリティ、開発基盤と、多岐にわたるご活躍に感謝です！今後の活躍も期待しています！🚀
 
 _Total: 147 commits across 10 projects_
 
@@ -87,7 +87,7 @@ _Error fetching tracks. Please try again later._
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.0">v1.6.0</a> · 3 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.0">v1.6.0</a> · 4 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.6.0 -->
@@ -101,7 +101,7 @@ _Error fetching tracks. Please try again later._
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.0-publish">v1.6.0-publish</a> · 3 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.0-publish">v1.6.0-publish</a> · 4 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.6.0-publish -->
