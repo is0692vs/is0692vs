@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rather cloudy today☁️
-📍 London: 29°C
+# 🌍 你好！今天多云☁️
+📍 Beijing: 27°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと147件ものコミット、素晴らしい活動量でしたね！👏
+直近30日間で合計147回のコミット、素晴らしい活動量ですね！✨
 
-**OpenShelf** では、複数回のリリース作業を通じて、開発の成果が着実に本番環境に反映されています。特に、セキュリティに関する依存関係アラートの解消やnpmライブラリの定期的な更新で、システムの安定性と安全性を高めていますね。🎨 Palette関連では、キーボードナビゲーションのフォーカスリング追加や保存結果メッセージへの適切なARIAロール追加により、アクセシビリティとユーザー体験が大きく向上しました。また、UserPageClientコンポーネントのテスト追加も、品質向上への貢献が光ります✨。
+*   **OpenShelf** では、複数回のリリース ([OpenShelf] Release: staging -> main) を成功させ、システムの安定稼働に貢献しました。高セキュリティアラートの解決 ([OpenShelf] fix(deps): resolve remaining high severity dependency alerts) や依存関係の更新 ([OpenShelf] chore(deps-dev): bump the npm-development-minor-patch) でセキュリティとメンテナンス性を向上。さらに、キーボードナビゲーションのフォーカスリング追加 ([OpenShelf] 🎨 Palette: キーボードナビゲーションのフォーカスリングを追加) やARIAロールの追加 ([OpenShelf] 🎨 Palette: 保存結果メッセージに適切なARIAロールを追加) でアクセシビリティを大幅に改善し、UserPageClientコンポーネントのテスト追加 ([OpenShelf] 🧪 Add tests for UserPageClient component) で品質向上にも努めました。
 
-**jules-extension** では、Node.js 20の必須化という重要な環境整備を進め、将来を見据えたアップデートをされていますね！🚀
+*   **paper-tools** では、Notion OAuthのホストヘッダーインジェクション対策 ([paper-tools] fix: prevent Notion OAuth host header injection) など、OAuth関連のセキュリティを強化。また、`mergeAffiliations` やOAuth state cookie、`setDatabaseCookie` など、広範囲にわたる単体テストを追加 ([paper-tools] test: expand mergeAffiliations coverage, [paper-tools] test: cover OAuth state cookie security, [paper-tools] test: add setDatabaseCookie coverage) し、堅牢性と信頼性を大きく高めました。
 
-そして **paper-tools** では、mergeAffiliationsの網羅的な単体テスト追加、OAuth関連のクッキーセキュリティテスト、Notion OAuthリダイレクトURIのホストヘッダーインジェクション防止など、セキュリティと信頼性を高めるための堅牢なテストと修正に尽力されました。🛡️
+*   **jules-extension** では、Node.js 20への要件更新 ([jules-extension] chore: require Node.js 20) を行い、環境の最適化を進めましたね。
 
-各リポジトリで多岐にわたる重要な改善・開発に貢献され、チームに多大な価値をもたらしています。この調子でこれからも頑張っていきましょう！💪
+多岐にわたるプロジェクトでセキュリティ、品質、アクセシビリティ、そして基盤強化に大きく貢献されています！この調子で頑張りましょう！🚀
 
 _Total: 128 commits across 10 projects_
 
