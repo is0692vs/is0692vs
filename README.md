@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！雨ですね☔
-📍 Hiroshima: 28°C
+# 🌍 Hello! Rather cloudy today☁️
+📍 London: 29°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で147件ものコミット、素晴らしい成果ですね！👏
+直近30日間で、なんと147件ものコミット、素晴らしい活動量でしたね！👏
 
-特に**OpenShelf**では、複数回の本番リリースを実施し、アプリの安定稼働に貢献されました。高レベルのセキュリティ脆弱性の修正や、依存関係の定期的なアップデートも欠かさず実施されていますね。さらに、ユーザー体験向上のため、キーボードナビゲーションのフォーカスリング追加やARIAロールの最適化といったアクセシビリティ改善にも精力的に取り組まれ、**UserPageClient**コンポーネントのテスト追加で品質向上も図られています！🚀
+**OpenShelf** では、複数回のリリース作業を通じて、開発の成果が着実に本番環境に反映されています。特に、セキュリティに関する依存関係アラートの解消やnpmライブラリの定期的な更新で、システムの安定性と安全性を高めていますね。🎨 Palette関連では、キーボードナビゲーションのフォーカスリング追加や保存結果メッセージへの適切なARIAロール追加により、アクセシビリティとユーザー体験が大きく向上しました。また、UserPageClientコンポーネントのテスト追加も、品質向上への貢献が光ります✨。
 
-**jules-extension**では、Node.js 20への要件変更を進め、最新環境への対応を着々と進められています。✨
+**jules-extension** では、Node.js 20の必須化という重要な環境整備を進め、将来を見据えたアップデートをされていますね！🚀
 
-そして**paper-tools**では、Notion OAuthのホストヘッダーインジェクション対策など、堅牢なセキュリティ強化に尽力されました。OAuthステートクッキーやデータベースクッキー、`mergeAffiliations`関数のテストカバレッジ拡大を通じて、コードの信頼性を高める素晴らしい取り組みです！🛡️
+そして **paper-tools** では、mergeAffiliationsの網羅的な単体テスト追加、OAuth関連のクッキーセキュリティテスト、Notion OAuthリダイレクトURIのホストヘッダーインジェクション防止など、セキュリティと信頼性を高めるための堅牢なテストと修正に尽力されました。🛡️
 
-多岐にわたるプロジェクトでこれだけの貢献、本当に素晴らしいです！今月も本当にお疲れ様でした！😊
+各リポジトリで多岐にわたる重要な改善・開発に貢献され、チームに多大な価値をもたらしています。この調子でこれからも頑張っていきましょう！💪
 
-_Total: 147 commits across 10 projects_
+_Total: 128 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ _Total: 147 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 56 commits (38.1%)</sub>
+      <sub>📊 47 commits (36.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,18 +56,18 @@ _Total: 147 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 40 commits (27.2%)</sub>
+      <sub>📊 37 commits (28.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 19</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/Audicle" alt="Audicle" width="100%" />
+      <a href="https://github.com/Hiroki-org/paper-tools" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/paper-tools" alt="paper-tools" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 18 commits (12.2%)</sub>
+      <sub>📊 17 commits (13.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -115,7 +115,7 @@ _Error fetching tracks. Please try again later._
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7">v1.5.7</a> · 6 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7">v1.5.7</a> · 1 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.7 -->
@@ -130,7 +130,7 @@ _Error fetching tracks. Please try again later._
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7-publish">v1.5.7-publish</a> · 6 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7-publish">v1.5.7-publish</a> · 1 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.7-publish -->
