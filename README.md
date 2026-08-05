@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 안녕하세요! 오늘은 흐린 날씨네요☁️
-📍 Seoul: 31°C
+# 🌍 おはよう！晴れ渡ってるね☀️
+📍 Sapporo: 23°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-この30日間で128ものコミット、素晴らしい活動量でしたね！👏✨
+直近30日間で、あなたは合計128件ものコミットを重ね、精力的に活動されましたね！素晴らしいです！✨
 
-主要な活動として、まず**OpenShelf**では、多数の高重度セキュリティアラートを解消し、依存関係を最新に保ちました。また、キーボードナビゲーションのフォーカスリング追加や保存結果メッセージへのARIAロール設定など、ユーザー体験とアクセシビリティの向上にも大きく貢献されています。UserPageClientコンポーネントのテスト追加や、複数回のステージングからメインへのリリースも着実にこなされましたね！
+特に目を引く活動がこちらです。
 
-**jules-extension**では、Node.js 20への要件更新を進められ、プロジェクトの基盤強化に尽力されました。
+*   **OpenShelf**では、大規模な依存関係の更新やセキュリティアラートの解消（`fix(deps)`）に尽力されました。また、キーボードナビゲーションのフォーカスリング追加やARIAロールの改善（`🎨 Palette`）でUI/UXとアクセシビリティを大きく向上させましたね。安定版リリースへの貢献（`Release: staging -> main`）や、`UserPageClient`コンポーネントのテスト追加（`🧪 Add tests`）も素晴らしい成果です！
+*   **jules-extension**では、Node.js 20の要件追加（`chore: require Node.js 20`）により、環境のモダン化を進めていますね。
+*   **paper-tools**では、OAuth認証関連のセキュリティ強化（`fix: prevent Notion OAuth host header injection`）や、`mergeAffiliations`、`setOauthStateCookie`、`setDatabaseCookie`など多岐にわたる機能のテストカバレッジ向上（`test:`）に大きく貢献しました。堅牢性へのこだわり、脱帽です！
 
-そして**paper-tools**では、mergeAffiliationsやOAuth関連のテストカバレッジを拡大し、Notion OAuthのホストヘッダーインジェクション対策といった重要なセキュリティ修正も完了されています。品質と安全性の両面で、非常に頼もしい貢献でした！
-
-多岐にわたるプロジェクトでこれほど活発に開発を進められていること、本当に素晴らしいです！この調子でこれからも頑張ってください！🚀
+多岐にわたるプロジェクトで、セキュリティ、安定性、ユーザー体験向上に貢献されていることが伝わってきます。この調子で、これからも素敵な開発を続けていきましょう！🚀
 
 _Total: 128 commits across 10 projects_
 
@@ -87,7 +87,7 @@ _Error fetching tracks. Please try again later._
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.0">v1.6.0</a> · 5 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.0">v1.6.0</a> · 6 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.6.0 -->
@@ -101,7 +101,7 @@ _Error fetching tracks. Please try again later._
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.0-publish">v1.6.0-publish</a> · 5 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.0-publish">v1.6.0-publish</a> · 6 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.6.0-publish -->
