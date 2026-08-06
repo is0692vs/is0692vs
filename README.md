@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hallo! Bewölkt heute☁️
-📍 Berlin: 27°C
+# 🌍 おはよう！曇ってるね☁️
+📍 Hiroshima: 29°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間でなんと合計128件ものコミット、素晴らしい活躍ぶりですね！🚀
+直近30日間で合計128件のコミット、素晴らしい活躍でしたね！✨
 
-特にOpenShelfでは、セキュリティの強化に尽力されました。高リスクな依存関係の脆弱性（`fix(deps)`）をしっかり解消し、安全性を高めていますね。また、キーボードナビゲーションのフォーカスリング追加やARIAロールの適用（`🎨 Palette`）など、UI/UXとアクセシビリティの向上にも大きく貢献。定期的なリリース（`Release: staging -> main`）やテスト（`🧪 Add tests`）も怠りなく、プロジェクト全体の品質向上に注力されたことがうかがえます。
+特に、`OpenShelf`では高レベルのセキュリティ警告解消や、複数のリリース作業にご尽力されました。UI/UXの改善では、キーボードナビゲーションのフォーカスリング追加や、保存結果メッセージに適切なARIAロールを設定するなど、アクセシビリティ向上に大きく貢献されています🎨。また、`UserPageClient`コンポーネントのテスト追加も見られ、品質向上への意識も高く感じられます。
 
-jules-extensionでは、Node.js 20へのアップデート（`chore: require Node.js 20`）で開発環境を最新の状態に保ち、基盤を強化していますね。
+`jules-extension`では、Node.js 20の要件化を行うなど、開発環境のアップデートも着実に進められましたね。
 
-paper-toolsでは、OAuth関連のセキュリティ強化（`fix: prevent Notion OAuth host header injection`）と、アフィリエーションやOAuthクッキーに関するテストカバレッジの拡充（`test: expand mergeAffiliations coverage`、`test: cover OAuth state cookie security`）を通じて、堅牢なシステム構築に貢献されています。
+さらに、`paper-tools`では、`mergeAffiliations`のテストカバレッジ拡充に加え、Notion OAuthのホストヘッダーインジェクション防止やOAuth状態クッキー、データベースクッキーのセキュリティテストを徹底し、システムの堅牢性強化に大きく貢献されています🛡️。
 
-多岐にわたるリポジトリで、セキュリティ、品質、アクセシビリティ、そして開発基盤の近代化まで、幅広い領域で素晴らしい成果を出されました。日々の努力がプロジェクトの成長に繋がっています！これからも期待しています！✨
+各リポジトリでの多岐にわたるコミット、本当に素晴らしい成果です！この調子でこれからも素晴らしい開発を続けてください！👏
 
-_Total: 118 commits across 10 projects_
+_Total: 113 commits across 10 projects_
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ _Total: 118 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 44 commits (37.3%)</sub>
+      <sub>📊 44 commits (38.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +56,7 @@ _Total: 118 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 37 commits (31.4%)</sub>
+      <sub>📊 37 commits (32.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 19</sub>
     </td>
@@ -67,7 +67,7 @@ _Total: 118 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 15 commits (12.7%)</sub>
+      <sub>📊 12 commits (10.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
