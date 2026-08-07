@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Partly cloudy today☁️
-📍 Miami: 27°C
+# 🌍 Ciao! Giornata soleggiata☀️
+📍 Rome: 33°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,18 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと**113件**ものコミットを重ね、本当に素晴らしい活躍でした！✨ 幅広いプロジェクトで多岐にわたる貢献が見られますね。
+直近30日間で合計113件ものコミット、素晴らしい活動量ですね！🚀 セキュリティ強化からユーザー体験向上、テストの拡充まで、多岐にわたるご活躍が見て取れます。
 
-特に**OpenShelf**では、複数のリリースを成功させながら（`Release: staging -> main`）、セキュリティに関わる高深刻度な依存関係の警告を精力的に解消しました（`fix(deps): resolve remaining high severity dependency alerts`）。また、アクセシビリティ向上のためのキーボードナビゲーションやARIAロールの追加（`Palette: キーボードナビゲーションのフォーカスリングを追加`、`Palette: 保存結果メッセージに適切なARIAロールを追加`）は、ユーザー体験を大きく改善する素晴らしい取り組みです！👏 依存関係の定期的な更新や、テストの追加、コードのリファクタリング（`Extract setupOrgApiMock logic`）など、品質向上へのこだわりも光っていますね。
+特に**OpenShelf**では、複数回の`Release: staging -> main`マージを通じて、安定したサービス提供に大きく貢献しました。また、高セキュリティの依存関係アラート修正(`fix(deps): resolve remaining high severity alerts`)に迅速に対応し、サービスの安全性を高めたのは非常に重要です。🔒
+さらに、アクセシビリティ改善にも注力し、`🎨 Palette: キーボードナビゲーションのフォーカスリングを追加`や`🎨 Palette: 保存結果メッセージに適切なARIAロールを追加`といったUI/UX向上のコミットが目立ちます。✨ 依存関係の定期的な更新、`🧪 Add missing tests for normalizeOrigin URL parsing errors`でのテスト拡充、`🧹 Extract setupOrgApiMock logic into smaller helper functions`でのコードリファクタリングも、品質と保守性の向上に繋がっていますね。
 
-**jules-extension**では、Node.js 20への環境要件更新を実施し（`chore: require Node.js 20`）、プロジェクトのモダン化に貢献しました。⚙️
+**jules-extension**では、`chore: require Node.js 20`として開発環境の基盤を更新しました。⬆️
+**paper-tools**では、`test: add setDatabaseCookie coverage`を追加し、堅牢なテスト体制をさらに強化しています。🧪
+**Audicle**でも、`🧪 [test improvement] Add Error Path Test for Adding Article in storage.ts`でエラーハンドリングのテストを拡充し、品質向上に貢献しました。
 
-**paper-tools**においては、データベースCookieに関するテストカバレッジを追加し（`test: add setDatabaseCookie coverage`）、セキュリティと信頼性を強化しました。🔒
+様々なリポジトリで、システム全体の健全性とユーザー満足度向上に向けた素晴らしい取り組み、本当にお見事です！これからもその積極的な貢献に期待しています！👏
 
-そして**Audicle**でも、ストレージ機能のエラーパスに対するテストを追加（`[test improvement] Add Error Path Test`）し、システムの堅牢性を高めることに尽力しました。🧪
-
-全体的に、新機能開発、品質向上、セキュリティ強化、そして安定したリリース作業と、非常にバランスの取れた素晴らしい活動内容です！この調子で、これからもチームを力強く牽引していってくださいね！💪
-
-_Total: 113 commits across 10 projects_
+_Total: 103 commits across 10 projects_
 
 <table>
   <tr>
@@ -47,7 +46,7 @@ _Total: 113 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 44 commits (38.9%)</sub>
+      <sub>📊 40 commits (38.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,18 +57,18 @@ _Total: 113 commits across 10 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 37 commits (32.7%)</sub>
+      <sub>📊 36 commits (35.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 19</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/Audicle" alt="Audicle" width="100%" />
+      <a href="https://github.com/Hiroki-org/paper-tools" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/paper-tools" alt="paper-tools" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 12 commits (10.6%)</sub>
+      <sub>📊 10 commits (9.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -147,7 +146,7 @@ _Error fetching tracks. Please try again later._
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.6-publish">v1.5.6-publish</a> · 3 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.6-publish">v1.5.6-publish</a> · 4 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.6-publish -->
