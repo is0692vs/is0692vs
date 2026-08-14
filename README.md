@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Está nublado☁️
-📍 Mexico City: 14°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Madrid: 31°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,21 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計139件ものコミット、素晴らしい活躍ぶりですね！✨ 多くのリポジトリで活発に活動され、プロダクトの品質向上に大きく貢献されています。
+素晴らしい30日間でしたね！直近のコミット数はなんと139件！本当に精力的な活動に拍手です👏
 
-特に**OpenShelf**では、リリースやブランチマージが頻繁に行われ、プロジェクトがスムーズに進んでいる様子が伺えます。深刻度の高いセキュリティ脆弱性への対応や、🎨キーボードナビゲーションのフォーカスリング追加といったUI/UX改善、さらに多数の依存関係アップデートとコードリファクタリングまで、多岐にわたる重要な作業を精力的に進めてくださいましたね！
+各リポジトリでの主要な貢献を見ていきましょう。
 
-**jules-extension**では、Node.js 20への要件更新という環境整備を行い、将来を見据えた大切な基盤強化を進めました！
+**OpenShelf** では、複数のマージを通じて、セキュリティ関連の依存関係を積極的に修正し、システムをより強固なものにしてくれましたね！🎨 Paletteのキーボードナビゲーションにフォーカスリングを追加するなど、ユーザー体験の向上にも力を入れ、dependabotによる依存関係の定期的な更新もバッチリです。さらに、`setupOrgApiMock`のロジックを抽出するなど、コードの健全性を高める取り組みも素晴らしいです。
 
-また、**github-user-summary**では、BusinessCardコンポーネントのリファクタリングやテスト関連の改善に尽力され、コードの保守性と堅牢性が向上したことでしょう。🧹
+**jules-extension** では、Node.js 20への対応を進め、開発環境のモダン化に大きく貢献しましたね🚀。
 
-そして**Audicle**では、`buildQueueWithLegacySystem`の可読性向上リファクタリングに取り組むなど、コードの健康状態を常に意識されているのが伝わってきます。
+**github-user-summary** では、`BusinessCard`コンポーネントのリファクタリングを通じて、コードベースの保守性と拡張性を高めてくれました。見事な整理整頓です✨。
 
-どのリポジトリにおいても、細部まで気を配り、品質向上に努める姿勢に感銘を受けました。この勢いで、次の期間も素晴らしい成果を楽しみにしています！🚀
+そして **Audicle** では、`buildQueueWithLegacySystem`のリファクタリングにより、コードの可読性と保守性を向上させてくれましたね。
 
-_Total: 139 commits across 8 projects_
+様々なプロジェクトで、セキュリティ強化、UX改善、技術スタックの更新、コードのリファクタリングと、多岐にわたる重要な成果を上げられました。この勢いで、これからも素晴らしい開発を期待しています！お疲れ様でした！😊
+
+_Total: 139 commits across 6 projects_
 
 <table>
   <tr>
@@ -63,11 +65,11 @@ _Total: 139 commits across 8 projects_
       <sub>🔷 TypeScript ⭐ 19</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/paper-tools" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/paper-tools" alt="paper-tools" width="100%" />
+      <a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/github-user-summary" alt="github-user-summary" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
       <sub>📊 15 commits (10.8%)</sub>
       <br />
