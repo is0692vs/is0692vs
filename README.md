@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Buenos Aires: 13°C
+# 🌍 Hello! Sunny and warm☀️
+📍 Miami: 27°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計139件ものコミット、お疲れ様でした！素晴らしい活動のサマリーをご紹介しますね。✨
+直近30日間で合計139件ものコミット、素晴らしい活躍ですね！👏
 
-**OpenShelf**では、大規模な機能マージとリリース（`Release: staging -> main`）を何度も実施し、プロジェクトの進化に大きく貢献しましたね！🚀 特に、セキュリティ関連の依存関係アラートを迅速に解決したり（`fix(deps): resolve remaining high severity dependency alerts`）、アクセシビリティ向上のためにキーボードナビゲーションのフォーカスリングを追加（`🎨 Palette: キーボードナビゲーションのフォーカスリングを追加`）したりと、多岐にわたる重要な改善が見られます。また、依存関係の定期的な更新や、`setupOrgApiMock`ロジックをより小さなヘルパー関数に抽出してコード品質を向上させる（`🧹 Extract setupOrgApiMock logic into smaller helper functions`）など、着実な取り組みが光ります！
+特に目を引くのは、[OpenShelf]での多岐にわたる貢献です。頻繁なマージにより、ステージングやメインブランチの安定稼働に尽力されました。セキュリティに関する高深刻度アラートの解決や、多くの依存関係アップデートでシステムを最新の状態に保っていますね。キーボードナビゲーションのフォーカスリング追加では、アクセシビリティ向上にも貢献！🎨 また、コードの健全性を高めるリファクタリングも進みました。
 
-**jules-extension**では、Node.js 20の要件を導入（`chore: require Node.js 20`）し、開発環境のモダン化を進めましたね。環境整備も大切な貢献です！🛠️
+[jules-extension]では、Node.js 20への要件変更で開発環境を最新化✨。さらに[github-user-summary]では、BusinessCardコンポーネントのリファクタリングを通じてコード品質を向上させました。そして[Audicle]でも、ビルドキューのコード可読性向上に取り組まれ、素晴らしいですね🧹。
 
-**github-user-summary**では、`BusinessCard`コンポーネントをより小さなブロックコンポーネントにリファクタリング（`🧹 Refactor BusinessCard into smaller block components`）し、コードの可読性と保守性を高める素晴らしい作業を行いました。💡
+これまでの精力的な活動、本当にありがとうございます！これからも皆さんの活躍を期待しています！🚀
 
-そして**Audicle**では、`buildQueueWithLegacySystem`の可読性を向上させるためのリファクタリング（`🧹 [Refactor buildQueueWithLegacySystem for improved readability]`）に着手し、コードベースの健全性維持に尽力しましたね。
-
-様々なリポジトリで、リリース、セキュリティ対策、アクセシビリティ、リファクタリング、環境整備と、幅広い分野で大きな成果を出しています。素晴らしい集中力と貢献に拍手喝采です！これからも応援しています！🎉
-
-_Total: 136 commits across 6 projects_
+_Total: 127 commits across 6 projects_
 
 <table>
   <tr>
@@ -47,7 +43,7 @@ _Total: 136 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 56 commits (41.2%)</sub>
+      <sub>📊 48 commits (37.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,18 +54,18 @@ _Total: 136 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 40 commits (29.4%)</sub>
+      <sub>📊 40 commits (31.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 19</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/github-user-summary" alt="github-user-summary" width="100%" />
+      <a href="https://github.com/Hiroki-org/paper-tools" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/paper-tools" alt="paper-tools" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 15 commits (11.0%)</sub>
+      <sub>📊 15 commits (11.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
