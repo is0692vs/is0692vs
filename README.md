@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
 # 🌍 Hello! Cloudy skies today☁️
-📍 New York: 23°C
+📍 New York: 22°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,13 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-お疲れ様です！直近30日間で139件もの素晴らしいコミット、本当にありがとうございます！👏
+直近30日間で139件ものコミット、素晴らしい活躍ですね！🎉 さまざまなプロジェクトで多岐にわたる貢献が見られます。
 
-特にOpenShelfでは、大規模なブランチマージやリリース対応が多く、依存関係のセキュリティ修正や多数の更新に尽力されましたね。🎨 Palette機能ではキーボードナビゲーションのフォーカスリング追加でアクセシビリティ向上に貢献し、🧹 コードの品質改善にも積極的に取り組まれています。
+特に**OpenShelf**では、頻繁なブランチのマージ作業に加え、深刻なセキュリティ依存関係アラートを解消したり、🎨キーボードナビゲーションのフォーカスリングを追加してアクセシビリティを向上させたりと、品質とユーザビリティの両面で大きな改善を進めましたね。開発環境の依存関係の更新や、コードの可読性を高めるリファクタリングにも取り組んでいます。
 
-jules-extensionではNode.js 20への環境要件更新を進め、開発基盤のモダン化に貢献しました。✨ github-user-summaryではBusinessCardコンポーネントをより小さなブロックへ分割するリファクタリングを見事にやり遂げ、保守性を高めていますね！Audicleでも`buildQueueWithLegacySystem`の可読性向上など、細部にわたる改善活動、本当に素晴らしいです！
+**jules-extension**では、Node.js 20へのバージョン要件更新を行い、環境のモダン化に貢献しました。
 
-多岐にわたるプロジェクトで精力的に活動し、安定性向上からユーザー体験改善、コード品質向上まで、大きな成果を上げています。この勢いで、これからも素晴らしい開発を楽しんでいきましょう！🚀
+**github-user-summary**では、BusinessCardコンポーネントをより小さなブロックに分割する🧹リファクタリングで、保守性向上に努めましたね。
+
+また、**Audicle**では、`buildQueueWithLegacySystem`関数の可読性向上を目的としたコード品質改善に着手しており、プロジェクト全体の健全性維持に大きく貢献しています。
+
+各リポジトリでの着実な進捗、本当に素晴らしいです！この調子で、これからも開発を楽しんでいきましょう！🚀
 
 _Total: 127 commits across 6 projects_
 
@@ -83,78 +87,7 @@ _Error fetching tracks. Please try again later._
 <!-- github-releases:start -->
 ## 🚀 Recent Releases
 
-<details>
-<summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.0">v1.6.0</a> · 2 weeks ago
-</summary>
-
-<!-- Release notes generated using configuration in .github/release.yml at v1.6.0 -->
-## What's Changed
-### 👷 CI/CD
-* chore: prepare release 1.6.0 by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/774
-### 📦 Dependencies
-
-[View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.0)
-</details>
-
-<details>
-<summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.0-publish">v1.6.0-publish</a> · 2 weeks ago
-</summary>
-
-<!-- Release notes generated using configuration in .github/release.yml at v1.6.0-publish -->
-## What's Changed
-### 👷 CI/CD
-* chore: prepare release 1.6.0 by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/774
-### 📦 Dependencies
-
-[View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.0-publish)
-</details>
-
-<details>
-<summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7">v1.5.7</a> · 2 weeks ago
-</summary>
-
-<!-- Release notes generated using configuration in .github/release.yml at v1.5.7 -->
-## What's Changed
-### ✨ Features
-* 🎨 Palette: コピーボタンのツールチップとARIAラベルの同期 by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/723
-### 📦 Dependencies
-### 🔧 Other Changes
-
-[View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7)
-</details>
-
-<details>
-<summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7-publish">v1.5.7-publish</a> · 2 weeks ago
-</summary>
-
-<!-- Release notes generated using configuration in .github/release.yml at v1.5.7-publish -->
-## What's Changed
-### ✨ Features
-* 🎨 Palette: コピーボタンのツールチップとARIAラベルの同期 by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/723
-### 📦 Dependencies
-### 🔧 Other Changes
-
-[View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7-publish)
-</details>
-
-<details>
-<summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.6-publish">v1.5.6-publish</a> · Jul 10, 2026
-</summary>
-
-<!-- Release notes generated using configuration in .github/release.yml at v1.5.6-publish -->
-## What's Changed
-### ✨ Features
-* 🎨 Palette: 空状態コンテナへのスクリーンリーダー対応強化（aria-live追加） by @is0692vs in https://github.com/Hiroki-org/jules-extension/pull/667
-### 🐛 Bug Fixes
-### 📦 Dependencies
-
-[View on GitHub](https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.6-publish)
-</details>
+_No recent releases found_
 <!-- github-releases:end -->
 
 ---
