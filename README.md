@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Madrid: 35°C
+# 🌍 Olá! Dia ensolarado☀️
+📍 Lisbon: 24°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,13 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-今月も精力的な活動、お疲れ様です！直近30日間でなんと**127件**ものコミットを重ねられましたね。素晴らしい成果です！🚀
+直近30日間で127件ものコミット、素晴らしい活躍でしたね！🚀 日々の精力的な開発、本当にお見事です！
 
-特に**OpenShelf**では、複数回にわたる`staging`から`main`へのリリース作業を成功させました（Release: staging -> main）。また、依存関係のセキュリティ脆弱性対応（fix(deps): resolve remaining high severity alerts）にも迅速にご尽力。🎨 キーボードナビゲーションのフォーカスリング追加によるアクセシビリティ改善（Palette: キーボードナビゲーションのフォーカスリングを追加）や、`setupOrgApiMock`のロジック抽出（Extract setupOrgApiMock logic into smaller helper functions）といったコード品質向上にも貢献されていますね。
+特に**OpenShelf** では、セキュリティ脆弱性への対応や依存関係のアップデートに尽力されました。Paletteのキーボードナビゲーションのフォーカスリング追加やSpinner関連の改善など、UI/UX向上にも大きく貢献されています🎨。多数のマージやリリース作業もお疲れ様です！✨
 
-**jules-extension**では、Node.js 20への要件更新（chore: require Node.js 20）という重要な環境整備を行いました。🔧
+また、**jules-extension** ではNode.js 20へのバージョンアップという重要な基盤整備を進められましたね。🛠️ **github-user-summary** では`BusinessCard`コンポーネントのリファクタリングでコード品質を向上。🧹 **Audicle** でも`buildQueueWithLegacySystem`のリファクタリングやプレイリストアイテム検索の最適化により、コードの可読性とパフォーマンス改善に注力いただきました。💡
 
-**github-user-summary**では、`BusinessCard`コンポーネントのリファクタリング（Refactor BusinessCard into smaller block components）を進め、より保守性の高いコードベースへと進化させています。✨
-
-そして**Audicle**でも、`buildQueueWithLegacySystem`のリファクタリング（Refactor `buildQueueWithLegacySystem` for improved readability）やプレイリストアイテムの最適化に尽力。システムの健全性向上に大きく貢献されました。💪
-
-様々なプロジェクトで多岐にわたる活躍、本当に頭が下がります。この調子でこれからも素晴らしい開発を続けていきましょう！😊
+各プロジェクトでの多岐にわたる活躍、これからも期待しています！😊
 
 _Total: 127 commits across 6 projects_
 
