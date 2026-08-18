@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rainy day☔
-📍 New York: 23°C
+# 🌍 Hello! Rather cloudy today☁️
+📍 London: 26°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計127件のコミット、素晴らしい活動量ですね！✨
+直近30日間で合計127件ものコミット、素晴らしいですね！多くのプロジェクトで活発な開発が進められています。
 
-**OpenShelf**では、依存関係のセキュリティアラート解消（`fix(deps)`）や、キーボードナビゲーションのフォーカスリング追加（`🎨 Palette`）といったユーザーエクスペリエンス向上に大きく貢献されました。定期的なブランチマージやリリース作業も着実に進められていますね。
+**OpenShelf**では、stagingからmainへのリリース対応やブランチのマージが多数行われ、大規模な更新をスムーズに進めていますね。また、セキュリティ関連の依存関係の修正や、アクセシビリティ向上のためのキーボードナビゲーションのフォーカスリング追加🎨、開発依存の更新、コード品質改善🧹など、多岐にわたる重要な改善を実施しました。
 
-**jules-extension**では、Node.js 20の要件化（`chore: require Node.js 20`）を行い、開発環境のモダン化を進められました。
+**jules-extension**では、Node.jsのバージョン要件を20に引き上げる対応を行い、環境のモダン化を進めていますね。
 
-**github-user-summary**では、BusinessCardコンポーネントのリファクタリング（`🧹 Refactor BusinessCard`）でコードの整理と保守性向上に努められました。
+**github-user-summary**では、BusinessCardコンポーネントのリファクタリング🧹を行い、コードの保守性を高めました。テスト関連の修正も確認できます。
 
-**Audicle**では、`buildQueueWithLegacySystem`の可読性向上リファクタリング（`🧹 [Refactor buildQueueWithLegacySystem]`）や、プレイリストアイテムのルックアップ最適化に取り組まれ、コード品質とパフォーマンス向上に貢献されています。
+**Audicle**では、`buildQueueWithLegacySystem`の可読性向上🧹やプレイリストアイテム検索の最適化に着手。コード品質とパフォーマンスの両面で素晴らしい取り組みです！
 
-多岐にわたるプロジェクトでの貢献、本当にお見事です！この調子でこれからも素晴らしい開発を続けてください！🚀
+どのリポジトリでも着実に成果を積み重ねており、その貢献に感謝いたします。この調子で頑張りましょう！🚀✨
 
 _Total: 127 commits across 6 projects_
 
@@ -117,7 +117,7 @@ _Error fetching tracks. Please try again later._
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7">v1.5.7</a> · 2 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7">v1.5.7</a> · 3 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.7 -->
@@ -132,7 +132,7 @@ _Error fetching tracks. Please try again later._
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7-publish">v1.5.7-publish</a> · 2 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7-publish">v1.5.7-publish</a> · 3 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.7-publish -->
