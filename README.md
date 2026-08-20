@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Lyon: 27°C
+# 🌍 ¡Hola! Día soleado☀️
+📍 Madrid: 26°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、合計127件もの素晴らしいコミット、お疲れ様でした！✨ 各プロジェクトで活発な貢献が見られますね。
+直近30日間で127件ものコミット、大変お疲れ様でした！複数のプロジェクトで精力的に活動されていますね！👏
 
-特に**OpenShelf**では、ステージングからメインへのリリース作業やブランチマージが頻繁に行われ、プロジェクトの安定稼働に大きく貢献しています。セキュリティに関する依存関係の修正🛡️や、キーボードナビゲーションのアクセシビリティ向上🎨、開発用依存関係のアップデート、そしてコード品質向上のためのヘルパー関数抽出といったリファクタリングも進められました。
+**OpenShelf**では、実に活発な動きがありました。stagingからmainへのリリース作業を複数回実施し、ブランチのマージも頻繁に行われ、プロジェクトの安定稼働に貢献されています。特に、高セキュリティの依存関係アラートの解決や、キーボードナビゲーションのアクセシビリティ改善（Paletteのフォーカスリング追加🎨）、そして依存関係の更新（npm-development-minor-patchグループ）にもしっかり対応。さらに、`setupOrgApiMock`ロジックをリファクタリングし、コード品質の向上も図られました。
 
-**jules-extension**では、Node.js 20への要件引き上げといった開発環境の基盤整備に注力しましたね。
+**jules-extension**では、Node.js 20への技術スタック更新を進め、プロジェクトの基盤強化に貢献されていますね。🚀
 
-**github-user-summary**では、BusinessCardコンポーネントをより小さなブロックに分割するリファクタリングを進め、コードの可読性と保守性を高めました🧹。
+**github-user-summary**では、`BusinessCard`コンポーネントをより小さなブロックに分割する大規模なリファクタリングを実施し、コードの保守性と再利用性を高めました。✨
 
-また**Audicle**では、`buildQueueWithLegacySystem`関数の可読性向上リファクタリングや、プレイリストアイテムのルックアップ最適化に取り組まれ、コード品質とパフォーマンスの向上に貢献しましたね🚀。
+**Audicle**では、`buildQueueWithLegacySystem`の可読性向上やプレイリストアイテム検索の最適化を行い、コードヘルスとパフォーマンス向上に尽力されています。📈
 
-多岐にわたる重要な改善、本当に素晴らしいです！今後のさらなる活躍も期待しています！😊
+このように、幅広い領域で多大な貢献をされていることに感服いたします。チームの成長に欠かせない活動の数々、本当に素晴らしいです！これからも期待しています！😊
 
 _Total: 127 commits across 6 projects_
 
@@ -89,7 +89,7 @@ _Error fetching tracks. Please try again later._
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.0">v1.6.0</a> · 2 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.0">v1.6.0</a> · 3 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.6.0 -->
@@ -103,7 +103,7 @@ _Error fetching tracks. Please try again later._
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.0-publish">v1.6.0-publish</a> · 2 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.0-publish">v1.6.0-publish</a> · 3 weeks ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.6.0-publish -->
