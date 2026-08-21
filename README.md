@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！雨ですね☔
-📍 Hiroshima: 28°C
+# 🌍 Olá! Dia nublado☁️
+📍 São Paulo: 23°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,7 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で127件ものコミット、お疲れ様です！👏 Merge remote-tracking branch 'origin/staging' into codex/openshelf-pr1159、Merge pull request #1169 from Hiroki-org/staging、Merge branch 'staging' into palette-spinner-a11y-2227948598430427769など、多くの作業を進められました。合計20780行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で合計127件ものコミット、素晴らしいですね！👏 多岐にわたるプロジェクトでのご活躍、お見事です！
+
+特に多くの変更があった**OpenShelf**では、複数のブランチ統合やリリース関連のマージが精力的に行われました。加えて、高深刻度な依存関係アラートの解決によるセキュリティ強化、🎨キーボードナビゲーションのフォーカスリング追加によるUI/UX改善、さらにヘルパー関数抽出によるコード品質向上にも取り組まれましたね。
+
+**jules-extension**では、Node.js 20の環境要件対応を進められました。
+
+**github-user-summary**では、BusinessCardコンポーネントをより小さなブロックに分割するリファクタリングを実施し、コードの整理を進められました。
+
+**Audicle**では、`buildQueueWithLegacySystem`の可読性向上リファクタリングや、プレイリスト項目のルックアップ最適化に着手され、コードの健全性とパフォーマンス向上に貢献されています。
+
+様々な側面からプロジェクトを力強く推進されており、その継続的な努力に心から感謝いたします！これからも大いに期待しています！🚀
 
 _Total: 107 commits across 6 projects_
 
