@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Paris: 25°C
+# 🌍 おはよう！雨ですね☔
+📍 Hiroshima: 28°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,9 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で127件ものコミット、素晴らしいペースですね！✨
+直近30日間で127件ものコミット、お疲れ様です！👏 Merge remote-tracking branch 'origin/staging' into codex/openshelf-pr1159、Merge pull request #1169 from Hiroki-org/staging、Merge branch 'staging' into palette-spinner-a11y-2227948598430427769など、多くの作業を進められました。合計20780行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-*   **OpenShelf** では、複数回のリリース（staging -> main）を成功させ、システムの安定稼働に貢献されました。🎨キーボードナビゲーションのフォーカスリング追加でアクセシビリティを大きく向上させ、高深刻度な依存関係のセキュリティ脆弱性も迅速に解消されています。内部ではAPIモックの抽出や依存ライブラリの更新など、コード健全性の維持にも余念がありません！
-*   **jules-extension** では、Node.js 20への要件更新という重要な環境整備を行いました。今後の開発基盤を盤石にするための大切な一歩ですね！
-*   **github-user-summary** では、`BusinessCard` コンポーネントをより小さなブロックに分割し、コードの保守性と再利用性を高めるリファクタリングを実施しました。🧹
-*   **Audicle** では、`buildQueueWithLegacySystem` の可読性向上や、プレイリストアイテム検索の最適化を進め、内部ロジックを着実に改善していますね。
-
-多岐にわたるプロジェクトで、機能強化、セキュリティ、コード品質向上に精力的に取り組んでいただき、本当にありがとうございます！この調子でこれからも素晴らしい開発を期待しています！🚀
-
-_Total: 127 commits across 6 projects_
+_Total: 107 commits across 6 projects_
 
 <table>
   <tr>
@@ -44,7 +37,7 @@ _Total: 127 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 48 commits (37.8%)</sub>
+      <sub>📊 37 commits (34.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -55,18 +48,18 @@ _Total: 127 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 40 commits (31.5%)</sub>
+      <sub>📊 35 commits (32.7%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 19</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/paper-tools" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/paper-tools" alt="paper-tools" width="100%" />
+      <a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/github-user-summary" alt="github-user-summary" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 15 commits (11.8%)</sub>
+      <sub>📊 14 commits (13.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
