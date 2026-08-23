@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 你好！下雨了☔
-📍 Beijing: 30°C
+# 🌍 こんにちは！素晴らしい晴れですね☀️
+📍 Osaka: 30°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,33 +24,12 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で107件のコミット、大変精力的に活動されましたね！素晴らしい成果です！🎉
+直近30日間で107件ものコミット、お疲れ様です！👏 Merge remote-tracking branch 'origin/staging' into codex/openshelf-pr1159、Merge pull request #1169 from Hiroki-org/staging、Merge branch 'staging' into palette-spinner-a11y-2227948598430427769など、多くの作業を進められました。合計18220行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-**OpenShelf**では、高重度な依存関係のセキュリティ警告対応や安全でない乱数生成の修正といった重要なセキュリティ強化に取り組まれました。🎨 Paletteのtextareaフォーカスリング改善などUI/UXの向上にも貢献し、定期的なリリース統合も着実に実施されています。
-
-**jules-extension**では、Node.js 20への環境要件更新やパフォーマンス最適化といった基盤強化を進められました。🚀
-
-**github-user-summary**では、BusinessCardコンポーネントをより小さなブロックに分割するリファクタリングを行い、コードの保守性を高めましたね。🧹
-
-**Audicle**では、`buildQueueWithLegacySystem` のリファクタリングやプレイリスト項目検索の最適化を通じて、コードの健全性とパフォーマンス向上に尽力されました。✨
-
-このように、複数のリポジトリにわたり、セキュリティ、パフォーマンス、コード品質、UI改善と幅広い分野で大きな貢献をされています。日々の努力が着実に実を結んでいますね。これからもその勢いで、素晴らしい開発を続けてください！
-
-_Total: 107 commits across 6 projects_
+_Total: 105 commits across 6 projects_
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/OpenShelf" alt="OpenShelf" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
-      <br />
-      <sub>📊 37 commits (34.6%)</sub>
-      <br />
-      <sub>🔷 TypeScript </sub>
-    </td>
     <td align="center" width="33%">
       <a href="https://github.com/Hiroki-org/jules-extension" target="_blank">
         <img src="https://opengraph.githubassets.com/1/Hiroki-org/jules-extension" alt="jules-extension" width="100%" />
@@ -58,9 +37,20 @@ _Total: 107 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 35 commits (32.7%)</sub>
+      <sub>📊 35 commits (33.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 19</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/OpenShelf" alt="OpenShelf" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
+      <br />
+      <sub>📊 35 commits (33.3%)</sub>
+      <br />
+      <sub>🔷 TypeScript </sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">
@@ -69,7 +59,7 @@ _Total: 107 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 14 commits (13.1%)</sub>
+      <sub>📊 14 commits (13.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
