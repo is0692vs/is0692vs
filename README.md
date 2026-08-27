@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Está lloviendo☔
-📍 Madrid: 19°C
+# 🌍 こんにちは！雨の日ですね☔
+📍 Tokyo: 26°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと86件ものコミット、大変お疲れ様でした！素晴らしい活動量で多岐にわたるプロジェクトに貢献されていますね👏
+直近30日間で86件ものコミット、素晴らしい活躍ですね！👏 主な活動は多岐にわたり、様々なプロジェクトで品質向上に貢献されています。
 
-主な活動を振り返ってみましょう。
+特に注目すべきは以下の点です。
 
-*   **OpenShelf** では、リリース作業からUI/UX改善（🎨 `textarea`のフォーカスリング改善）やセキュリティ修正（🛡️ 安全でない乱数生成の修正）まで、幅広い開発と安定稼働に尽力いただきました。
-*   **jules-extension** では、重要なNode.js 20へのバージョンアップ対応を進め、さらにパフォーマンス最適化にも着手されていますね！
-*   **github-user-summary** では、`BusinessCard`コンポーネントのリファクタリングを通じて、コードの可読性向上と品質改善に貢献されました。
-*   **Audicle** では、`buildQueueWithLegacySystem` の可読性向上やプレイリストアイテムの検索最適化、自動スクロールのリファクタリングなど、コードヘルスとパフォーマンス改善に精力的に取り組んでいます。
-*   **paper-tools** では、キーワードによるプロパティ検索の最適化や、Nodeバージョンを強制する`.nvmrc`の追加で開発環境の整備もバッチリですね！
+*   **OpenShelf** では、大規模なコードベースのマージやステージング環境へのリリース、さらにはセキュリティ修正（安全でない乱数生成の修正 🛡️）やUI改善（textareaのフォーカスリング改善 🎨）に精力的に取り組まれました。
+*   **jules-extension** では、Node.js 20への環境更新を進めつつ、パフォーマンス最適化に向けた重要な変更が行われました。
+*   **github-user-summary** では、`BusinessCard` コンポーネントのリファクタリングにより、コードの整理と保守性の向上に貢献されました。
+*   **Audicle** では、`buildQueueWithLegacySystem` のリファクタリングやプレイリストアイテムの検索最適化など、コードの健全性とパフォーマンス向上に注力されました。
+*   **paper-tools** では、Nodeバージョンの統一化（`.nvmrc` の追加）に加え、プロパティ検索のパフォーマンス最適化も進められています。
 
-どのプロジェクトでも、コードの改善や新機能開発、そして安定運用に大きく貢献されており、その努力が成果としてしっかりと現れています。素晴らしいパフォーマンスです、これからも応援しています！🚀✨
+幅広いプロジェクトで、リファクタリング、パフォーマンス改善、セキュリティ強化、UI調整、環境整備と多方面にわたる貢献をされており、その活動範囲の広さと品質向上への意識の高さに感銘を受けます！これからも期待しています！🚀
 
-_Total: 86 commits across 6 projects_
+_Total: 80 commits across 6 projects_
 
 <table>
   <tr>
@@ -47,7 +47,7 @@ _Total: 86 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 29 commits (33.7%)</sub>
+      <sub>📊 26 commits (32.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 19</sub>
     </td>
@@ -58,7 +58,7 @@ _Total: 86 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 26 commits (30.2%)</sub>
+      <sub>📊 24 commits (30.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -69,7 +69,7 @@ _Total: 86 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
       <br />
-      <sub>📊 13 commits (15.1%)</sub>
+      <sub>📊 13 commits (16.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -117,7 +117,7 @@ _Error fetching tracks. Please try again later._
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7">v1.5.7</a> · 4 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7">v1.5.7</a> · Jul 28, 2026
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.7 -->
@@ -132,7 +132,7 @@ _Error fetching tracks. Please try again later._
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7-publish">v1.5.7-publish</a> · 4 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.5.7-publish">v1.5.7-publish</a> · Jul 28, 2026
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.5.7-publish -->
