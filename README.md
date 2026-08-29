@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Beautiful sunny day☀️
-📍 Sydney: 11°C
+# 🌍 こんにちは！今日は曇り空ですね☁️
+📍 Tokyo: 21°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,21 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計80件ものコミット、素晴らしい活動量ですね！🚀 各リポジトリでの主要な貢献をまとめました。
+直近30日間で合計94件ものコミット、素晴らしい活躍ですね！🎉 さまざまなプロジェクトで多岐にわたる貢献をされています。
 
-**OpenShelf** では、大規模な機能統合（+1013/-1184行のコミット！）やリリース作業を進められたようです。特に、[安全でない乱数生成]に対するセキュリティ修正 🛡️ や、textareaのフォーカスリング改善 🎨 など、品質向上とユーザー体験への配慮が光ります。
+**OpenShelf**では、大規模なブランチのマージやリリース作業をこなし、プロダクトの安定化に大きく貢献しましたね。🎨 テキストエリアのフォーカスリング改善など、ユーザー体験向上にも注力されています。
+**jules-extension**では、Node.js 20へのバージョンアップ対応をしっかり行い、開発環境のモダン化を進めました。🚀
+**Audicle**では、依存ライブラリ（sharpやnextなど）の更新や、`buildQueueWithLegacySystem`のリファクタリングにより、コードの可読性やメンテナンス性を向上。プレイリストアイテムのルックアップ最適化といったパフォーマンス改善も素晴らしいです！✨
+**github-user-summary**では、BusinessCardコンポーネントをより小さなブロックに分割するリファクタリングを行い、モジュール性とテスト性を高めましたね。
+**paper-tools**でも、next.jsのバージョンアップに丁寧に対応しています。
 
-**jules-extension** では、Node.js 20への更新作業やパフォーマンス最適化に取り組まれましたね。環境整備と効率化への貢献、お見事です！
+全体的に、プロジェクトの基盤強化、品質向上、最新技術への追従、そしてユーザー体験改善へと、多方面で素晴らしい成果を出しています。日々の地道な努力が、着実にプロダクトを進化させていますね！この調子で頑張ってください！💪
 
-**github-user-summary** では、BusinessCardコンポーネントの大規模なリファクタリング 🧹 やテスト修正を通じて、コードの保守性と堅牢性を高められました。
-
-**Audicle** でも、`buildQueueWithLegacySystem`のリファクタリング 🧹 や、プレイリストアイテムのルックアップ最適化など、コードの可読性とパフォーマンス向上に注力されていますね。
-
-また、**paper-tools** ではNode.バージョン管理のための`.nvmrc`追加 🧹 や、プロパティ検索のパフォーマンス最適化と、多岐にわたる活躍が見られます。
-
-どのプロジェクトでも、コード品質、パフォーマンス、セキュリティ、そしてユーザー体験向上への意識が感じられます。日々の地道な努力が、素晴らしい成果に繋がっていますね！これからも期待しています！✨
-
-_Total: 71 commits across 6 projects_
+_Total: 85 commits across 6 projects_
 
 <table>
   <tr>
@@ -49,7 +45,7 @@ _Total: 71 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 24 commits (33.8%)</sub>
+      <sub>📊 24 commits (28.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -60,18 +56,18 @@ _Total: 71 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 17 commits (23.9%)</sub>
+      <sub>📊 18 commits (21.2%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 19</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/github-user-summary" alt="github-user-summary" width="100%" />
+      <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/Audicle" alt="Audicle" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/github-user-summary" target="_blank">github-user-summary</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 13 commits (18.3%)</sub>
+      <sub>📊 17 commits (20.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
