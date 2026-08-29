@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día soleado☀️
-📍 Madrid: 27°C
+# 🌍 안녕하세요! 오늘은 흐린 날씨네요☁️
+📍 Seoul: 23°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,7 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で94件ものコミット、お疲れ様です！👏 Merge remote-tracking branch 'origin/staging' into codex/openshelf-pr1159、Merge pull request #773 from Hiroki-org/agent/require-node-20、chore: require Node.js 20など、多くの作業を進められました。合計11203行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+直近30日間で合計94件ものコミット、素晴らしい活躍でした！✨
+
+特に目立った活動としては、
+- **OpenShelf** では、大規模なブランチマージやリリース作業をスムーズに進め、UI/UXの改善（🎨 textareaのフォーカスリング改善）やバグ修正にも貢献されましたね！
+- **jules-extension** では、Node.js 20へのアップグレードという重要な環境整備を実施し、プロジェクトの基盤強化に大きく貢献されました。
+- **Audicle** では、依存関係の頻繁な更新（sharp and next、actions-dependenciesなど）に加え、コードの可読性向上リファクタリング（🧹 `buildQueueWithLegacySystem`の改善）やパフォーマンス最適化に精力的に取り組まれました。日々のコードベースの健全性維持に感謝です！
+- **github-user-summary** では、`BusinessCard`コンポーネントのリファクタリング（🧹 より小さなブロックコンポーネントへの分割）により保守性を高め、テスト関連の修正も行われました。
+- **paper-tools** では、Next.jsのバージョンアップを実施し、プロジェクトを最新の状態に保ちましたね。
+
+複数のリポジトリにわたり、新機能開発、リファクタリング、環境整備、品質改善と、幅広い分野で素晴らしい成果を残されました。本当に素晴らしいパフォーマンスです！この調子でこれからも頑張ってください！🚀
 
 _Total: 85 commits across 6 projects_
 
