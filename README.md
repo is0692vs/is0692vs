@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Bit cloudy today☁️
-📍 Sydney: 17°C
+# 🌍 안녕하세요! 오늘은 흐린 날씨네요☁️
+📍 Seoul: 22°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**44件**ものコミット、素晴らしい活躍でした！👏
+直近30日間で**44件**ものコミット、素晴らしい活動量でした！✨
 
-特に、**Audicle**ではsharpやnextの依存関係更新、GitHub Actionsのバージョンアップで環境を最新に保ちつつ、`buildQueueWithLegacySystem`のリファクタリングでコードの可読性を向上。さらにAPIテストを追加し、品質向上に大きく貢献されましたね！✨
+特に、**Audicle**では`sharp`や`next`といった重要な依存関係のアップデート（+190/-777行など）を精力的に進められていますね。また、`buildQueueWithLegacySystem`のリファクタリングや`/api/articles/[id]`のAPIテスト追加など、コードの品質向上とテストカバレッジ拡大にも貢献されています。📈🧪
 
-また、**github-user-summary**では`BusinessCard`コンポーネントをより小さなブロックに分割するリファクタリングを行い、コード構造を整理されました。**OpenShelf**では`staging`から`main`へのリリース作業に加え、textareaのフォーカスリングを改善し、安全でない乱数生成のセキュリティ修正も実施！🎨🛡️
+**github-user-summary**では、`BusinessCard`コンポーネントをより使いやすくするための大規模なリファクタリング（+303/-368行）とテストの修正を実施し、コードの保守性と読みやすさを大きく改善しました。🧹💡
 
-**paper-tools**でも依存関係を最新に保ち、**jules-extension**ではパフォーマンス最適化に向けた作業を進められましたね。
+**OpenShelf**では、定期的なリリース（`staging`から`main`へのマージ）に加え、`textarea`のフォーカスリング改善でUI/UXを向上させ、さらに安全でない乱数生成のセキュリティ脆弱性対応（+125/-3行）でシステムの安全性を高めています。🚀🎨🛡️
 
-多岐にわたるプロジェクトで積極的に貢献されており、本当に素晴らしいです！これからもその勢いで頑張っていきましょう！🚀
+その他、**paper-tools**でも依存関係の更新を、**jules-extension**ではパフォーマンス最適化の取り組みが見られますね。⚡
+
+各リポジトリでの多岐にわたる貢献、本当に素晴らしいです！この調子でこれからも頑張りましょう！💪
 
 _Total: 44 commits across 5 projects_
 
