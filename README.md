@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 G'day! Beautiful sunny day☀️
-📍 Sydney: 20°C
+# 🌍 Bonjour! Le ciel est nuageux☁️
+📍 Lyon: 26°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,7 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**44件**ものコミット、素晴らしい活躍ですね！🚀 多くのプロジェクトで多岐にわたる貢献をされています。
-
-特に、
-*   **Audicle**では、依存関係の定期的な更新に加え、`buildQueueWithLegacySystem`のリファクタリングでコードの可読性を高め、APIエンドポイントのテスト追加で品質向上に貢献されました。✨
-*   **github-user-summary**では、`BusinessCard`コンポーネントを小さなブロックに分解する大規模なリファクタリングを実施し、コードの保守性と再利用性を大きく改善しましたね！🔧
-*   **OpenShelf**では、リリース作業をこなしながら、`textarea`のフォーカスリング改善でUI/UXを向上させ、さらに「安全でない乱数生成」のセキュリティ修正も行い、システムの安定と安全性を高めました。🛡️
-*   **paper-tools**では、`next`のバージョンアップを含む依存関係の更新を進め、
-*   **jules-extension**ではパフォーマンス最適化に向けた作業を着々と進められています。💨
-
-各プロジェクトでの地道な努力と改善が、全体の品質向上に繋がっています。この調子で頑張ってください！💪
+直近30日間で44件ものコミット、お疲れ様です！👏 Merge pull request #1101 from Hiroki-org/dependabot/npm_and_yarn/packages/web-app-vercel/multi-99b3ee93dc、Merge pull request #508 from Hiroki-org/refactor-business-card-7648647156825477134、fix: remove stale BusinessCard replay from test PRなど、多くの作業を進められました。合計5481行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 44 commits across 5 projects_
 
