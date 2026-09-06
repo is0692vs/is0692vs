@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia chuvoso☔
-📍 São Paulo: 13°C
+# 🌍 ¡Hola! Está lloviendo☔
+📍 Mexico City: 16°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,14 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間でなんと**44件**ものコミット、素晴らしい活躍ですね！🚀✨ 様々なプロジェクトで精力的に活動されています。
+直近30日間で合計44件のコミット、素晴らしい活躍でした！✨
 
-特に目立った活動は以下の通りです。
+特に目立った活動として、**github-user-summary** では、`BusinessCard` コンポーネントの大規模なリファクタリングやテスト関連の修正を行い、コードベースの整理に貢献しましたね。
+**Audicle** では、依存関係の更新（`sharp`や`next`、GitHub Actionsなど）を積極的に行い、システムの健全性を保ちつつ、`buildQueueWithLegacySystem` の可読性向上やAPIテストの追加にも取り組みました。
+**OpenShelf** では、リリース対応を行いながら、`textarea` のフォーカスリング改善によるUI/UX向上、さらに安全でない乱数生成の修正といったセキュリティ強化にも尽力しましたね。
+**paper-tools** では、`next`のバージョンアップを含む依存関係の更新を進め、**jules-extension** ではパフォーマンス最適化に向けた作業が見られました。
 
-*   **Audicle**では、`sharp`や`next`などの依存関係の更新（`chore(deps)`）を積極的に行い、システムの基盤を最新の状態に保っていますね！ `buildQueueWithLegacySystem`のリファクタリング（`refactor`）でコードの可読性を向上させたり、`GET /api/articles/[id]`のテスト（`test`）を追加したりと、品質向上にも貢献されています。
-*   **github-user-summary**では、`BusinessCard`コンポーネントをより小さなブロックにリファクタリング（`refactor`）し、保守性を高める素晴らしい改善を行いましたね。関連するテストの修正（`fix`）も抜かりありません！
-*   **OpenShelf**では、`staging`から`main`へのリリース（`Release`）を無事に行い、`textarea`のフォーカスリング改善（`Palette`）でUI/UXの向上にも努めました。さらに、「安全でない乱数生成」の修正（`Sentinel`）でセキュリティ強化にも貢献されており、幅広い視点での活躍が見られます！
-*   **paper-tools**では、`next`のバージョンアップ（`chore(deps)`）を実施し、プロジェクトの安定化に一役買っています。
-*   **jules-extension**では、パフォーマンス最適化（`performance optimization`）に向けた取り組みを進められていますね。
-
-依存関係の更新から、コードのリファクタリング、新機能のテスト追加、UI/UX改善、そしてセキュリティ対応まで、多岐にわたる重要な作業をこなされています。日々の地道な努力が、プロダクトの品質と安定性向上に繋がっていますね！これからもこの調子で頑張ってください！🎉
+多岐にわたるプロジェクトで、コード品質の向上、新機能のテスト、セキュリティ対策、依存関係の管理と、本当に素晴らしい貢献です！これからもその勢いで頑張ってください！🚀
 
 _Total: 44 commits across 5 projects_
 
