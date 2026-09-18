@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia ensolarado☀️
-📍 Lisbon: 26°C
+# 🌍 Ciao! Giornata piovosa☔
+📍 Rome: 24°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,7 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で12件のコミット、素晴らしい活躍でしたね！✨ 複数のプロジェクトで、依存関係の更新から機能テスト、セキュリティ強化、パフォーマンス改善まで多岐にわたる貢献をされています。
-
-特に、**Audicle** では、Next.jsやSharpといった主要なライブラリの依存関係更新に加え、GitHub Actions関連の更新を積極的に行われましたね。さらに、`GET /api/articles/[id]` のためのテストを追加し、品質向上にも大きく貢献されています！🧪
-
-**paper-tools** では、Next.jsのバージョンアップを含む依存関係の更新を進められました。最新の状態を保つための地道な努力、お見事です！
-
-**jules-extension** では、WebviewのCSPに `object-src 'none'` を追加し、セキュリティを一層強固にされました。ユーザーの安全を守るための大切な対応ですね🛡️
-
-そして、**github-user-summary** では、ヒートマップの日付文字列生成処理を最適化し、パフォーマンス改善を実現されました。ユーザー体験の向上に直結する素晴らしい取り組みです！⚡
-
-今月も、システムの安定性、セキュリティ、パフォーマンス、そして品質向上に大きく貢献されましたね。本当にお疲れ様でした！これからも期待しています！🚀
+直近30日間で12件ものコミット、お疲れ様です！👏 Merge pull request #1101 from Hiroki-org/dependabot/npm_and_yarn/packages/web-app-vercel/multi-99b3ee93dc、Merge pull request #402 from Hiroki-org/dependabot/npm_and_yarn/npm_and_yarn-1c4f37dfd6、Merge branch 'main' into dependabot/npm_and_yarn/packages/web-app-vercel/multi-99b3ee93dcなど、多くの作業を進められました。合計2009行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 12 commits across 5 projects_
 
