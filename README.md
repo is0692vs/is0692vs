@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Rainy weather☔
-📍 Chicago: 22°C
+# 🌍 你好！今天多云☁️
+📍 Beijing: 22°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で12件のコミット、素晴らしい活動量ですね！🚀
+直近30日間で12件のコミット、お疲れ様でした！👏
 
-特に**Audicle**では、`sharp`や`next`、GitHub Actionsの依存関係を最新に保つ`dependabot`関連の更新が多く、プロジェクトの健全性維持に大きく貢献しています。また、`GET /api/articles/[id]`のテストを追加し、品質向上にも力を入れたようですね。🧪
+様々なプロジェクトで、システムの安定化と品質向上に大きく貢献されましたね。
 
-**paper-tools**でも`next`の依存関係更新を行うことで、プロジェクトのメンテナンスを継続されています。👍
+*   **Audicle** では、`sharp` や `next` といった主要な依存関係の更新、そしてGitHub Actions関連のメンテナンスを徹底されました。さらに、`/api/articles/[id]` エンドポイントのテストを追加し、APIの信頼性向上にも取り組んでいます！🧪
+*   **paper-tools** では、こちらも `next` のバージョンアップを含む依存関係の更新を進め、プロジェクトの健全性を維持されました。
+*   **jules-extension** では、WebviewのCSPに `object-src 'none'` を追加するというセキュリティ強化を行われました。ユーザーの安全を守る素晴らしい改善です！🛡️
+*   **github-user-summary** では、ヒートマップビルダーにおける日付文字列の生成を最適化し、パフォーマンス向上に貢献されています。⚡
 
-**jules-extension**では、WebviewのCSPに`object-src 'none'`を追加し、セキュリティ強化に貢献してくれました。ユーザーの安全を守る大切な改善です！🛡️
-
-そして**github-user-summary**では、ヒートマップビルダーの日付文字列生成を最適化し、パフォーマンス向上を実現。ユーザー体験の向上にも繋がっていますね！⚡
-
-多様なプロジェクトで、メンテナンス、品質向上、セキュリティ強化、パフォーマンス改善と、幅広い分野で活躍されていて素晴らしいです！これからも期待しています！😊
+地道な作業の積み重ねが、各プロジェクトの品質と安定性を大きく支えています。この調子で、今後の活躍も楽しみにしています！😊
 
 _Total: 12 commits across 5 projects_
 
