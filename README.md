@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia ensolarado☀️
-📍 Lisbon: 25°C
+# 🌍 Ciao! Giornata piovosa☔
+📍 Rome: 29°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-お疲れ様です！この30日間で合計117件ものコミット、素晴らしいペースですね！✨
+直近30日間で119件ものコミット、素晴らしい活躍ですね！🚀
 
-**Audicle**では、主に依存関係の更新と認証関連の改善に取り組まれました。dependabotによる多数のパッケージ更新で、システムの安定性向上に大きく貢献しましたね。💻
+[Audicle] では、主に依存関係の更新に注力されました。protobufjsやsharp、nextといった重要なパッケージのバージョンアップを複数回にわたって実施し、システムの安定性とセキュリティ向上に大きく貢献されています。また、認証チェックに関連するマージも確認でき、機能改善にも取り組まれましたね！🎧
 
-**OpenShelf**でのご活躍も目覚ましいです！セキュリティ脆弱性への対応、アクセシビリティ改善（A11y）、そしてステージングからの本番リリースと、広範な修正と重要なリリース作業を推進されました。特に、多岐にわたる依存関係の更新は、プロジェクトの健全性を保つ上で不可欠です。素晴らしい成果です！🚀
+[OpenShelf] では、多岐にわたる重要な作業をこなされました。セキュリティ脆弱性のあるプロダクション依存関係のリフレッシュや、クロスプラットフォーム対応のパッケージ修正など、システムの堅牢性を高める貢献が目立ちます。さらに、ステージング環境からのメインリリース作業に加え、MarkdownのXSS対策やPDFビューアのアクセシビリティ改善など、ユーザー体験とセキュリティを両面から強化されました。開発依存関係の更新やGitHub Actionsの対応も完璧です！📚
 
-また、**paper-tools**でも、依存関係とフレームワークのセキュリティ更新を進め、プロジェクトの安全性を高められました。🔒
+[paper-tools] では、こちらも複数の依存関係の更新を進め、プロジェクトの健全性を維持されています。📄
 
-各リポジトリで基盤となる部分の強化や品質向上に尽力いただき、感謝いたします！これからも素晴らしい開発を期待しています！😊
+各プロジェクトでの地道な努力と幅広い貢献が、プロダクトの品質向上に繋がっています。この調子でこれからも素晴らしい開発を続けていきましょう！🎉
 
-_Total: 117 commits across 5 projects_
+_Total: 119 commits across 5 projects_
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ _Total: 117 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 54 commits (46.2%)</sub>
+      <sub>📊 56 commits (47.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +56,7 @@ _Total: 117 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 31 commits (26.5%)</sub>
+      <sub>📊 31 commits (26.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -67,7 +67,7 @@ _Total: 117 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 21 commits (17.9%)</sub>
+      <sub>📊 21 commits (17.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
