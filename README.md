@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hallo! Es regnet☔
-📍 Berlin: 17°C
+# 🌍 Hello! Lovely sunny weather☀️
+📍 London: 22°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,16 +24,7 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと119件ものコミット、素晴らしい活躍でしたね！🚀
-日々の開発・改善に精力的に取り組んでいただき、ありがとうございます！
-
-主な活動としては、多岐にわたるプロジェクトの安定性向上とセキュリティ強化が目立ちました。
-
-*   **Audicle**では、dependabotによる依存関係の多数更新や、`main`ブランチへのマージ作業を通じて、プロジェクトの基盤を常に最新かつ堅牢に保つための努力が重ねられましたね。セキュリティと安定性向上に大きく貢献されました！🔐
-*   **OpenShelf**では、特に多くの活動が見られました。セキュリティ脆弱性に対応するための依存関係更新やクロスプラットフォーム対応のパッケージ更新を積極的に進められました。さらに、`staging`から`main`へのリリース、MarkdownのXSS修正、toastのARIAロールやPDFビューアのアクセシビリティ対応など、品質向上とユーザー体験の改善に大きく貢献されましたね！✨
-*   **paper-tools**でも、dependabotによる依存関係の更新をしっかりと行い、プロジェクトの健全性を維持されています。💪
-
-これだけの多岐にわたる重要なタスクを精力的にこなされ、本当に素晴らしいの一言です！今後のさらなるご活躍も期待しています！😊
+直近30日間で119件ものコミット、お疲れ様です！👏 Merge branch 'main' into dependabot/npm_and_yarn/packages/web-app-vercel/protobufjs-7.6.6、Merge pull request #1141 from Hiroki-org/dependabot/npm_and_yarn/packages/chrome-extension/npm_and_yarn-00f4f86ca2、fix(deps): include cross-platform optional packagesなど、多くの作業を進められました。合計32563行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 119 commits across 5 projects_
 
