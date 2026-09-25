@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy day☁️
-📍 Chicago: 16°C
+# 🌍 你好！下雨了☔
+📍 Beijing: 20°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,19 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で129ものコミット、素晴らしい活躍でしたね！🚀 各リポジトリで活発な開発が進んでいます。
+直近30日間で合計133件のコミット、お疲れ様です！素晴らしい活動量ですね👏
 
-**Audicle**では、主に依存関係の更新に尽力されました。`protobufjs`や`sharp`、`next`、`undici`、`nanoid`など、多くのパッケージのバージョンアップを行い、システムの安定性とセキュリティ向上に貢献しましたね。✨ `dependabot`による更新の丁寧なマージ作業、お疲れ様でした！
+各リポジトリでの活躍をご紹介します！
 
-**OpenShelf**では、多岐にわたる重要な作業が光っていました！💡`cross-platform optional packages`や`vulnerable production dependencies`の修正で依存関係を整理し、セキュリティを強化。`markdown-badge-xss`や`jules-security-fix`といったセキュリティ修正、さらに`palette-toast-aria-role`や`pdf-viewer-a11y`でアクセシビリティ改善にも取り組まれました。`staging`から`main`へのリリース作業もこなし、着実にプロジェクトを進めていますね！
+**[Audicle]** では、メインブランチへの精力的なマージ作業と並行して、protobufjs、npm_and_yarnグループ、undici、sharp、next、nanoidなど、多数のライブラリの依存関係更新を進めましたね。システムのセキュリティとパフォーマンスを最新の状態に保ち、安定運用に大きく貢献しています✨。
 
-**paper-tools**では、`npm_and_yarn`グループの依存関係を更新し、プロジェクトの健全性を保ちました。👍
+**[OpenShelf]** では、特にセキュリティ強化への取り組みが目立ちます！プロダクション環境の脆弱性対応、クロスプラットフォーム対応の改善、GitHub Actionsの依存関係更新に加え、PDFビューアのアクセシビリティ向上やMarkdownバッジのXSS対策など、ユーザー体験と安全性を高めるための重要な改善を多岐にわたって実施しました。ステージングからメインへのリリースも成功し、着実にサービスを進化させていますね🚀。
 
-様々なリポジトリでの積極的な貢献、本当にお疲れ様でした！この調子でこれからも素晴らしい成果を楽しみにしています！🎉
+**[paper-tools]** でも、npm_and_yarnグループの依存関係を最新に保つための更新を実施しました。
 
-_Total: 128 commits across 5 projects_
+全体的に、システム全体の健全性とセキュリティ、そしてユーザー体験の向上に大きく貢献されています！これからのさらなる活躍も楽しみにしています！😊
+
+_Total: 132 commits across 6 projects_
 
 <table>
   <tr>
@@ -45,7 +47,7 @@ _Total: 128 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 56 commits (43.8%)</sub>
+      <sub>📊 56 commits (42.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +58,7 @@ _Total: 128 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 31 commits (24.2%)</sub>
+      <sub>📊 31 commits (23.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -67,7 +69,7 @@ _Total: 128 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 21 commits (16.4%)</sub>
+      <sub>📊 21 commits (15.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -82,26 +84,26 @@ _Total: 128 commits across 5 projects_
 <table>
   <tr>
     <td align="center">
-      <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
-      <br />
-      <sub>NJPW</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/5So15vlWHcIFmBNbSnewks" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b27394fb3480c556174040915928" alt="War Dogs" width="120" />
       </a>
       <br />
-      <sub><strong>#2</strong></sub>
+      <sub><strong>#1</strong></sub>
       <br />
       <sub>War Dogs</sub>
       <br />
       <sub>[Q]brick, Kensei Abbot</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
+      <br />
+      <sub>NJPW</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/3xUQAdNRIJIZwMaABAW30d" target="_blank">
