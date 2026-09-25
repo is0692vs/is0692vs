@@ -24,17 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で127件ものコミット、素晴らしい活動量でしたね！👏 プロジェクトの健全性維持に大きく貢献されています。
+直近30日間で129ものコミット、素晴らしい活躍でしたね！🚀 各リポジトリで活発な開発が進んでいます。
 
-特に**Audicle**では、`protobufjs`や`npm_and_yarn`、`undici`、`sharp`/`next`、`nanoid`など、多岐にわたる依存関係の更新を積極的に実施されました。これにより、最新のライブラリを取り込み、アプリケーションの安定性とパフォーマンス向上に繋がっていますね！
+**Audicle**では、主に依存関係の更新に尽力されました。`protobufjs`や`sharp`、`next`、`undici`、`nanoid`など、多くのパッケージのバージョンアップを行い、システムの安定性とセキュリティ向上に貢献しましたね。✨ `dependabot`による更新の丁寧なマージ作業、お疲れ様でした！
 
-**OpenShelf**でも、`cross-platform`パッケージや脆弱性のあるプロダクション依存関係、`npm-development`グループの更新、`Hono`のアップデートなど、こちらも多くの依存関係の修正・更新が行われています。さらに、`staging`ブランチからのリリースや、`markdown-badge-xss`、`jules-security-fix`、`palette-toast-aria-role`、`pdf-viewer-a11y`といったセキュリティやアクセシビリティに関する重要な修正マージも多数見られます。プロダクトの品質と安全性を高めるための献身的な作業、本当に頭が下がります！🛡️
+**OpenShelf**では、多岐にわたる重要な作業が光っていました！💡`cross-platform optional packages`や`vulnerable production dependencies`の修正で依存関係を整理し、セキュリティを強化。`markdown-badge-xss`や`jules-security-fix`といったセキュリティ修正、さらに`palette-toast-aria-role`や`pdf-viewer-a11y`でアクセシビリティ改善にも取り組まれました。`staging`から`main`へのリリース作業もこなし、着実にプロジェクトを進めていますね！
 
-そして**paper-tools**でも、`npm_and_yarn`の依存関係グループの更新を進められました。
+**paper-tools**では、`npm_and_yarn`グループの依存関係を更新し、プロジェクトの健全性を保ちました。👍
 
-複数のリポジトリにわたり、依存関係の更新とセキュリティ・品質向上に重点を置いた素晴らしい期間でした。常に最新の状態を保つための地道な努力が、プロダクト全体の安定と成長を支えています。本当にお疲れ様でした！次の一ヶ月も期待しています！✨
+様々なリポジトリでの積極的な貢献、本当にお疲れ様でした！この調子でこれからも素晴らしい成果を楽しみにしています！🎉
 
-_Total: 126 commits across 5 projects_
+_Total: 128 commits across 5 projects_
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ _Total: 126 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 56 commits (44.4%)</sub>
+      <sub>📊 56 commits (43.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +56,7 @@ _Total: 126 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 31 commits (24.6%)</sub>
+      <sub>📊 31 commits (24.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -67,7 +67,7 @@ _Total: 126 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 21 commits (16.7%)</sub>
+      <sub>📊 21 commits (16.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -77,9 +77,67 @@ _Total: 126 commits across 5 projects_
 <!-- active-projects:end -->
 
 <!-- spotify:start -->
-🎵 My Top Tracks on Spotify (Recently):
+## 🎵 My Top Tracks on Spotify (Recently)
 
-_Error fetching tracks. Please try again later._
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
+      </a>
+      <br />
+      <sub><strong>#1</strong></sub>
+      <br />
+      <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
+      <br />
+      <sub>NJPW</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/5So15vlWHcIFmBNbSnewks" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27394fb3480c556174040915928" alt="War Dogs" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>War Dogs</sub>
+      <br />
+      <sub>[Q]brick, Kensei Abbot</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/3xUQAdNRIJIZwMaABAW30d" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2734cd6430c81db387bb7bed830" alt="飯伏幸太のテーマ 「Golden☆Star 2020ver.」" width="120" />
+      </a>
+      <br />
+      <sub><strong>#3</strong></sub>
+      <br />
+      <sub>飯伏幸太のテーマ 「Golden☆Star 2020ver.」</sub>
+      <br />
+      <sub>NJPW(新日本プロレスリング株式会社)</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/7jwgLHy2EMK9vcbGdlFp99" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273b098ce3dd24e07d4519dd8f9" alt="Battle Cry (Kenny Omega Theme)" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>Battle Cry (Kenny Omega Theme)</sub>
+      <br />
+      <sub>All Elite Wrestling</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/3yuNbUYZMOARwiyJMQd3wo" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27341815ddf181bf3d7df715e6c" alt="Afterglow" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>Afterglow</sub>
+      <br />
+      <sub>In Hearts Wake</sub>
+    </td>
+  </tr>
+</table>
 <!-- spotify:end -->
 
 <!-- github-releases:start -->
