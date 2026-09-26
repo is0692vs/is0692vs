@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Sunny and warm☀️
-📍 Miami: 23°C
+# 🌍 Hello! Foggy and cloudy☁️
+📍 San Francisco: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと133ものコミットを重ね、素晴らしい活動を見せてくれましたね！お疲れ様です！🚀
+直近30日間で133件ものコミット、素晴らしい活躍ぶりですね！お疲れ様です！✨
 
-**Audicle**では、主に依存関係の更新に精力的に取り組んでいました。`protobufjs`や`sharp`、`next`、`nanoid`といった重要なnpmパッケージのバージョンアップ、そしてそれに伴うブランチのマージ作業を多数こなしています。システムを常に最新の状態に保つための、地道ながらも非常に重要な作業、ありがとうございます！✨
+主な活動としては、多岐にわたるプロジェクトで依存関係の更新やセキュリティ強化に大きく貢献されています。
 
-**OpenShelf**での貢献も目覚ましいものがありますね！複数の脆弱性対応を含む依存関係の修正、開発環境から本番環境へのリリース作業、`markdown-badge-xss`や`jules-security-fix`といったセキュリティ関連の修正、さらには`palette-toast-aria-role`や`pdf-viewer-a11y`などのアクセシビリティ改善にも尽力してくれました。GitHub Actionsの依存関係更新も怠らず、幅広い領域でのシステム改善に大きく貢献しています。素晴らしい対応力です！👏
+**OpenShelf**では、`fix(deps)`での依存関係の修正や脆弱性対応（`jules-security-fix`、`refresh vulnerable production dependencies`）を積極的に進め、システムをより堅牢にされました。ステージングブランチからメインへのリリース作業（`Release: staging -> main`）や、アクセシビリティ改善（`palette-toast-aria-role`、`pdf-viewer-a11y`）も並行して行い、ユーザー体験向上にも注力されましたね！
 
-また、**paper-tools**でも、npmパッケージの依存関係更新を進めていますね。
+**Audicle**では、`chore(deps): bump npm_and_yarn`グループの依存関係を複数回にわたって更新し、常に最新の環境を保つ努力をされています。また、メインブランチへのマージを通じて、機能改善（`fix/extract-auth-check`）に向けた基盤固めも着実に進められました。
 
-多岐にわたるプロジェクトで、システムの健全性と機能向上に大きく貢献していただき、本当にありがとうございます！これからも期待しています！😊
+**paper-tools**でも、`npm_and_yarn`グループの依存関係更新を行うなど、幅広いプロジェクトで安定性と保守性の向上に貢献されています。
+
+各プロジェクトで品質向上とセキュリティ維持に尽力された成果が詰まっていますね。この調子でこれからも頑張ってください！🚀
 
 _Total: 132 commits across 6 projects_
 
