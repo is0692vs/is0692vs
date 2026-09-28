@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Está lloviendo☔
-📍 Bogotá: 13°C
+# 🌍 Hello! Partly cloudy today☁️
+📍 Miami: 31°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,18 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で133件ものコミット、素晴らしい活躍ぶりですね！お疲れ様です！🎉
+直近30日間で133件もの素晴らしいコミット、お疲れ様でした！👏
+主な活動として、複数のリポジトリでシステム基盤の安定化と機能改善に尽力されたことがうかがえます。
 
-この期間、特に「依存関係の更新」と「ブランチのマージ」が活発に行われていましたね。プロジェクトの安定性とセキュリティ向上に大きく貢献しています。
+特に**[Audicle]** では、WebアプリやChrome拡張機能の依存関係を積極的に更新し、プロジェクトの基盤を最新かつ安定した状態に保つための重要な貢献をしていただきましたね。継続的なメンテナンス、素晴らしいです！
 
-*   **Audicle**: 大規模なライブラリ更新を含む`npm_and_yarn`グループの依存関係更新に尽力されました。`protobufjs`や`sharp`、`next`、`undici`、`nanoid`といった重要なパッケージのバージョンアップを丁寧に進め、システムの健全性を高めていますね！✨
-*   **OpenShelf**: こちらでは、脆弱性対応を含む依存関係の更新（`vulnerable production dependencies`や`cross-platform optional packages`の修正）が目立ちました。また、`staging`ブランチからの`main`へのリリース作業も着実に実施され、複数の機能ブランチ（例えば、`fix/markdown-badge-xss`のようなセキュリティ修正や`palette-toast-aria-role`、`palette/pdf-viewer-a11y`といったアクセシビリティ改善）も丁寧にマージされており、品質と安全性の両面で大きな成果を上げました。🚀
-*   **paper-tools**: こちらでも`npm_and_yarn`グループの依存関係更新を行い、環境を最新の状態に保つ重要な役割を担いました。
+**[OpenShelf]** では、依存関係の修正はもちろんのこと、セキュリティ脆弱性への対応、アクセシビリティ改善、さらにはステージングからメインへのリリース作業まで、多岐にわたる重要なタスクをリードしてくださいました。広範囲にわたる献身的な貢献に感謝いたします！✨
 
-全体的に、日々の細かな改善から大規模な依存関係のアップデート、さらには本番環境へのリリースまで、多岐にわたる重要な作業を精力的にこなされたことがよくわかります。これからもその素晴らしい活動に期待しています！👍
+そして**[paper-tools]** でも、必要な依存関係のアップデートをしっかりと行い、プロジェクトの健全性を保つことに貢献されました。
 
-_Total: 132 commits across 6 projects_
+それぞれのプロジェクトで、着実にそして広範囲にわたる貢献をされていることがよくわかります。これからもその調子で、素晴らしい開発を続けてください！応援しています！🚀
+
+_Total: 102 commits across 6 projects_
 
 <table>
   <tr>
@@ -45,7 +46,7 @@ _Total: 132 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 56 commits (42.4%)</sub>
+      <sub>📊 37 commits (36.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +57,7 @@ _Total: 132 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 31 commits (23.5%)</sub>
+      <sub>📊 24 commits (23.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -67,7 +68,7 @@ _Total: 132 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 21 commits (15.9%)</sub>
+      <sub>📊 19 commits (18.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -145,7 +146,7 @@ _Total: 132 commits across 6 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.1-publish">v1.6.1-publish</a> · 2 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.1-publish">v1.6.1-publish</a> · 3 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.6.1-publish -->
@@ -159,7 +160,7 @@ _Total: 132 commits across 6 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.1">v1.6.1</a> · 2 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.1">v1.6.1</a> · 3 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.6.1 -->
