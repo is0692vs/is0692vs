@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Madrid: 24°C
+# 🌍 おはよう！雨だね☔
+📍 Sapporo: 16°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,14 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計103件のコミット、お疲れ様でした！素晴らしい活動の数々ですね👏
+直近30日間で103件ものコミット、素晴らしい活躍でしたね！🚀
+特に、各プロジェクトで多岐にわたる重要な作業を進めてくださり、本当にありがとうございます。
 
-主に、システム保守とセキュリティ強化に尽力されています。
+*   **Audicle** では、多数の依存関係更新（`chore(deps)`、`dependabot`）やブランチマージを頻繁に実施し、プロジェクトの基盤を常に最新かつ堅牢に保つ努力が光っています✨
+*   **OpenShelf** では、依存関係の修正（`fix(deps)`）やセキュリティ強化（`security/refresh-production-dependencies`、`fix/markdown-badge-xss`）、さらにはアクセシビリティ向上（`palette-toast-aria-role`、`palette/pdf-viewer-a11y`）にも取り組んでいただきましたね。`Release: staging -> main`といったリリース作業もスムーズに進め、安定したサービス提供に貢献されています👏
+*   **paper-tools** でも、依存関係のアップデート（`chore(deps)`）やセキュリティ関連の修正（`fix-token-refresh-error-exposure`）をしっかりと行い、システムの健全性と安全性を高めていますね。
 
-*   **Audicle** では、多数の依存関係 (例: `protobufjs`, `js-yaml`, `undici`) の更新を通じ、最新の環境とセキュリティを維持しました。安定稼働に貢献されていますね！
-*   **OpenShelf** では、脆弱性対応の依存関係刷新、クロスプラットフォーム対応の改善に加え、`markdown-badge-xss` や `jules-security-fix` といったセキュリティ修正、そしてアクセシビリティ改善 (`palette-toast-aria-role`, `pdf-viewer-a11y`) にも尽力。安定版リリース (`staging -> main`) も成功させました！✨
-*   **paper-tools** でも、依存関係の更新と同時に、堅牢なシステムを目指しフレームワークのセキュリティ強化やエラー表示の改善を実施されました。
-
-日々の丁寧な作業が、プロジェクト全体の品質と安全性を高めています。これからもその調子で頑張ってください！🚀
+多忙な中でも、これだけ多くのコミットを通じて品質向上やセキュリティ強化に貢献してくださり、大変感謝しています。日々の地道な努力が、素晴らしいプロダクトを支えています！これからも一緒に頑張りましょう！🌟
 
 _Total: 102 commits across 6 projects_
 
