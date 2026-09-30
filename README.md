@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Le ciel est nuageux☁️
-📍 Lyon: 21°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Barcelona: 28°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -9,7 +9,7 @@
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 17 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 76 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-08-31%22%2C%222026-09-01%22%2C%222026-09-02%22%2C%222026-09-03%22%2C%222026-09-04%22%2C%222026-09-05%22%2C%222026-09-06%22%2C%222026-09-07%22%2C%222026-09-08%22%2C%222026-09-09%22%2C%222026-09-10%22%2C%222026-09-11%22%2C%222026-09-12%22%2C%222026-09-13%22%2C%222026-09-14%22%2C%222026-09-15%22%2C%222026-09-16%22%2C%222026-09-17%22%2C%222026-09-18%22%2C%222026-09-19%22%2C%222026-09-20%22%2C%222026-09-21%22%2C%222026-09-22%22%2C%222026-09-23%22%2C%222026-09-24%22%2C%222026-09-25%22%2C%222026-09-26%22%2C%222026-09-27%22%2C%222026-09-28%22%2C%222026-09-29%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B7029%2C7041%2C7064%2C7075%2C7085%2C7097%2C7112%2C7125%2C7138%2C7152%2C7166%2C7172%2C7185%2C7192%2C7195%2C7219%2C7238%2C7249%2C7256%2C7282%2C7292%2C7306%2C7316%2C7330%2C7338%2C7354%2C7363%2C7372%2C7384%2C7393%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B71%2C71%2C71%2C71%2C72%2C72%2C72%2C72%2C72%2C72%2C72%2C73%2C73%2C73%2C73%2C74%2C74%2C74%2C74%2C74%2C74%2C74%2C75%2C75%2C75%2C75%2C75%2C76%2C76%2C76%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-09-01%22%2C%222026-09-02%22%2C%222026-09-03%22%2C%222026-09-04%22%2C%222026-09-05%22%2C%222026-09-06%22%2C%222026-09-07%22%2C%222026-09-08%22%2C%222026-09-09%22%2C%222026-09-10%22%2C%222026-09-11%22%2C%222026-09-12%22%2C%222026-09-13%22%2C%222026-09-14%22%2C%222026-09-15%22%2C%222026-09-16%22%2C%222026-09-17%22%2C%222026-09-18%22%2C%222026-09-19%22%2C%222026-09-20%22%2C%222026-09-21%22%2C%222026-09-22%22%2C%222026-09-23%22%2C%222026-09-24%22%2C%222026-09-25%22%2C%222026-09-26%22%2C%222026-09-27%22%2C%222026-09-28%22%2C%222026-09-29%22%2C%222026-09-30%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B7041%2C7064%2C7075%2C7085%2C7097%2C7112%2C7125%2C7138%2C7152%2C7166%2C7172%2C7185%2C7192%2C7195%2C7219%2C7238%2C7249%2C7256%2C7282%2C7292%2C7306%2C7316%2C7330%2C7338%2C7354%2C7363%2C7372%2C7384%2C7393%2C7393%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C16%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B71%2C71%2C71%2C72%2C72%2C72%2C72%2C72%2C72%2C72%2C73%2C73%2C73%2C73%2C74%2C74%2C74%2C74%2C74%2C74%2C74%2C75%2C75%2C75%2C75%2C75%2C76%2C76%2C76%2C76%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,16 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計103件ものコミット、素晴らしい活動量ですね！👏 主に依存関係の更新やセキュリティ強化、そしてシステムの安定化に大きく貢献されたことが伺えます。
+直近30日間で合計103件のコミット、お疲れ様です！素晴らしい活動量ですね👏
 
-各リポジトリでの活躍を見ていきましょう。
-[Audicle] では、dependabotによる多数の依存関係更新をこなし、常に最新かつ安全な環境を維持するためのメンテナンスに尽力されました。protobufjsやjs-yamlなど、様々なパッケージのバージョンアップをスムーズに進められた点は素晴らしいです！✨
+この期間は、主に各プロジェクトの「依存関係の更新」と「セキュリティ強化」、そして「品質改善」に大きく貢献されました。
 
-[OpenShelf] では、セキュリティ脆弱性のある依存関係の刷新やクロスプラットフォーム対応パッケージの修正など、システムの堅牢性を高める作業が光っていました。また、MarkdownバッジのXSS修正やPDFビューア、トーストのアクセシビリティ改善にも取り組み、ユーザー体験の向上に貢献されていますね。ステージングからメインへのリリースも成功させ、大きな進展があったようです！🚀
+**Audicle** では、dependabotを活用したnpm/yarnの依存関係更新を積極的に行い、安定性と最新の環境維持に努めていますね。また、認証チェック関連の基盤整理も進められているようです。
 
-[paper-tools] でも、npm_and_yarnグループの依存関係更新やセキュアなフレームワークの完全なアップデート、そしてトークン更新時の内部エラー露出修正といった、セキュリティ関連の重要な改善を行いました。システムの安全性を高める上で非常に大切な作業でしたね！🛡️
+**OpenShelf** では、特にセキュリティ関連の依存関係を頻繁に更新し、脆弱性対策を徹底されています。XSSやセキュリティ修正、そしてPDFビューアやトーストのアクセシビリティ（A11y）改善も進め、ユーザー体験の向上にも注力されました。ステージングからメインへのリリース作業も完了し、大きな節目となりましたね！
 
-このように、各プロジェクトで多岐にわたる重要なタスクをこなし、システムの安定性、セキュリティ、そして将来の発展のために尽力されていることがよく分かります。今後のさらなるご活躍も楽しみにしています！これからも一緒に頑張りましょう！👍
+**paper-tools** でも、依存関係の更新とセキュアなフレームワークへの対応、トークンリフレッシュエラーの露出防止など、セキュリティと安定性向上に貢献されています。
+
+様々なリポジトリで重要なメンテナンスや改善を同時並行で進められており、チーム全体の生産性とプロダクトの信頼性向上に大きく寄与しています。今後のご活躍も楽しみにしています！✨
 
 _Total: 102 commits across 6 projects_
 
@@ -116,26 +117,26 @@ _Total: 102 commits across 6 projects_
       <sub>AiNA THE END</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/1sbEsttOqyGIYDVN5Uuoy7" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273aa582122453603bedbdc4cec" alt="飯伏幸太のテーマ｢Golden Star｣" width="120" />
+      <a href="https://open.spotify.com/track/3TtCZYBOQukcXUlBfetNmy" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273d263a9b9a61401bec9b0abd8" alt="石森太二(ボーンソルジャー)のテーマ「BONE SOLDIER(2018.5.4どんたく限定バージョン)」" width="120" />
       </a>
       <br />
       <sub><strong>#4</strong></sub>
       <br />
-      <sub>飯伏幸太のテーマ｢Golden Star｣</sub>
+      <sub>石森太二(ボーンソルジャー)のテーマ「BONE SOLDIER(2018.5.4どんたく限定バージョン)」</sub>
       <br />
       <sub>NJPW</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/7jwgLHy2EMK9vcbGdlFp99" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273b098ce3dd24e07d4519dd8f9" alt="Battle Cry (Kenny Omega Theme)" width="120" />
+      <a href="https://open.spotify.com/track/7lFzS8uBjpXckGjQQcpJrW" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273a7c40bdda1c31a91cb8bd474" alt="不可逆リプレイス - Fukagyaku Replace" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>Battle Cry (Kenny Omega Theme)</sub>
+      <sub>不可逆リプレイス - Fukagyaku Replace</sub>
       <br />
-      <sub>All Elite Wrestling</sub>
+      <sub>MY FIRST STORY</sub>
     </td>
   </tr>
 </table>
