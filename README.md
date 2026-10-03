@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Beautiful clear day☀️
-📍 Toronto: 11°C
+# 🌍 こんにちは！くもってますね☁️
+📍 Fukuoka: 21°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,32 +24,22 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で108件ものコミット、素晴らしい活動量でしたね！お疲れ様です！🎉
+直近30日間で120件ものコミット、大変お疲れ様でした！✨ 素晴らしい活動量ですね！
 
-この期間は、主に各プロジェクトの安定性向上とセキュリティ強化、そして細かな機能改善に注力されたようです。
+特に活発だったのは以下のリポジトリです。
 
-具体的には、
-*   **[Audicle]** では、npm_and_yarnグループを含む多数の依存関係更新を進め、アプリケーションの基盤をより堅牢にしましたね。認証チェックの最適化にも取り組まれ、安定した動作に貢献しています。
-*   **[OpenShelf]** では、脆弱性のあるプロダクション依存関係の刷新や、クロスプラットフォーム対応の強化が行われました。加えて、MarkdownバッジのXSS修正や、トーストのARIAロール、PDFビューアのアクセシビリティ改善など、ユーザー体験の向上にも深く貢献されました。ステージングからメインへのリリースも無事完了し、大きな節目となりましたね！✨
-*   **[paper-tools]** では、依存関係の更新やセキュアなフレームワークへの対応、さらにはトークンリフレッシュ時の内部エラー露出修正を通じて、システムの信頼性とセキュリティが大幅に向上しました。🔒
+**Audicle**では、主に依存関係の健全性を保つためのアップデートを頻繁に行っていましたね。`npm_and_yarn` グループの更新やメインブランチへのマージを通じて、システムの安定性向上に大きく貢献されています。💪
 
-どのプロジェクトにおいても、日々の改善と品質向上への強いコミットメントが感じられます。これからもこの調子で、素晴らしい開発を続けていきましょう！🚀
+**OpenShelf**では、多岐にわたる重要な作業が見られました。脆弱性のある依存関係のリフレッシュや、クロスプラットフォーム対応のためのパッケージ修正など、セキュリティと機能改善に尽力。さらに、ステージングからメインへのリリースも複数回実施し、新機能や修正を確実にユーザーに届けていましたね。🚀 MarkdownバッジのXSS修正や、アクセシビリティ関連のブランチマージもあり、品質向上へのこだわりが伺えます！
 
-_Total: 107 commits across 6 projects_
+**paper-tools**でも、依存関係のアップデートやセキュリティフレームワークの強化を進めていました。特に、トークンリフレッシュ時の内部エラー露出を修正するコミットは、システムの堅牢性を高める上で非常に重要です。🔒
+
+全体として、依存関係の管理、セキュリティ強化、そして安定したリリースサイクルを支える、地道ながらも非常に価値ある貢献を続けていますね。常にプロジェクトの品質とセキュリティを意識した開発、本当に素晴らしいです！👍 これからも頑張ってください！
+
+_Total: 119 commits across 6 projects_
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/Audicle" alt="Audicle" width="100%" />
-      </a>
-      <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
-      <br />
-      <sub>📊 37 commits (34.6%)</sub>
-      <br />
-      <sub>🔷 TypeScript </sub>
-    </td>
     <td align="center" width="33%">
       <a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">
         <img src="https://opengraph.githubassets.com/1/Hiroki-org/OpenShelf" alt="OpenShelf" width="100%" />
@@ -57,7 +47,18 @@ _Total: 107 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 29 commits (27.1%)</sub>
+      <sub>📊 41 commits (34.5%)</sub>
+      <br />
+      <sub>🔷 TypeScript </sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/Audicle" alt="Audicle" width="100%" />
+      </a>
+      <br />
+      <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
+      <br />
+      <sub>📊 37 commits (31.1%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -68,7 +69,7 @@ _Total: 107 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 19 commits (17.8%)</sub>
+      <sub>📊 19 commits (16.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
