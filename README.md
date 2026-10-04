@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Clear skies today☀️
-📍 Chicago: 12°C
+# 🌍 おはよう！雨ですね☔
+📍 Hiroshima: 19°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**合計120件**ものコミット、お疲れ様です！素晴らしい活動量ですね！✨
+直近30日間で121件ものコミット、素晴らしい成果ですね！🎉
 
-各リポジトリでの精力的な活動を拝見しました。
+**Audicle**では、主に依存関係の更新とセキュリティ対応に尽力されました。特に、複数のDependabotアラートを解消し、`protobufjs`や`js-yaml`といった重要なライブラリの更新をメインブランチにマージする作業は、プロジェクトの健全性を保つ上で非常に重要です。認証周りの修正も進められましたね！
 
-*   **Audicle** では、多数の依存関係（`npm_and_yarn`, `protobufjs`, `js-yaml` など）の更新やマージを頻繁に行い、プロジェクトの健全性とセキュリティ維持に大きく貢献されていますね。
-*   **OpenShelf** では、依存関係の定期的な更新に加え、セキュリティ脆弱性への対応 (`refresh vulnerable production dependencies`)、クロスプラットフォーム対応の強化、さらにはMarkdownバッジのXSS修正、トーストのARIAロールやPDFビューアのアクセシビリティ改善など、幅広い品質向上に取り組んでいます。また、`staging` から `main` へのリリースも複数回実施されており、新機能の安定提供に尽力されていますね。
-*   **paper-tools** でも、依存関係の更新 (`npm_and_yarn`) と、トークンリフレッシュ時のエラー露出防止といったセキュリティ強化に貢献されています。
+**OpenShelf**での貢献も多岐にわたります。脆弱性のある依存関係を複数回にわたってリフレッシュし、XSSやJules関連のセキュリティ問題を修正したのは見事です。また、アクセシビリティ改善として`palette-toast-aria-role`や`pdf-viewer-a11y`への対応を進め、より使いやすいサービスへと進化させていますね。`staging`から`main`へのリリース作業も定期的に実施し、安定稼働に貢献されています。👏
 
-システム全体の安定性、セキュリティ、そして機能改善に大きく貢献されており、日々の地道な作業がプロダクトの品質を支えていることを強く感じます。この調子で頑張りましょう！🚀
+**paper-tools**では、`npm_and_yarn`グループの依存関係を更新し、セキュリティフレームワークの強化に取り組まれました。これにより、プロジェクトの基盤がより堅牢になったことでしょう。
 
-_Total: 119 commits across 6 projects_
+全体を通して、依存関係の健全化、セキュリティ対策、そしてアクセシビリティ向上と、非常に幅広く質の高い活動を精力的に行っていたことが伺えます。日々の地道な作業がプロジェクト全体の品質向上に繋がっていますね。この調子でこれからも素晴らしい貢献を期待しています！✨
+
+_Total: 120 commits across 6 projects_
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ _Total: 119 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 41 commits (34.5%)</sub>
+      <sub>📊 41 commits (34.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -56,7 +56,7 @@ _Total: 119 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 37 commits (31.1%)</sub>
+      <sub>📊 38 commits (31.7%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -67,7 +67,7 @@ _Total: 119 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 19 commits (16.0%)</sub>
+      <sub>📊 19 commits (15.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
