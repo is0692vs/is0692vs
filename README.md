@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia nublado☁️
-📍 Lisbon: 22°C
+# 🌍 Hello! Tropical rain shower☔
+📍 Miami: 29°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,15 +24,7 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、合計121件ものコミット、大変お疲れ様でした！たくさんの貢献をありがとうございます！🚀
-
-**Audicle** では、主に依存関係の更新に尽力されましたね。`dependabot/npm_and_yarn` グループのアップデートや、オープンになっているDependabotアラートの解消（セキュリティ修正）に取り組まれ、プロジェクトの健全性を維持されています。また、様々なブランチのマージ作業も精力的に進められました。
-
-**OpenShelf** では、特に多岐にわたる活躍が見られます。脆弱なプロダクション依存関係の更新や、クロスプラットフォーム対応のパッケージ追加、開発依存関係のアップデートなど、堅牢性と安定性向上に貢献されました。さらに、アクセシビリティ改善（例: `palette-toast-aria-role`、`pdf-viewer-a11y`）や、XSS脆弱性修正などの重要なセキュリティ対応、さらには `Release: staging -> main` のリリース作業まで、幅広いタスクをこなされていますね。素晴らしいです！✨
-
-**paper-tools** では、依存関係の更新 (`npm_and_yarn` グループ) と、セキュアなフレームワークの更新を完了させるなど、セキュリティ強化にご尽力いただきました。
-
-どのリポジトリでも、システムの安定稼働とセキュリティ向上に大きく貢献されており、日々の丁寧な作業が垣間見えます。これからも一緒に頑張っていきましょう！🎉
+直近30日間で121件ものコミット、お疲れ様です！👏 Merge branch 'main' into dependabot/npm_and_yarn/packages/web-app-vercel/protobufjs-7.6.6、Merge pull request #1141 from Hiroki-org/dependabot/npm_and_yarn/packages/chrome-extension/npm_and_yarn-00f4f86ca2、fix(deps): remediate open Dependabot alertsなど、多くの作業を進められました。合計32950行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
 _Total: 120 commits across 6 projects_
 
