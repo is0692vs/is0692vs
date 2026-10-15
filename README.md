@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！くもってますね☁️
-📍 Fukuoka: 16°C
+# 🌍 Olá! Dia nublado☁️
+📍 São Paulo: 19°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 7,566 installs | ⭐ 4.5/5 (2 ratings) | v1.6.1
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 7,568 installs | ⭐ 4.5/5 (2 ratings) | v1.6.1
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 17 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 77 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-09-16%22%2C%222026-09-17%22%2C%222026-09-18%22%2C%222026-09-19%22%2C%222026-09-20%22%2C%222026-09-21%22%2C%222026-09-22%22%2C%222026-09-23%22%2C%222026-09-24%22%2C%222026-09-25%22%2C%222026-09-26%22%2C%222026-09-27%22%2C%222026-09-28%22%2C%222026-09-29%22%2C%222026-09-30%22%2C%222026-10-01%22%2C%222026-10-02%22%2C%222026-10-03%22%2C%222026-10-04%22%2C%222026-10-05%22%2C%222026-10-06%22%2C%222026-10-07%22%2C%222026-10-08%22%2C%222026-10-09%22%2C%222026-10-10%22%2C%222026-10-11%22%2C%222026-10-12%22%2C%222026-10-13%22%2C%222026-10-14%22%2C%222026-10-15%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B7238%2C7249%2C7256%2C7282%2C7292%2C7306%2C7316%2C7330%2C7338%2C7354%2C7363%2C7372%2C7384%2C7393%2C7400%2C7414%2C7421%2C7434%2C7445%2C7452%2C7462%2C7474%2C7480%2C7495%2C7514%2C7526%2C7534%2C7558%2C7566%2C7566%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B16%2C16%2C16%2C16%2C16%2C16%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B74%2C74%2C74%2C74%2C74%2C74%2C75%2C75%2C75%2C75%2C75%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C77%2C77%2C77%2C77%2C77%2C77%2C77%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-09-16%22%2C%222026-09-17%22%2C%222026-09-18%22%2C%222026-09-19%22%2C%222026-09-20%22%2C%222026-09-21%22%2C%222026-09-22%22%2C%222026-09-23%22%2C%222026-09-24%22%2C%222026-09-25%22%2C%222026-09-26%22%2C%222026-09-27%22%2C%222026-09-28%22%2C%222026-09-29%22%2C%222026-09-30%22%2C%222026-10-01%22%2C%222026-10-02%22%2C%222026-10-03%22%2C%222026-10-04%22%2C%222026-10-05%22%2C%222026-10-06%22%2C%222026-10-07%22%2C%222026-10-08%22%2C%222026-10-09%22%2C%222026-10-10%22%2C%222026-10-11%22%2C%222026-10-12%22%2C%222026-10-13%22%2C%222026-10-14%22%2C%222026-10-15%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B7238%2C7249%2C7256%2C7282%2C7292%2C7306%2C7316%2C7330%2C7338%2C7354%2C7363%2C7372%2C7384%2C7393%2C7400%2C7414%2C7421%2C7434%2C7445%2C7452%2C7462%2C7474%2C7480%2C7495%2C7514%2C7526%2C7534%2C7558%2C7566%2C7568%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B16%2C16%2C16%2C16%2C16%2C16%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B74%2C74%2C74%2C74%2C74%2C74%2C75%2C75%2C75%2C75%2C75%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C77%2C77%2C77%2C77%2C77%2C77%2C77%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、あなたは合計121件もの素晴らしいコミットを達成しましたね！🎉 各リポジトリでの活躍が光っています。
+直近30日間で、なんと**121件**ものコミットがありましたね！素晴らしい活動量です👏
 
-まず、**Audicle**では、主に依存関係の更新とセキュリティ強化に尽力されました。`dependabot`ブランチのマージが多数あり、`npm_and_yarn`グループのバージョンアップや、未解決の`Dependabot`アラートの修正(`fix(deps): remediate open Dependabot alerts`)で、システムの安定性と安全性を高めていますね。ブランチのマージも頻繁に行われ、継続的な開発フローを支えています。
+特に注目すべきは以下の点です。
 
-次に、**OpenShelf**では、広範囲にわたる活動が見られます。特に注目すべきは、脆弱なプロダクション依存関係の更新(`fix(deps): refresh vulnerable production dependencies`)や、クロスプラットフォーム対応の依存パッケージの追加(`fix(deps): include cross-platform optional packages`)です。また、`staging`から`main`へのリリース(`Release: staging -> main`)を複数回成功させ、安定したバージョン提供に貢献されています。`markdown-badge-xss`や`palette/pdf-viewer-a11y`関連のマージからも、セキュリティ修正やアクセシビリティ改善に取り組んだことが伺えますね。
+*   **Audicle**では、主に`dependabot`を活用した依存関係の更新やセキュリティ修正に尽力しましたね。メインブランチへの多数のマージも行われ、プロジェクトの健全性と最新状態の維持に大きく貢献しています✨
+*   **OpenShelf**では、多岐にわたる重要な作業をこなしました！依存関係のセキュリティ強化に加え、XSSやJules関連のセキュリティ脆弱性への対応、さらにはPDFビューアーやトーストコンポーネントのアクセシビリティ（A11y）改善も進めました。`staging`からの`main`へのリリースも複数回実施し、安定したサービス提供に大きく貢献していますね🚀
+*   **paper-tools**でも、依存関係のアップデートやセキュアなフレームワークの更新が行われ、プロジェクトの基盤強化を着実に進めています💪
 
-そして、**paper-tools**でも、`npm_and_yarn`の依存関係更新や、セキュアなフレームワークへのアップデート(`fix(deps): complete secure framework updates`)を実施し、基盤の強化を進めています。
-
-多岐にわたるリポジトリで、依存関係の更新、セキュリティ対応、リリース作業、そして細やかな機能改善まで、素晴らしい貢献をありがとうございます！この調子で、これからも開発を楽しんでいきましょう！🚀
+全体的に、依存関係の健全化、セキュリティ強化、アクセシビリティ改善、そして安定したリリース活動が目立ちます。日々の地道な努力が、サービスの品質向上と安定稼働に繋がっていますね。この調子でこれからも素晴らしい開発を続けていきましょう！お疲れ様でした！😊
 
 _Total: 120 commits across 6 projects_
 
