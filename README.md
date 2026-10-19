@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia nublado☁️
-📍 São Paulo: 19°C
+# 🌍 Hello! Beautiful clear day☀️
+📍 Toronto: 8°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,14 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で121件ものコミット、大変お疲れ様でした！この期間も素晴らしい活躍でしたね！✨
+直近30日間で**121件**ものコミット、お疲れ様でした！素晴らしい活動量ですね！✨
 
-特に目を引くのは、複数のリポジトリにわたる重要なアップデートです。
-**OpenShelf**では、脆弱なプロダクション依存関係のリフレッシュやクロスプラットフォーム対応など、依存関係の修正に注力しましたね。さらに、stagingからmainへのリリース作業を複数回実施し、安定した提供に貢献されました。また、markdownのXSS修正やアクセシビリティ向上（ARIAロール、PDFビューアa11y）など、多岐にわたる品質改善も実施されています。
-**Audicle**では、主にDependabotによる依存関係の多数のアップデートやセキュリティアラートの解消に取り組まれました。mainブランチへのマージ作業も頻繁に行い、コードベースの健全性を保つ努力がうかがえます。
-**paper-tools**でも、npm_and_yarnグループの依存関係更新や、セキュアなフレームワークのアップデートを完了されています。
+主な活動内容としては、複数のリポジトリで依存関係の更新とセキュリティ対策に大きく貢献されています。
 
-全体を通して、依存関係の継続的な更新とセキュリティ対策に大変力を入れられていることがよく分かります。プロジェクトの安定性と品質向上に大きく貢献されましたね！今後も素晴らしい活躍を期待しています！🚀
+*   **Audicle**では、「Merge branch 'main' into dependabot/...」や「fix(deps): remediate open Dependabot alerts」など、Dependabotによる依存関係のアップデートやセキュリティアラートの解消に重点的に取り組まれましたね。これにより、常に最新で安全な環境が維持されています。
+*   **OpenShelf**では、「fix(deps): include cross-platform optional packages」などの依存関係の更新に加え、「Release: staging -> main」で複数回のリリースを実現されており、プロジェクトの進捗に大きく貢献されています。また、「fix/markdown-badge-xss」や「palette-toast-aria-role」のように、バグ修正やアクセシビリティ改善にも尽力されており、ユーザー体験の向上にも貢献されていますね。🚀
+*   **paper-tools**でも、「chore(deps): bump the npm_and_yarn group」や「fix(deps): complete secure framework updates」といったコミットから、依存関係の管理とセキュリティフレームワークの更新をしっかりと行っていることがわかります。
+
+多岐にわたる重要なタスクを効率的にこなされており、チームにとって非常に頼りになる存在です。この調子でこれからも頑張っていきましょう！💪
 
 _Total: 120 commits across 6 projects_
 
