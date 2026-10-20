@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！今日は曇り空ですね☁️
-📍 Tokyo: 20°C
+# 🌍 Hello! Cloudy day☁️
+📍 Chicago: 9°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,18 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-お疲れ様です！直近30日間でなんと121件ものコミット、素晴らしい活躍ですね！🚀
-特に、依存関係の更新とセキュリティ対策に集中的に取り組んでいただきました。
+直近30日間で、あなたは合計121件ものコミットを重ねました！素晴らしい生産性ですね！🎉
 
-[Audicle]では、protobufjsやjs-yamlなどの複数の依存関係を最新の状態に保ち、Dependabotアラートの解消にも大きく貢献されましたね。大規模なマージも多く、コードベースの健全性維持に尽力されています。
+**Audicle**では、主に依存関係の更新とセキュリティ強化に尽力しましたね。Dependabotアラートへの対応や、npm_and_yarnグループの多数のパッケージを更新し、システムの健全性維持に大きく貢献しています。メインブランチへの頻繁なマージからも、継続的な改善意欲が伺えます。
 
-[OpenShelf]では、脆弱な本番環境の依存関係を複数回にわたって更新し、セキュリティ強化を力強く推進！リリース作業（staging -> main）もスムーズに進め、品質向上に貢献されました。また、マークダウンのセキュリティ修正やアクセシビリティ関連のマージも複数見られます。
+**OpenShelf**でも、依存関係の脆弱性対応やクロスプラットフォームパッケージの修正が目立ちました。stagingからmainへのリリース作業も定期的に実施し、プロジェクトの安定稼働を支えています。さらに、MarkdownのXSS修正や、アクセシビリティ向上（トーストのARIAロール、PDFビューアの改善）に関するブランチマージも進んでおり、品質向上への意識が素晴らしいです！✨
 
-[paper-tools]でも、依存関係の更新とセキュアなフレームワークの改修を進めていただき、システムの安定性を高めました。
+**paper-tools**では、npm_and_yarnグループの依存関係更新と、セキュアなフレームワークへのアップデートを完了させましたね。システムの基盤をより強固にする重要な作業です！
 
-多岐にわたる重要な改善を迅速に進めていただき、本当にありがとうございます！この調子でこれからも頑張っていきましょう！💪✨
+全体的に、日々のシステム維持管理とセキュリティ強化に大変貢献しています。これからもこの調子で頑張ってください！応援しています！🚀
 
-_Total: 120 commits across 6 projects_
+_Total: 53 commits across 5 projects_
 
 <table>
   <tr>
@@ -46,7 +45,7 @@ _Total: 120 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 41 commits (34.2%)</sub>
+      <sub>📊 23 commits (43.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -57,20 +56,20 @@ _Total: 120 commits across 6 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 38 commits (31.7%)</sub>
+      <sub>📊 13 commits (24.5%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/paper-tools" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/paper-tools" alt="paper-tools" width="100%" />
+      <a href="https://github.com/Hiroki-org/jules-extension" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/jules-extension" alt="jules-extension" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 19 commits (15.8%)</sub>
+      <sub>📊 9 commits (17.0%)</sub>
       <br />
-      <sub>🔷 TypeScript </sub>
+      <sub>🔷 TypeScript ⭐ 20</sub>
     </td>
   </tr>
 </table>
