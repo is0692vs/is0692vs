@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 안녕하세요! 오늘은 흐린 날씨네요☁️
-📍 Seoul: 13°C
+# 🌍 ¡Hola! Está nublado☁️
+📍 Mexico City: 12°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,18 +24,20 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**47件**ものコミット、素晴らしい活動量ですね！🙌
+今月は合計47件ものコミット、素晴らしい活躍でしたね！🚀
+各リポジトリでの主な活動を見てみましょう。
 
-主要なプロジェクトでの貢献内容を見ていきましょう。
+**Audicle**では、Dependabotのアラートを解消し、セキュリティ依存関係をしっかりアップデートしてくれました。システム全体の安全性を高める大切な作業、お見事です！🛡️
 
-*   **OpenShelf** では、多くの依存関係更新（`jsdom`、`react-pdf`、`undici`、`wrangler`、`next`など）や、脆弱性のあるnpm依存関係へのセキュリティパッチ適用に尽力されました。特に複数の`staging`から`main`へのリリース作業もこなし、安定稼働に大きく貢献していますね！🚀
-*   **Audicle** では、大量の変更を伴う依存関係のセキュリティアップデートを見事に実施し、多くのDependabotアラートを解消しました。これは非常に重要なセキュリティ強化です！🛡️
-*   **jules-extension** では、開発依存関係を含むセキュリティ関連のアップデートを頻繁に行い、システムを堅牢に保つ努力がうかがえます。また、テストカバレッジを向上させるためのコミットも複数あり、品質へのこだわりが素晴らしいです！✨
-*   **is0692vs** でも、`esbuild`のバージョンアップを行うなど、依存関係の健全性を保つための作業を進めていますね。
+**OpenShelf**では、stagingからmainへの頻繁なリリース作業に加え、Dependabotによる多数のnpm依存関係の更新や脆弱性パッチ適用を行いましたね。これにより、常に最新で安全な状態を保つための土台を築いてくれています。継続的なメンテナンス、本当に助かります！✨
 
-これらの活動は、プロジェクトのセキュリティ、安定性、そして最新の状態を保つ上で非常に重要です。引き続き、その調子で頑張ってください！お疲れ様でした！👏
+**is0692vs**では、esbuildのバージョンアップを含む依存関係の更新を実施。こちらもシステムの健全性維持に貢献していますね。
 
-_Total: 46 commits across 5 projects_
+そして**jules-extension**では、依存関係のセキュリティ強化だけでなく、テストカバレッジを大きく向上させる取り組みが大々的に行われました。品質向上への強いコミットメントが見て取れます！💯
+
+全体的に、システムのセキュリティと安定性を高めるための地道で重要な作業に多く時間を割いてくださり、本当にありがとうございます。日々の努力がプロジェクト全体の成功に繋がっています。今月も本当にお疲れ様でした！👏
+
+_Total: 45 commits across 5 projects_
 
 <table>
   <tr>
@@ -46,7 +48,7 @@ _Total: 46 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 28 commits (60.9%)</sub>
+      <sub>📊 27 commits (60.0%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -57,7 +59,7 @@ _Total: 46 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 13 commits (28.3%)</sub>
+      <sub>📊 13 commits (28.9%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 20</sub>
     </td>
@@ -68,7 +70,7 @@ _Total: 46 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/.github" target="_blank">.github</a></strong></sub>
       <br />
-      <sub>📊 4 commits (8.7%)</sub>
+      <sub>📊 4 commits (8.9%)</sub>
       <br />
       <sub>📄 Unknown </sub>
     </td>
