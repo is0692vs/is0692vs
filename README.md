@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 こんにちは！今日は曇り空ですね☁️
-📍 Osaka: 14°C
+# 🌍 안녕하세요! 오늘은 흐린 날씨네요☁️
+📍 Seoul: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -9,7 +9,7 @@
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 17 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 78 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-09-23%22%2C%222026-09-24%22%2C%222026-09-25%22%2C%222026-09-26%22%2C%222026-09-27%22%2C%222026-09-28%22%2C%222026-09-29%22%2C%222026-09-30%22%2C%222026-10-01%22%2C%222026-10-02%22%2C%222026-10-03%22%2C%222026-10-04%22%2C%222026-10-05%22%2C%222026-10-06%22%2C%222026-10-07%22%2C%222026-10-08%22%2C%222026-10-09%22%2C%222026-10-10%22%2C%222026-10-11%22%2C%222026-10-12%22%2C%222026-10-13%22%2C%222026-10-14%22%2C%222026-10-15%22%2C%222026-10-16%22%2C%222026-10-17%22%2C%222026-10-18%22%2C%222026-10-19%22%2C%222026-10-20%22%2C%222026-10-21%22%2C%222026-10-22%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B7330%2C7338%2C7354%2C7363%2C7372%2C7384%2C7393%2C7400%2C7414%2C7421%2C7434%2C7445%2C7452%2C7462%2C7474%2C7480%2C7495%2C7514%2C7526%2C7534%2C7558%2C7566%2C7581%2C7594%2C7600%2C7614%2C7616%2C7631%2C7647%2C7657%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B75%2C75%2C75%2C75%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C77%2C77%2C77%2C77%2C77%2C77%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C78%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-09-24%22%2C%222026-09-25%22%2C%222026-09-26%22%2C%222026-09-27%22%2C%222026-09-28%22%2C%222026-09-29%22%2C%222026-09-30%22%2C%222026-10-01%22%2C%222026-10-02%22%2C%222026-10-03%22%2C%222026-10-04%22%2C%222026-10-05%22%2C%222026-10-06%22%2C%222026-10-07%22%2C%222026-10-08%22%2C%222026-10-09%22%2C%222026-10-10%22%2C%222026-10-11%22%2C%222026-10-12%22%2C%222026-10-13%22%2C%222026-10-14%22%2C%222026-10-15%22%2C%222026-10-16%22%2C%222026-10-17%22%2C%222026-10-18%22%2C%222026-10-19%22%2C%222026-10-20%22%2C%222026-10-21%22%2C%222026-10-22%22%2C%222026-10-23%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B7338%2C7354%2C7363%2C7372%2C7384%2C7393%2C7400%2C7414%2C7421%2C7434%2C7445%2C7452%2C7462%2C7474%2C7480%2C7495%2C7514%2C7526%2C7534%2C7558%2C7566%2C7581%2C7594%2C7600%2C7614%2C7616%2C7631%2C7647%2C7657%2C7657%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B75%2C75%2C75%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C77%2C77%2C77%2C77%2C77%2C77%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C78%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,19 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計47件のコミット、素晴らしい活動量ですね！🚀
+直近30日間で**47件**ものコミット、素晴らしい活動量ですね！🙌
 
-主に多岐にわたるリポジトリで、システム安定性向上とセキュリティ強化に尽力されたことがうかがえます。
+主要なプロジェクトでの貢献内容を見ていきましょう。
 
-特に**OpenShelf**では、stagingからmainへの複数回のリリースを実施し、定期的なシステム更新を滞りなく進められました。さらに、複数のnpm依存関係のバージョンアップや脆弱性パッチ適用にも取り組み、常に最新かつ安全な状態を保つための努力が見られますね。💪
+*   **OpenShelf** では、多くの依存関係更新（`jsdom`、`react-pdf`、`undici`、`wrangler`、`next`など）や、脆弱性のあるnpm依存関係へのセキュリティパッチ適用に尽力されました。特に複数の`staging`から`main`へのリリース作業もこなし、安定稼働に大きく貢献していますね！🚀
+*   **Audicle** では、大量の変更を伴う依存関係のセキュリティアップデートを見事に実施し、多くのDependabotアラートを解消しました。これは非常に重要なセキュリティ強化です！🛡️
+*   **jules-extension** では、開発依存関係を含むセキュリティ関連のアップデートを頻繁に行い、システムを堅牢に保つ努力がうかがえます。また、テストカバレッジを向上させるためのコミットも複数あり、品質へのこだわりが素晴らしいです！✨
+*   **is0692vs** でも、`esbuild`のバージョンアップを行うなど、依存関係の健全性を保つための作業を進めていますね。
 
-**Audicle**では、Dependabotアラートを解消し、大規模なセキュリティ依存関係の更新を見事に完了されました。これはシステムの健全性を維持する上で非常に重要な貢献です！🛡️
-
-また、**jules-extension**では、テストカバレッジの向上を通じてコード品質の安定化に貢献し、各種依存関係のセキュリティアップデートも迅速に対応されました。品質への意識の高さがうかがえます。✨
-
-**is0692vs**でも、esbuildのバージョンアップにより開発環境の改善に努められたようですね。
-
-日々の細かい改善から大規模なセキュリティ対応まで、幅広いタスクをこなされており、システムの信頼性向上に大きく貢献されています。この調子で、これからも素晴らしい開発をお願いします！😊
+これらの活動は、プロジェクトのセキュリティ、安定性、そして最新の状態を保つ上で非常に重要です。引き続き、その調子で頑張ってください！お疲れ様でした！👏
 
 _Total: 46 commits across 5 projects_
 
@@ -119,26 +116,26 @@ _Total: 46 commits across 5 projects_
       <sub>MY FIRST STORY</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
+      <a href="https://open.spotify.com/track/0K59RfNlwC8W789zMNokE3" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27388de181141a3a0ba642794cc" alt="ウィル・オスプレイのテーマ 「Bring it Down」" width="120" />
       </a>
       <br />
       <sub><strong>#4</strong></sub>
       <br />
-      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
+      <sub>ウィル・オスプレイのテーマ 「Bring it Down」</sub>
       <br />
-      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
+      <sub>NJPW</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/5So15vlWHcIFmBNbSnewks" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27394fb3480c556174040915928" alt="War Dogs" width="120" />
+      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>War Dogs</sub>
+      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
       <br />
-      <sub>[Q]brick, Kensei Abbot</sub>
+      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
     </td>
   </tr>
 </table>
