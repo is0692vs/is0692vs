@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Beautiful clear day☀️
-📍 Toronto: 6°C
+# 🌍 Olá! Dia ensolarado☀️
+📍 São Paulo: 23°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 7,671 installs | ⭐ 4.5/5 (2 ratings) | v1.6.1
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 7,672 installs | ⭐ 4.5/5 (2 ratings) | v1.6.1
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 17 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 79 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-09-25%22%2C%222026-09-26%22%2C%222026-09-27%22%2C%222026-09-28%22%2C%222026-09-29%22%2C%222026-09-30%22%2C%222026-10-01%22%2C%222026-10-02%22%2C%222026-10-03%22%2C%222026-10-04%22%2C%222026-10-05%22%2C%222026-10-06%22%2C%222026-10-07%22%2C%222026-10-08%22%2C%222026-10-09%22%2C%222026-10-10%22%2C%222026-10-11%22%2C%222026-10-12%22%2C%222026-10-13%22%2C%222026-10-14%22%2C%222026-10-15%22%2C%222026-10-16%22%2C%222026-10-17%22%2C%222026-10-18%22%2C%222026-10-19%22%2C%222026-10-20%22%2C%222026-10-21%22%2C%222026-10-22%22%2C%222026-10-23%22%2C%222026-10-24%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B7354%2C7363%2C7372%2C7384%2C7393%2C7400%2C7414%2C7421%2C7434%2C7445%2C7452%2C7462%2C7474%2C7480%2C7495%2C7514%2C7526%2C7534%2C7558%2C7566%2C7581%2C7594%2C7600%2C7614%2C7616%2C7631%2C7647%2C7657%2C7663%2C7671%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B75%2C75%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C77%2C77%2C77%2C77%2C77%2C77%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C79%2C79%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-09-25%22%2C%222026-09-26%22%2C%222026-09-27%22%2C%222026-09-28%22%2C%222026-09-29%22%2C%222026-09-30%22%2C%222026-10-01%22%2C%222026-10-02%22%2C%222026-10-03%22%2C%222026-10-04%22%2C%222026-10-05%22%2C%222026-10-06%22%2C%222026-10-07%22%2C%222026-10-08%22%2C%222026-10-09%22%2C%222026-10-10%22%2C%222026-10-11%22%2C%222026-10-12%22%2C%222026-10-13%22%2C%222026-10-14%22%2C%222026-10-15%22%2C%222026-10-16%22%2C%222026-10-17%22%2C%222026-10-18%22%2C%222026-10-19%22%2C%222026-10-20%22%2C%222026-10-21%22%2C%222026-10-22%22%2C%222026-10-23%22%2C%222026-10-24%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B7354%2C7363%2C7372%2C7384%2C7393%2C7400%2C7414%2C7421%2C7434%2C7445%2C7452%2C7462%2C7474%2C7480%2C7495%2C7514%2C7526%2C7534%2C7558%2C7566%2C7581%2C7594%2C7600%2C7614%2C7616%2C7631%2C7647%2C7657%2C7663%2C7672%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B75%2C75%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C76%2C77%2C77%2C77%2C77%2C77%2C77%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C79%2C79%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,15 +24,18 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**46回**ものコミット、大変お疲れ様でした！素晴らしい活動量ですね！✨
+お疲れ様です！直近30日間で**46件**ものコミット、素晴らしい活躍でしたね！🚀
+主要な活動を振り返ってみましょう。
 
-この期間は、プロジェクト全体の安定性とセキュリティ強化に大きく貢献されています。
-特に、**Audicle**では大量の依存関係を整理し、Dependabotアラートを一掃するという大規模な改修を行いました。
-**OpenShelf**では、stagingからmainへの複数回のリリースに加え、npmパッケージや`jsdom`、`react-pdf`、`next`など、多くの依存関係を継続的に更新し、脆弱性パッチも適用されていますね。常に最新の状態を保つ努力が見て取れます。
-**is0692vs**でも`esbuild`の更新を行っています。
-**jules-extension**では、依存関係のセキュリティ強化に加え、テストカバレッジを向上させるための精力的な作業が見られます。堅牢なコードベースを築く努力、頭が下がります！👏
+特に**OpenShelf**では、stagingからmainへのリリース作業が複数回行われ、たくさんの変更を本番環境へ反映してくれました。また、npmの依存関係のバージョンアップや、セキュリティ脆弱性へのパッチ適用も精力的に実施していましたね。システムの安定性と最新化に大きく貢献しています！✨
 
-地道ながらも重要なこれらの取り組みは、すべてのプロジェクトの健全な運用に不可欠です。日々の努力が着実に実を結んでいますね！これからも素晴らしい開発を期待しています！🚀
+**Audicle**では、Dependabotのアラートを解消するためのセキュリティ依存関係のアップデートを実施。大規模な変更が含まれており、システムの安全性を高めるための重要な作業でした！🛡️
+
+**jules-extension**では、依存関係のセキュリティ強化に加えて、テストカバレッジの向上にも注力してくれました。品質向上への意識が素晴らしいです！💪
+
+**is0692vs**でも、esbuildのバージョンアップを含む依存関係の更新が行われ、プロジェクトの健全性を保つための基盤を整えていましたね。🌱
+
+複数のリポジトリにわたり、依存関係の更新やセキュリティ対策、そしてリリース作業を着実に進めており、日々の開発に欠かせない重要な役割を果たしています。この調子でこれからも頑張っていきましょう！応援しています！🌟
 
 _Total: 45 commits across 5 projects_
 
@@ -82,26 +85,26 @@ _Total: 45 commits across 5 projects_
 <table>
   <tr>
     <td align="center">
-      <a href="https://open.spotify.com/track/3xUQAdNRIJIZwMaABAW30d" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2734cd6430c81db387bb7bed830" alt="飯伏幸太のテーマ 「Golden☆Star 2020ver.」" width="120" />
-      </a>
-      <br />
-      <sub><strong>#1</strong></sub>
-      <br />
-      <sub>飯伏幸太のテーマ 「Golden☆Star 2020ver.」</sub>
-      <br />
-      <sub>NJPW(新日本プロレスリング株式会社)</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/35MeePbBnryubkVG0v8GbI" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273a58f0d10db6a676c3b422fda" alt="ブルーアンバー" width="120" />
       </a>
       <br />
-      <sub><strong>#2</strong></sub>
+      <sub><strong>#1</strong></sub>
       <br />
       <sub>ブルーアンバー</sub>
       <br />
       <sub>back number</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/3xUQAdNRIJIZwMaABAW30d" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2734cd6430c81db387bb7bed830" alt="飯伏幸太のテーマ 「Golden☆Star 2020ver.」" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>飯伏幸太のテーマ 「Golden☆Star 2020ver.」</sub>
+      <br />
+      <sub>NJPW(新日本プロレスリング株式会社)</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP" target="_blank">
@@ -126,15 +129,15 @@ _Total: 45 commits across 5 projects_
       <sub>NJPW</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/52MjsdCh1MyfMxl3I2QkMy" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273c6f10dc7e5566baaa3ee685e" alt="飯塚高史のテーマ「against rules」" width="120" />
+      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>飯塚高史のテーマ「against rules」</sub>
+      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
       <br />
-      <sub>NJPW</sub>
+      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
     </td>
   </tr>
 </table>
