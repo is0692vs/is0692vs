@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia ensolarado☀️
-📍 Lisbon: 21°C
+# 🌍 こんにちは！雨の日ですね☔
+📍 Osaka: 21°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、素晴らしい46件のコミットを達成しましたね！🎉 各リポジトリでの活躍が光っています。
+直近30日間で、あなたは合計46件ものコミットを重ね、多くのプロジェクトに貢献しましたね！素晴らしい活動です👏
 
-**Audicle**では、Dependabotアラートの解消とセキュリティ関連の依存関係を大幅に更新し、システムの安定性向上に貢献しました。
+特に、セキュリティ強化や依存関係の更新が多数見られます。
+*   **Audicle**: 大規模なセキュリティ依存関係アップデートとDependabotアラートの解消を完遂。
+*   **OpenShelf**: 複数のリリース作業に加え、npmパッケージ（jsdom, react-pdf, next等）やundici, wranglerのバージョンアップ、セキュリティパッチ適用で安定稼働と最新化に貢献。
+*   **jules-extension**: 依存関係のセキュリティ強化とテストカバレッジ向上（sessionContextMenuArtifacts関連）に尽力。
+*   **is0692vs**: esbuildのバージョンアップを実施し、開発環境改善に貢献。
 
-**OpenShelf**では、複数のリリースタグを作成し、開発環境の依存関係更新や、react-pdf、nextなどの重要なライブラリのバージョンアップも積極的に行いましたね。さらに、複数のnpm依存関係の脆弱性パッチを適用し、セキュリティ強化にも尽力しました。
-
-**is0692vs**では、esbuildのバージョンアップを進め、プロジェクトの基盤強化に貢献しています。
-
-**jules-extension**では、markdownサニタイザーやその他の開発依存関係を更新し、セキュリティ監査を強化しましたね。特に、テストカバレッジを大幅に改善し、コード品質の向上に大きく貢献した点は素晴らしいです！💪
-
-全体的に、依存関係の更新とセキュリティ対策に多くの時間を割き、システムの健全性を保つために非常に重要な作業を進めてきました。リリース作業も着実にこなし、多岐にわたるプロジェクトでその能力を発揮しています。本当にお疲れ様でした！これからも期待しています！✨
+セキュリティ強化からリリース、テスト改善まで、広範囲なコミット、お疲れ様でした。チームへの貢献に感謝します！これからもその調子で頑張ってくださいね！🚀✨
 
 _Total: 32 commits across 4 projects_
 
@@ -84,11 +82,22 @@ _Total: 32 commits across 4 projects_
 <table>
   <tr>
     <td align="center">
+      <a href="https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736dfc60ab085c9ceda0557548" alt="Bad Girl" width="120" />
+      </a>
+      <br />
+      <sub><strong>#1</strong></sub>
+      <br />
+      <sub>Bad Girl</sub>
+      <br />
+      <sub>HANA</sub>
+    </td>
+    <td align="center">
       <a href="https://open.spotify.com/track/35MeePbBnryubkVG0v8GbI" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273a58f0d10db6a676c3b422fda" alt="ブルーアンバー" width="120" />
       </a>
       <br />
-      <sub><strong>#1</strong></sub>
+      <sub><strong>#2</strong></sub>
       <br />
       <sub>ブルーアンバー</sub>
       <br />
@@ -99,7 +108,7 @@ _Total: 32 commits across 4 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b2734cd6430c81db387bb7bed830" alt="飯伏幸太のテーマ 「Golden☆Star 2020ver.」" width="120" />
       </a>
       <br />
-      <sub><strong>#2</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>飯伏幸太のテーマ 「Golden☆Star 2020ver.」</sub>
       <br />
@@ -110,7 +119,7 @@ _Total: 32 commits across 4 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b2731c3c5cfc02676c050fc1f3dc" alt="King & Ashley" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>King & Ashley</sub>
       <br />
@@ -121,22 +130,11 @@ _Total: 32 commits across 4 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b27388de181141a3a0ba642794cc" alt="ウィル・オスプレイのテーマ 「Bring it Down」" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#5</strong></sub>
       <br />
       <sub>ウィル・オスプレイのテーマ 「Bring it Down」</sub>
       <br />
       <sub>NJPW</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/4UKANDuD17KGukGIp5g0Cx" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736f91c9419b51f070bbeefc41" alt="C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)" width="120" />
-      </a>
-      <br />
-      <sub><strong>#5</strong></sub>
-      <br />
-      <sub>C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)</sub>
-      <br />
-      <sub>ONE OK ROCK, Paledusk, CHICO CARLITO</sub>
     </td>
   </tr>
 </table>
