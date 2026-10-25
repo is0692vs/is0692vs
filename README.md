@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Perfect sunny day☀️
-📍 Los Angeles: 17°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Lima: 23°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,9 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、合計46件もの素晴らしいコミットをされましたね！🎉 様々なプロジェクトで活発な貢献が光っています。
+直近30日間で46件ものコミット、お疲れ様です！👏 fix(deps): remediate open Dependabot alerts、Merge pull request #1292 from Hiroki-org/staging、Merge pull request #1280 from Hiroki-org/stagingなど、多くの作業を進められました。合計8558行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
 
-まず、**Audicle**では、Dependabotアラートを解消し、大規模なセキュリティ依存関係の修正を見事に実施されました。これはシステムの安定性にとって非常に重要です！🛡️
-
-**OpenShelf**では、stagingからmainへのリリース作業が多数あり、プロジェクトの着実な進行がうかがえます。また、Dependabotによるnpm、jsdom、react-pdf、nextなど多岐にわたる依存関係のバージョンアップや、セキュリティ脆弱性パッチの適用をこまめに行い、常に最新かつ安全な状態を保つ努力が見られますね。素晴らしいです！👏
-
-**is0692vs**では、esbuildのバージョンアップを行い、依存関係の健全性を維持されています。
-
-そして、**jules-extension**では、markdown sanitizersの更新や監査強化を含む依存関係のセキュリティ対策を徹底。さらに、テストカバレッジの向上にも注力され、コード品質の向上に大きく貢献されていますね！🌟
-
-全体的に、セキュリティ強化と依存関係の最新化、そしてリリース作業を着実にこなされており、プロジェクトの健全な運営に多大な貢献をされています。本当にお疲れ様でした！これからもその素晴らしい活躍を期待しています！🚀
-
-_Total: 45 commits across 5 projects_
+_Total: 32 commits across 4 projects_
 
 <table>
   <tr>
@@ -47,7 +37,7 @@ _Total: 45 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 27 commits (60.0%)</sub>
+      <sub>📊 27 commits (84.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -58,20 +48,20 @@ _Total: 45 commits across 5 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 13 commits (28.9%)</sub>
+      <sub>📊 4 commits (12.5%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 20</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/.github" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/.github" alt=".github" width="100%" />
+      <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/Audicle" alt="Audicle" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/.github" target="_blank">.github</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 4 commits (8.9%)</sub>
+      <sub>📊 1 commits (3.1%)</sub>
       <br />
-      <sub>📄 Unknown </sub>
+      <sub>🔷 TypeScript </sub>
     </td>
   </tr>
 </table>
@@ -147,7 +137,7 @@ _Total: 45 commits across 5 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.1-publish">v1.6.1-publish</a> · 4 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.1-publish">v1.6.1-publish</a> · Sep 25, 2026
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.6.1-publish -->
@@ -161,7 +151,7 @@ _Total: 45 commits across 5 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.1">v1.6.1</a> · 4 weeks ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.1">v1.6.1</a> · Sep 25, 2026
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.6.1 -->
