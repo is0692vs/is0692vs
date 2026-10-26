@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Cloudy day☁️
-📍 Chicago: 13°C
+# 🌍 Hello! Tropical rain shower☔
+📍 Miami: 27°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,18 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-30日間で合計32コミット、素晴らしい活躍でしたね！🚀
-この期間は、主にシステムの安定性とセキュリティ強化に注力されたことがよくわかります。
+直近30日間で39件ものコミット、素晴らしい集中力ですね！🎉 プロダクトの安定性と安全性を高めるための重要な活動がたくさん見受けられます。
 
-まず**Audicle**では、Dependabotアラートの解消とセキュリティ依存関係の更新に大規模に取り組んでいただき、システムの健全性を大きく向上させましたね。💪
+特に**OpenShelf**では、Next.jsのバージョンアップやVite、Vitest、Sharpなどのセキュリティ修正のための依存関係アップデートに多く取り組んでいましたね。🚀 これらに伴うリリース作業も複数回実施し、開発環境から本番環境へのスムーズな展開に尽力されたことがうかがえます。また、開発用依存関係やesbuildの追加といった基盤強化にも貢献しています。
 
-**OpenShelf**では、定期的なリリース作業を多数実施し、サービスの継続的な提供に貢献されています。また、jsdom、react-pdf、next、hono、follow-redirectsなど、多岐にわたるnpm依存関係の更新や、セキュリティ脆弱性へのパッチ適用も精力的に行われました。常に最新の状態を保つ努力が光ります！✨
+**Audicle**では、開いていたDependabotアラートを一掃し、セキュリティ関連の依存関係を大幅に修正・アップデートしましたね。これにより、サービス全体の堅牢性がさらに向上したことでしょう。🛡️
 
-さらに**jules-extension**でも、markdown sanitizersの更新やDOMPurifyのバージョンアップといった依存関係の修正を通じて、セキュリティの強化と品質向上に貢献いただきました。🔒
+そして**jules-extension**でも、Markdownサニタイザーのアップデートや依存関係の監査を強化し、セキュリティ対策を抜かりなく実施しています。🔍
 
-各リポジトリで継続的な改善とセキュリティ維持に取り組む姿勢、本当に素晴らしいです！これからも安定した開発を期待しています！😊
+この期間は、サービスの安定稼働とセキュリティ維持のための非常に重要なメンテナンス作業に注力されましたね。日々の地道な努力が、ユーザー体験の向上とシステムの信頼性に大きく貢献しています。本当にお疲れ様でした！これからも期待しています！🌟
 
-_Total: 32 commits across 4 projects_
+_Total: 39 commits across 4 projects_
 
 <table>
   <tr>
@@ -46,7 +45,7 @@ _Total: 32 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 27 commits (84.4%)</sub>
+      <sub>📊 34 commits (87.2%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -57,7 +56,7 @@ _Total: 32 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 4 commits (12.5%)</sub>
+      <sub>📊 4 commits (10.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 20</sub>
     </td>
@@ -68,7 +67,7 @@ _Total: 32 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 1 commits (3.1%)</sub>
+      <sub>📊 1 commits (2.6%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -105,26 +104,26 @@ _Total: 32 commits across 4 projects_
       <sub>back number</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/3xUQAdNRIJIZwMaABAW30d" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2734cd6430c81db387bb7bed830" alt="飯伏幸太のテーマ 「Golden☆Star 2020ver.」" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>飯伏幸太のテーマ 「Golden☆Star 2020ver.」</sub>
-      <br />
-      <sub>NJPW(新日本プロレスリング株式会社)</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2731c3c5cfc02676c050fc1f3dc" alt="King & Ashley" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>King & Ashley</sub>
       <br />
       <sub>MY FIRST STORY</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/3xUQAdNRIJIZwMaABAW30d" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2734cd6430c81db387bb7bed830" alt="飯伏幸太のテーマ 「Golden☆Star 2020ver.」" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>飯伏幸太のテーマ 「Golden☆Star 2020ver.」</sub>
+      <br />
+      <sub>NJPW(新日本プロレスリング株式会社)</sub>
     </td>
     <td align="center">
       <a href="https://open.spotify.com/track/0K59RfNlwC8W789zMNokE3" target="_blank">
