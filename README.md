@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
 # 🌍 안녕하세요! 맑은 날씨네요☀️
-📍 Seoul: 12°C
+📍 Seoul: 7°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 7,722 installs | ⭐ 4.5/5 (2 ratings) | v1.6.2
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 7,723 installs | ⭐ 4.5/5 (2 ratings) | v1.6.2
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 17 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 79 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-10-02%22%2C%222026-10-03%22%2C%222026-10-04%22%2C%222026-10-05%22%2C%222026-10-06%22%2C%222026-10-07%22%2C%222026-10-08%22%2C%222026-10-09%22%2C%222026-10-10%22%2C%222026-10-11%22%2C%222026-10-12%22%2C%222026-10-13%22%2C%222026-10-14%22%2C%222026-10-15%22%2C%222026-10-16%22%2C%222026-10-17%22%2C%222026-10-18%22%2C%222026-10-19%22%2C%222026-10-20%22%2C%222026-10-21%22%2C%222026-10-22%22%2C%222026-10-23%22%2C%222026-10-24%22%2C%222026-10-25%22%2C%222026-10-26%22%2C%222026-10-27%22%2C%222026-10-28%22%2C%222026-10-29%22%2C%222026-10-30%22%2C%222026-10-31%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B7421%2C7434%2C7445%2C7452%2C7462%2C7474%2C7480%2C7495%2C7514%2C7526%2C7534%2C7558%2C7566%2C7581%2C7594%2C7600%2C7614%2C7616%2C7631%2C7647%2C7657%2C7663%2C7672%2C7674%2C7686%2C7692%2C7697%2C7705%2C7718%2C7722%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B76%2C76%2C76%2C76%2C76%2C76%2C76%2C77%2C77%2C77%2C77%2C77%2C77%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-10-02%22%2C%222026-10-03%22%2C%222026-10-04%22%2C%222026-10-05%22%2C%222026-10-06%22%2C%222026-10-07%22%2C%222026-10-08%22%2C%222026-10-09%22%2C%222026-10-10%22%2C%222026-10-11%22%2C%222026-10-12%22%2C%222026-10-13%22%2C%222026-10-14%22%2C%222026-10-15%22%2C%222026-10-16%22%2C%222026-10-17%22%2C%222026-10-18%22%2C%222026-10-19%22%2C%222026-10-20%22%2C%222026-10-21%22%2C%222026-10-22%22%2C%222026-10-23%22%2C%222026-10-24%22%2C%222026-10-25%22%2C%222026-10-26%22%2C%222026-10-27%22%2C%222026-10-28%22%2C%222026-10-29%22%2C%222026-10-30%22%2C%222026-10-31%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B7421%2C7434%2C7445%2C7452%2C7462%2C7474%2C7480%2C7495%2C7514%2C7526%2C7534%2C7558%2C7566%2C7581%2C7594%2C7600%2C7614%2C7616%2C7631%2C7647%2C7657%2C7663%2C7672%2C7674%2C7686%2C7692%2C7697%2C7705%2C7718%2C7723%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B76%2C76%2C76%2C76%2C76%2C76%2C76%2C77%2C77%2C77%2C77%2C77%2C77%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,14 +24,16 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計49件もの素晴らしいコミット、お疲れ様でした！✨
-主にセキュリティと安定性の向上に大きく貢献されましたね。
+直近30日間で合計49回のコミット、素晴らしいですね！👏
+主な活動は、複数のリポジトリにわたるセキュリティ強化と依存関係のアップデートに重点が置かれていました。
 
-*   **OpenShelf** では、Next.js、Vite、Vitest、Sharpなどの重要な依存関係のセキュリティ修正を多数適用し、複数のリリースを成功させて安定稼働に尽力されました。特に CVE への対応は、システムの堅牢性を高める素晴らしい取り組みです！👏 その他にも、開発環境の依存関係の更新やesbuildの追加など、幅広い改善が見られます。
-*   **Audicle** では、Next.js、source-map-js、sharpなど、多くの依存関係のセキュリティアラートを解消され、システムの安全性を大幅に強化されました。大規模な依存関係の整理、本当に素晴らしいです！🛡️
-*   **jules-extension** でも、markdown sanitizers の更新や依存関係の監査強化を通じて、セキュリティの向上に貢献されましたね。
+**OpenShelf** では、Next.js、Vite、Vitest、Sharpといった主要なライブラリや開発依存関係のセキュリティ修正・アップデートを頻繁に行い、多くのリリースを成功させていますね。大規模な変更も多く、プロジェクトの安定稼働に大きく貢献されています！🚀
 
-多岐にわたるプロジェクトで、セキュリティとメンテナンスに精力的に取り組む姿勢は、チームにとって非常に心強いです！この調子でこれからも頑張ってください！🚀
+**Audicle** では、Dependabotアラートを迅速に解消し、Next.js、source-map-js、sharpなど、広範囲にわたるパッケージのセキュリティアップデートを実施。多数の脆弱性に対応し、システムの堅牢性を高めました！🛡️
+
+**jules-extension** でも、markdown sanitizersの更新や推移的依存関係のセキュリティ監査を通じて、堅実なセキュリティ強化を進めています。
+
+これだけ多岐にわたる重要なメンテナンス作業をこなし、プロジェクトの安定と品質向上に繋がっているのは素晴らしい成果です！日々の努力に感謝します。これからも期待しています！✨
 
 _Total: 49 commits across 4 projects_
 
@@ -114,26 +116,26 @@ _Total: 49 commits across 4 projects_
       <sub>NJPW(新日本プロレスリング株式会社)</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/0K59RfNlwC8W789zMNokE3" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b27388de181141a3a0ba642794cc" alt="ウィル・オスプレイのテーマ 「Bring it Down」" width="120" />
+      <a href="https://open.spotify.com/track/1ycsBZlPqRPqf0ilosVhEl" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273f46c070998294b66650ea007" alt="盛れ！ミ・アモーレ" width="120" />
       </a>
       <br />
       <sub><strong>#4</strong></sub>
       <br />
-      <sub>ウィル・オスプレイのテーマ 「Bring it Down」</sub>
+      <sub>盛れ！ミ・アモーレ</sub>
       <br />
-      <sub>NJPW</sub>
+      <sub>Juice=Juice</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/5Q46F9rT7RTGjI0lV8M44w" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2737fdf5cbdb95403b9261746c0" alt="Where's Your Hero Now?" width="120" />
+      <a href="https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2731c3c5cfc02676c050fc1f3dc" alt="King & Ashley" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>Where's Your Hero Now?</sub>
+      <sub>King & Ashley</sub>
       <br />
-      <sub>The Heroes Lie</sub>
+      <sub>MY FIRST STORY</sub>
     </td>
   </tr>
 </table>
