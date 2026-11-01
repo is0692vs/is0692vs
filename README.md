@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 Bonjour! Belle journée ensoleillée☀️
-📍 Paris: 11°C
+# 🌍 Hello! Cloudy weather today☁️
+📍 Los Angeles: 21°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 7,729 installs | ⭐ 4.5/5 (2 ratings) | v1.6.2
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 7,731 installs | ⭐ 4.5/5 (2 ratings) | v1.6.2
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 17 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 79 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-10-03%22%2C%222026-10-04%22%2C%222026-10-05%22%2C%222026-10-06%22%2C%222026-10-07%22%2C%222026-10-08%22%2C%222026-10-09%22%2C%222026-10-10%22%2C%222026-10-11%22%2C%222026-10-12%22%2C%222026-10-13%22%2C%222026-10-14%22%2C%222026-10-15%22%2C%222026-10-16%22%2C%222026-10-17%22%2C%222026-10-18%22%2C%222026-10-19%22%2C%222026-10-20%22%2C%222026-10-21%22%2C%222026-10-22%22%2C%222026-10-23%22%2C%222026-10-24%22%2C%222026-10-25%22%2C%222026-10-26%22%2C%222026-10-27%22%2C%222026-10-28%22%2C%222026-10-29%22%2C%222026-10-30%22%2C%222026-10-31%22%2C%222026-11-01%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B7434%2C7445%2C7452%2C7462%2C7474%2C7480%2C7495%2C7514%2C7526%2C7534%2C7558%2C7566%2C7581%2C7594%2C7600%2C7614%2C7616%2C7631%2C7647%2C7657%2C7663%2C7672%2C7674%2C7686%2C7692%2C7697%2C7705%2C7718%2C7723%2C7729%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B76%2C76%2C76%2C76%2C76%2C76%2C77%2C77%2C77%2C77%2C77%2C77%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-10-03%22%2C%222026-10-04%22%2C%222026-10-05%22%2C%222026-10-06%22%2C%222026-10-07%22%2C%222026-10-08%22%2C%222026-10-09%22%2C%222026-10-10%22%2C%222026-10-11%22%2C%222026-10-12%22%2C%222026-10-13%22%2C%222026-10-14%22%2C%222026-10-15%22%2C%222026-10-16%22%2C%222026-10-17%22%2C%222026-10-18%22%2C%222026-10-19%22%2C%222026-10-20%22%2C%222026-10-21%22%2C%222026-10-22%22%2C%222026-10-23%22%2C%222026-10-24%22%2C%222026-10-25%22%2C%222026-10-26%22%2C%222026-10-27%22%2C%222026-10-28%22%2C%222026-10-29%22%2C%222026-10-30%22%2C%222026-10-31%22%2C%222026-11-01%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B7434%2C7445%2C7452%2C7462%2C7474%2C7480%2C7495%2C7514%2C7526%2C7534%2C7558%2C7566%2C7581%2C7594%2C7600%2C7614%2C7616%2C7631%2C7647%2C7657%2C7663%2C7672%2C7674%2C7686%2C7692%2C7697%2C7705%2C7718%2C7723%2C7731%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B76%2C76%2C76%2C76%2C76%2C76%2C77%2C77%2C77%2C77%2C77%2C77%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で合計49回もの素晴らしいコミット、お疲れ様でした！✨ セキュリティ強化と基盤の安定化に大きく貢献されましたね！
+直近30日間で49件ものコミット、素晴らしい活躍でした！✨
 
-特に**OpenShelf**では、Next.jsやVite、Vitest、Sharpといった主要ライブラリのセキュリティ脆弱性対応やバージョンアップを多数実施されました。開発用依存関係の整理やesbuildの追加も進めつつ、複数の本番リリース(`staging -> main`)を無事に完了させていますね、素晴らしいです！🚀
+`OpenShelf` では、stagingからの定期的なリリース作業が活発でしたね。それに加えて、`Next.js` や `Vite`、`Vitest`、`Sharp` などの大規模な依存関係のアップデートやセキュリティ修正に精力的に取り組んでいました。特に多くのセキュリティ脆弱性への対応は、プロジェクトの安定稼働と安全性を高める上で非常に重要です。🚀 `esbuild` の追加も新しい機能展開に貢献しています。
 
-**Audicle**でも大規模なセキュリティ対応が光ります。Next.jsのRCE脆弱性やSSRF、cache poisoningなど、広範囲にわたる依存関係のセキュリティアラートを迅速に解消されました。システム全体の堅牢性が大幅に向上したことでしょう！🛡️
+`Audicle` では、`Next.js` のRCEやSSRFといった複数の深刻な脆弱性を含む、多数のセキュリティアラートに対応されました。`source-map-js` や `sharp` など、様々なライブラリのセキュリティアップデートでシステム全体の安全性を高めてくださり、見事な対応でした！🛡️
 
-また、**jules-extension**では、markdown sanitizersのアップデートや推移的な依存関係の監査強化を通じて、セキュリティ基盤を着実に固めていますね。
+`jules-extension` でも、`markdown sanitizers` のアップデートやセキュリティ監査の強化を進めていただき、プロジェクトの堅牢性向上に貢献しています。
 
-各プロジェクトで多岐にわたる重要な作業を同時並行で進められた成果は、チームにとって非常に大きな価値となります。引き続きの活躍を楽しみにしています！🎉
+各リポジトリで、リリースからセキュリティ強化、依存関係の最新化まで、多岐にわたる重要な作業をこなされました。チームへの貢献、本当にありがとうございます！これからも期待しています！🌟
 
 _Total: 49 commits across 4 projects_
 
@@ -126,13 +126,13 @@ _Total: 49 commits across 4 projects_
       <sub>Juice=Juice</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2731c3c5cfc02676c050fc1f3dc" alt="King & Ashley" width="120" />
+      <a href="https://open.spotify.com/track/46J5qTlMBFAaZCIvXk3loa" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736c5a59e7b7bdac3220cc7778" alt="KING & ASHLEY" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>King & Ashley</sub>
+      <sub>KING & ASHLEY</sub>
       <br />
       <sub>MY FIRST STORY</sub>
     </td>
