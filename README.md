@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Olá! Dia chuvoso☔
-📍 São Paulo: 20°C
+# 🌍 おはよう！雨だね☔
+📍 Sapporo: 6°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,7 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で49件ものコミット、お疲れ様です！👏 Merge pull request #1310 from Hiroki-org/staging、Merge pull request #1309 from Hiroki-org/dependabot/npm_and_yarn/next-16.4.1、Merge pull request #1307 from Hiroki-org/stagingなど、多くの作業を進められました。合計30897行の変更を加えられるなど、精力的な開発が行われています。これからも応援しています！✨
+お疲れ様です！直近30日間で**計49件**のコミット、素晴らしい活躍でしたね！✨
+
+**OpenShelf**では、複数回のリリース作業（staging -> main）をスムーズに進め、プロジェクトの継続的な進展に貢献されました。`next`、`vite`、`vitest`、`sharp`、`jsdom`、`react-pdf`など多数の依存関係を最新に保ち、特にセキュリティ修正に注力。`esbuild` の追加でビルド環境も強化されていますね。
+
+**Audicle**では、深刻な依存関係のセキュリティ脆弱性（Next.jsのRCEなど）に積極的に対応し、システム全体の安全性を大きく向上させました。複数のライブラリをまとめて更新し、リスクを迅速に解消したことは大変重要です。
+
+**jules-extension**では、依存関係のセキュリティ監査を強化し、`markdown sanitizers`の更新を行うことで、プロジェクトの堅牢性を高める貢献をされました。
+
+どのプロジェクトでも、セキュリティと安定性を重視した着実な作業が光っています。日々の努力に感謝です！これからも素晴らしい成果を楽しみにしています！🚀
 
 _Total: 49 commits across 4 projects_
 
@@ -96,37 +104,37 @@ _Total: 49 commits across 4 projects_
       <sub>HANA</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/35MeePbBnryubkVG0v8GbI" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273a58f0d10db6a676c3b422fda" alt="ブルーアンバー" width="120" />
-      </a>
-      <br />
-      <sub><strong>#3</strong></sub>
-      <br />
-      <sub>ブルーアンバー</sub>
-      <br />
-      <sub>back number</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/3xUQAdNRIJIZwMaABAW30d" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2734cd6430c81db387bb7bed830" alt="飯伏幸太のテーマ 「Golden☆Star 2020ver.」" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>飯伏幸太のテーマ 「Golden☆Star 2020ver.」</sub>
       <br />
       <sub>NJPW(新日本プロレスリング株式会社)</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/1ycsBZlPqRPqf0ilosVhEl" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273f46c070998294b66650ea007" alt="盛れ！ミ・アモーレ" width="120" />
+      <a href="https://open.spotify.com/track/35MeePbBnryubkVG0v8GbI" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b273a58f0d10db6a676c3b422fda" alt="ブルーアンバー" width="120" />
+      </a>
+      <br />
+      <sub><strong>#4</strong></sub>
+      <br />
+      <sub>ブルーアンバー</sub>
+      <br />
+      <sub>back number</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/46J5qTlMBFAaZCIvXk3loa" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2736c5a59e7b7bdac3220cc7778" alt="KING & ASHLEY" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>盛れ！ミ・アモーレ</sub>
+      <sub>KING & ASHLEY</sub>
       <br />
-      <sub>Juice=Juice</sub>
+      <sub>MY FIRST STORY</sub>
     </td>
   </tr>
 </table>
@@ -137,7 +145,7 @@ _Total: 49 commits across 4 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.2">v1.6.2</a> · 4 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.2">v1.6.2</a> · 5 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.6.2 -->
@@ -150,7 +158,7 @@ _Total: 49 commits across 4 projects_
 
 <details>
 <summary>
-<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.2-publish">v1.6.2-publish</a> · 4 days ago
+<strong>Jules Extension</strong> <a href="https://github.com/Hiroki-org/jules-extension/releases/tag/v1.6.2-publish">v1.6.2-publish</a> · 5 days ago
 </summary>
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.6.2-publish -->
