@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！雨だね☔
-📍 Sapporo: 11°C
+# 🌍 ¡Hola! Día nublado☁️
+📍 Lima: 23°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -9,7 +9,7 @@
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 17 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 79 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-10-07%22%2C%222026-10-08%22%2C%222026-10-09%22%2C%222026-10-10%22%2C%222026-10-11%22%2C%222026-10-12%22%2C%222026-10-13%22%2C%222026-10-14%22%2C%222026-10-15%22%2C%222026-10-16%22%2C%222026-10-17%22%2C%222026-10-18%22%2C%222026-10-19%22%2C%222026-10-20%22%2C%222026-10-21%22%2C%222026-10-22%22%2C%222026-10-23%22%2C%222026-10-24%22%2C%222026-10-25%22%2C%222026-10-26%22%2C%222026-10-27%22%2C%222026-10-28%22%2C%222026-10-29%22%2C%222026-10-30%22%2C%222026-10-31%22%2C%222026-11-01%22%2C%222026-11-02%22%2C%222026-11-03%22%2C%222026-11-04%22%2C%222026-11-05%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B7474%2C7480%2C7495%2C7514%2C7526%2C7534%2C7558%2C7566%2C7581%2C7594%2C7600%2C7614%2C7616%2C7631%2C7647%2C7657%2C7663%2C7672%2C7674%2C7686%2C7692%2C7697%2C7705%2C7718%2C7723%2C7731%2C7735%2C7739%2C7742%2C7747%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B76%2C76%2C77%2C77%2C77%2C77%2C77%2C77%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-10-08%22%2C%222026-10-09%22%2C%222026-10-10%22%2C%222026-10-11%22%2C%222026-10-12%22%2C%222026-10-13%22%2C%222026-10-14%22%2C%222026-10-15%22%2C%222026-10-16%22%2C%222026-10-17%22%2C%222026-10-18%22%2C%222026-10-19%22%2C%222026-10-20%22%2C%222026-10-21%22%2C%222026-10-22%22%2C%222026-10-23%22%2C%222026-10-24%22%2C%222026-10-25%22%2C%222026-10-26%22%2C%222026-10-27%22%2C%222026-10-28%22%2C%222026-10-29%22%2C%222026-10-30%22%2C%222026-10-31%22%2C%222026-11-01%22%2C%222026-11-02%22%2C%222026-11-03%22%2C%222026-11-04%22%2C%222026-11-05%22%2C%222026-11-06%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B7480%2C7495%2C7514%2C7526%2C7534%2C7558%2C7566%2C7581%2C7594%2C7600%2C7614%2C7616%2C7631%2C7647%2C7657%2C7663%2C7672%2C7674%2C7686%2C7692%2C7697%2C7705%2C7718%2C7723%2C7731%2C7735%2C7739%2C7742%2C7747%2C7747%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B76%2C77%2C77%2C77%2C77%2C77%2C77%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,16 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で33件ものコミット、お疲れ様でした！✨ とても活発な活動が見て取れますね！
+直近30日間で33件ものコミット、素晴らしい活動量ですね！✨ 主に複数のリポジトリで、依存関係の更新とセキュリティ強化に大きく貢献されました。
 
-特に目を引くのは、各リポジトリでの堅実な依存関係の更新とセキュリティ強化への取り組みです。
+**OpenShelf**では、`Next.js`のバージョンアップや、`Vite`、`Vitest`、`Launch-editor`、`Sharp`などのセキュリティ修正、さらに`react-pdf`や`esbuild`の追加・更新など、多岐にわたる依存関係の管理と多くのリリース作業を精力的にこなしましたね。🚀
 
-*   **OpenShelf** では、Next.jsのバージョンアップやVite、Vitest、Sharpといったライブラリのセキュリティ修正、React-PDFの更新など、広範な依存関係のメンテナンスを積極的に実施していましたね。そして、何度もステージングからメインへのリリース作業を行い、安定した運用に貢献されています。🚀 CI環境の改善も素晴らしいです！
-*   **Audicle** では、Next.jsの深刻な脆弱性（RCEやSSRFなど）を含む、非常に重要なセキュリティアラートに迅速に対応されています。source-map-jsやbrace-expansion、sharp、undici、zodといった多岐にわたる依存関係の修正で、システムの安全性を高めています。これは本当に重要な貢献です！🛡️
-*   **paper-tools** では、Next.jsのバージョンアップに着手し、プロジェクトの基盤を最新に保つ努力がうかがえます。
-*   **jules-extension** でも、markdown sanitizersの更新や依存関係の監査強化を行うなど、セキュリティ意識の高さが光ります。
+**Audicle**では、`Next.js`の重大なRCE脆弱性を含む複数のセキュリティ問題を解決し、`source-map-js`や`brace-expansion`などの依存関係も強化。広範囲にわたるセキュリティ対応、その迅速な対応力には脱帽です！👏
 
-全体として、プロジェクトの安定性とセキュリティ向上に大きく貢献されています。継続的な努力と細やかなケアに感謝します！今後のさらなる活躍も楽しみにしています！👏
+**paper-tools**では`Next.js`のバージョンアップ、**jules-extension**では`markdown sanitizers`を含むセキュリティの強化をしっかりと実施。🛡️
+
+常に最新の技術とセキュリティを意識した開発、本当に頼りになります！この調子でこれからも素晴らしい貢献を期待しています！💪
 
 _Total: 33 commits across 4 projects_
 
