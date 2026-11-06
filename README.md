@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！雨だね☔
-📍 Sapporo: 4°C
+# 🌍 ¡Hola! Día soleado☀️
+📍 Madrid: 13°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,19 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で33件のコミット、お疲れ様です！👏 素晴らしい活動サマリーですね！
+直近30日間で合計33件ものコミット、お疲れ様でした！👏 セキュリティ強化とシステムの最新状態維持に重点を置いた、非常に活発な活動が見て取れますね！
 
-複数のリポジトリで、セキュリティと依存関係の健全性を保つための重要なアップデートを精力的に進められました。
+特に、複数のリポジトリで依存関係のアップデートとセキュリティ対応に尽力されました。
+*   **OpenShelf** では、Next.jsのバージョンアップをはじめ、ViteやVitest、Sharpなど多岐にわたるセキュリティ修正を迅速に適用し、定期的なリリースも多数実施しました。大規模なコードベースの安全性維持に貢献されていますね。
+*   **Audicle** では、Next.jsの深刻な脆弱性を含む広範囲なセキュリティアラートに丁寧に対応し、システム全体の堅牢性を高めました。これは非常に重要な作業です！
+*   **jules-extension** でも、依存関係のセキュリティ監査強化とアップデートを行いました。
+*   **paper-tools** では、Next.jsのバージョンアップを実施。
 
-特に**OpenShelf**では、頻繁なリリース作業（staging -> main）をこなしつつ、Next.js、Vite、Vitest、Sharpなど多岐にわたる依存関係の更新やセキュリティフィックスを実施されましたね。CI環境の改善も忘れていません！🚀
-
-**Audicle**では、Next.jsの深刻な脆弱性や、source-map-js、brace-expansionといった多数の依存関係におけるセキュリティアラートに迅速に対応し、サービス全体の安全性を大きく向上させました。🛡️
-
-**paper-tools**でもNext.jsのバージョンアップで、常に最新の環境を維持されています。
-
-そして**jules-extension**では、markdown sanitizersの更新や推移的な依存関係の監査強化を通じて、セキュリティ対策をしっかり固めています。
-
-これら一連の取り組みは、プロダクトの安定性とセキュリティを支える非常に重要な貢献です。継続的な努力に感謝します！これからも一緒に頑張りましょう！✨
+これだけ多くのセキュリティ対応を迅速に進めることで、プロダクトの安全性と安定性が大きく向上していますね！素晴らしい貢献です！これからも期待しています！🚀
 
 _Total: 33 commits across 4 projects_
 
@@ -62,7 +58,7 @@ _Total: 33 commits across 4 projects_
       <br />
       <sub>📊 6 commits (18.2%)</sub>
       <br />
-      <sub>🔷 TypeScript ⭐ 21</sub>
+      <sub>🔷 TypeScript ⭐ 22</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
