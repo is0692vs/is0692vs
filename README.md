@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Está nublado☁️
-📍 Mexico City: 14°C
+# 🌍 こんにちは！くもってますね☁️
+📍 Fukuoka: 9°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で、なんと33件ものコミット、お疲れ様でした！🎉 素晴らしい活動量ですね！
+直近30日間で33件ものコミット、お疲れ様でした！👏 複数のプロジェクトで、安定稼働とセキュリティ強化に大きく貢献されていますね！
 
-今回の活動は、システム全体の安定性とセキュリティ強化に重点を置いた、非常に価値あるものでした。
+特に**OpenShelf**では、度重なるリリース作業に加え、Next.jsのバージョンアップやVite、Vitest、Sharpといった多数の依存関係のセキュリティ修正を精力的に行いました。esbuildの導入もあり、プロジェクトの健全性維持に欠かせない活躍です！✨
 
-特に、
-*   **OpenShelf** では、Next.jsやViteなどの重要な依存関係を最新の状態に保ち、セキュリティ修正にも迅速に対応されていますね。また、複数回の `Release: staging -> main` コミットから、継続的なデプロイとプロダクトの進化が伺えます。素晴らしいです！🚀
-*   **Audicle** では、Next.jsのRCE脆弱性対応を含む、広範囲なDependabotセキュリティアラートに完璧に対処されました。これはシステムの安全性を高める上で非常に重要な貢献です！🛡️
-*   **jules-extension** では、依存関係の健全性維持とセキュリティ監査の強化に注力し、より堅牢なシステム構築に貢献されていますね。💡
-*   **paper-tools** でも、Next.jsのバージョンアップで最新環境を維持されています。
+**Audicle**では、Next.jsのRCEやSSRFなどの重大な脆弱性に対応し、Source-map-jsやBrace-expansionなど広範な依存関係のセキュリティ対策を徹底されていますね。ユーザーの安全を守るための重要な仕事、本当に素晴らしいです！🛡️
 
-各リポジトリで、セキュリティ対策や依存関係の更新を徹底されており、システムの品質向上に大きく貢献されています。この調子で、これからも素晴らしい開発を続けてください！応援しています！✨
+また、**paper-tools**ではNext.jsのバージョンアップ、**jules-extension**ではMarkdownサニタイザーの更新や依存関係の監査強化を通じて、各プロジェクトのセキュリティと安定性を着実に向上させています。
+
+全体的に、プロジェクトの基盤を強化し、ユーザーに安心して利用してもらえる環境作りに尽力されたことが伝わってきます。この調子でこれからも頑張ってください！応援しています！🚀
 
 _Total: 33 commits across 4 projects_
 
@@ -95,11 +93,22 @@ _Total: 33 commits across 4 projects_
       <sub>HANA</sub>
     </td>
     <td align="center">
+      <a href="https://open.spotify.com/track/7C5kbaWqlt4E23aS1qFgEC" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2731af5ca59a739f469edd3d3f2" alt="ダリア" width="120" />
+      </a>
+      <br />
+      <sub><strong>#2</strong></sub>
+      <br />
+      <sub>ダリア</sub>
+      <br />
+      <sub>CHANMINA</sub>
+    </td>
+    <td align="center">
       <a href="https://open.spotify.com/track/6M4fRouHq1Zxtl05ifoeAL" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b273c175a1d89c39c1cd297cb669" alt="BAD LOVE" width="120" />
       </a>
       <br />
-      <sub><strong>#2</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>BAD LOVE</sub>
       <br />
@@ -110,33 +119,22 @@ _Total: 33 commits across 4 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b2734cd6430c81db387bb7bed830" alt="飯伏幸太のテーマ 「Golden☆Star 2020ver.」" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>飯伏幸太のテーマ 「Golden☆Star 2020ver.」</sub>
       <br />
       <sub>NJPW(新日本プロレスリング株式会社)</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/1ycsBZlPqRPqf0ilosVhEl" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b273f46c070998294b66650ea007" alt="盛れ！ミ・アモーレ" width="120" />
-      </a>
-      <br />
-      <sub><strong>#4</strong></sub>
-      <br />
-      <sub>盛れ！ミ・アモーレ</sub>
-      <br />
-      <sub>Juice=Juice</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/46J5qTlMBFAaZCIvXk3loa" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736c5a59e7b7bdac3220cc7778" alt="KING & ASHLEY" width="120" />
+      <a href="https://open.spotify.com/track/3eRc3AWjXOqcNujw8U01ep" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b2734268bc88fbf09ed9f53924a2" alt="美人 - From THE FIRST TAKE" width="120" />
       </a>
       <br />
       <sub><strong>#5</strong></sub>
       <br />
-      <sub>KING & ASHLEY</sub>
+      <sub>美人 - From THE FIRST TAKE</sub>
       <br />
-      <sub>MY FIRST STORY</sub>
+      <sub>CHANMINA</sub>
     </td>
   </tr>
 </table>
