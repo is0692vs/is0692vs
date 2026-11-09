@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Beautiful sunny day☀️
-📍 New York: 14°C
+# 🌍 你好！晴天真美☀️
+📍 Beijing: 8°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 7,759 installs | ⭐ 4.5/5 (2 ratings) | v1.6.2
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 7,760 installs | ⭐ 4.5/5 (2 ratings) | v1.6.2
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 17 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 79 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-10-10%22%2C%222026-10-11%22%2C%222026-10-12%22%2C%222026-10-13%22%2C%222026-10-14%22%2C%222026-10-15%22%2C%222026-10-16%22%2C%222026-10-17%22%2C%222026-10-18%22%2C%222026-10-19%22%2C%222026-10-20%22%2C%222026-10-21%22%2C%222026-10-22%22%2C%222026-10-23%22%2C%222026-10-24%22%2C%222026-10-25%22%2C%222026-10-26%22%2C%222026-10-27%22%2C%222026-10-28%22%2C%222026-10-29%22%2C%222026-10-30%22%2C%222026-10-31%22%2C%222026-11-01%22%2C%222026-11-02%22%2C%222026-11-03%22%2C%222026-11-04%22%2C%222026-11-05%22%2C%222026-11-06%22%2C%222026-11-07%22%2C%222026-11-08%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B7514%2C7526%2C7534%2C7558%2C7566%2C7581%2C7594%2C7600%2C7614%2C7616%2C7631%2C7647%2C7657%2C7663%2C7672%2C7674%2C7686%2C7692%2C7697%2C7705%2C7718%2C7723%2C7731%2C7735%2C7739%2C7742%2C7747%2C7750%2C7757%2C7759%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B77%2C77%2C77%2C77%2C77%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-10-11%22%2C%222026-10-12%22%2C%222026-10-13%22%2C%222026-10-14%22%2C%222026-10-15%22%2C%222026-10-16%22%2C%222026-10-17%22%2C%222026-10-18%22%2C%222026-10-19%22%2C%222026-10-20%22%2C%222026-10-21%22%2C%222026-10-22%22%2C%222026-10-23%22%2C%222026-10-24%22%2C%222026-10-25%22%2C%222026-10-26%22%2C%222026-10-27%22%2C%222026-10-28%22%2C%222026-10-29%22%2C%222026-10-30%22%2C%222026-10-31%22%2C%222026-11-01%22%2C%222026-11-02%22%2C%222026-11-03%22%2C%222026-11-04%22%2C%222026-11-05%22%2C%222026-11-06%22%2C%222026-11-07%22%2C%222026-11-08%22%2C%222026-11-09%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B7526%2C7534%2C7558%2C7566%2C7581%2C7594%2C7600%2C7614%2C7616%2C7631%2C7647%2C7657%2C7663%2C7672%2C7674%2C7686%2C7692%2C7697%2C7705%2C7718%2C7723%2C7731%2C7735%2C7739%2C7742%2C7747%2C7750%2C7757%2C7759%2C7760%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B77%2C77%2C77%2C77%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C78%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,16 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で33件ものコミット、素晴らしい活躍ぶりですね！✨ 日々の開発お疲れ様です！
+直近30日間で33件ものコミット、大変お疲れ様でした！👏 活発な開発状況が伺え、特に依存関係の更新とセキュリティ対策に注力されていたようですね。
 
-特に、複数のリポジトリでセキュリティ強化と依存関係の更新に力を入れているのが目立ちます。
+**OpenShelf** では、定期的なリリース作業 (`Release: staging -> main`) が多数行われ、プロダクトの安定稼働に大きく貢献されていますね。Next.js、Vite、Vitest、Sharpなどの主要ライブラリのセキュリティ修正やバージョンアップ (`chore(deps)`)、さらにはesbuildの追加 (`fix(deps)`) まで、広範囲にわたる基盤強化が行われました。
 
-*   **OpenShelf** では、多数のリリース作業を進めつつ、Next.jsやVite、Vitest、Sharpといった主要ライブラリのバージョンアップとセキュリティ修正（複数のCVE対応を含む）を精力的に行いました。esbuildのCI対応も進め、安定性向上に貢献していますね。🚀
-*   **Audicle** では、Next.jsの重要なセキュリティ脆弱性（RCEやSSRFなど）をはじめ、多数の依存関係のセキュリティアラートに包括的に対応し、大規模な改善を実現しました。素晴らしいです！🛡️
-*   **jules-extension** では、Markdownサニタイザーの更新や依存関係の監査強化を通じて、プロジェクトの安全性をさらに高めました。細かい部分まで気を配る姿勢、流石です！🔍
-*   **paper-tools** でも、Next.jsのバージョンアップを実施し、常に最新の環境を保つ努力が見られます。
+**Audicle** では、なんとNext.jsのRCEやSSRF、キャッシュ関連の脆弱性など、クリティカルなセキュリティアラートへの大規模な対応 (`fix(deps)`) が重点的に実施されました。source-map-jsやsharpなど多数の依存関係もアップデートされ、プロジェクト全体の安全性が大きく向上したことでしょう！🛡️
 
-着実にプロジェクトを前進させ、品質とセキュリティを向上させる活動、本当に素晴らしいですね。今後のさらなるご活躍も楽しみにしています！これからも頑張ってください！😊
+**jules-extension** では、markdown sanitizersの更新や推移的な依存関係の監査強化 (`fix(deps)`) といったセキュリティ対策が進められました。細部にわたる配慮、素晴らしいです！
+
+また、**paper-tools** ではNext.jsのバージョンアップ (`chore(deps)`) が行われ、各プロジェクトが常に最新の状態に保たれていることが分かります。
+
+たくさんのセキュリティ修正と安定稼働のための地道な努力が、日々のプロダクトを支えています。本当に素晴らしい活躍ぶりですね！これからも期待しています！😊
 
 _Total: 33 commits across 4 projects_
 
