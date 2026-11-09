@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 你好！晴天真美☀️
-📍 Beijing: 8°C
+# 🌍 Hello! Rather cloudy today☁️
+📍 London: 7°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,17 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で33件ものコミット、大変お疲れ様でした！👏 活発な開発状況が伺え、特に依存関係の更新とセキュリティ対策に注力されていたようですね。
+直近30日間で、計33回のコミットお疲れ様でした！活動サマリーをお届けします🚀
 
-**OpenShelf** では、定期的なリリース作業 (`Release: staging -> main`) が多数行われ、プロダクトの安定稼働に大きく貢献されていますね。Next.js、Vite、Vitest、Sharpなどの主要ライブラリのセキュリティ修正やバージョンアップ (`chore(deps)`)、さらにはesbuildの追加 (`fix(deps)`) まで、広範囲にわたる基盤強化が行われました。
+複数のリポジトリでセキュリティ強化と依存関係のアップデートに尽力されました。
 
-**Audicle** では、なんとNext.jsのRCEやSSRF、キャッシュ関連の脆弱性など、クリティカルなセキュリティアラートへの大規模な対応 (`fix(deps)`) が重点的に実施されました。source-map-jsやsharpなど多数の依存関係もアップデートされ、プロジェクト全体の安全性が大きく向上したことでしょう！🛡️
+**OpenShelf**では、大規模リリースを複数回実施し、Next.js、vite、vitest、sharpなど主要ライブラリのセキュリティ修正やバージョンアップを進め、システムの安全性と安定性に貢献しています✨
 
-**jules-extension** では、markdown sanitizersの更新や推移的な依存関係の監査強化 (`fix(deps)`) といったセキュリティ対策が進められました。細部にわたる配慮、素晴らしいです！
+**Audicle**では、Next.jsのRCEやSSRFなど深刻な脆弱性に迅速に対応し、徹底的な監査と修正を実施。その迅速な対応は素晴らしいです🛡️
 
-また、**paper-tools** ではNext.jsのバージョンアップ (`chore(deps)`) が行われ、各プロジェクトが常に最新の状態に保たれていることが分かります。
+**paper-tools**ではNext.jsのバージョンアップを、**jules-extension**ではMarkdownサニタイザー更新や依存関係監査強化を通じて、セキュリティ対策を着実に強化されています🔒
 
-たくさんのセキュリティ修正と安定稼働のための地道な努力が、日々のプロダクトを支えています。本当に素晴らしい活躍ぶりですね！これからも期待しています！😊
+日々の努力が品質向上と安心に直結。本当にお疲れ様でした！今後の活躍も期待します💪
 
 _Total: 33 commits across 4 projects_
 
