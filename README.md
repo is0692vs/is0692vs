@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 おはよう！いい天気だね☀️
-📍 Hiroshima: 7°C
+# 🌍 こんにちは！今日は曇り空ですね☁️
+📍 Osaka: 11°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -24,21 +24,17 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で33件ものコミット、素晴らしい活躍ですね！🎉 さっそく活動サマリーをお届けします。
+直近30日間で合計45件ものコミット、素晴らしい活動量です！お疲れ様でした👏
 
-この期間は、主に各プロジェクトの安定性とセキュリティ向上に大きく貢献されました。
+特にメインのリポジトリである**OpenShelf**では、精力的にセキュリティ対策と依存関係の更新に取り組んでいただきましたね！Next.js、vite、vitest、sharpなど、主要ライブラリのバージョンアップと多くのセキュリティ脆弱性（CVE-2026-112945など）への迅速な対応が目立ちます。また、複数回の「Release: staging -> main」コミットから、安定したリリースと本番環境への貢献が見て取れます🚀🔒
 
-**[OpenShelf]** では、頻繁なリリース作業 (`staging` から `main` へのマージが多数) をこなしつつ、依存関係の継続的なアップデートに注力されましたね。特に `next` や `react-pdf` のバージョンアップ、`vite`, `vitest`, `launch-editor`, `sharp`, `undici`, `zod` といった主要ライブラリのセキュリティ修正に精力的に取り組まれています。`esbuild` の追加も行われ、開発基盤の強化も進められました。
+**Audicle**では、Dependabotのセキュリティアラートに包括的に対応し、Next.jsのクリティカルな脆弱性（RCEやSSRFなど）からプロジェクトを保護してくれました。これは非常に重要な貢献です！🛡️
 
-**[Audicle]** では、特に重要なセキュリティ対策を実施されました！🔐 `Next.js` のバージョンを大幅に引き上げ、RCEやSSRFといった多数の深刻な脆弱性に対応。他にも `source-map-js` や `sharp` などの依存関係を広範囲に更新し、システムの堅牢性を大きく高めました。
+さらに、**paper-tools**ではNext.jsの依存関係を最新に保ち、**jules-extension**ではmarkdown sanitizersの更新や依存関係の監査を強化し、プロジェクト全体の健全性を高めていますね📚✨
 
-**[paper-tools]** では、`next` のバージョンアップを行い、最新の環境を保つための保守作業を進められました。
+多岐にわたるプロジェクトで、セキュリティと品質向上に尽力してくださりありがとうございます！この調子で、これからも最高の開発を続けていきましょう！🎉
 
-**[jules-extension]** では、セキュリティの意識の高さが光りますね✨ `markdown sanitizers` の更新や推移的依存関係の監査強化を通じて、セキュリティ体制を一層盤石にされました。
-
-各プロジェクトで地道ながらも非常に重要な作業を進めていただき、素晴らしい成果です。今後のさらなるご活躍を楽しみにしています！🚀
-
-_Total: 33 commits across 4 projects_
+_Total: 45 commits across 4 projects_
 
 <table>
   <tr>
@@ -49,7 +45,7 @@ _Total: 33 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 24 commits (72.7%)</sub>
+      <sub>📊 33 commits (73.3%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -60,7 +56,7 @@ _Total: 33 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 6 commits (18.2%)</sub>
+      <sub>📊 9 commits (20.0%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 22</sub>
     </td>
@@ -71,7 +67,7 @@ _Total: 33 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
       <br />
-      <sub>📊 2 commits (6.1%)</sub>
+      <sub>📊 2 commits (4.4%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
