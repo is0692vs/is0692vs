@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Hello! Beautiful sunny day☀️
-📍 New York: 11°C
+# 🌍 ¡Hola! Día soleado☀️
+📍 Barcelona: 19°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
