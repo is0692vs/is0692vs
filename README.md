@@ -1,15 +1,15 @@
 <!-- weather-greeting:start -->
-# 🌍 ¡Hola! Día nublado☁️
-📍 Lima: 27°C
+# 🌍 おはよう！曇ってるね☁️
+📍 Hiroshima: 6°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
 🚀 VSCode Extensions:
-- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 7,800 installs | ⭐ 4.5/5 (2 ratings) | v1.6.2
+- **[Jules Extension](https://github.com/is0692vs/jules-extension)**: 7,803 installs | ⭐ 4.5/5 (2 ratings) | v1.6.2
 - **[Code Mantra](https://github.com/is0692vs/code-mantra)**: 17 installs | ⭐ No ratings yet | v1.1.9
 - **[Link Canvas](https://github.com/is0692vs/link-canvas)**: 81 installs | ⭐ No ratings yet | v0.1.3
 
-![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-10-25%22%2C%222026-10-26%22%2C%222026-10-27%22%2C%222026-10-28%22%2C%222026-10-29%22%2C%222026-10-30%22%2C%222026-10-31%22%2C%222026-11-01%22%2C%222026-11-02%22%2C%222026-11-03%22%2C%222026-11-04%22%2C%222026-11-05%22%2C%222026-11-06%22%2C%222026-11-07%22%2C%222026-11-08%22%2C%222026-11-09%22%2C%222026-11-10%22%2C%222026-11-11%22%2C%222026-11-12%22%2C%222026-11-13%22%2C%222026-11-14%22%2C%222026-11-15%22%2C%222026-11-16%22%2C%222026-11-17%22%2C%222026-11-18%22%2C%222026-11-19%22%2C%222026-11-20%22%2C%222026-11-21%22%2C%222026-11-22%22%2C%222026-11-23%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B7674%2C7686%2C7692%2C7697%2C7705%2C7718%2C7723%2C7731%2C7735%2C7739%2C7742%2C7747%2C7750%2C7757%2C7759%2C7762%2C7764%2C7772%2C7775%2C7775%2C7778%2C7779%2C7782%2C7785%2C7789%2C7789%2C7791%2C7792%2C7796%2C7800%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C80%2C80%2C80%2C80%2C80%2C81%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
+![VSCode Extension Stats](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222026-10-26%22%2C%222026-10-27%22%2C%222026-10-28%22%2C%222026-10-29%22%2C%222026-10-30%22%2C%222026-10-31%22%2C%222026-11-01%22%2C%222026-11-02%22%2C%222026-11-03%22%2C%222026-11-04%22%2C%222026-11-05%22%2C%222026-11-06%22%2C%222026-11-07%22%2C%222026-11-08%22%2C%222026-11-09%22%2C%222026-11-10%22%2C%222026-11-11%22%2C%222026-11-12%22%2C%222026-11-13%22%2C%222026-11-14%22%2C%222026-11-15%22%2C%222026-11-16%22%2C%222026-11-17%22%2C%222026-11-18%22%2C%222026-11-19%22%2C%222026-11-20%22%2C%222026-11-21%22%2C%222026-11-22%22%2C%222026-11-23%22%2C%222026-11-24%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Jules%20Extension%22%2C%22data%22%3A%5B7686%2C7692%2C7697%2C7705%2C7718%2C7723%2C7731%2C7735%2C7739%2C7742%2C7747%2C7750%2C7757%2C7759%2C7762%2C7764%2C7772%2C7775%2C7775%2C7778%2C7779%2C7782%2C7785%2C7789%2C7789%2C7791%2C7792%2C7796%2C7800%2C7803%5D%2C%22borderColor%22%3A%22%239966FF%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Code%20Mantra%22%2C%22data%22%3A%5B17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%2C17%5D%2C%22borderColor%22%3A%22%23FF9F40%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Link%20Canvas%22%2C%22data%22%3A%5B79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C79%2C80%2C80%2C80%2C80%2C80%2C81%2C81%5D%2C%22borderColor%22%3A%22%23FF6384%22%2C%22backgroundColor%22%3A%22transparent%22%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22VSCode%20Extension%20Installs%22%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D&width=800&height=400)
 <!-- vscode-stats:end -->
 
 <!-- stats:start -->
@@ -24,15 +24,15 @@ _npm download statistics temporarily unavailable_
 ### 🤖 gemini2.5flashによる直近30日の活動サマリー
 
 直近30日間の活動サマリー:
-直近30日間で**46件**ものコミット、お疲れ様でした！素晴らしいペースですね✨ 主な活動は、依存関係の更新とセキュリティ強化に尽力されたようです。
+直近30日間で、合計46件もの素晴らしいコミットを記録しましたね！👏 大量のコード変更を伴う作業、お疲れ様でした！
 
-特に**OpenShelf**では、頻繁なマージコミットに加えて、DependabotによるNext.jsやjsdomなど多数のライブラリ更新を進め、セキュリティアラートの修正やロックファイルの整合性維持に大きく貢献されましたね！大規模な依存関係の調整は大変だったかと思いますが、システムの安定稼働に直結する重要な作業です。
+特に目立った活動としては、主にセキュリティと依存関係の更新に精力的に取り組まれたことが伺えます。
 
-また、**Audicle**では、Next.jsの重要なセキュリティ脆弱性を含む広範囲な依存関係の修正を一挙に対応され、サービス全体の安全性を高めてくださいました。これは非常に価値のある貢献です👏
+*   **OpenShelf**では、stagingブランチとの大規模なマージや、定期的なリリース作業を進めつつ、多数の依存関係（Next.js、Vite、Vitest、sharpなど）のバージョンアップと、Code Scanningを含むセキュリティアラートの解消に尽力されましたね。クロスプラットフォーム対応のロックファイル調整やReactテストの依存関係調整も行い、プロジェクトの安定性と安全性を高めました✨
+*   **Audicle**では、Dependabotのセキュリティアラートに対し、Next.jsの重要なRCE脆弱性対応をはじめ、source-map-jsやsharpなどの多数のパッケージを更新・オーバーライドすることで、多岐にわたるセキュリティリスクを見事に解消しました！迅速な対応、素晴らしいです🚀
+*   **paper-tools**でも、Next.jsのバージョンアップを実施し、常に最新の環境を保つ努力が見られます。
 
-さらに**paper-tools**でも、Next.jsのバージョンアップを行うなど、各プロジェクトの健全性を保つための基盤固めをしっかりと実施されていますね。
-
-様々なリポジトリで、地道ながらも非常に大切な保守・改善作業を進めてくださり、本当にありがとうございます！日々の努力がプロジェクトの品質向上に繋がっています。これからも頑張ってくださいね！🚀
+着実にプロジェクトを前進させ、品質と安全性を高めるための重要な作業ばかりです。今後のさらなるご活躍を応援しています！💪
 
 _Total: 46 commits across 4 projects_
 
@@ -93,22 +93,11 @@ _Total: 46 commits across 4 projects_
       <sub>CHANMINA</sub>
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo" target="_blank">
-        <img src="https://i.scdn.co/image/ab67616d0000b2736dfc60ab085c9ceda0557548" alt="Bad Girl" width="120" />
-      </a>
-      <br />
-      <sub><strong>#2</strong></sub>
-      <br />
-      <sub>Bad Girl</sub>
-      <br />
-      <sub>HANA</sub>
-    </td>
-    <td align="center">
       <a href="https://open.spotify.com/track/3eRc3AWjXOqcNujw8U01ep" target="_blank">
         <img src="https://i.scdn.co/image/ab67616d0000b2734268bc88fbf09ed9f53924a2" alt="美人 - From THE FIRST TAKE" width="120" />
       </a>
       <br />
-      <sub><strong>#3</strong></sub>
+      <sub><strong>#2</strong></sub>
       <br />
       <sub>美人 - From THE FIRST TAKE</sub>
       <br />
@@ -119,7 +108,7 @@ _Total: 46 commits across 4 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b273c175a1d89c39c1cd297cb669" alt="BAD LOVE" width="120" />
       </a>
       <br />
-      <sub><strong>#4</strong></sub>
+      <sub><strong>#3</strong></sub>
       <br />
       <sub>BAD LOVE</sub>
       <br />
@@ -130,11 +119,22 @@ _Total: 46 commits across 4 projects_
         <img src="https://i.scdn.co/image/ab67616d0000b2734cd6430c81db387bb7bed830" alt="飯伏幸太のテーマ 「Golden☆Star 2020ver.」" width="120" />
       </a>
       <br />
-      <sub><strong>#5</strong></sub>
+      <sub><strong>#4</strong></sub>
       <br />
       <sub>飯伏幸太のテーマ 「Golden☆Star 2020ver.」</sub>
       <br />
       <sub>NJPW(新日本プロレスリング株式会社)</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/track/0z6XUSiw6WTT8uZNWJwWcO" target="_blank">
+        <img src="https://i.scdn.co/image/ab67616d0000b27342f80e91cb2fa0f4a7570d8f" alt="GiANT KiLLERS" width="120" />
+      </a>
+      <br />
+      <sub><strong>#5</strong></sub>
+      <br />
+      <sub>GiANT KiLLERS</sub>
+      <br />
+      <sub>BiSH</sub>
     </td>
   </tr>
 </table>
