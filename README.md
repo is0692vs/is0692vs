@@ -1,6 +1,6 @@
 <!-- weather-greeting:start -->
-# 🌍 Ciao! Giornata nuvolosa☁️
-📍 Rome: 12°C
+# 🌍 Bonjour! Belle journée ensoleillée☀️
+📍 Paris: 5°C
 <!-- weather-greeting:end -->
 
 <!-- vscode-stats:start -->
@@ -26,13 +26,13 @@ _npm download statistics temporarily unavailable_
 直近30日間の活動サマリー:
 直近30日間で38件のコミット、素晴らしい活躍でしたね！✨
 
-主に**OpenShelf**リポジトリでの活動が目立ちました。複数のリリース（`Release: staging -> main`）を通じて、着実にプロジェクトを進められていますね。Dependabotによる`react-pdf`や`jsdom`を含む多くの依存関係の更新 (`chore(deps)`) に積極的に対応し、システムの健全性を保っています。また、Code Scanningのセキュリティアラート解消や、ロックファイルの競合解決、クロスプラットフォーム対応の修正など、安定稼働のための細かい調整にも尽力されていました！👍
+主に**OpenShelf**プロジェクトでは、活発な開発が伺えます。特に複数のリリース作業（`Release: staging -> main`）を行いつつ、依存関係の定期的な更新やセキュリティ脆弱性への対応に尽力されましたね。`react-pdf`や`jsdom`を含む様々なライブラリのバージョンアップや、Code Scanningの警告解消に貢献されました。また、クロスプラットフォームでのロックファイルの整合性維持（`fix: preserve cross-platform lock entries`、`fix: retain cross-platform optional dependencies`）といった細かいながらも重要な品質向上にも取り組まれ、システムの安定稼働を支えられました。🔍🔐
 
-**Audicle**リポジトリでは、Next.jsの重要なRCE脆弱性を含む複数のDependabotセキュリティアラートに迅速に対応し、多くの依存関係をアップデートされましたね。これはサービスの安全性を大きく向上させる重要な貢献です！🛡️
+**Audicle**プロジェクトでは、大規模な依存関係のセキュリティ対応（`fix(deps): remediate open Dependabot security alerts across all packages`）が目を引きます。Next.jsをはじめ、多数のパッケージのバージョンアップや脆弱性対応を行い、RCEやSSRFといった重大な問題の修正に貢献されました。これはシステムの安全性を大きく向上させる重要な作業です。🚀🛡️
 
-全体として、システムのリリース、依存関係の最新化、そしてセキュリティ強化という多岐にわたる重要なタスクをこなされており、日々の努力がプロジェクトの品質と安定性向上に繋がっています。素晴らしい成果ですね、これからも期待しています！🚀
+多岐にわたるプロジェクトで、セキュリティ強化、依存関係の健全化、そして安定したリリースサイクル維持に大きく貢献されており、日々の丁寧な作業が着実に成果に繋がっていますね。この調子で頑張りましょう！🎉
 
-_Total: 38 commits across 4 projects_
+_Total: 36 commits across 4 projects_
 
 <table>
   <tr>
@@ -43,7 +43,7 @@ _Total: 38 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/OpenShelf" target="_blank">OpenShelf</a></strong></sub>
       <br />
-      <sub>📊 32 commits (84.2%)</sub>
+      <sub>📊 32 commits (88.9%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
@@ -54,18 +54,18 @@ _Total: 38 commits across 4 projects_
       <br />
       <sub><strong><a href="https://github.com/Hiroki-org/jules-extension" target="_blank">jules-extension</a></strong></sub>
       <br />
-      <sub>📊 3 commits (7.9%)</sub>
+      <sub>📊 3 commits (8.3%)</sub>
       <br />
       <sub>🔷 TypeScript ⭐ 22</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Hiroki-org/Audicle" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/Hiroki-org/Audicle" alt="Audicle" width="100%" />
+      <a href="https://github.com/Hiroki-org/paper-tools" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/Hiroki-org/paper-tools" alt="paper-tools" width="100%" />
       </a>
       <br />
-      <sub><strong><a href="https://github.com/Hiroki-org/Audicle" target="_blank">Audicle</a></strong></sub>
+      <sub><strong><a href="https://github.com/Hiroki-org/paper-tools" target="_blank">paper-tools</a></strong></sub>
       <br />
-      <sub>📊 2 commits (5.3%)</sub>
+      <sub>📊 1 commits (2.8%)</sub>
       <br />
       <sub>🔷 TypeScript </sub>
     </td>
